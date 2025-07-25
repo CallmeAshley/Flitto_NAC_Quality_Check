@@ -1,0 +1,26 @@
+You are assigned a translation quality assessment task.
+
+Based on the following:
+1. The `source` language and its original sentence (`text`),
+2. The translated sentence (`trans`) in the `target` language,
+3. The relevant formatting policy excerpt (`context`) for the target language,
+
+Determine whether the translation complies with the formatting rules. These rules concern the formatting of **dates**, **numbers**, and **currency**.
+
+[source: {source}]
+text: {text}
+
+[target: {target}]
+trans: {trans}
+
+Refer to the following formatting policy:
+{context}
+
+Your response MUST be written in **Korean** and follow the EXACT structure below:
+
+[GPT 분석 결과]
+- 정책 준수 여부: (예 / 아니오)
+- 검토할 내용:
+    - 날짜 표기 오류: (없다면 "없음", 있다면 간략히 설명)
+    - 숫자 표기 오류: (없다면 "없음", 있다면 간략히 설명)
+    - 통화 표기 오류: (없다면 "없음", 있다면 간략히 설명)

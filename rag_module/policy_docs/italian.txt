@@ -1,0 +1,25 @@
+[Date Format]  
+In Italian, dates are generally written in the order of "weekday + day + month + year."  
+Example: lunedì 22 ottobre 2023  
+Both weekdays and month names are written in lowercase.
+Including the weekday is optional.
+
+[Time Format]  
+Italian commonly uses the 24-hour clock system.  
+Hours and minutes can be separated using either a colon (`:`) or a period (`.`).  
+Examples: 14:30, 14.30
+
+[Number Format]  
+Thousands are separated using a period (`.`).  
+Examples: 1.000, 1.000.000
+
+Decimals are written using a comma (`,`) instead of a dot (`.`).  
+Example: 3,14
+
+[Currency Format]  
+Currency symbols such as the euro (€), pound (£), and dollar ($) are placed after the number, with a space in between.  
+Examples: 1.200 €, 950 $
+
+Currency symbols do not appear before the number.
+
+Distinguish between currency units (e.g., won, 円) and currency symbols (e.g., ₩, ¥, $), and evaluate only the currency symbols.

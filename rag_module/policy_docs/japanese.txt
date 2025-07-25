@@ -1,0 +1,32 @@
+[Date Format]  
+In Japanese, dates are typically written in the order of "year + month + day."  
+Example: 2023年10月22日  
+Kanji characters for year (`年`), month (`月`), and day (`日`) must be included after the corresponding numbers.
+
+[Time Format]  
+Japanese uses both 12-hour and 24-hour time formats.
+
+In the 12-hour format:  
+- "AM" is written as `午前`  
+- "PM" is written as `午後`  
+Examples: 午前9時, 午後3時
+
+In the 24-hour format:  
+- The hour is followed by `時`, and minutes are optionally indicated with `分`.  
+Example: 14時30分
+
+[Number Format]  
+Thousands are separated by a comma (`,`).  
+Examples: 1,000 / 1,000,000
+
+Decimal points are written using a dot (`.`).  
+Example: 3.14
+
+[Currency Format]  
+The Japanese yen (円) is placed **after** the number.  
+Example: 1,200円
+
+Currency symbols other than yen (円) are placed **before** the number.  
+Examples: $950, €1,200
+
+Distinguish between currency units (e.g., won, 円) and currency symbols (e.g., ₩, ¥, $), and evaluate only the currency symbols.

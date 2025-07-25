@@ -1,0 +1,33 @@
+[Date Format]  
+In Arabic, dates are generally written in the order of "day + month + year."  
+Example: 22 أكتوبر 2023  
+The weekday is typically omitted.  
+Although Arabic is written right to left, the order of the date components remains the same.
+
+[Time Format]  
+Arabic commonly uses the 12-hour clock format.  
+"AM" is written as "صباحًا" and "PM" as "مساءً."  
+Examples: 2:30 صباحًا, 9:00 مساءً  
+The 24-hour format is also used in some contexts, written as plain numbers.  
+Example: 14:30
+
+[Number Format]  
+Thousands are separated using either a period (`.`) or a comma (`,`), depending on locale.  
+Examples: 1,000 or 1.000
+
+Decimal points may be written using either a dot (`.`) or a comma (`,`), depending on country or context.  
+Examples: 3.14 or 3,14
+
+[Currency Format]  
+Arabic currency symbols are typically placed after the number.  
+Examples: 1,200 ر.س (Saudi riyal), 950 د.إ (UAE dirham), 500 ج.م (Egyptian pound)
+
+Left-to-right currency symbols such as the dollar ($) and euro (€) may appear either before or after the number,  
+but the symbols themselves maintain left-to-right (LTR) direction.  
+Examples: $1,200 or 1,200$
+
+Distinguish between currency units (e.g., won, 円) and currency symbols (e.g., ₩, ¥, $), and evaluate only the currency symbols.
+
+[Percentage Format]  
+The percent symbol (%) is placed after the number and is always rendered in left-to-right direction.  
+Example: 50%

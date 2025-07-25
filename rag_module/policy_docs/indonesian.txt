@@ -1,0 +1,35 @@
+[Date Format]  
+In Indonesian, dates are typically written in the order "day + month + year."  
+Example: 22 Oktober 2023  
+The first letters of weekday and month names are capitalized.  
+Weekdays are optional and placed before the date.  
+Example: Senin, 22 Oktober 2023
+
+[Time Format]  
+Both 12-hour and 24-hour time formats are used in Indonesian.
+
+For the 12-hour format:  
+- Morning hours use **pagi**  
+- Afternoon and evening hours are expressed based on time range:  
+  - **siang**: 12:00 to 15:00 (early afternoon)  
+  - **sore**: 15:00 to 18:00 (late afternoon)  
+  - **malam**: after 18:00 (evening/night)
+
+In the 24-hour format, a period (`.`) is used to separate hours and minutes.  
+Examples: 14.30, 09.00
+
+[Number Format]  
+Thousands are separated by a period (`.`).  
+Examples: 1.000, 1.000.000
+
+Decimals are marked with a comma (`,`).  
+Example: 3,14
+
+[Currency Format]  
+The Indonesian Rupiah is written as **Rp** immediately before the number, with no space.  
+Example: Rp120.000
+
+Other currency symbols like the dollar ($) and euro (€) are also placed before the number, typically with no space.  
+Examples: $950, €1.200
+
+Distinguish between currency units (e.g., won, 円) and currency symbols (e.g., ₩, ¥, $), and evaluate only the currency symbols.

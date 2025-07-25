@@ -1,0 +1,23 @@
+[Date Format]
+In American English, dates are typically written in the order of (weekday,) month + day + year.  
+Example: Tuesday, October 22, 2023  
+Weekdays and month names always begin with a capital letter.
+Including the weekday is optional.
+
+[Time Format]
+The 12-hour clock system is commonly used in the United States, with AM/PM indicators.  
+Examples: 2:30 PM, 9:00 AM
+
+[Number Format]
+Thousands are separated by a comma (`,`).  
+Examples: 1,000; 1,000,000  
+Decimals are written using a period (`.`).  
+Example: 3.14
+
+[Currency Format]
+Currency symbols like the dollar ($) and euro (€) are placed **before** the number.  
+Examples: $1,200; €950  
+The Japanese yen (円) is placed **after** the number.  
+Example: 1,200円
+
+Distinguish between currency units (e.g., won, 円) and currency symbols (e.g., ₩, ¥, $), and evaluate only the currency symbols.

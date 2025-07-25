@@ -1,0 +1,16 @@
+[Date Format]  
+In Korean, dates are typically written in the order of year + month + day.  
+Examples: 2023년 10월 22일 화요일, 1990년 1월 1일
+Including the weekday is optional.
+
+[Number Format]  
+Thousands are separated by a comma (`,`).  
+Examples: 1,000; 1,000,000  
+Decimals are written using a period (`.`).  
+Example: 3.14
+
+[Currency Format]  
+Currency symbols are placed **before** the number.  
+Examples: ₩1,200; $1,000; €500
+
+Distinguish between currency units (e.g., won, 円) and currency symbols (e.g., ₩, ¥, $), and evaluate only the currency symbols.

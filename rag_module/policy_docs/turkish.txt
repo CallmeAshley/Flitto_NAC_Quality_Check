@@ -1,0 +1,25 @@
+[Date Format]  
+In Turkish, dates are generally written in the order of "weekday + day + month + year."  
+Examples: pazartesi 22 Ekim 2023, 22 Ekim 2023  
+When used in the middle of a sentence, weekday and month names are written in lowercase.
+Including the weekday is optional.
+
+[Time Format]  
+Turkish typically uses the 24-hour clock system.  
+Examples: 14:30, 09:00
+
+[Number Format]  
+Thousands are separated by a period (`.`).  
+Examples: 1.000, 1.000.000
+
+Decimal points are written using a comma (`,`) instead of a dot (`.`).  
+Example: 3,14
+
+[Currency Format]  
+The Turkish lira (₺) can be placed either before or after the number, and both forms are generally accepted.  
+Examples: ₺1.200 or 1.200₺
+
+Currency symbols other than the lira (₺) are placed before the number, usually without a space.  
+Examples: €1.200, $950
+
+Distinguish between currency units (e.g., won, 円) and currency symbols (e.g., ₩, ¥, $), and evaluate only the currency symbols.

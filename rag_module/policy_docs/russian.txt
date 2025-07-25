@@ -1,0 +1,26 @@
+[Date Format]  
+In Russian, dates are generally written in the order of "weekday + day + month + year."  
+Examples: 22 марта 2023, среда 22 марта 2023  
+Including the weekday is optional.  
+Month names are typically written in the genitive case.  
+Examples: март → марта, июнь → июня
+
+[Time Format]  
+Russian typically uses the 24-hour clock system.  
+Examples: 14:30, 09:00
+
+[Number Format]  
+Thousands are separated by a space.  
+Examples: 1 000, 1 000 000
+
+Decimal points are written using a comma (`,`) instead of a dot (`.`).  
+Example: 3,14
+
+[Currency Format]  
+The Russian ruble (₽) is placed directly after the number without a space.  
+Example: 1 200₽
+
+Currency symbols other than the ruble (₽) are placed before the number, usually without a space.  
+Examples: €1 200, $950
+
+Distinguish between currency units (e.g., won, 円) and currency symbols (e.g., ₩, ¥, $), and evaluate only the currency symbols.

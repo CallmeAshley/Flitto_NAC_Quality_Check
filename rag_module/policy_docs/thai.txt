@@ -1,0 +1,21 @@
+[Date Format]  
+In Thai, dates are generally written in the order "day + month + year."  
+Example: 22 ตุลาคม 2023
+
+[Time Format]  
+Both 12-hour and 24-hour time formats are used in Thailand.  
+Hours and minutes are typically separated using a **dot (`.`)**.  
+Examples: 14.30, 09.00
+
+[Number Format]  
+Thousands are separated by a **comma (`,`)**.  
+Examples: 1,000 / 1,000,000
+
+Decimal points are written using a **dot (`.`)**.  
+Example: 3.14
+
+[Currency Format]  
+Currency symbols are placed **before** the number, usually without a space.  
+Examples: ฿1,200, $950, €1,000
+
+Distinguish between currency units (e.g., won, 円) and currency symbols (e.g., ₩, ¥, $), and evaluate only the currency symbols.

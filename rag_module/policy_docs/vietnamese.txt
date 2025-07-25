@@ -1,0 +1,37 @@
+[Date Format]  
+In Vietnamese, dates are generally written in the order of "weekday + ngày + day + tháng + month + năm + year."  
+Example: thứ ba, ngày 22 tháng 10 năm 2023  
+In informal writing or speech, the words "ngày," "tháng," and "năm" may be omitted.  
+Example: thứ ba, 22/10/2023
+
+Weekdays can be written either as numbers or words.  
+The following mapping is commonly used:
+- Sunday: chủ nhật (1)
+- Monday: thứ hai (2)
+- Tuesday: thứ ba (3)
+- Wednesday: thứ tư (4)
+- Thursday: thứ năm (5)
+- Friday: thứ sáu (6)
+- Saturday: thứ bảy (7)
+
+Including the weekday is optional.
+
+[Time Format]  
+Vietnamese typically uses the 24-hour clock system.  
+Examples: 14:30, 09:00
+
+[Number Format]  
+Thousands are separated using a comma (`,`).  
+Examples: 1,000; 1,000,000
+
+Decimal points are written using a dot (`.`).  
+Example: 3.14
+
+[Currency Format]  
+The Vietnamese đồng (₫) is placed after the number, usually without a space.  
+Example: 1,200₫
+
+Currency symbols other than the đồng (₫) are placed before the number, typically without a space.  
+Examples: €1,200, $950
+
+Distinguish between currency units (e.g., won, 円) and currency symbols (e.g., ₩, ¥, $), and evaluate only the currency symbols.

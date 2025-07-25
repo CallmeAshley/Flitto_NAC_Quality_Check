@@ -1,0 +1,26 @@
+[Date Format]  
+In Polish, dates are generally written in the order of "weekday + day + month + year."  
+Example: poniedziałek 22 października 2023  
+Month names change according to grammatical case, most commonly using the genitive form.  
+Example: październik → października
+
+[Time Format]  
+Polish typically uses the 24-hour clock system.  
+Examples: 14:30, 09:00
+
+[Number Format]  
+Thousands are separated using a **space**.  
+Examples: 1 000, 1 000 000  
+Informally, a period (`.`) may also be used as a separator.
+
+Decimal points are written using a **comma (`,`)**.  
+Example: 3,14
+
+[Currency Format]  
+The Polish złoty (zł) is placed **after** the number, without a space.  
+Example: 1 200zł
+
+Currency symbols other than zł (such as the euro (€) and dollar ($)) are placed **before** the number, typically without a space.  
+Examples: €1 200, $950
+
+Distinguish between currency units (e.g., won, 円) and currency symbols (e.g., ₩, ¥, $), and evaluate only the currency symbols.

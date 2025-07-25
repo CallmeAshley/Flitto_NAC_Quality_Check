@@ -1,0 +1,26 @@
+[Date Format]  
+In Spanish, dates are generally written in the order of "weekday + day + month + year."  
+Example: lunes 22 de octubre de 2023  
+Both weekdays and month names are written in lowercase.  
+The preposition "de" is used before both the month and the year.
+Including the weekday is optional.
+
+[Time Format]  
+Spanish commonly uses the 24-hour clock system.  
+However, the 12-hour clock format (with AM/PM) is also acceptable in casual or conversational contexts.  
+Examples: 14:30 or 2:30 p. m.
+
+[Number Format]  
+Thousands are separated by a period (`.`).  
+Examples: 1.000, 1.000.000
+
+Decimals are written using a comma (`,`) instead of a dot (`.`).  
+Example: 3,14
+
+[Currency Format]  
+Currency symbols such as the euro (€), pound (£), and dollar ($) are placed before the number.  
+Examples: €1.200, $950
+
+There is usually no space between the currency symbol and the number.
+
+Distinguish between currency units (e.g., won, 円) and currency symbols (e.g., ₩, ¥, $), and evaluate only the currency symbols.

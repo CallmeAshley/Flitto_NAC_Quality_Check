@@ -1,0 +1,25 @@
+[Date Format]  
+In Portuguese, dates are generally written in the order of "weekday + day + month + year."  
+Examples: 22 de outubro de 2023, segunda-feira 22 de outubro de 2023  
+The preposition "de" is used before both the month and the year.  
+Weekdays and month names are written in lowercase.
+Including the weekday is optional.  
+
+[Time Format]  
+In Portugal, the 24-hour clock system is commonly used.  
+Example: 14:30
+
+[Number Format]  
+Thousands are separated by a period (`.`).  
+Examples: 1.000, 1.000.000
+
+Decimals are written using a comma (`,`) instead of a dot (`.`).  
+Example: 3,14
+
+[Currency Format]  
+Currency symbols such as the euro (€), pound (£), dollar ($), and Brazilian real (R$) are placed **before** the number.  
+Examples: €1.200, $950, R$35,00
+
+There is usually no space between the currency symbol and the number.
+
+Distinguish between currency units (e.g., won, 円) and currency symbols (e.g., ₩, ¥, $), and evaluate only the currency symbols.
