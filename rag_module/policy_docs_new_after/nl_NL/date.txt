@@ -1,0 +1,33 @@
+[Date Format]
+
+Definition:  
+Dutch dates follow the **Day → Month → Year** order.  
+If a weekday is present, it appears **before** the date without a comma.  
+Slashes or dashes may be used in short formats.
+
+Examples:  
+- maandag 28 juli 2025  
+- 28 juli 2025  
+- 28 jul 2025  
+- 28-07-2025  
+
+Evaluation Criteria:  
+- Confirm the date follows Day → Month → Year order.  
+- Weekdays, if included, must appear before the date with no comma.  
+- Accept both long-form and abbreviated month names.  
+- **Do not generate a weekday unless it exists in the source.**
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

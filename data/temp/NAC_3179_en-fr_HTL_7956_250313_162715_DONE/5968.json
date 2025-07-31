@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Diagnostic trouble code (DTC) P0722 stands for “output speed sensor no signal.” This means the powertrain control module (PCM) is detecting that the transmission system’s output speed sensor isn’t sending sufficient information.\nCommon causes for the P0722 code include a defective output speed sensor connector or wiring, defective shift solenoids, and a defective transmission valve body.\nSymptoms of the P0722 code include poor fuel economy, an illuminated check engine light, and the transmission failing to shif",
+    "trans": "Le code de diagnostic de panne (DTC) P0722 signifie « absence de signal du capteur de vitesse de sortie ». Cela signifie que le module de contrôle du groupe motopropulseur (PCM) détecte que le capteur de vitesse de sortie du système de transmission n'envoie pas suffisamment d'informations.\nLes causes courantes du code P0722 sont un connecteur ou un câblage de capteur de vitesse de sortie défectueux, des solénoïdes de changement de vitesse défectueux et un corps de soupape de transmission défectueux.\nLes symptômes du code P0722 sont une faible consommation de carburant, un voyant de contrôle du moteur allumé et une défaillance de la transmission lors du changement de vitesse."
+}

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "In a series of experiments performed using Amazon’s Mechanical Turk, Suttle and Goldberg (2011) found that type frequency, variability of attested instances, and similarity of a target utterance to attested instances interact in ways that are predicted by the notion of coverage. The design of the experiment was as follows. We provided one to six attested utterances of a fictitious language, Zargotian, and then asked participants to judge how likely it was that a final utterance would also be acceptable in Zargotian. As example stimulus trial is given below:",
+    "trans": "Dans une série d'expériences menées à l'aide d'Amazon Mechanical Turk, Suttle et Goldberg (2011) ont constaté que la fréquence des types, la variabilité des occurrences attestées et la similarité d'un énoncé cible avec les occurrences attestées interagissent de manières prévues par la notion de couverture. La conception de l'expérience était la suivante : nous avons fourni de un à six énoncés attestés d'une langue fictive, le zargotien, puis nous avons demandé aux participants d'évaluer la probabilité qu'un énoncé final soit également acceptable en zargotien. Un exemple de stimulus expérimental est donné ci-dessous :"
+}

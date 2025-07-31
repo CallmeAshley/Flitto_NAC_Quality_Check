@@ -1,0 +1,13 @@
+[원문: english]
+I’ve been using prescription strength retinoid every night (or every other night) since 2018. So my skin is well adapted to it. But I still experienced break out even with Adapalene in my night routine. Acne is multifactorial, and I still try some new products. My skin is pretty sensitive & easilly get clogged. By far, 0.1% Adapalene cream works best on my skin, it gives me noticable result with minimum irritation (compares to tretinoin). I’ve added 20% Azelaic Acid to my morning routine since September 8th 2023. So it’s actually been 1,5 months! It’s quite challenging at the beginning to adapt with Azelaic Acid. It gives a tingling itchy sensation on the early days. I’m not sure whether I experienced a horrible purge with Azelaic Acid or it got worse because anything else, but there you see my worst skin on October 12th (check out my “skin update” HL for more details). I don’t consume any antibiotics or roacutanne or any hormonal pills. I only consume my regular supplements (vitamin D3, vitamin C, omega 3, zinc picolinate) plus extra glutathione.
+
+[번역문: portuguese]
+Estou usando retinoide com prescrição médica todas as noites (ou em noites alternadas) desde 2018. Então a minha pele já se adaptou muito bem a ele. Porém, ainda houve um surgimento de acne mesmo utilizando Adapaleno na minha rotina noturna. A acne é multifatorial, e eu ainda testo alguns produtos novos. Minha pele é super sensível e os poros ficam facilmente obstruídos. Até agora, o creme com 0.1% de Adapaleno é o que funciona melhor na minha pele, proporcionando um resultado visível com pouquíssima irritação (em comparação com a tretinoína). Acrescentei 20% de ácido azelaico à minha rotina matinal desde o dia 8 de setembro de 2023. Então, de fato, já faz 1 mês e meio! A adaptação ao ácido azelaico é bem desafiadora no início. Ele promove uma sensação de formigamento e coceira durante os primeiros dias. Não tenho certeza se tive uma expurgação terrível com acido azelaico ou se a piora ocorreu por qualquer outra coisa, mas ai você vê a minha pele piorada no dia 12 de outubro (dê uma olhada na minha ''atualização de pele'' HL para saber mais detalhes). Eu não tomo antibióticos, roacutan ou pílulas hormonais. Só tomo os meus suplementos habituais (vitamina D3, vitamina C, ômega 3, picolinato de zinco) além de mais glutationa.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: "8 de setembro de 2023"와 "12 de outubro"에서 "de"가 올바르게 사용되었으나, "1,5 meses"는 "1 mês e meio"로 수정 필요
+    - 숫자 표기 오류: "0.1%"와 "1,5"는 각각 "0,1%"와 "1,5"로 수정 필요
+    - 통화 표기 오류: 없음

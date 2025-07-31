@@ -1,0 +1,21 @@
+[원문: english]
+You recently received a text message from the New York State Office of Temporary and Disability Assistance (OTDA) because one or more children in your household have been issued Summer EBT benefits that will expire if they are not completely used by November 28, 2024.
+Summer EBT is a one-time $120 benefit for each eligible child to help cover the cost of food during the summer months when school is out.
+Our records show that you have not used all of your child's Summer EBT benefit. Any unused benefits will expire on November 28, 2024 and cannot be replaced. Please be sure to use all benefits before they expire.
+Your child's benefits were issued to their existing Pandemic-EBT card. If you no longer have this EBT card and need a replacement card, you can order one following the instructions on ordering a replacement card. Once you receive the replacement card, follow these instructions carefully to set a PIN and activate the EBT card.
+If you request a replacement card, benefits will still expire on the original expiration date of November 28, 2024. Please call us right away at 1-833-452-0096 if you need help accessing your benefits.
+
+[번역문: spanish]
+Recientemente recibió un mensaje de texto de la Oficina Estatal de Nueva York de Asistencia Temporal y Asistencia para Incapacitados (OTDA) porque a uno o más hijos de su hogar se les expidió beneficios de Summer EBT que vencerán si no son usados en su totalidad para el 28 de Noviembre 2024.
+Summer EBT es un beneficio por única vez de $120 por cada hijo elegible para ayudar a cubrir el costo de los alimentos durante los meses de verano cuando la escuela está cerrada.
+En nuestros registros figura que no ha usado todos sus beneficios Summer EBT de su hijo. Todos los beneficios sin usar vencerán el 28 de Noviembre 2024 y no podrán reemplazarse. Asegúrese de usar todos los beneficios antes de que se venzan.
+Los beneficios de su hijo se expidieron a su tarjeta actual de Pandemic-EBT. Si ya no tiene esta tarjeta EBT y necesita una de reemplazo, puede pedirla siguiendo las instrucciones sobre cómo pedir una tarjeta de reemplazo. Una vez que reciba la tarjeta, siga estas instrucciones con atención para establecer un PIN y activar la tarjeta EBT.
+Si solicita una tarjeta de reemplazo, los beneficios aún vencerán en la fecha de vencimiento original del 28 de Noviembre 2024. Llámenos de inmediato al 1-833-452-0096 si necesita ayuda para acceder a sus beneficios.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: "28 de Noviembre 2024"에서 "Noviembre"는 소문자로 표기되어야 하며, "de"가 연도 앞에 누락되었습니다. 올바른 표기는 "28 de noviembre de 2024"입니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: "$120"에서 통화 기호와 숫자 사이에 공백이 없어야 합니다. 올바른 표기는 "$120"입니다.

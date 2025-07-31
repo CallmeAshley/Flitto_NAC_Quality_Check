@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "This behaviour of \"keep outputs unchanged\" means the current state needs to be remembered, and thus produces a latch. Combinational logic (e.g., logic gates) cannot remember any state. Watch out for Warning (10240): ... inferring latch(es)\" messages. Unless the latch was intentional, it almost always indicates a bug. Combinational circuits must have a value assigned to all outputs under all conditions. This usually means you always need else clauses or a default value assigned to the outputs.",
+    "trans": "Ce comportement de « garder les sorties inchangées » signifie que l'état actuel doit être mémorisé, ce qui produit ainsi un latch. La logique combinatoire (par exemple, les portes logiques) ne peut pas mémoriser d'état. Soyez vigilant face aux messages d'avertissement tels que « Warning (10240): ... inferring latch(es) ». À moins que le latch ne soit intentionnel, cela indique presque toujours un bug. Les circuits combinatoires doivent avoir une valeur attribuée à toutes les sorties dans toutes les conditions. Cela signifie généralement que vous devez toujours inclure des clauses « else » ou attribuer une valeur par défaut aux sorties."
+}

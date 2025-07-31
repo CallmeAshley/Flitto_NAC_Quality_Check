@@ -1,0 +1,33 @@
+[원문: english]
+• Earn over £10000 per annum (equivalent to £192 per week);
+ • Are aged 22 or over; and
+ • Are under state pension age.
+ A workplace pension is a way of saving for your retirement that’s arranged by your employer. In addition to
+ the employee’s payments, Diamond Securities Limited t/a Cautela Diamond and the government may also
+ add money into the pension scheme for you. The money is then used to pay you an income when you retire.
+ If you meet the above criteria, you will be enrolled onto the pension scheme automatically and will begin
+ payments directly from your wages on your next payment date following the 31/01/2022. These payments
+ into your pension will be clearly displayed on your payslip.
+ If you do not meet the above requirements, you may still be eligible to enrol on the pension scheme and
+ benefit from the contributions the government and Diamond Securities Limited t/a Cautela Diamond will
+
+[번역문: portuguese]
+• Ganhar mais de £ 10.000 por ano (o equivalente a £ 192 por semana);
+ • Ter mais de 22 anos de idade; e
+ • Estar abaixo da idade legal de pensão estatal.
+ Uma pensão de trabalho consiste em uma maneira, organizada pelo seu empregador, de economizar para sua aposentadoria. Além dos
+ pagamentos ao funcionário, a Diamond Securities Limited t/a, representando a Cautela Diamond, e o governo também podem
+ adicionar dinheiro ao plano de pensão para você. Em seguida, o dinheiro é utilizado para pagar a você uma renda quando você se aposentar.
+ Caso atenda aos critérios acima estabelecidos, você será inscrito automaticamente no plano de pensão e pagamentos
+ começarão a ser deduzidos diretamente do seu salário a partir da sua próxima data de pagamento após o dia 01/31/2022. Esses pagamentos
+ do plano de pensão estarão nitidamente exibidos na sua folha de pagamento.
+ Caso não atenda aos critérios acima estabelecidos, você ainda poderá ser elegível para se inscrever no plano de pensão e
+ para aproveitar as contribuições que o governo e a Diamond Securities Limited t/a, representando a Cautela Diamond, irão
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜 형식이 영어 형식인 "01/31/2022"로 되어 있으며, 포르투갈어 형식인 "31 de janeiro de 2022"로 수정해야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호와 숫자 사이에 불필요한 공백이 있습니다. "£ 10.000"과 "£ 192"는 "£10.000"과 "£192"로 수정해야 합니다.

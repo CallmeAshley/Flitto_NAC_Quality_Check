@@ -1,0 +1,31 @@
+[원문: english]
+Please refer to attachments:
+ Parent Guide for Booking Appointments
+ How to attend your appointments via video call
+ Settings/device requirements for video calls
+ Closing Bookings:
+ Sign up deadlines for each day are set out below:
+ Monday 14th October and Wednesday 16th October – sign up will close at 14:00h on each of these days.
+ Friday 18th October – sign up will close at 16:00h on Thursday, 17th October.
+ Tuesday 22nd and Thursday 24th October – sign up will close at 10:00h on each of these days.
+ In consideration of other parents who may wish to book and of teachers who make a great effort to prepare these sessions, we urge you to attend these sessions as booked. Booking a session and not connecting/coming in takes up a slot that would have otherwise been taken up by another parent. It also leads to the teacher needing to take further time out of lesson preparation and curriculum development in order to make up missed meetings. If unable to be present (whether online or in person), kindly unbook on the system. Missed sessions will not be rebooked until after half-term and will only be held within regular school hours. We thank you for your understanding in this matter.
+
+[번역문: portuguese]
+Por favor, consulte os anexos:
+ Guia para os pais sobre como agendar as reuniões
+ Como participar das reuniões por videoconferência
+ Requisitos de configurações/dispositivos para videoconferências
+ Fechamento das Reservas:
+ Os prazos de inscrição para cada dia estão indicados abaixo:
+ Segunda-feira, 14 de outubro e quarta-feira, 16 de outubro – as inscrições serão fechadas às 16.00h de cada um desses dias.
+ Sexta-feira, 18 de outubro – as inscrições serão fechadas às 16.00h de quinta-feira, 17 de outubro.
+ Terça-feira, 22 de outubro e quinta-feira, 24 de outubro – as inscrições serão fechadas às 16.00h  de cada um desses dias.
+ Em consideração aos outros pais que podem desejar agendar e aos professores que se esforçam muito para preparar essas sessões, pedimos que compareçam às sessões conforme agendado. Reservar uma sessão e não comparecer ocupa um horário que poderia ter sido ocupado por outro pai. Isso também faz com que o professor precise dedicar mais tempo ao planejamento das aulas e ao desenvolvimento do currículo para compensar as reuniões perdidas. Caso não possa comparecer (seja online ou presencialmente), pedimos que desmarque a reunião no sistema. As sessões perdidas não serão reagendadas até o meio do semestre e ocorrerão apenas durante o horário escolar regular. Agradecemos sua compreensão sobre esse assunto.**
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: "16.00h" 대신 "16:00h"로 표기해야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

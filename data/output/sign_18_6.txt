@@ -1,0 +1,51 @@
+[원문: polish]
+- gotowe do wejścia,
+- sypialnia z garderobą,
+- kuchnia w pełni wyposażona,
+- 2 miejsca parkingowe,
+- 2 piętro,
+- po remoncie,
+- księga wieczysta bez obciążeń.
+FINANSE:
+366 000 zł SPRZEDAŻ
+728 zł czynsz administracyjny/2os.
+KUPUJĄCY NIE PŁACI PROWIZJI
+Mieszkanie szczególnie polecane ze względu na rewelacyjną lokalizację oraz wysoki standard.
+Zapraszam do kontaktu w celu uzgodnienia terminu prezentacji.
+[redacted_name]
+doradca ds. nieruchomości
+73*******11
+For sale an attractive 2-room apartment in the center of Rybnik.
+In the vicinity there is everything you need - shops, schools, kindergartens, health center, market, theater, sports complex, railway station, stadium, swimming pool, Plaza shopping center, Focus, in one word: CENTER.
+The apartment is located on the 2nd floor of a well-kept, intimate 3-story building from 1980's.
+The area of 48 m2 consists of:
+
+[번역문: english]
+- ready to move in;
+- bedroom with wardrobe;
+- fully equipped kitchen;
+2 - parking places;
+- 2nd level;
+- after renovation;
+- real estate register with no burden.
+FINANCIAL DETAILS:
+SELLING PRICE IS PLN 366 000
+administrative rental fee is PLN 728/2 persons
+BUYER WILL NOT PAY FEE
+The apartment is especially recommended for its excellent location and high standard.
+Please get in touch to arrange your presentation.
+[redacted_name]
+Real Estate Agent
+73*******11
+For sale an attractive 2-room apartment in the center of Rybnik.
+In the vicinity there is everything you need - shops, schools, kindergartens, health center, market, theater, sports complex, railway station, stadium, swimming pool, Plaza shopping center, Focus, in one word: CENTER.
+The apartment is located on the 2nd floor of a well-kept, intimate 3-story building from 1980's.
+The area of 48 m2 consists of:
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "2 - parking places"에서 숫자와 하이픈 사이의 공백이 잘못 사용되었습니다. "2 parking places"로 수정해야 합니다.
+    - 통화 표기 오류: "PLN 366 000" 및 "PLN 728"에서 통화 기호는 숫자 앞에 위치해야 합니다. "PLN 366,000" 및 "PLN 728"로 수정해야 합니다. 또한, 천 단위 구분 기호로 쉼표를 사용해야 합니다.

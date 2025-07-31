@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Your reservation has been cancelled\nDear [redacted_name],\nYour reservation number [redacted_number] with [redacted_info] has been cancelled.\nYour Cancellation Confirmation code is [redacted_info].\nWe hope that we can welcome you to [redacted_info] at a future date. We would be delighted to assist you with any future bookings or queries you may have. Our contact details arereservations@strandpalacehotel.co.uk or\ncall +44 (0)20 7379 4737\nBest Regards, Strand Palac",
+    "trans": "고객님의 예약이 취소되었습니다\n[redacted_name]님께,\n예약 번호 [redacted_number]로 예약하신 고객님의 [redacted_info] 예약이 취소되었습니다.\n예약 취소 코드는 [redacted_info]입니다.\n빠른 시일 내에 [redacted_info]에서 뵙기를 희망합니다. 예약이나 궁금한 사항이 있으시면 언제든 도와드리겠습니다. arereservations@strandpalacehotel.co.uk or 로 문의주세요.\n전화 +44 (0)20 7379 4737\n감사합니다, 스트랜드 팰리스"
+}

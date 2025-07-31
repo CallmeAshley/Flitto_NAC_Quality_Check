@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "If you update or install DVS 4.4 on MacOS 10.14 or before, the license field will not populate and there is no error message.\nThis version of DVS does not support 10.14 or previous, please update your MacOS version to 10.15 or above.\nIf your computer is unable to update the Operating System, the 4.3.1.1 version of DVS is available hereDVS 4.3.1.1\nUsing the uninstall utility we provide in the download package, remove DVS.\nDo not drag it to the trash, this will break our manager service.\nRestart the computer, and uncheck the option to reopen windows after restart.\nInstall 4.3.1.1, Bypass the warning for Intel Processors, this installer package has both Silicone and Intel Binaries.\nNow it will allow you to enter the license ID and activate.",
+    "trans": "MacOS 10.14 이하에서 DVS 4.4을 업데이트하거나 설치하려면, 라이선스 필드가 덧붙여지지 않고 오류 메시지도 없습니다.\n이 버전의 DVS는 10.14나 그 이하를 지원하지 않습니다, 귀하의 MacOS 버전을 10.15 이상으로 업데이트 해주길 바랍니다.\n귀하의 컴퓨터가 운영 체제를 업데이트할 수 없는 경우, DVS 4.3.1.1 버전은 여기에서 가능합니다DVS 4.3.1.1\n우리가 제공하는 다운로드 패키지에서 유틸리티를 사용하여 DVS를 제거하세요.\n이것을 휴지통으로 드레그 하지 마세요, 우리의 관리자 서비스가 중단됩니다.\n컴퓨터를 다시 시작하고, 재시작 후에 윈도우를 다시 여는 옵션 선택을 취소하세요.\n4.3.1.1을 설치하고, 인텔 프로세서에 대한 경고를 무시합니다, 이 설치 패키지에는 실리콘 바이너리와 인텔 바이너리가 모두 포함되어 있습니다.\n이제 라이선스 아이디를 입력하고 활성화할 수 있습니다."
+}

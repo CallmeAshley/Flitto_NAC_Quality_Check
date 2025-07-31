@@ -1,0 +1,51 @@
+[원문: indonesian]
+TARGET : IDR 30.000.000
+PERIODE : 1 SEPTEMBER - 5 OKTOBER
+Fundraising hanya melalui:
+- Rekening BCA [redacted_number] ([redacted_name])
+-PayPal[redacted_url] [redacted_url]
+Kalian bisa donasi dengan minimal 200k, dan bagi yang donasi (500k - 1jt) kalian akan bisa menuliskan pesan, sedangkan (Diatas 1jt) kalian akan bisa menuliskan pesan + memberikan foto polaroid kalian. Nantinya pesan tersebut dan foto yang kalian berikan, akan kami buatkan sebagai gift untuk diberikan kepada Kim Jaejoong.
+Semua hasil fundraising yang terkumpul akan kami update di akun sosial media kami secara berkala, yang nantinya akan kita pakai untuk fan project yang telah disetujui oleh promotor dan agensi Kim Jaejoong.
+Terima kasih banyak Babies, semoga semuanya lancar. Sampai ketemu pada tanggal 19 Oktober nanti! 🏻💚✨️🥰💫💕
+hiraz[redacted_email]トを切り替える
+ファイルをアップロードしてこのフォームを送信すると、Google アカウントに関連付けられている名前と写真が記録されます. メールアドレスは回答に含まれません。
+* 必須の質問です
+Nickname
+*
+Akun Instagram / Twitter (X)
+Instagram / Twitter (X) account
+*
+Nominal Donasi (Minimal 200k)
+Amount of donation (Minimum 15 USD)
+*
+Media transfer (Rekening / PayPal)
+
+[번역문: english]
+TARGET: IDR 30,000,000
+PERIOD: SEPTEMBER 1 - OCTOBER 5
+Fundraising is only through:
+-BCA Account [redacted_number] ([redacted_name])
+-PayPal [redacted_url] [redacted_url]
+You can donate with a minimum of 200k, and for those donating (500k - 1 million), you'll be able to write a message, while donations (over 1 million) will allow you to write a message + provide a polaroid photo. The messages and photos you provide will be made into a gift to be given to Kim Jaejoong.
+All fundraising progress will be updated regularly on our social media accounts, and the funds will be used for a fan project that has been approved by Kim Jaejoong's promoter and agency.
+Thank you so much Babies. We hope everything goes smoothly. See you on October 19th! 🏻💚✨️🥰💫💕
+hiraz[redacted_email]トを切り替える
+ファイルをアップロードしてこのフォームを送信すると、Google アカウントに関連付けられている名前と写真が記録されます. メールアドレスは回答に含まれません。
+* 必須の質問です
+Nickname
+*
+Instagram / Twitter (X) account
+Instagram / Twitter (X) account
+*
+Amount of donation (Minimum 200k)
+Amount of donation (Minimum 15 USD)
+*
+Payment method (Bank account / PayPal)
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: "200k", "500k", "1 million" 및 "over 1 million"과 같은 금액 표기에서 통화 기호가 누락되었습니다. 정책에 따라 통화 기호는 숫자 앞에 위치해야 합니다. 예를 들어, "$200k", "$500k", "$1 million" 등으로 표기해야 합니다.

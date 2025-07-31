@@ -1,0 +1,13 @@
+[원문: english]
+Elizabeth has an appointment with Red Bank Medical on 10/24/2024 at 2:00 PM. Please note that as of September 16, 2019 we will be located at our new address 175 Patterson Ave Shrewsbury, NJ 07702. Please arrive 15 minutes prior to appointment and bring your current photo ID, insurance card and medication list. Reply C to confirm or X to cancel. Reply STOP to opt out.
+
+[번역문: ukrainian]
+Елізабет записана на прийом до Red Bank Medical на 10.24.2024 о 14:00. Зверніть увагу, що з 16 вересня 2019 року ми знаходимося за новою адресою: 175 Patterson Ave Shrewsbury, NJ 07702. Будь ласка, приходьте за 15 хвилин до призначення і візьміть з собою поточне посвідчення особи з фотографією, страхову картку та список ліків. Натисніть C, щоб підтвердити, або X, щоб скасувати. Надайте відповідь STOP, щоб відмовитися.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜 "10.24.2024"는 미국식 표기법을 사용하고 있으며, 우크라이나어 정책에 따라 "24 жовтня 2024"로 표기해야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

@@ -1,0 +1,23 @@
+[원문: english]
+Hallo, I just want to check if [redacted_name] wants to come to [redacted_name] birthday on Tuesday 5th of november?
+We will pick up the class after school and walk together to our house on [redacted_address].
+Birthday will finish at 17:00 and the kids can be picked up here.
+We would love to see [redacted_name] and have everybody from the class participating ☺️
+Regards
+[redacted_name], [redacted_name]mom
+
+[번역문: ukrainian]
+Вітаю, я просто хочу дізнатися, чи не бажає [redacted_name] відвідати день народження [redacted_name] у листопада 5, вівторок ?
+Після школи ми заберемо клас і разом підемо до нас додому за адресою [redacted_address].
+Святкування закінчиться о 17:00, і дітей можна забрати тут.
+Ми були б раді бачити [redacted_name] та усіх учнів класу, які прийдуть ☺
+З повагою,
+мама [redacted_name], [redacted_name]
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "у листопада 5, вівторок"로 표기되어 있으며, 이는 "вівторок 5 листопада"로 수정되어야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

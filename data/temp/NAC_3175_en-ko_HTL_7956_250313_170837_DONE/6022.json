@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Canadian Customs: You have aparcel being cleared, due to the detection of an invalid zip code address, the parcel can not be cleared, the parcel is temporarily detained, please confirm the zip\ncode address information in the link\nwithin 24 hours.\n[redacted_url]\n(Please reply with a Y, then exit the text message and open it again to activate the link, or copy the link into your Safari browser and open it)",
+    "trans": "캐나다 세관: 귀하의 소포는 통관 중이며, 우편번호 주소가 잘못된 것으로 감지되어 소포를 통관 할 수 없습니다. 소포가 일시적으로 억류되었습니다. 우편번호를 확인해 주시기 바랍니다\n링크의 코드 주소 정보\n24시간 이내에.\n[redacted_url]\n(Y로 답장한 다음 문자 메시지를 마치고 다시 열어 링크를 활성화하거나 사파리 브라우저에 링크를 복사하여 열어 주세요)"
+}

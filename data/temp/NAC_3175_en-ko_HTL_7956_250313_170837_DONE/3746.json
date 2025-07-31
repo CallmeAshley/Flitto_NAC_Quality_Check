@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "The Bounty Hunter is an Impostor, that continuously get bounties (the targeted player doesn't get notified). The target of the Bounty Hunter swaps after every meeting and after a configurable amount of time. If the Bounty Hunter kills their target, their kill cooldown will be a lot less than usual. Killing a player that's not their current target results in an increased kill cooldown. Depending on the options, there'll be an arrow pointing towards the current target.",
+    "trans": "바운티 헌터는 임포스터로, 지속적으로 현상금을 받는다(표적이 된 플레이어는 알아채지 못한다). 바운티 헌터의 표적은 매 회의마다 그리고 설정된 시간마다 바뀐다. 바운티 헌터가 표적을 죽이면, 그들의 죽임 대기시간은 평소보다 훨씬 짧을 것이다. 그들의 현 표적이 아닌 플레이어를 죽이는 것은 죽임 대기시간을 증가시킨다. 옵션에 따라, 현 표적을 가리키는 화살표가 있을 수 있다."
+}

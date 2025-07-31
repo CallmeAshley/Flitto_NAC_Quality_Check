@@ -1,0 +1,21 @@
+[원문: english]
+Coursera tumbled 7.1% after the online learning platform cut revenue guidance for the year and said it would reduce its global workforce by about 10% as part of a plan to trim expenses. The company said it expects revenue for the year of $690 million to $694 million, below its prior guidance of $695 million to $705 million.
+Centene rose 9.1% after third-quarter adjusted earnings of $1.62 a share at the health insurer beat analysts' expectations of $1.41 and the company said it remained confident in its full-year outlook for adjusted earnings of more than $6.80 a share.
+HCA Healthcare declined 9.6% after the hospital operator posted quarterly earnings that missed Wall Street estimates and said Hurricane Helene negatively impacted results.
+Newell Brands was up 25%. The maker of Sharpie pens reported a narrower third-quarter loss and said it expects fiscal-year adjusted earnings of between 63 cents and 66 cents a share, up from previous guidance of 60 cents and 65 cents a share.
+AutoNation fell 6.4% as the seller of new and used cars reported third-quarter adjusted earnings that missed Wall Street estimates. The company said earnings took a hit from the CDK outage in July that disrupted car sales.
+
+[번역문: polish]
+Coursera spadła o 7.1% po tym, jak platforma do nauki online obniżyła prognozy przychodów na ten rok i poinformowała, że zmniejszy globalną siłę roboczą o około 10% w ramach planu cięcia wydatków. Firma poinformowała, że spodziewa się przychodów w tym roku w wysokości od 690 do 694 milionów dolarów, poniżej wcześniejszych prognoz w wysokości od 695 do 705 milionów dolarów.
+Centene wzrosła o 9.1% po tym, jak skorygowane zyski w trzecim kwartale w wysokości 1.62 dolara na akcję ubezpieczyciela zdrowotnego przebiły oczekiwania analityków na poziomie 1.41 dolara, a firma poinformowała, że nadal jest pewna swoich całorocznych prognoz dotyczących skorygowanych zysków w wysokości ponad 6.80 dolara na akcję.
+HCA Healthcare straciła 9.6% po tym, jak operator szpitala opublikował kwartalne zyski, które pokryły się z szacunkami Wall Street i poinformował, że huragan Helene negatywnie wpłynął na wyniki.
+Newell Brands podskoczył o 25%. Producent długopisów marki Sharpie poinformował o mniejszej stracie w trzecim kwartale i powiedział, że spodziewa się skorygowanych zysków za rok podatkowy w wysokości od 63 do 66 centów na akcję, w porównaniu z poprzednimi prognozami na poziomie 60 i 65 centów na akcję.
+AutoNation spadło o 6.4%, gdyż ten sprzedawca nowych i używanych samochodów poinformował o skorygowanych zyskach za trzeci kwartał, które nie pokryły się z szacunkami Wall Street. Firma poinformowała, że zyski ucierpiały z powodu awarii CDK w lipcu, która zakłóciła sprzedaż samochodów.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 소수점이 마침표로 표기됨 (예: 7.1% 대신 7,1%)
+    - 통화 표기 오류: 없음

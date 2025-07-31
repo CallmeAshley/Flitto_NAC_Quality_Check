@@ -1,0 +1,6 @@
+{
+    "source": "ja_JP",
+    "target": "en_US",
+    "text": "・スピード ＋10\n・高速移動 ＋15\n・射撃属性被ダメージ －50%\n・受けた攻撃のよろけ値を 70%かつ小数点以下切り捨て で計算\n・格闘攻撃による敵機撃破時に最大HPの 15%分回復\n・移動方向補正 全方向100%\n※効果時間は 60秒\n※6秒間、範囲75m程の敵機へ以下の効果を付与",
+    "trans": "・Speed: +10\n・High-speed movement: +15\n・Damage taken from shooting attributes: -50%\n・Staggered threshold value from received attacks is calculated at 70%, rounded down to the nearest whole number.\n・Recover 15% of max HP upon defeating an enemy unit with a melee attack\n・Movement direction adjustment: 100% in all directions\n*Effect duration: 60 seconds\n*For 6 seconds, the following effects are applied to enemy units within approximately a 75m radius."
+}

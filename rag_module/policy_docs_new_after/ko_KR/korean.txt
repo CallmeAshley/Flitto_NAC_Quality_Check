@@ -1,0 +1,147 @@
+[Locale: ko-KR]
+
+[Numeric Format]
+
+Definition:  
+In Korean, numbers follow Western-style formatting:  
+- Use a comma (`,`) every three digits in the integer part of the number.  
+- Use a dot (`.`) as the decimal separator.  
+- Do not insert commas after the decimal point.  
+
+Examples:  
+- 1,000  
+- 12,345.67  
+- Invalid: 12,345.678,900  
+- Invalid: 1000 (missing thousand separator)  
+- Invalid: 1.000,25 (wrong decimal separator)  
+
+Evaluation Criteria:  
+- Commas are used only in the integer part.  
+- Decimal points must be written using a dot (`.`).  
+- No space should appear between digits and separators.  
+- Do not use commas in decimal places.  
+- Accept numbers with any decimal precision if separators are applied correctly.  
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the symbol or code is not for the Korean won (₩), the original currency **must be preserved** in the translation. Only its **position and spacing** should be adapted according to Korean formatting rules.
+
+Expected currency symbols include:  
+$, ¢, €, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₡, ₨, ₦, ₫, ₭, ₲, ₵, ₿, ¤, ƒ, ₮, ₪, ₴, ﷼, ₸, ₾
+
+Expected ISO currency codes include:  
+USD, EUR, KRW, JPY, CNY, GBP, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a currency **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not convert it into a currency **name** (e.g., `400달러`) or **code** (e.g., `USD 400`).  
+The same rule applies in reverse for codes and names.  
+
+Always preserve the currency representation type (symbol, code, or name) used in the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+In Korean, all currency symbols — including ₩, $, €, ¥, etc. — must be placed **before the number** with **no space**.
+
+Examples:  
+- ₩12,345.00  
+- $12,345.00  
+- €1,000.00  
+- ¥8,000  
+
+Evaluation Criteria:  
+- The currency symbol must appear **before the number**.  
+- There must be **no space** between the symbol and the number.  
+- This rule applies to all currency symbols, not only ₩.  
+- Follow the formatting rules defined in the [Numeric Format] section.  
+- The original symbol must be preserved from the source text.  
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes like KRW, USD, or EUR appear **before** the number, followed by a **space**.
+
+Example:  
+- KRW 12,345.00
+
+Evaluation Criteria:  
+- The code appears before the number.  
+- Use a space between the code and the number.  
+- The number format must follow the rules defined in the [Numeric Format] section.  
+- The currency code from the source must be preserved.  
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as 원 (won), 엔 (yen), 위안 (yuan), 달러 (dollar), 유로 (euro), and 파운드 (pound) are often used in natural Korean text instead of symbols or codes.  
+These should be attached directly after the number, with no space.
+
+Examples:  
+- 30,000원  
+- 10,000엔  
+- 100위안  
+- 300달러
+- 100유로  
+- 50파운드
+
+Evaluation Criteria:  
+- The currency name must follow the number with **no space**.  
+- The name must match the actual currency being referenced.  
+- Number formatting must follow the [Numeric Format] rules.  
+- LLM must correctly localize currency names when they appear in natural language.
+
+---
+
+[Date Format]
+
+Definition:  
+- Dates in Korean follow the order **Year → Month → Day (연 → 월 → 일)**.  
+- This format does not use slashes (/) or dashes (-). It uses Korean suffixes like `년`, `월`, `일`.  
+- Alternatively, dates may be written using dots (`.`) as separators.  
+
+Weekday Position and Rule:  
+- If a weekday is included in source sentence, it must appear **after the date** in translated sentence, separated by a space.  
+- If the source text **does not include** a weekday, the translation must **not add one**.
+
+Examples:  
+- 2025년 7월 28일 월요일  
+- 2025년 7월 28일
+- 7월 28일 월요일
+- 7월 28일  
+- 2025. 7. 28. 월요일
+- 2025. 7. 28  
+- 7. 28. 월요일
+- 7. 28  
+
+Evaluation Criteria:  
+- Confirm the date order is Year → Month → Day when all components are present.  
+- If a weekday is present in the source sentence, it must be placed after the date and **separated by a space**.  
+- Weekdays must not be added if not present in the source sentence.  
+
+---
+
+[Time Format]
+
+Definition:  
+Korean uses both 12-hour and 24-hour time formats depending on the context.
+
+Examples:  
+- Spoken or casual use: 오전 9시 30분, 오후 2시  
+- Digital or scheduled use: 09:30, 14:00  
+
+Evaluation Criteria:  
+- In 12-hour format, include 오전 (AM) or 오후 (PM) **before** the hour.  
+- In 24-hour format, use colons (`:`) and **always use two digits**, including leading zeros (e.g., 09:30, 14:00).  
+- Do not include time zone information (e.g., KST) unless explicitly required by the original.  

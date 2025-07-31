@@ -1,0 +1,31 @@
+[원문: italian]
+medesimo periodo risultano effettuati versamenti con il modello F24 per € 0,00.
+Se, invece, i versamenti non sono stati eseguiti, può regolarizzare le violazioni avvalendosi del ravvedimento
+(art. 13 del d.lgs. n. 472 del 1997), pagando l'imposta dovuta, i relativi interessi legali e la sanzione per
+tardivo versamento (art. 13 del d.lgs. n. 471 del 1997), in misura ridotta. Se provvederà tempestivamente,
+eviterà di pagare le maggiori sanzioni che saranno applicate a seguito del controllo automatizzato effettuato
+ai sensi dell'art. 54-bis del d.P.R. n. 633 del 1972.
+La invitiamo pertanto a verificare i versamenti effettuati.
+Se i pagamenti che a noi risultano mancanti sono stati eseguiti indicando un codice tributo e/o un anno di
+riferimento errati, può chiedere la correzione dei relativi modelli F24. A tal fine, può utilizzare il servizio
+online CIVIS, disponibile nella sezione “Servizi” del sito www.agenziaentrate.gov.it.
+
+[번역문: english]
+The same period is made with the F24 form for  €0.00.
+However, if the payments have not been made, it can regularize the violations by using the repentance
+(art. 13 of the law No. 472 of 1997), paying the tax due, the relative legal interest and the penalty for
+late payment (art. 13 of the law No. 471 of 1997), to a reduced extent. If it is done promptly,
+you will avoid paying the increased penalties that will be applied due to the automated control carried out
+pursuant to art. 54-bis of the D.P.R. No. 633 of 1972.
+Please check your payments.
+If the missing payments have been made by entering an incorrect tax code and/or a
+wrong reference year, you can request the correction of the corresponding F24 forms. In order to do this, you can use the CIVIS
+online service available in the "Services" section at www.agenziaentrate.gov.it.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 유로 기호(€)가 숫자 앞에 위치해야 합니다. 현재 번역에서는 숫자 뒤에 위치하고 있습니다.

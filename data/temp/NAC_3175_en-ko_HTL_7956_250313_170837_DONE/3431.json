@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "We understand you need help with tapping in one specific app. Are you referring to the Auto Tap Accessibility feature? If you are, you can set it up to tap an item like so.\n\"Choose an action after you select an item\nAfter you select an item with your switch, the possible actions for that item appear in a new menu. Select the dots at the bottom of the menuto see moreoptions.\nTap an item\nYou can tap an item three different ways:\nChoose Tap from the menu that appears when you select the item.\nTurn on Auto Tap at Settings > Accessibility > Switch Control > Tap Behavior > Auto Tap. After you turn on Auto Tap, you can select an item and wait for the Auto Tap interval to finish.\nSet up a switch to perform the tap gesture at Settings >Accessibility > Switch Control > Switches.\"",
+    "trans": "우리는 특정 앱을 잠금는 데 도움이 필요하다는 것을 이해합니다. 자동 잠금장치 접근성 기능을 나타냅니까? 만일 그렇다면, 다음과 같이 항목을 잠그도록 설정할 수 있습니다.\n\"항목을 선택한 후 동작을 선택하세요\n스위치로 항목을 선택한 후, 해당 항목에 대한 가능한 동작이 새 메뉴에 나타납니다. 메뉴 하단의 점을 선택하여 더 많은 옵션을 확인하세요.\n항목 잠금 장치\n세 가지 방법으로 항목을 잠글 수 있습니다:\n항목을 선택하면 나타나는 메뉴에서 잠금 장치를 선택합니다.\n설정 > 접근성 > 스위치 제어 > 잠금 장치 동작 > 자동 잠금 장치에서 자동 잠금장치를 켭니다. 자동 잠금장치를 켠 후 항목을 선택하고 자동 잠금 장치 간격이 끝날 때까지 기다릴 수 있습니다.\n설정 > 접근성 > 스위치 제어 > 스위치에서 잠금 장치 제스처를 수행하도록 스위치를 설정합니다.\""
+}

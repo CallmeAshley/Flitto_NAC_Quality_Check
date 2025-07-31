@@ -1,0 +1,149 @@
+{
+  "source": "en_US",
+  "target": "ko_KR",
+  "text": "DDPG-Based Parameter Adaptation Method for PSO Algorithm\n3.2.1. State Space\nThe state space, serving as the input for the Actor network, dictates the convergence\nrate of the algorithm. For conventional deep reinforcement learning methods, the state\nspace design should satisfy the following criteria:\n• The chosen states should have relevance to the task objective;\n• The chosen states should be as mutually independent as possible and encompass all\ntask indicators;\n• The chosen states should be capable of mapping to the same value range.\nSustainability 2023, 15, 12101 8 of 16\n2\n2\nDiv=\nAdhering to the aforementioned principles, the state space of the algorithm comprises\nthree elements: the evolutionary progress of the population, the population diversity, and\nthe present optimization capability of the population.\nThe iteration percentage in particle swarm optimization is a parameter that signifies the\nextent of algorithm execution. At the algorithm’s commencement, this iteration progress\nis at 0%, incrementally increasing until the algorithm’s completion, at which point it\nreaches 100%. The definition of the iteration percentage can be formulated using the\nfollowing equation:\nIter=",
+  "original_trans": "DDPG 기반 PSO 알고리즘을 위한 매개변수 적응 방법\n3.2.1. 상태 공간\n상태 공간은 행위자 네트워크의 입력으로 작용하며\n알고리즘의 수렴 속도를 결정한다. 기존의 심층 강화 학습 방법에서, 상태\n공간 설계는 다음 기준을 충족해야 한다:\n• 선택된 상태는 작업 목표와 관련성이 있어야 한다;\n• 선택된 상태는 가능한 한 상호 독립적이어야 하며 모든 작업 지표를\n포함해야 한다;\n• 선택된 상태는 동일한 범위 값으로 매핑할 수 있어야 한다.\n지속 가능성 2023, 15, 12101 16개 중 8개\n2\n2\n디브=\n앞서 언급한 원칙을 준수하여, 알고리즘의 상태 공간은\n세 가지 요소로 구성된다: 개체군의 진화 진행 상황, 개체군 다양성, 그리고\n개체군의 현재 최적화 능력이다.\n입자 군집 최적화에서의 반복 백분율은 알고리즘 실행 정도를 나타내는\n매개변수이다. 알고리즘 시작 시,  이러한 반복 진행률은\n0%이며, 알고리즘이 완료될 때까지 점진적으로 증가하여 최종적으로\n100%에 도달한다. 반복 백분율의 정의는 다음 방정식을 사용하여\n공식화할 수 있다:\n잇터=",
+  "checked_trans": "DDPG 기반 PSO 알고리즘을 위한 매개변수 적응 방법\n3.2.1. 상태 공간\n상태 공간은 행위자 네트워크의 입력으로 작용하며\n알고리즘의 수렴 속도를 결정한다. 기존의 심층 강화 학습 방법에서, 상태\n공간 설계는 다음 기준을 충족해야 한다:\n• 선택된 상태는 작업 목표와 관련성이 있어야 한다;\n• 선택된 상태는 가능한 한 상호 독립적이어야 하며 모든 작업 지표를\n포함해야 한다;\n• 선택된 상태는 동일한 범위 값으로 매핑할 수 있어야 한다.\n지속 가능성 2023, 15, 12,101 16개 중 8개\n2\n2\n디브=\n앞서 언급한 원칙을 준수하여, 알고리즘의 상태 공간은\n세 가지 요소로 구성된다: 개체군의 진화 진행 상황, 개체군 다양성, 그리고\n개체군의 현재 최적화 능력이다.\n입자 군집 최적화에서의 반복 백분율은 알고리즘 실행 정도를 나타내는\n매개변수이다. 알고리즘 시작 시,  이러한 반복 진행률은\n0%이며, 알고리즘이 완료될 때까지 점진적으로 증가하여 최종적으로\n100%에 도달한다. 반복 백분율의 정의는 다음 방정식을 사용하여\n공식화할 수 있다:\n잇터=",
+  "checked_sentences": [
+    {
+      "original": "DDPG 기반 PSO 알고리즘을 위한 매개변수 적응 방법",
+      "revised": "DDPG 기반 PSO 알고리즘을 위한 매개변수 적응 방법",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "3.2.1. 상태 공간",
+      "revised": "3.2.1. 상태 공간",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "상태 공간은 행위자 네트워크의 입력으로 작용하며",
+      "revised": "상태 공간은 행위자 네트워크의 입력으로 작용하며",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "알고리즘의 수렴 속도를 결정한다. 기존의 심층 강화 학습 방법에서, 상태",
+      "revised": "알고리즘의 수렴 속도를 결정한다. 기존의 심층 강화 학습 방법에서, 상태",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "공간 설계는 다음 기준을 충족해야 한다:",
+      "revised": "공간 설계는 다음 기준을 충족해야 한다:",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "• 선택된 상태는 작업 목표와 관련성이 있어야 한다;",
+      "revised": "• 선택된 상태는 작업 목표와 관련성이 있어야 한다;",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "• 선택된 상태는 가능한 한 상호 독립적이어야 하며 모든 작업 지표를",
+      "revised": "• 선택된 상태는 가능한 한 상호 독립적이어야 하며 모든 작업 지표를",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "포함해야 한다;",
+      "revised": "포함해야 한다;",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "• 선택된 상태는 동일한 범위 값으로 매핑할 수 있어야 한다.",
+      "revised": "• 선택된 상태는 동일한 범위 값으로 매핑할 수 있어야 한다.",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "지속 가능성 2023, 15, 12101 16개 중 8개",
+      "revised": "지속 가능성 2023, 15, 12,101 16개 중 8개",
+      "violated": true,
+      "categories": [
+        "numeric"
+      ]
+    },
+    {
+      "original": "2",
+      "revised": "2",
+      "violated": false,
+      "categories": [
+        "numeric"
+      ]
+    },
+    {
+      "original": "2",
+      "revised": "2",
+      "violated": false,
+      "categories": [
+        "numeric"
+      ]
+    },
+    {
+      "original": "디브=",
+      "revised": "디브=",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "앞서 언급한 원칙을 준수하여, 알고리즘의 상태 공간은",
+      "revised": "앞서 언급한 원칙을 준수하여, 알고리즘의 상태 공간은",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "세 가지 요소로 구성된다: 개체군의 진화 진행 상황, 개체군 다양성, 그리고",
+      "revised": "세 가지 요소로 구성된다: 개체군의 진화 진행 상황, 개체군 다양성, 그리고",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "개체군의 현재 최적화 능력이다.",
+      "revised": "개체군의 현재 최적화 능력이다.",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "입자 군집 최적화에서의 반복 백분율은 알고리즘 실행 정도를 나타내는",
+      "revised": "입자 군집 최적화에서의 반복 백분율은 알고리즘 실행 정도를 나타내는",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "매개변수이다. 알고리즘 시작 시,  이러한 반복 진행률은",
+      "revised": "매개변수이다. 알고리즘 시작 시,  이러한 반복 진행률은",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "0%이며, 알고리즘이 완료될 때까지 점진적으로 증가하여 최종적으로",
+      "revised": "0%이며, 알고리즘이 완료될 때까지 점진적으로 증가하여 최종적으로",
+      "violated": false,
+      "categories": [
+        "numeric"
+      ]
+    },
+    {
+      "original": "100%에 도달한다. 반복 백분율의 정의는 다음 방정식을 사용하여",
+      "revised": "100%에 도달한다. 반복 백분율의 정의는 다음 방정식을 사용하여",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "공식화할 수 있다:",
+      "revised": "공식화할 수 있다:",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "잇터=",
+      "revised": "잇터=",
+      "violated": false,
+      "categories": []
+    }
+  ]
+}

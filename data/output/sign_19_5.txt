@@ -1,0 +1,23 @@
+[원문: portuguese]
+🚨 Alerta: Atrasos nos Pagamentos!
+▸ Recordamos que o formato de Mensalidade, (tanto em aulas de grupo, como PT) — funciona exclusivamente por pré-pagamento, significa que deves assegurar o pagamento antes de se dar início ao mês aulas, assegurando assim a permanência do teu lugar nas respectivas turmas e horários.
+O prazo estipulado para o pagamento das Mensalidades no FLOWGA, é entre o dia 20 (do mês que antecede o que pretendes liquidar) e o dia 1, e como prazo extraordinário até ao dia 3 — aplicado apenas se for realizado em numerário pessoalmente antes da tua primeira aula-treino.
+‼️ Como medida resolutiva com efeitos imediatos, informamos que a partir desta data iremos colocar em vigor a alínea 8-j) constante no regulamento do estúdio, que refere o seguinte;
+Qualquer pagamento recebido com atraso — considerado efectivo a partir do 4° dia do mês, será processada a coima de 5€/dia até se receber a liquidação total do montante em dívida.
+Caso ainda não tenhas regularizado a tua situação, e com o objectivo de evitares a coima por atraso no pagamento, alertamos que hoje é o prazo máximo aceite.
+
+[번역문: english]
+🚨 Attention: Payment Delays!
+▸ Please be reminded that our monthly membership fee (for both group classes and personal training) — requires prepayment. This means that your payment must be made before the start of the month to secure your spot in the respective classes and times.
+The deadline for monthly payments at FLOWGA is between the 20th of the preceding month and the 1st of the current month. As an exception, payments can be made in cash until the 3rd of the month —  but only if done in person before your first class.
+‼️ As a resolution, effective immediately, we inform that from now on we will be enforcing clause 8-j of the studio's regulations, which states:
+Any payment received after the 3rd day of the month will incur a fee of €5 per day until the total amount due is paid in full.
+If you have not yet settled your payment and wish to avoid late fees, please note that today is the final day to do so.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: "the 20th of the preceding month and the 1st of the current month" 및 "the 3rd of the month"는 미국 영어 날짜 형식에 맞지 않음. "October 20" 및 "October 1"과 같은 형식으로 표기해야 함.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: "€5 per day"는 유로 기호가 숫자 앞에 있어야 하므로 "€5 per day"는 올바름. 오류 없음.

@@ -1,0 +1,23 @@
+[원문: english]
+BY MAURO ORRU
+Porsche AG posted lower sales and operating profit in the first nine months of the year as the company grapples with challenges in the key Chinese market and a slower-than-expected shift to electric vehicles.
+The German premium carmaker reported sales of €28.56 billion, equivalent to $30.92 billion, down 5.2% from the same period a year ago, as it delivered 226,026 vehicles to customers between January and September, down 6.9% from last year.
+Lutz Meschke, deputy chairman of the executive board, said the third quarter had been the weakest of the year for Porsche as the group faces a structural shift in demand in China, the world’s largest car market. Meanwhile, the transition to electric vehicles has proceeded more slowly than expected.
+“For this reason, we are reviewing our product lineup and ecosystem, as well as our budgets and cost position,” he said.
+For months, the automotive industry has been dealing with a slow EV market and fierce competition from local carmakers in China, forcing several European auto manufacturers to lower their profit and sales forecasts for the year.
+
+[번역문: russian]
+ОТ МАУРО ОРРУ
+Porsche AG сообщила о снижении продаж и операционной прибыли за первые девять месяцев года, поскольку компания сталкивается с проблемами на ключевом китайском рынке и медленным переходом на электромобили.
+Немецкий производитель премиум-автомобилей сообщил о продажах в размере 28,56 миллиарда евро (эквивалентно 30,92 миллиарда долларов), что на 5,2% меньше по сравнению с тем же периодом прошлого года, так как он доставил клиентам 226 026 автомобилей с января по сентябрь, что на 6,9% меньше по сравнению с прошлым годом.
+Люц Мешке, заместитель председателя правления компании, заявил, что третий квартал стал самым слабым в году для Porsche, поскольку группа сталкивается со структурным изменением спроса в Китае - крупнейшем автомобильном рынке мира. Между тем переход на электромобили проходит медленнее, чем ожидалось.
+"По этой причине мы пересматриваем наш ассортимент продукции и экосистему, а также наши бюджеты и финансовое положение", - сказал он.
+На протяжении нескольких месяцев автомобильная промышленность сталкивается с медленным рынком электромобилей и жесткой конкуренцией со стороны местных производителей автомобилей в Китае, что заставляет несколько европейских автопроизводителей снижать свои прогнозы по прибыли и продажам на год.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "226 026"에서 천 단위 구분이 공백으로 올바르게 되어 있으나, "28,56" 및 "30,92"에서 소수점이 점(`.`)으로 표기되어 있어 정책에 따라 쉼표(`,`)로 수정 필요
+    - 통화 표기 오류: "€28,56 миллиарда" 및 "30,92 миллиарда долларов"에서 통화 기호가 숫자 앞에 와야 하며, 공백 없이 표기되어야 함. 정책에 따라 "€28,56" 및 "$30,92"로 수정 필요

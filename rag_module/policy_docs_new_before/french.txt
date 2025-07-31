@@ -1,0 +1,36 @@
+[Locale: fr-FR]
+
+1. 숫자 표기 (Numeric Format)
+- Decimal separator: ',' (comma)
+- Grouping separator: ' ' (narrow no-break space, Unicode U+202F)
+- Example: 1 234,56
+
+2. 화폐 표기 (Currency Format)
+- Symbol format:
+  • Pattern: "#,##0.00 ¤"
+  • 공백 종류: 일반 breaking space (U+00A0)
+  • 표기 예시: "12 345,00 €"  
+    → 숫자 내부는 U+202F, 기호 앞 공백은 U+00A0
+  • 설명: 통화 기호(€)는 숫자 뒤에 오며 **공백을 두고 구분**합니다.
+
+- ISO Code format:
+  • Pattern: "{0} ¤¤"
+  • 공백 종류: 일반 breaking space (U+00A0)
+  • 표기 예시: "12 345,00 EUR"  
+    → 숫자 내부는 U+202F, 코드 앞 공백은 U+00A0
+  • 설명: 통화 코드(EUR)도 숫자 뒤에 오며 **공백을 둡니다**.
+
+3. 날짜 및 요일 표기 (Date Format)
+- Full: "lundi 28 juillet 2025"
+- Long: "28 juillet 2025"
+- Medium: "28 juil. 2025"
+- Short: "28/07/2025"
+- 날짜 순서 (Order): **일 / 월 / 연** (Day / Month / Year)
+- 요일 위치: 일부 포맷에서는 날짜 앞에 요일 명시 (예: Full)
+
+4. 시간 표기 (Time Format)
+- Full: "HH:mm:ss zzzz"
+- Long: "HH:mm:ss z"
+- Medium: "HH:mm:ss"
+- Short: "HH:mm"
+- 설명: 24시간제 표기, 오전/오후 표기 없음

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "YOUR SHIPMENT IS ON ITS WAY\nHello [redacted_name],\nYour DHL Express shipment with waybill number [redacted_info] from WORLD EDUCATION is on its way. The current estimated delivery is [redacted_info] by End of Day.\nTo authorize delivery without signature, or for other delivery options, click here.\nDELIVERY INFORMATION\nWaybill No.\n[redacted_info]\nDelivery Address\n[redacted_address]\nEstimated Delivery Date\n[redacted_info]\nDelivery Time\nby End of Day\nShipper's Reference\nN/A",
+    "trans": "ВАША ПОСИЛКА В ШЛЯХУ\nПривіт [redacted_name],\nВаша посилка DHL Express з номером накладної [redacted_info] від WORLD EDUCATION в дорозі. Орієнтовний час доставки - [redacted_info] до кінця робочого дня.\nЩоб авторизувати доставку без підпису або для інших варіантів доставки, натисніть тут.\nІНФОРМАЦІЯ ПРО ДОСТАВКУ\nНомер накладної\n[redacted_info]\nАдреса доставки\n[redacted_address]\nОрієнтовна дата доставки\n[redacted_info]\nЧас доставки\nдо кінця робочого дня\nПосилання від відправника\nN/A"
+}

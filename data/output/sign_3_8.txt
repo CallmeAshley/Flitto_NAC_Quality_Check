@@ -1,0 +1,27 @@
+[원문: english]
+Available state fuel sites for Essential Healthcare Workers. When healthcare workers arrive at one of the following stations, must present their work badges, as these four locations are only for essential healthcare workers.
+-Pinellas County
+- 2985 Drew Street Clearwater (BayCare corporate office parking lot)
+- 7300 Bryan Dairy Rd Largo (Tampa Bay Health Care Coalition-this site is open 24 hours)
+- 801 Sith Avenue S. St. Petersburg (Johns Hopkins All Children)
+Hillsborough County
+- 4600 Habana Avenue Tampa (In large parking area north)
+Other Fuel Sites
+
+[번역문: ukrainian]
+Доступні державні паливні станції для працівників критично важливої сфери охорони здоров'я.  Коли медичні працівники прибувають на одну з наведених нижче станцій, вони повинні пред'явити свої службові посвідчення, оскільки ці чотири локації призначені виключно для працівників критично важливої сфери охорони здоров'я.
+- Округ Пінеллас
+- 2 985 Drew Street, Кліруотер (корпоративна парковка офісу BayCare)
+- 7 300 Bryan Dairy Rd, Ларго (Tampa Bay Health Care Coalition – ця станція працює 24 години).
+- 801 6th Avenue S, Сент-Пітерсберг (Johns Hopkins All Children).
+Округ Хілсборо
+4600 Habana Avenue, Тампа (на великій парковці на північ)
+Інші паливні станції
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 예
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

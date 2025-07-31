@@ -1,0 +1,138 @@
+[Locale: zh-CN]
+
+[Numeric Format]
+
+Definition:  
+Simplified Chinese follows Western-style numeric formatting:  
+- A **dot (`.`)** is used to represent decimal points.  
+- A **comma (`,`)** is used every three digits in the integer part as a grouping separator.  
+- No grouping should be applied after the decimal point.  
+
+Examples:  
+- 1,234.56  
+- 123,456,789.00  
+- Invalid: 1234567.89 (missing grouping)  
+- Invalid: 1.000,25 (wrong decimal separator)
+
+Evaluation Criteria:  
+- Use commas (`,`) for grouping only in the integer part.  
+- Use a dot (`.`) for decimal points.  
+- Do not insert spaces between digits or symbols.  
+- Accept any number of decimal digits if separators are applied correctly.
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not the local yuan (¥), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adjusted according to Simplified Chinese formatting rules.
+
+Expected currency symbols include:  
+¥, $, €, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
+
+Expected ISO codes include:  
+CNY, USD, EUR, JPY, GBP, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400美元`) or **code** (`400 USD`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+The currency symbol (e.g., ¥, $, €, £) appears **before the number** without any space.
+
+Examples:  
+- ¥1,234.56  
+- $2,000.00  
+- €850.00  
+- £500.00
+
+Evaluation Criteria:  
+- Place the symbol directly before the number with no space.  
+- Number formatting must follow the rules defined in the [Numeric Format] section.  
+- Preserve the original symbol used in the source.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., CNY, USD, EUR) appear **after the number**, with a space in between.
+
+Examples:  
+- 1,234.56 CNY  
+- 2,500.00 USD  
+- 800.00 EUR
+
+Evaluation Criteria:  
+- The ISO code must follow the number.  
+- Use a regular space between number and code.  
+- Follow [Numeric Format] rules for number formatting.  
+- Preserve the code as it appears in the source.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names (e.g., 元, 美元, 日元) usually appear **after the number**, with **no space** in most cases.  
+Do not rewrite currency symbols or codes into names.
+
+Examples:  
+- 1,000元  
+- 850美元  
+- 10,000日元  
+- 500欧元  
+- 300英镑  
+- 1,200韩元
+
+Evaluation Criteria:  
+- Place the currency name after the number, typically with no space.  
+- The name must match the referenced currency.  
+- Follow [Numeric Format] rules.  
+- Do not generate a currency name unless it exists in the source.
+
+---
+
+[Date Format]
+
+Definition:  
+Chinese dates follow the **Year → Month → Day** order, using native suffixes (`年`, `月`, `日`).  
+If a weekday is present, it must appear **after the date**.  
+Slashes (`/`) may be used in short format.
+
+Examples:  
+- 2025年7月28日星期一  
+- 2025年7月28日  
+- 2025/7/28
+
+Evaluation Criteria:  
+- Date must be ordered as Year → Month → Day.  
+- If the weekday is present, it follows the date.  
+- Accept both character-based (`年/月/日`) and slash-based formats.  
+- Do not add a weekday unless explicitly present in the source.
+
+---
+
+[Time Format]
+
+Definition:  
+Simplified Chinese commonly uses the **24-hour format**.  
+Colons (`:`) are used between hours, minutes, and seconds.  
+AM/PM is not used, and time zones should be excluded unless explicitly required.
+
+Examples:  
+- 14:30  
+- 14:30:45
+
+Evaluation Criteria:  
+- Use 24-hour time with colons separating units.  
+- Do not include AM/PM markers.  
+- Do not include time zone names unless explicitly present in the original.

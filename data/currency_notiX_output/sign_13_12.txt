@@ -1,0 +1,42 @@
+[원문: french]
+Votre colis de la part de S-BE est en route vers un Point d'enlèvement à proximité.
+Nous vous informerons par e-mail et/ou l’app My bpost quand votre colis sera disponible pour être récupéré.
+Code-barres[redacted_url]
+Adresse de livraison
+[redacted_address]
+Tentative de livraison
+Aujourd'hui à 13:10
+Détails
+Contribuez à la réduction du CO₂
+Faites livrer vos colis directement à votre Point d’enlèvement préféré ou assurez-vous que nous puissions toujours les livrer à votre domicile en votre absence. De cette façon, nous épargnons les kilomètres supplémentaires.
+Indiquer mes préférences de livraison
+Questions relatives à votre
+Quand puis-je récupérer mon colis ?
+Votre colis sera normalement disponible à partir de demain 11 heures, mais nous vous conseillons d’attendre un e-mail, une notification par l’app My bpost et/ou un SMS qui confirme que votre colis est disponible pour être récupéré.
+Dans quel Point d’enlèvement mon colis sera-t-il disponible ?
+
+[번역문: english]
+[...] Hello BAYAN TANAB,Your parcel from S-BE is on its way to a nearby Pickup Point.
+We will inform you via email and/or the My bpost app when your parcel is ready for collection.
+Barcode: [redacted_url]
+Delivery Address
+[redacted_address]
+Delivery Attempt
+Today at 13:10 PM
+Details
+Contribute to reducing CO₂
+Have your parcels delivered directly to your preferred Pickup Point, or make sure we can always deliver them to your home, even in your absence. This helps reduce unnecessary extra mileage.
+Set my delivery preferences
+Questions about your delivery
+When can I collect my parcel?
+Your parcel should normally be available starting tomorrow at 11:00 AM. However, we recommend waiting for an email, a notification from the My bpost app, or an SMS confirming that your parcel is ready for collection.
+At which Pickup Point will my parcel be available?The Pickup Point where we plan to deliver your parcel is indicated in the My bpost app or on the track & trace. The Pickup Point may change due to unforeseen circumstances. To know exactly where your parcel is ready for collection, please check the email you will receive when your parcel has been delivered to the Pickup Point, or refer to the notification in the My bpost app or the track & trace.[...]
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음
+    - 시간 표기 오류: "Today at 13:10 PM"에서 24시간제를 사용한 후 AM/PM을 추가한 오류가 있습니다. 올바른 표기는 "Today at 1:10 PM"입니다. 12시간제와 AM/PM을 사용해야 합니다.

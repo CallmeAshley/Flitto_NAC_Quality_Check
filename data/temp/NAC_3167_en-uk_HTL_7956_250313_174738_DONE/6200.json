@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "We fit a beta distribution to each participant’s elicited belief for each stock and calculate key parameters (mean, standard deviation, skewness, and kurtosis) for subsequent analy- ses.6 We use the mean of the fitted distribution as the expected return. Table 1 presents descriptive statistics for these parameters based on 1,058 belief distributions elicited from our participants. The elicited belief distributions exhibited substantial heterogeneity across participants for all parameters.",
+    "trans": "Ми підлаштовуємо бета розподіл до переконань кожного учасника для кожної акції, та розраховуємо ключові показники (значення, стандартне відхилення, асіметрію та ексцес) для наступного аналізу. 6 Ми використовуємо середнє значення підібраного розподілення як очікувану дохідність. Табоиця 1 показує описову статистику для цих параметрів, виходячи з 1058 розподілень переконань, отриманих від наших учасників. Виявлені розподілення переконань вказують на значну неоднорідність серед учасників за всіма параметрами."
+}

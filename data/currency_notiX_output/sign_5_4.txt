@@ -1,0 +1,21 @@
+[원문: english]
+And... how about Inter Miami: not only did they secure a place in history with the most points ever (74) to win the Supporter's Shield, but they did it by crushing New England 6-2 which included a hat-trick by none other than Lionel Messi.
+JOIN US MONDAY FOR THE PLAYOFFS!
+We've secured two blocks of tickets in the 100-level for the first match against the Houston Dynamo. Not only that, the Sounders have invited 60 of us to be in the "High Five Tunnel" here the players walk out prior to the match!!
+Bellevue United is handling ticket sales directly and are offering them at a great price: $27.50 each, with no handling or processing fees. We have over 250 seats at this price. When they sell out, you'll still be able to purchase group tickets, but offered through the Sounders (approx $33-38).
+Ticket sales will GO LIVE today at 1:00pm, the link will go out then.
+
+[번역문: italian]
+E... che dire dell'Inter Miami: non soltanto si è assicurata un posto nella storia con il maggiore numero di punti di sempre (74) per vincere il Supporter's Shield, ma lo ha fatto schiantando il New England per 6-2, con una tripletta nientemeno che di Lionel Messi.
+UNISCITI A NOI LUNEDÌ PER I PLAYOFF!
+Ci siamo assicurati due blocchi di biglietti per il livello 100 per la prima partita contro gli Houston Dynamo. Non solo, i Sounders hanno invitato 60 di noi a stare nel "High Five Tunnel", dove i giocatori escono prima della partita!
+Bellevue United gestisce direttamente la vendita dei biglietti e li offre a un prezzo eccezionale: $27,50 ciascuno, senza commissioni di gestione o di elaborazione. Abbiamo oltre 250 posti a questo prezzo. Quando saranno esauriti, potrai comunque acquistare biglietti di gruppo, ma offerti tramite i Sounders (circa $33-38).
+La vendita dei biglietti inizierà oggi alle 13:00 e il link verrà pubblicato a quell'orario.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 달러 기호 뒤의 소수점이 쉼표로 잘못 표기됨. 올바른 표기는 $27.50이어야 합니다.

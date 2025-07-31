@@ -1,0 +1,87 @@
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not the Japanese yen (円 or ￥), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adapted according to Japanese conventions.
+
+Expected currency symbols include:  
+￥, $, €, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
+
+Expected ISO currency codes include:  
+JPY, USD, EUR, KRW, CNY, GBP, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400ドル`) or **code** (`USD 400`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+The currency symbol (e.g., ￥) is placed **directly before the number** without any space.
+
+Examples:  
+- ￥1,234.56  
+- $850.00  
+- €2,000.00  
+
+Evaluation Criteria:  
+- The symbol must appear immediately before the number.  
+- No space should be inserted.  
+- Follow [Numeric Format] rules.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., JPY, USD) are also placed **before the number**, separated by a **space**.
+
+Examples:  
+- JPY 1,234.56  
+- USD 2,000.00  
+
+Evaluation Criteria:  
+- Use a space between code and number.  
+- Code must appear before the number.  
+- Follow the [Numeric Format] rules.  
+- Preserve the original code type.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as “円” (yen), “ドル” (dollar), or “ユーロ” (euro) are typically placed **after the number**, without a space.
+
+Examples:  
+- 1,000円  
+- 850ドル  
+- 10,000ユーロ  
+- 300ポンド  
+- 500ウォン  
+
+Evaluation Criteria:  
+- Currency names must follow the number with **no space**.  
+- The name must match the intended currency in Japanese.  
+- Follow the [Numeric Format] rules.  
+- Do not generate currency names unless explicitly in the source.
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

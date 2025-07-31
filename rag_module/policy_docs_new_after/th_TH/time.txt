@@ -1,0 +1,29 @@
+[Time Format]
+
+Definition:  
+Thai uses the **24-hour clock**.  
+- In formal formats: use Thai unit words such as “นาฬิกา” (hour), “นาที” (minute), “วินาที” (second).
+- In short formats: use colons (`:`) to separate time units.
+- Time zone names or “เวลาในประเทศไทย” are only included if explicitly mentioned.
+
+Examples:  
+- 14 นาฬิกา 30 นาที 45 วินาที  
+- 14:30  
+- 14:30:45
+
+Evaluation Criteria:
+- Use 24-hour time.
+- Accept both word-based and colon-separated formats.
+- Do not use AM/PM.
+- Only include time zones if present in the original.
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

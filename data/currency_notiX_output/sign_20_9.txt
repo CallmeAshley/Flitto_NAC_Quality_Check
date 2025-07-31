@@ -1,0 +1,45 @@
+[원문: thai]
+บัญชีเลขที่: xxxx965164
+จำนวนเงิน (บาท): 700.00
+ประเภทธุรกรรม: ฝากด้วยเงินสด
+วัน/เวลา: 21-10-2567/17:55:39
+สาขาที่ทำรายการ: สาขาเทสโก้ โลตัส สมุย ละไม
+สถานะรายการ: รายการสำเร็จ
+หากท่านใช้บริการ SCB Easy Net ท่านสามารถตรวจสอบรายการเคลื่อนไหวของบัญชีได้โดยทำการล็อกอินผ่าน SCB Easy Net จากนั้นดูที่เมนูบัญชีของฉัน > เลือกเมนูรายละเอียดบัญชี > เลือกเลขที่บัญชี > คลิกปุ่ม View กรณีที่ท่านต้องการทราบความเคลื่อนไหวของบัญชี ขอแนะนำให้ท่านสมัครใช้บริการ SMS Alert
+หากต้องการสอบถามข้อมูลเพิ่มเติม กรุณาติดต่อศูนย์บริการลูกค้าธนาคารไทยพาณิชย์ 02-777-7777
+จึงเรียนมาเพื่อโปรดทราบ
+ธนาคารไทยพาณิชย์ จำกัด (มหาชน)
+Dear MR. GIUSEPPE,
+We, The Siam Commercial Bank Public Company Limited, would like to inform that your deposit / money transfer transaction at our branch has already been processed pursuant to the following details:
+Account number: xxxx965164
+Amount (Baht): 700.00
+Fund Type: Cash Deposit
+Date/Time: 21-10-2024/17:55:39
+Branch: TESCO LOTUS SAMUI LAMAI BRANCH
+
+[번역문: english]
+Number of Account: xxxx965164
+Sum (Baht): 700,00
+Type of Fund: Cash Deposit
+Time/Date: October 21, 2024, 17:55:39
+Branch of transaction: Tesco Lotus Samui Lamai
+Status of the Transaction: Completed
+If you are using the SCB Easy Net service, you can check up on your account activities by logging in via SCB Easy Net. To access your account activities, navigate to the My Accounts Menu > Account Details Menu, select your account number, and then click the View button. And for account activity updates, we suggest subscribing to the SMS Alert service.
+For additional information, please call 02-777-7777 to reach the SCB Customer Service Center.
+Please be informed accordingly.
+From Siam Commercial Bank Public Company (Limited)
+Dear MR. GIUSEPPE,
+We, The Siam Commercial Bank Public Company Limited, would like to inform that your deposit / money transfer transaction at our branch has already been processed pursuant to the following details:
+Account number: xxxx965164
+Amount (Baht): 700,00
+Fund Type: Cash Deposit
+Date/Time: 21-10-2024/17:55:39
+Branch: TESCO LOTUS SAMUI LAMAI BRANCH
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜 형식이 "October 21, 2024"로 올바르게 표기되었으나, "Time/Date" 순서가 "Date/Time"으로 되어 있어 일관성이 부족함.
+    - 숫자 표기 오류: "700,00"에서 소수점이 쉼표로 잘못 표기됨. 올바른 형식은 "700.00"임.
+    - 통화 표기 오류: 없음

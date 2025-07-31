@@ -1,0 +1,140 @@
+[Locale: it-IT]
+
+[Numeric Format]
+
+Definition:  
+Italian uses continental European formatting:  
+- A **comma (`,`)** is used to represent decimal points.  
+- A **dot (`.`)** is used every three digits in the integer part for grouping.  
+- No grouping is applied after the decimal point.  
+
+Examples:  
+- 1.234,56  
+- 123.456.789,00  
+- 5,00  
+- 12.000  
+
+Evaluation Criteria:  
+- Use dots for digit grouping in the integer part.  
+- Use commas for decimal points.  
+- Do not apply grouping after the decimal point.  
+- No space should appear between digits and punctuation.
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not the euro (€), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adapted according to Italian conventions.
+
+Expected currency symbols include:  
+€, $, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
+
+Expected ISO currency codes include:  
+EUR, USD, JPY, GBP, CNY, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 dollari`) or **code** (`400 USD`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+The currency symbol (e.g., €) appears **after the number**, with a **space**.
+
+Examples:  
+- 1.234,56 €  
+- 2.000,00 $  
+- 850,00 ¥  
+
+Evaluation Criteria:  
+- The symbol must follow the number.  
+- Use a space between the number and symbol.  
+- Number format must follow the [Numeric Format] rules.  
+- Do not convert the symbol into a name or code.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., EUR, USD) are written **after the number**, with a **space**.
+
+Examples:  
+- 1.234,56 EUR  
+- 2.000,00 USD  
+- 800,00 JPY  
+
+Evaluation Criteria:  
+- Code must appear after the number.  
+- Use a space between number and code.  
+- Follow the [Numeric Format] rules.  
+- Do not rewrite the code into a name or symbol.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names like “euro”, “dollaro”, or “yen” appear **after the number**, usually with a space.  
+All currency names in Italian are written in lowercase.
+
+Examples:  
+- 1.000 euro  
+- 850 dollari  
+- 10.000 yen  
+- 500 sterline  
+- 300 rubli  
+- 1.200 won  
+
+Evaluation Criteria:  
+- Currency name must appear after the number with a space.  
+- The name must match the referenced currency in Italian.  
+- Number formatting must follow the [Numeric Format] rules.  
+- Do not generate a currency name unless one exists in the source.
+
+---
+
+[Date Format]
+
+Definition:  
+Italian dates follow the **Day → Month → Year** order.  
+If a weekday is included, it must appear **before the date**, without a comma.  
+Slashes (`/`) are used in short format.
+
+Examples:  
+- lunedì 28 luglio 2025  
+- 28 luglio 2025  
+- 28 lug 2025  
+- 28/07/25  
+
+Evaluation Criteria:  
+- Ensure the order is Day → Month → Year.  
+- If a weekday is present, place it before the date with no comma.  
+- Accept both full and abbreviated month names.  
+- **Do not generate a weekday unless it is explicitly present in the source.**
+
+---
+
+[Time Format]
+
+Definition:  
+Italian uses the **24-hour clock** format.  
+Colons (`:`) separate hours, minutes, and seconds.  
+AM/PM is not used.  
+Time zone names (e.g., CET, CEST) are not included unless explicitly stated.
+
+Examples:  
+- 14:30  
+- 14:30:45  
+
+Evaluation Criteria:  
+- Use colons between time units.  
+- Do not use AM/PM.  
+- Do not include time zone names unless required by the original.

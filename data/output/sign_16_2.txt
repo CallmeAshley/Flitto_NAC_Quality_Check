@@ -1,0 +1,31 @@
+[원문: japanese]
+紙を、入れて、写真を撮りました。
+肩幅約、47.5、センチ位です。
+身幅約、53、センチ位です。
+袖丈約、22、センチ位です。
+着丈約、72、センチ位です。
+3、回着用、1、回、洗濯、です。
+写真、10、枚目が襟裏の写真です。
+襟裏に、スレ、ヨゴレ、があります。
+写真。 10、枚目が１番近い色です。
+中古品、なので、スレ、ヨゴレ、があります。
+
+[번역문: english]
+Placed a piece of paper and took a photo.
+Shoulder width, approximately 47.5 cm.
+Body width, approximately 53 cm.
+Sleeve length, approximately 22 cm.
+Length, approximately 72 cm.
+The item has been worn 3 times and washed once.
+Photo 10 shows the back of the collar.
+There is wear and staining on the back of the collar.
+Photo 10 shows the closest color.
+Since this is a pre-owned item, there are signs of wear and stains.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 예
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

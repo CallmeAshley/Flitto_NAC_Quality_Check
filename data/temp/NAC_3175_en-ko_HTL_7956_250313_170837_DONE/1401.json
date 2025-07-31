@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Cong et al. [5] propose to use a 2D analytical placement algorithm combined with different mapping approaches to handle the 3D global placement. All cells are initially spread over an expanded 2D placement region by an existing global placement approach. Then, the cells are mapped back to different tiers and locations by different mapping approaches such as folding the region or stacking the windows in the region. Although this approach simplifies the procedure to allocate cells to tiers in the 3D analytical placement approach, it is not feasible since it does not optimize 3D wirelength. Moreover, the number of TSVs and the area required by TSVs are not considered at all.",
+    "trans": "콩 등[5]은 3D 글로벌 배치를 처리하기 위해 다양한 매핑 접근방식과 결합된 2D 분석적 배치 알고리즘을 사용하는 것을 제안하고 있습니다. 처음에 모든 셀들은 기존 글로벌 배치접근방식에 의해 확장된 2D 배치영역에 분산됩니다. 그 다음 셀들은 영역을 접거나 영역의 창을 쌓는 것과 같은 다양한 매핑 접근방식에 의해 다른 계층과 위치로 다시 매핑됩니다. 더욱이, TSV의 개수와 TSV에 필요한 영역은 전혀 고려되지 않습니다."
+}

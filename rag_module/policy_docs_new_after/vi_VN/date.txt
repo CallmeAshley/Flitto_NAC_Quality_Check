@@ -1,0 +1,32 @@
+[Date Format]
+
+Definition:  
+Vietnamese dates follow the **Day → Month → Year** order.  
+If a weekday is present, it must appear **before** the date and followed by a comma.
+
+Examples:  
+- Thứ hai, ngày 28 tháng 7 năm 2025  
+- 28 tháng 7 năm 2025  
+- 28 thg 7, 2025  
+- 28/07/2025
+
+Evaluation Criteria:
+- Confirm the Day → Month → Year order.
+- If a weekday is present, it appears before the date with a comma.
+- Accept both full-form and abbreviated styles.
+- Do not generate a weekday if it is not in the source.
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

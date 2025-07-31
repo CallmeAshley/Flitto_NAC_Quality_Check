@@ -1,0 +1,135 @@
+[Locale: uk-UA]
+
+[Numeric Format]
+
+Definition:  
+Ukrainian uses continental European-style formatting:
+- A **comma (`,`)** is used for decimal points.
+- A **space** is used every three digits for grouping in the integer part.
+- No grouping is used after the decimal.
+
+Examples:  
+- 1 234,56  
+- 123 456 789,00
+
+Evaluation Criteria:
+- Use a space as the thousands separator.
+- Use a comma (`,`) for the decimal separator.
+- Do not apply grouping after the decimal point.
+- Do not use dots or inconsistent spacing.
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not Ukrainian hryvnia (₴), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **position and spacing** should be adapted according to Ukrainian conventions.
+
+Expected currency symbols include:  
+₴, $, ¢, €, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₡, ₨, ₦, ₫, ₭, ₲, ₵, ₿, ¤, ƒ, ₮, ₪, ₴, ﷼, ₸, ₾
+
+Expected ISO currency codes include:  
+UAH, USD, EUR, JPY, GBP, KRW, CNY, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 доларів`) or **code** (`USD 400`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+Currency symbols such as `₴`, `$`, `€` appear **after the number**, with a **space**.
+
+Examples:  
+- 12 345,00 ₴  
+- 10 000,00 €  
+- 850,00 $
+
+Evaluation Criteria:
+- Symbol must follow the number.
+- Use a space between number and symbol.
+- Follow [Numeric Format] rules for the number.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., UAH, USD) appear **after the number**, separated by a space.
+
+Examples:  
+- 12 345,00 UAH  
+- 850,00 USD  
+- 10 000,00 EUR
+
+Evaluation Criteria:
+- Use a space between number and code.
+- Use uppercase ISO codes.
+- Follow [Numeric Format] rules.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as “гривень”, “доларів”, or “єн” appear **after the number**, with a space.  
+Ukrainian uses grammatical declension depending on quantity (e.g., долар → доларів).
+
+Examples:  
+- 1 000 гривень  
+- 850 доларів  
+- 10 000 єн  
+- 300 євро  
+- 1 200 вонів
+
+Evaluation Criteria:
+- Name must appear after the number with a space.
+- Use correct declension based on quantity.
+- Do not generate currency names unless present in the source.
+- Follow [Numeric Format] rules.
+
+---
+
+[Date Format]
+
+Definition:  
+Ukrainian dates follow the **Day → Month → Year** order.  
+If a weekday is present, it must appear **before** the date and be followed by a comma.  
+The abbreviation “р.” (for “рік”) follows the year.
+
+Examples:  
+- понеділок, 28 липня 2025 р.  
+- 28 липня 2025 р.  
+- 28.07.2025  
+- 28.07.25
+
+Evaluation Criteria:
+- Confirm Day → Month → Year order.
+- If weekday is present, place before the date with comma.
+- Do not generate weekday if absent in the source.
+- Include “р.” if it appears in the original.
+- Accept both full month and short numerical formats.
+
+---
+
+[Time Format]
+
+Definition:  
+Ukrainian uses the **24-hour clock**, separated by colons (`:`).  
+Time zones (e.g., EET) appear only when explicitly present.
+
+Examples:  
+- 14:30  
+- 14:30:45
+
+Evaluation Criteria:
+- Use colons to separate time units.
+- Do not use AM/PM.
+- Always use two digits (e.g., 09:00 not 9:0).
+- Include time zones only if in the source.

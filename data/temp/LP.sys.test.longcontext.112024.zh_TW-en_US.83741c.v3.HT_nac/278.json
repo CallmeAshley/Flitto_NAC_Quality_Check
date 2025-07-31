@@ -1,0 +1,6 @@
+{
+    "source": "zh_TW",
+    "target": "en_US",
+    "text": "• 渲染與BIM建模工具（如Veras、Hypar）：提供自動化建模與可視化，但無法統合多元資料來源。\n2.2 理論支持：A Pattern Language 的啟發\n• [redacted_name]強調設計模式的上下文適應性與人性化需求，為AI設計應用提供了概念框架。\n3. 研究方法\n3.1 訪談研究",
+    "trans": "• Rendering and BIM modeling tools (such as Veras and Hypar): provide automated modeling and visualization, but cannot integrate multiple data sources.\n2.2 Theoretical Support: Inspiration from \"A Pattern Language\"\n• [redacted_name] emphasizes the contextual adaptability and humanistic needs of design patterns, and provides a conceptual framework for AI design applications.\n3. Research Methods\n3.1 Interview Research"
+}

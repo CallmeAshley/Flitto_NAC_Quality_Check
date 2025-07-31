@@ -1,0 +1,25 @@
+[원문: english]
+This is a secure, encrypted message.
+To view your secure message:
+Open the attachment (SecureMessageAtt.html) and follow the instructions.
+If you experience difficulty opening the message or have forgotten your sign-in password, please contact the original sender of this message for support.
+Click here by 2024-10-29 07:02 CDT to read the message on a mobile device or via Outlook Web Access.
+After that, open the attachment.
+Need help? Click here.
+
+[번역문: ukrainian]
+Це захищене, зашифроване повідомлення.
+Щоб переглянути захищене повідомлення:
+Відкрийте вкладення (SecureMessageAtt.html) і дотримуйтесь інструкцій.
+Якщо у вас виникли труднощі з відкриттям повідомлення або ви забули пароль для входу, зверніться за допомогою до відправника цього повідомлення.
+Натисніть тут до 2024/10/29 07:02 за Центральним літнім часом (CDT), щоб прочитати повідомлення на мобільному пристрої або через вебдоступ Outlook.
+Після цього відкрийте вкладення.
+Потрібна допомога? Натисніть сюди.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜 형식이 "2024/10/29"로 되어 있으며, 이는 "29 жовтня 2024"와 같은 형식으로 수정되어야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

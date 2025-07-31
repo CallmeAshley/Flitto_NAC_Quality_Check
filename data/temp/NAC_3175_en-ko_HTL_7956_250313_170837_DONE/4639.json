@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "•An embedded system is an electronic system that includes a one or more microcontrollers that is configured to perform a specific dedicated application\n•the word embedded means “a computer is hidden inside so one can’t see it.\n•The word “system” refers to the fact that there are many components which act in concert achieving the common goal.\n•The software that controls the system is programmed or fixed into flash ROM and is not accessible to the user of the device.",
+    "trans": "•임베드 된 시스템은 전자적 시스템으로 특정한 전용 응용 프로그램을 수행하기 위해 설정된 하나 또는 여러 개의 마이크로 컨트롤러를 포함한다.\n•임베드 되었다는 말은 \"하나의 컴퓨터가 속에 숨겨져 있고 그래서 그것을 볼 수 없다는 것을 의미한다.\n•\"시스템\"이라는 말은 공동의 목표를 이루고자 협력적으로 작용하는 많은 요소가 있다는 사실을 의미한다.\n•시스템을 제어하는 소프트웨어는 플래시 ROM에 고정되어 있거나 프로그램되어 있어 기기를 사용하는 이용자는 직접 접속할 수 없다."
+}

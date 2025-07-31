@@ -1,0 +1,49 @@
+[원문: polish]
+- wnęka, która może być wykorzystana jako garderoba, sypialnia lub niezależne miejsce do pracy
+- łazienka zprysznicem ipralką
+- przedpokój zszafą wzabudowie.
+Mieszkanie daje możliwość elastycznej aranżacji przestrzeni według własnych potrzeb. Wnękę można zaadaptować na przytulne miejsce do spania lub na przykład pracownię.
+Do nieruchomości przynależy również piwnica opowierzchni 4,90 m2.
+Dużym atutem mieszkania jest możliwość korzystania zniezależnego ogródka, który można zagospodarować według własnych potrzeb.
+Nieruchomość ekonomiczna wutrzymaniu, czynsz do zarządcy wynosi tylko 260 zł przy 1 osobie.
+Ogrzewanie oraz ciepła woda zpieca gazowego.
+Szczegóły oferty:
+Powierzchnia: 31,35 m2
+Liczba pokoi : 1 + wnęka
+Lokalizacja: [redacted_address]
+Rodzaj najmu: Najem okazjonalny, minimum 12 miesięcy
+Cena: 1400 zł miesięcznie + ok. 260 zł czynsz do zarządcy + prąd igaz (opłaty za gaz wsezonie grzewczym to ok. 200 zł/m-c)
+Kaucja: 1400 zł
+Dodatkowe informacje: Brak możliwości trzymania zwierząt
+Serdecznie zapraszam do oglądania.
+Zadzwoń iumów się na bezpłatną prezentację nieruchomości. Serdecznie zapraszamy do współpracy!
+Jesteśmy zwycięzcą statuetki LIDER NIERUCHOMOŚCI OTODOM 2022 wkonkursie dla najlepszej agencji nieruchomości wwojewództwie opolskim. ZAMIEŃ NASZE DOŚWIADCZENIE WSWÓJ SUKCES.
+
+[번역문: english]
+- a recess that can be used as a wardrobe, bedroom or independent work space
+- bathroom with a shower and a washing machine
+- hall with a built-in cabinet.
+The apartment lets you design the interior just like you need. The recess can be adapted for a comfy sleeping area or a studio.
+The property also includes a basement of 4.90 sqm.
+A great advantage is that you can use an independent garden that can be developed just like you need.
+The property is economical to maintain and the rental fee payable to the landlord is just PLN 260 per 1 person.
+Heating and hot water from the gas furnace.
+Offer details:
+Area: 31.35 sqm
+Rooms: 1 + recess
+Location: [redacted_address]
+Type of lease: Occasional lease, at least 12 months
+Price: PLN 1,400 per month + about PLN 260 rental fee for landlord + gas and electricity (gas fees during the heating season are about PLN 200/month)
+Deposit: PLN 1,400
+Additional information: pets are not allowed
+Feel free to visit.
+Call and arrange a free presentation. Feel free to get in touch if you want to work with us!
+We are the winner of the award OTODOM 2022 REAL ESTATE LEADER in the contest for the best real estate agency in the Opolskie Province. TRANSFORM OUR EXPERIENCE INTO YOUR SUCCESS.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호 PLN이 숫자 앞에 위치해야 합니다. 예: PLN 1,400 -> 1,400 PLN

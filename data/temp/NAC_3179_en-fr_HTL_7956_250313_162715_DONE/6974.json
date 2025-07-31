@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "[redacted_name],\nAs requested, the password for your NYCHA Self Service Account has been reset.\nTo access your NYCHA Self Service account online using your new password, access [redacted_url]\nIf you did not change your password and think that your account has been compromised, Please report this immediately to selfservice.help@nycha.nyc.gov\nSincerely,\nNYCHA Customer Service\n***Please do not reply directly to this email. Follow the instructions in the body of the email to provide any requested information. This email is being sent from an unmonitored address, and any replies cannot be",
+    "trans": "[redacted_name],\nComme demandé, le mot de passe de votre compte libre-service NYCHA a été réinitialisé.\nPour accéder à votre compte libre-service NYCHA en ligne à l'aide de votre nouveau mot de passe, accédez à [redacted_url].\nSi vous n'avez pas changé votre mot de passe et que vous pensez que votre compte a été compromis, veuillez le signaler immédiatement à selfservice.help@nycha.nyc.gov.\nCordialement,\nService clientèle de la NYCHA\n***Veuillez ne pas répondre directement à cet e-mail. Suivez les instructions dans le corps de l'e-mail pour fournir les informations demandées. Ce courriel est envoyé à partir d'une adresse non surveillée et les réponses ne peuvent pas être envoyées."
+}

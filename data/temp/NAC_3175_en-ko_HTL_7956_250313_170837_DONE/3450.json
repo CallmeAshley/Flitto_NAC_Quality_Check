@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "The limit in question is:\nLet’s simplify and evaluate it step by step.\nStep 1: Simplify the square root term\nWe start by analyzing the term inside the square root:\nFor small values of , particularly as , the term dominates, so:\nThus:\nSince is approaching 0 from the negative side (), we have , so:\nStep 2: Substitute into the original expression\nNow, substituting this approximation into the original limit:\nStep 3: Evaluate the limit\nSince the expression simplifies to a constant value of , the limit is:\nThus, the value of the limit is \\( \\boxed{-1} \\).",
+    "trans": "문제에서 극한은 다음과 같습니다:\n단계적으로 단순화하고 평가해 보겠습니다.\n1단계: 제곱근 항 단순화\n제곱근 안에 있는 항을 분석하기 시작합니다:\n값이 작을 때, 특히, 항이 지배적이므로:\n따라서:\n음의 방향에서 0에 접근하므로 (), 우리는, 그래:\n2단계: 원래 식에 대입\n이제, 이 근사값을 원래 극한에 대입합니다:\n3단계: 극한 값 구하기\n식이 상수값으로 단순화되므로, 극한은:\n따라서, 극한 값은 \\( \\boxed{-1} \\)입니다."
+}

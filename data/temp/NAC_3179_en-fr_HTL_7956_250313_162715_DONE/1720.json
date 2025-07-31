@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Hello [redacted_name],\nI am following up on my previous email with great content you'll love.\nIt's an open-source benchmarking tool and leaderboard that will help you understand how well Zilliz Cloud performs against the other vector databases, including open-source Milvus! Click here to take a look. When we speak, I will walk you through how other companies use these resources in their vector database journey to ensure that performance and scalability are always top-notch.\nI'm sharing my calendar ( click here) so we can schedule a convenient time to discuss.",
+    "trans": "Bonjour [redacted_name],\nJe fais suite à mon précédent email avec du contenu génial que vous allez adorer.\nIl s'agit d'un outil de benchmarking open-source et d'un classement qui vous aideront à comprendre comment Zilliz Cloud se compare aux autres bases de données vectorielles, y compris Milvus open-source ! Cliquez ici pour jeter un œil. Lorsque nous nous parlerons, je vous expliquerai comment d'autres entreprises utilisent ces ressources dans leur parcours de base de données vectorielle pour garantir que les performances et la scalabilité soient toujours de premier ordre.\nJe partage mon calendrier (cliquez ici) afin que nous puissions programmer un moment qui vous convient pour en discuter."
+}

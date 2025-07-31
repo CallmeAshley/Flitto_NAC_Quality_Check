@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "This is to inform you that the University is making a payment to your bank account by autopay. The payment details are as follows:\nPayee Bank Account No.:[redacted_number]\nPayee Name/Student ID: [redacted_info]\nPayment Amount (HKD): 422.03\nDate of Payment: 06-Nov-2024\nPayment initiated by: EEE\nPayment for: Student SL Expenses-9AVK (EEE)\nIf you cannot find the payment deposited to the above mentioned bank account on or after (06-Nov-2024), please contact Finance Office by email to fostud@polyu.edu.hk.",
+    "trans": "Даним повідомляємо вам, що Університет автоматично здійснює платіж на ваш банківський рахунок. Деталі платежу наступні:\nНомер банківського рахунку отримувача платежу: [redacted_number]\nІм'я отримувача платежу/ Студентський ID: [redacted_info]\nСума платежу (HKD: 422,03\nДата платежу: 06 листопада 2024\nПлатіж ініційовано: EEE\nПлатіж для: Student SL Expenses-9AVK (EEE)\nЯкщо ви не бачите платіж на вищезазначеному банківському рахунку 06 листопада 2024 або пізніше, будь ласка, зв'яжіться з Віділом фінансів через електронну пошту за адресою fostud@polyu.edu.hk."
+}

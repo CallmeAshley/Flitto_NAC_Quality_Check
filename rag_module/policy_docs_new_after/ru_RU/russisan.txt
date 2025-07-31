@@ -1,0 +1,142 @@
+[Locale: ru-RU]
+
+[Numeric Format]
+
+Definition:  
+Russian uses continental European formatting:
+- A **comma (`,`)** is used to represent decimal points.
+- A **space** is used every three digits in the integer part as a grouping separator.
+- No grouping is applied after the decimal point.
+
+Examples:  
+- 1 234,56  
+- 123 456 789,00
+
+Evaluation Criteria:
+- Use a space for digit grouping in the integer part.
+- Use a comma for decimal points.
+- Do not apply grouping after the decimal point.
+- Do not use dots or irregular spacing as separators.
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not the Russian ruble (₽), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adapted according to Russian conventions.
+
+Expected currency symbols include:  
+₽, $, €, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾  
+
+Expected ISO currency codes include:  
+RUB, USD, EUR, JPY, GBP, CNY, KRW, INR, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 долларов`) or **code** (`400 USD`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+Currency symbols such as `₽` appear **after the number**, with a **space** in between.
+
+Examples:  
+- 1 234,56 ₽  
+- 850,00 $  
+- 10 000,00 €  
+- 300,00 £  
+- 1 200,00 ¥
+
+Evaluation Criteria:
+- The symbol must follow the number.
+- A space must be present before the symbol.
+- Numeric formatting must follow the [Numeric Format] section.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes such as `RUB`, `USD`, `EUR` are written **after the number**, with a **space**.
+
+Examples:  
+- 1 234,56 RUB  
+- 850,00 USD  
+- 10 000,00 EUR  
+- 300,00 GBP
+
+Evaluation Criteria:
+- Code must follow the number.
+- A space must be used between number and code.
+- Codes must be uppercase.
+- Follow [Numeric Format] rules for the number.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as “рубль”, “доллар”, “иена” are placed **after the number**, separated by a space.  
+The form may change depending on the number due to Russian grammar (declension).
+
+Examples:  
+- 1 000 рублей  
+- 850 долларов  
+- 10 000 иен  
+- 500 евро  
+- 1 200 вон  
+- 300 фунтов  
+
+Evaluation Criteria:
+- Currency name must follow the number, with a space.
+- Ensure the correct grammatical form of the currency name is used.
+- Do not generate a name unless it exists in the source.
+- Follow [Numeric Format] rules for number formatting.
+
+---
+
+[Date Format]
+
+Definition:  
+Russian dates follow the **Day → Month → Year** order.  
+If a weekday is present, it is placed **before the date** and separated by a comma.  
+The letter `г.` (short for “год”, year) often follows the year in formal formats.  
+Dots (`.`) are used in short formats.
+
+Examples:  
+- понедельник, 28 июля 2025 г.  
+- 28 июля 2025 г.  
+- 28.07.2025  
+- 28.07.25
+
+Evaluation Criteria:
+- Confirm date order is Day → Month → Year.
+- If weekday is present, it must precede the date and be followed by a comma.
+- Accept both long-form and dotted short formats.
+- `г.` should be used when included in the original.
+- **Do not generate a weekday unless it exists in the source.**
+
+---
+
+[Time Format]
+
+Definition:  
+Russian uses the **24-hour clock**.  
+Colons (`:`) are used to separate hours, minutes, and seconds.  
+AM/PM is not used.  
+Time zones (e.g., московское стандартное время, MSK) are only included when explicitly stated.
+
+Examples:  
+- 14:30  
+- 14:30:45  
+
+Evaluation Criteria:
+- Use colons to separate time units.
+- Do not use AM/PM markers.
+- Include time zones only if present in the original.

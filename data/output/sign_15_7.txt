@@ -1,0 +1,31 @@
+[원문: italian]
+Come anticipato da La Stampa, dopo Sestriere gli inglesi del fondo Icon mettono le mani anche sugli impianti sciistici di Bardonecchia. Come dichiarato in una nota Motta Holding Srl, società posseduta indirettamente dal fondo inglese, ha raggiunto un accordo per l’acquisizione della Colomion Spa, società che gestisce Bardonecchia Ski, dai suoi attuali azionisti Lbm Italia Sas.
+Le due società
+Colomion conta oggi
+23 impianti di risalita per cento km di piste
+uno snowpark
+8 ristoranti sulle piste
+la slitta biposto Alpine Coaster
+un bike park aperto nei mesi estivi
+Il comprensorio di Bardonecchia, nato nel 1938, registra circa 500.000 visitatori l’anno.
+Il fondo Icon è già proprietaria di Sestrieres Spa che gestisce la [redacted_name], uno dei più grandi comprensori europei con 47 impianti di risalita in 7 località diverse (Sestriere, Sauze d’Oulx, pragelato, Oulx, Cesana, San Sicario e Claviere) che ospita 1,2 milioni di sciatori all’anno.
+
+[번역문: english]
+As previously reported by La Stampa, after Sestriere the British company Icon is also getting its hands on the Ski facilities in Bardonecchia. As declared in a note, Motta Holding Srl, a company indirectly owned by the British company, has reached an agreement to buy Colomion Spa, the company that manages Bardonecchia Ski, from its actual stakeholders Lbm Italia Sas.
+The two companies
+Colomion today counts
+23 ski lifts for one hundred kilometres of trails
+a snowpark
+8 restaurants on the slopes
+the Alpine Coaster two-seater sledge
+a bike park that opens during the summer months
+The Bardonecchia ski resort, founded in 1938, that registers 500.000 visitors per year.
+The Icon funds owns already the Sestriere Spa that manages [redacted_name], one of the largest European ski resort with 47 ski lifts in 7 different locations (Sestriere, Sauze d'Oulx, Pragelato, Oulx, Cesana, San Sicario and Claviere) and it hosts 1.2 million skier through the year.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "500.000"은 "500,000"으로, "1.2 million"은 "1,200,000"으로 표기해야 합니다.
+    - 통화 표기 오류: 없음

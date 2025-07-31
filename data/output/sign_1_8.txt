@@ -1,0 +1,15 @@
+[원문: english]
+Hi, my name is [redacted_name] and I'm a recruiter at Investing. We need a team of part-time assistants. The online work hours are flexible and you can work from home without any restrictions. The salary ranges from at least $50 to $1500 per day. All you need is a smartphone or computer to do the work. You will be paid immediately at the end of each working day. If you are interested, please contact me via WhatsApp [redacted_number]
+(Requirements: 20 years old and above)
+
+[번역문: french]
+Bonjour, je m'appelle [redacted_name] et je suis recruteur chez Investing. Nous avons besoin d'une équipe d'assistants à temps partiel. Les horaires de travail en ligne sont flexibles et vous pouvez travailler à domicile sans aucune restriction. Le salaire varie entre 50 et 1500 dollars par jour.  Il vous suffit d'un smartphone ou d'un ordinateur pour travailler. Vous serez payé immédiatement à la fin de chaque journée de travail. Si vous êtes intéressé, veuillez me contacter via WhatsApp [redacted_number]
+(Conditions : 20 ans et plus)
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "1 500" 대신 "1500"으로 표기됨
+    - 통화 표기 오류: "$50"와 "$1500"이 "50 $"와 "1 500 $"로 표기되어야 함

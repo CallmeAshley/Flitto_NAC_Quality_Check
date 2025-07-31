@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "You have been refunded for your SDXL Fine Tuned Model \"pastel dream\"\nDue to circumstances out of our control, fine-tuned SDXL models will stop working on October 18. We have refunded you 2 fine-tuning credits which can be used to re-train your model on Flux.\nYour datasets will be unaffected and can be re-used to train Flux models. Creations made using your fine-tuned models will also be unaffected.",
+    "trans": "SDXL 맞춤 모델 \"파스텔 드림\"이 환불이 처리되었습니다.\n저희가 해결 불가능한 상황으로 인해, 맞춤 학습된 SDXL 모델은 10월 18일부터 작동이 중단됩니다. 플럭스에서 모델을 다시 학습하는 데 사용할 수 있는, 맞춤 학습 크레딧 2개를 환급해 드렸습니다.\n귀하의 데이터세트는 영향을 받지 않으며, 플럭스 모델을 학습하는 데 재사용할 수 있습니다. 또한 맞춤 학습된 모델을 사용하여 만든 작품도 영향을 받지 않습니다."
+}

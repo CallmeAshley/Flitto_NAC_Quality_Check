@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "[redacted_name],\nWe noticed a new login attempt to your Afterpay account with the following details:\nDevice: Unknown\nIP Address: [redacted_id]\nApproximate location: [redacted_address]\nIf this was you, you can safely disregard this email.\nIf this wasn't you, please reset your password below.\nReset your password\nThanks,\nThe Afterpay Team\nNeed help?\nVisit Our Help Page\n© 2024 Afterpay. [redacted_address]",
+    "trans": "[Nom_masqué],\nNous avons constaté une nouvelle tentative de connexion à votre compte Afterpay avec les informations suivantes :\nAppareil : Inconnu\nAdresse IP : [id_masquée]\nLocalisation approximative : [adresse_masquée]\nSi cela venait de vous, vous pouvez ignorer ce courriel en toute sécurité.\nSi cela ne venait pas de vous, veuillez réinitialiser votre mot de passe ci-dessous.\nRéinitialiser votre mot de passe\nMerci,\nL’équipe Afterpay\nBesoin d'aide ?\nVisitez notre page d'aide\n© 2024 Afterpay. [adresse_masquée]"
+}

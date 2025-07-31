@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Your email address has recently been entered into our website either to register a new account or update the email address of an existing one. However, your email address is already attached to an existing account.\nThe username associated with this email address is: [redacted_email]\nYou can reset your password if you have forgotten it.\nThe request was sent from:\nIP: [redacted_address]\nLocation: United Kingdom\nBrowser: Chrome on Windows",
+    "trans": "Votre adresse électronique a récemment été introduite sur notre site web, soit pour enregistrer un nouveau compte, soit pour mettre à jour l'adresse électronique d'un compte existant. Cependant, votre adresse électronique est déjà associée à un compte existant.\nLe nom d'utilisateur associé à cette adresse e-mail est : [e-mail_masquée]\nVous pouvez réinitialiser votre mot de passe si vous l'avez oublié\nLa demande a été envoyée depuis :\nIP : [adressé_masquée]\nLieu : Royaume-Uni\nNavigateur : Chrome sur Windows"
+}

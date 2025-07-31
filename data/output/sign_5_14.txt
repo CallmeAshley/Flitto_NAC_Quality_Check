@@ -1,0 +1,27 @@
+[원문: english]
+Construction Industry Keynote
+Find out the latest Autodesk Construction Cloud updates and hear from industry innovators pushing the boundaries of what's possible including a guest speaker from Gamuda Bhd. Plus, simplify how you work, unlock the power of your data, and standardize your processes.
+October 16 at 3:00 PM PT
+Media & Entertainment Industry Keynote
+Check out insights into new capabilities in Autodesk Flow, our industry cloud for media & entertainment. Learn about the future of content production while leveraging the power of Autodesk AI and our core portfolio. Hear from guest speakers from DigitalFish, Wonder Dynamics, and Howard University.
+October 16 at 3:00 PM PT
+Design & Manufacturing Industry Keynote
+Autodesk leaders will detail important updates to Autodesk Fusion and our product portfolio, highlighting how customers are leveraging our technology to achieve better outcomes. Hear directly from guest speakers from Hyundai Motor Co. and Bridgestone.
+
+[번역문: italian]
+Presentazione del Settore Edile
+Scoprite gli ultimi aggiornamenti di Autodesk Construction Cloud e ascoltate gli innovatori del settore che superano i limiti di ciò che è possibile, tra cui un relatore ospite di Gamuda Bhd. In più, semplificate il vostro modo di lavorare, liberate la potenza dei vostri dati e standardizzate i vostri processi.
+Ottobre 16 alle 3:00 PM PT
+Presentazione del settore Media e Intrattenimento
+Scoprite le nuove potenzialità di Autodesk Flow, il nostro cloud industriale per i media e l'intrattenimento. Scoprite il futuro della produzione di contenuti facendo leva sulla potenza di Autodesk AI e del nostro portfolio di base. Ascoltate i relatori ospiti di DigitalFish, Wonder Dynamics e Howard University.
+Ottobre 16 alle 3:00 PM PT
+Presentazione del Settore Design e Produzione
+I leader di Autodesk descriveranno nel dettaglio le novità più importanti di Autodesk Fusion e del nostro portfolio di prodotti, sottolineando come i clienti stiano utilizzando la nostra tecnologia per ottenere risultati migliori. Ascoltate direttamente i relatori ospiti di Hyundai Motor Co. e Bridgestone.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "Ottobre 16"으로 표기되어 있으며, 이는 "16 ottobre"로 수정되어야 합니다. 월 이름은 소문자로 표기해야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

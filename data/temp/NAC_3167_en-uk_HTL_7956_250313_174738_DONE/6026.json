@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "Units of Energy and Power. Equation (1.1) is not correct dimensionally. This is because here we are using the term energy not in its conventional sense, but to indicate the signal size. The same observation applies to Eq. (1.2) for power. The units of energy and power, as defined here, depend on the nature of the signal x(t). If x(t) is a voltage signal, its energy Ex has units of volts squared-seconds (V2 s), and its power Px has units of volts squared. If x(t) is a current signal, these units will be amperes squared-seconds (A2 s) and amperes squared, respectively.",
+    "trans": "Одиниці вимірювання енергії та потужності. Рівняння (1.1) не є вірним з точки зору розмірності. Це пов'язане з тим, що тут ми використовуємо поняття енергії не в звичному сенсі, а для визначення потужності сигналу. Теж саме зауваження стосується рівняння (1.2) для потужності. Одиніці вимірювання енергії та потужності, як визначено тут, залежать від природи сигналу х (t). Якщо х(t) є сигналом напруги, його енергія Ех вимірюється в вольтах квадратних на секунду (В2 с), а його потужність Рх вимірюється в вольтах квадратних. Якщо x(t) є токовим сигналом, одиницями вимірювання будуть ампери квадратні на секунду (А2 с) та ампери квадратні відповідно."
+}

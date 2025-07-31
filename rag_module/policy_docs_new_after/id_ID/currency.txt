@@ -1,0 +1,90 @@
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not the Indonesian rupiah (Rp), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adapted according to Indonesian conventions.
+
+Expected currency symbols include:  
+Rp, $, €, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
+
+Expected ISO currency codes include:  
+IDR, USD, EUR, JPY, GBP, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 dolar`) or **code** (`400 USD`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+The currency symbol (e.g., Rp) is placed **before the number** with **no space**.
+
+Examples:  
+- Rp1.234,56  
+- $850,00  
+- €2.000,00
+
+Evaluation Criteria:  
+- The symbol must appear immediately before the number.  
+- Do not insert a space.  
+- Follow number formatting as defined in the [Numeric Format] section.  
+- Preserve the original symbol from the source.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., IDR, USD) are also placed **before the number**, separated by a **space**.
+
+Examples:  
+- IDR 1.234,56  
+- USD 2.000,00  
+- EUR 800,00
+
+Evaluation Criteria:  
+- Use a space between the code and the number.  
+- Code must appear before the number.  
+- Follow the rules from the [Numeric Format] section.  
+- Preserve the original format.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as "rupiah", "dolar", or "yen" are written **after the number**, usually with a space.
+
+Examples:  
+- 1.000 rupiah  
+- 850 dolar  
+- 10.000 yen  
+- 500 euro  
+- 300 pound  
+- 1.200 won
+
+Evaluation Criteria:  
+- Currency name must follow the number with a space.  
+- The name should match the referenced currency in context.  
+- Follow the number formatting rules from the [Numeric Format] section.  
+- Do not generate a currency name unless one exists in the source.
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

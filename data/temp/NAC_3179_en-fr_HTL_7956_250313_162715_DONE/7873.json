@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "correct. A word cloud, or tag cloud, is a visual device for representing unstructured, textual data. It consists of words extracted from text with the size of each word being proportional to the frequency with which it appears in the given text. A is incorrect because a tree-map is a graphical tool for displaying and comparing categorical data, not for visualizing unstructured, textual data. B is incorrect because a scatter plot is used to visualize the joint variation in two numerical variables, not for visualizing unstructured, textual data.",
+    "trans": "correct. Un nuage de mots, ou nuage de tags, est un dispositif visuel pour représenter des données textuelles non structurées. Il est composé de mots extraits d'un texte, la taille de chaque mot étant proportionnelle à la fréquence à laquelle il apparaît dans le texte donné. A est incorrect car une carte arborescente est un outil graphique pour afficher et comparer des données catégorielles, et non pour visualiser des données textuelles non structurées. B est incorrect car un nuage de points est utilisé pour visualiser la variation conjointe de deux variables numériques, et non pour visualiser des données textuelles non structurées."
+}

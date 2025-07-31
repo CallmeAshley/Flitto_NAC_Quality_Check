@@ -1,0 +1,27 @@
+[원문: english]
+Hello [redacted_name],
+Your iCloud storage is full. Because you’ve exceeded your storage plan, your documents, contacts, and device data are no longer backing up to iCloud and your photos and videos are not uploading to iCloud Photos. iCloud Drive and iCloud-enabled apps are not updating across your devices.
+To continue using these iCloud services, you need to upgrade to iCloud+ or reduce the amount of storage you are using.
+Upgrade to iCloud+ with 50 GB for $1.49 per month
+The iCloud Team
+iCloud is a service provided by Apple.
+Apple ID | Support | Terms and Conditions | Privacy Policy
+Copyright © 2024 Apple Pty Limited, P.O. Box A2629, Sydney South NSW 1235, Australia Tel: 133-622. All rights reserved.
+
+[번역문: ukrainian]
+Вітаємо, [redacted_name]!
+Ваше сховище iCloud переповнено. Оскільки ви перевищили свій тарифний план, ваші документи, контакти та дані пристроїв більше не створюють резервні копії в iCloud, а фотографії та відео не завантажуються до iCloud Photos. iCloud Drive та програми з підтримкою iCloud не оновлюються на всіх ваших пристроях.
+Щоб продовжувати користуватися цими службами iCloud, вам потрібно перейти на iCloud+ або зменшити обсяг використовуваного сховища.
+Оновлення до iCloud+ з 50 ГБ за 1,49$ на місяць
+Команда  iCloud
+iCloud — це сервіс, що надається компанією Apple.
+Apple ID | Підтримка | Умови та положення | Політика конфіденційності
+Авторське право © 2024 Apple Pty Limited, P.O. Box A2629, Sydney South NSW 1235, Австралія. Тел.: 133-622. Усі права захищені.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호와 숫자 사이에 공백이 필요합니다. "1,49$" 대신 "1,49 $"로 표기해야 합니다.

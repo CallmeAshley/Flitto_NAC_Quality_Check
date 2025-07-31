@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "SMTP SERVER, ISP:\nSMTP stands for Simple Mail Transfer Protocol Server. This server takes care of\ndelivering emails from one server to another server. When you send an email to an\nemail address, it is delivered to its recipient by a SMTP Server.\nISP stands for Internet Service Provider. They are the companies who provide you\nservice in terms of internet connection to connect to the internet.\nYou will buy space on a Web Server from any Internet Service Provider. This space\nwill be used to host your Website.",
+    "trans": "SMTP 서버, ISP:\nSMTP는 간이 전자 우편 전송 프로토콜 서버를 의미한다.\n이 서버는 한 서버에서 다른 서버로 이메일을 전송하는 역할을 한다.\n어떤 주소로 이메일을 보내면, SMTP 서버가 이를 수신자에게 전달하는 것이다.\nISP는 인터넷 서비스 제공자를 뜻한다.\n이들은 인터넷 연결을 위한 서비스를 제공하는 회사이다.\n인터넷 서비스 제공자를 통해 웹 서버 공간을 구매해야 한다.\n이 공간은 웹사이트 호스팅에 사용된다."
+}

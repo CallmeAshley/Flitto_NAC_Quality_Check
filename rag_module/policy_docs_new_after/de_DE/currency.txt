@@ -1,0 +1,90 @@
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not the euro (€), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning, spacing, and casing** should be adjusted according to German conventions.
+
+Expected currency symbols include:  
+€, $, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
+
+Expected ISO currency codes include:  
+EUR, USD, JPY, GBP, CNY, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 Dollar`) or **code** (`400 USD`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+The currency symbol (e.g., €) is placed **after the number**, with a **regular space** in between.
+
+Examples:  
+- 1.234,56 €  
+- 2.000,00 $  
+- 850,00 ¥
+
+Evaluation Criteria:  
+- The symbol must follow the number with a space.  
+- Numeric formatting must follow the [Numeric Format] rules.  
+- Preserve the original symbol from the source without changing the format.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., EUR, USD) also appear **after the number**, separated by a space.
+
+Examples:  
+- 1.234,56 EUR  
+- 2.000,00 USD  
+- 800,00 JPY
+
+Evaluation Criteria:  
+- Code must follow the number with a space.  
+- Use correct casing (e.g., EUR not eur).  
+- Follow the rules defined in the [Numeric Format] section.  
+- Do not rewrite the code as a name or symbol.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as “Euro,” “Dollar,” or “Yen” appear **after the number**, usually with a space.  
+In German, all currency names are capitalized.
+
+Examples:  
+- 1.000 Euro  
+- 850 Dollar  
+- 10.000 Yen  
+- 500 Pfund  
+- 300 Rubel  
+- 1.200 Won
+
+Evaluation Criteria:  
+- The currency name must be written after the number with a space.  
+- The name must match the referenced currency and be capitalized.  
+- Number formatting must follow the [Numeric Format] rules.  
+- Do not generate a currency name unless it exists in the source.
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

@@ -1,0 +1,13 @@
+[원문: english]
+I am now writing this letter to explain my family’s financial status to your embassy. My father, [redacted_name], has been working in Malong County Old County Street Wubing Cement Pipe Factory for 6 years and is currently holding the position of Factory director and Legal person of the factory. His monthly income (after tax) is about RMB 120,000 yuan and his annual income (after tax) is about RMB 1,200,000 yuan. Please see her Income Certificate and Business License issued by the factory. Apart from his income certificate, we provide his official bank statement from the China Construction Bank, account no.: [redacted_number]. As of October 8, 2024, the balance in this account is RMB 20,776.05 Yuan. My mother, [redacted_name], is a full-time housewife and mainly manages the family's savings, we have provided her official bank statement from the Agricultural Bank of China, account no.: [redacted_number]. As of October 8, 2024, the balance in this account is RMB 201,624.53 Yuan. Besides that, I also provide my bank statement from the China Construction Bank for your reference.
+
+[번역문: polish]
+Piszę ten list, by wytłumaczyć ambasadzie finanswoy status mojej rodziny. Mój ojciec, [redacted_name], pracuje w Fabryce Rur Cementowych Malong County Old County Street Wubing od 6 lat i obecnie zajmuje stanowisko dyrektora fabryki i osoby prawnej fabryki. Jego miesięczny przychód (po podatku) wynosi około 120,000 yuanów, a jego roczny przychód (po podatku), wynosi około 1,200,000 yanów. Proszę wejrzeć w jego Certyfikat Przychodu i Licencję Biznesową, wydane przez fabrykę. Oprócz jego certyfikatu przychodu, przesyłamy jego oficjalne bankowe oświadczenie od China Construction Bank, numer rachunku: [redacted_number]. Stan jego konta na 8 października 2024 roku wynosi 20,776.05 yuanów. Moja matka, [redacted_name] jest gospodynią domową i przede wszystkim zajmuje się oszczędnościami rodziny, przesyłamy jej oficjalne bankowe oświadczenie z Rolniczego Banku Chin, numer rachunku: [redacted_number]. Stan jej konta na 8 października 2024 roku wynosi 201,624.53 yuanów. Oprócz tego, ja również przesyłam moje oświadczenie bankowe z China Construction Bank do wglądu.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 천 단위 구분에 쉼표 대신 공백을 사용해야 합니다. 예: 120,000 → 120 000
+    - 통화 표기 오류: 없음

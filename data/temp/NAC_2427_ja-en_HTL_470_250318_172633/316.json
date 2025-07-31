@@ -1,0 +1,6 @@
+{
+    "source": "ja_JP",
+    "target": "en_US",
+    "text": "お送りした通知（ハガキ付き）をお手元にご準備いただき、お手続きを進めてください。\n対象世帯識別番号\n必須\n半角英数字で入力してください\n※ 対象世帯識別番号はお送りした通知一式に記載されている12桁の英数字となります\n生年月日\n必須\n半角英数字で入力してください\n年\n月\n日\n※ 生年月日は通知一式の宛先（原則として世帯主様）の方の生年月日となります\n誓約・同意事項\n以下のすべての誓約・同意事項について確認し、誓約・同意します。",
+    "trans": "Please prepare the notification (with the attached postcard) that we sent you and proceed with the process.\nHousehold Identification Number\nRequired\nPlease enter using alphanumeric characters.\n※ The Household Identification Number is a 12-digit alphanumeric code listed on the notification materials we sent.\nDate of Birth\nRequired\nPlease enter using alphanumeric characters.\nYear\nMonth\nDay\n※ The date of birth should be that of the addressee of the notification materials (in principle, the head of the household).\nPledge / Consent Items\nPlease confirm all of the pledge / consent items below, and pledge / agree to them."
+}

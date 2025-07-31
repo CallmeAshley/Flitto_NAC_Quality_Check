@@ -1,0 +1,25 @@
+[원문: english]
+I would like to remind you of the upcoming events we have planned this semester which we’d love to see you at!
+Guided Walking Tour of Leeds, Wednesday 30 October 2024 and Friday 15 November 2024, 12:30-14:30
+Led by Rachael Unsworth of Leeds City Walking Tours, this 2-hour walking tour will take you through Leeds via the civic quarter & old town centre to the waterfront and back to campus.
+Places are free but limited to 25 people per tour. If you would like to attend, please book your place here. One ticket permitted per student, please do not book more than one ticket.
+York and York Christmas Market, Wednesday 27 November 2024, 12:00-21:00
+Places cost £5 and include return travel by coach.
+Only 16 places are left, book your place here if you would like to attend. One ticket permitted per student, please do not book more than one ticket.
+
+[번역문: polish]
+Chciałbym przypomnieć wam o nadchodzących wydarzeniach, które zaplanowaliśmy w tym semestrze, na których chcielibyśmy was widzieć!
+Zwiedzanie Leeds z przewodnikiem, środa października 30 2024 i piątek listopada 15 2024, 12:30-14:30
+Prowadzone przez Rachael Unsworth z Leeds City Walking Tours, to dwugodzinne zwiedzanie przeprowadzi was przez Leeds przez centrum i stare miasto do nadbrzeża i z powrotem do kampusu.
+Udział jest bezpłatny ale miejsca są ograniczone do 25 na zwiedzanie. Jeśli chcielibyście wziąć udział, proszę zarezerwujcie miejsce. Jeden bilet przypada na jednego studenta, proszę nie rezerwować więcej niż jednego biletu.
+York i Jarmark Świąteczny York, środa listopada 27 2024, 12:00-21:00
+Bilet kosztuje 5£, cena zawiera powrót autokarem.
+Zostało tylko 16 miejsc, zarezerwujcie miejsce jeśli chcielibyście wziąć udział. Jeden bilet dozwolony na studenta, proszę nie rezerwować więcej niż jednego biletu.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "środa października 30 2024" 및 "piątek listopada 15 2024"로 잘못 표기되었습니다. 올바른 형식은 "środa 30 października 2024" 및 "piątek 15 listopada 2024"입니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: "5£"로 표기되어 있으며, 올바른 형식은 "£5"입니다.

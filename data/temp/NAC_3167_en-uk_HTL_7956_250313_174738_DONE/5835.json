@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "Some commonly used terms in HTML are:\na)Tag: Tags are always written within angles brackets. it is a piece of text is used to identify an element so that the browser realizes how to display its contents'. <HTML> tag indicates the start of an HTML document . HTML tag can be two types\n-Paired Tags :A tag is said to be a paired tag if text is placed between a tag and its companions tag.In paired tag ,the first tag is referred to as opening tag and the second tag is referred to as closing tag.\n-Unpaired Tags: An unpaired tag does not have\na companion tag .unpaired tag also known as singular or Stand-Alone tags.e.g:<br>,<hr> etc.",
+    "trans": "Деякі загальновживані терміні в HTML:\nа) Тег: Теги завжди пишуться в кутових дужках. це частина тексту, яка використовується для визначення елементу, щоб браузер зрозумів як відображати його вміст. Тег <HTML>  вказує на початоку <HTML>  документу.  HTML тег може бути двох типів:\n- Парні теги: тег називається парним, якщо текст розміщений між тегом та супутнім тегом. В парних тегах перший тег називається відкриваючим, а другий — закриваючим.\n- Непарні теги: Непарний тег не має\nсупутнього тегу. Непарний тег також відомий як одиничний або автономний тег, наприклад <br>,<hr>  та ін."
+}

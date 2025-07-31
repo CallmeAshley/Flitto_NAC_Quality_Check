@@ -1,0 +1,25 @@
+[원문: thai]
+สำหรับผู้โชคดี 250 ท่าน วันที่ 1 พฤศจิกายน 2567 ณ SPHERE HALL, 5M FLOOR, EMSPHERE
+ผู้โชคดีต้องเป็นสมาชิก iQIYI VIP แบบใดก็ได้ โดยมีอายุการใช้งานครอบคลุมมากกว่า 31 ธันวาคม 2567 เป็นต้นไป
+2. 1 UID ต่อ 1 สิทธิ์ ต่อ 1 บัตรประชาชน หากมีการลงชื่อซ้ำทีมงานจะนับเป็น 1 สิทธิ์เท่านั้น
+3. ต้องทำการลงทะเบียนผ่าน Google Form เพื่อลุ้นรับสิทธิ์เข้าร่วมงานจำนวน 250 สิทธิ์ โดยจะมีการเปิดลงทะเบียนในวันที่ 21 ตุลาคม 2567 เวลา 13.00 น. (GMT+7) เป็นต้นไป *ผู้ที่ลงทะเบียนก่อนและถูกต้องตามเงื่อนไขที่กำหนดจะได้รับสิทธิ์ก่อน
+4. ประกาศรายชื่อผู้โชคดีวันที่ 28 ตุลาคม 2567 เวลา 13.00 น. (GMT+7)
+5. ผู้โชคดีที่ได้รับสิทธิ์ 250 ท่าน ต้องมาลงทะเบียนหน้างานในวันที่ 1 พฤศจิกายน 2567 ตั้งแต่เวลา 14.00 น. - 15.00 น. (GMT+7) โดยนำบัตรประชาชนและ QR Code ที่ได้รับ มายืนยันตัวตนหน้างานด้วยตนเองเท่านั้น ไม่อนุญาตให้ผู้อื่นลงทะเบียนเข้าร่วมงานแทน
+6. ผู้โชคดีไม่สามารถโอนสิทธิ์ให้กับผู้อื่นได้ หากไม่มาลงทะเบียนยืนยันตัวตน ภายในเวลาที่กำหนดจะถือว่าสละสิทธิ์
+
+[번역문: english]
+For the lucky-250-winners on 2024 November 1, at SPHERE HALL, 5M FLOOR, EMSPHERE
+Winner must be a iQIYI VIP member of any tier, with a subscription active until at least 2024 December 31.
+2. Each UID is limited to 1 entry per 1 ID card. Duplicate entries will be counted as one.
+3. Must register through Google Form to secure the 250 spots for the event. Registration opens on 2024 October 21, at 1:00 p.m. (GMT+7). *Priority will be given to those who register early and first meet all specified conditions.
+4. The winners will be announced on 2024 October 28, at 1:00 p.m. (GMT+7).
+5. The 250 winners must complete on-site registration on 2024 November 1, between 2:00 p.m. and 3:00 p.m. (GMT+7) By presenting their ID card and the received QR code for identity verification. Only the winner can register—proxies are not allowed.
+6. Winners cannot transfer their prize to others. Failure to register and verify within the time frame will forfeit the prize.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "2024 November 1"로 표기되어 있으며, 이는 "November 1, 2024"로 수정되어야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

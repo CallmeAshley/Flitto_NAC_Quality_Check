@@ -1,0 +1,21 @@
+[원문: english]
+You recently received a text message from the New York State Office of Temporary and Disability Assistance (OTDA) because one or more children in your household have been issued Summer EBT benefits that will expire if they are not completely used by November 28, 2024.
+Summer EBT is a one-time $120 benefit for each eligible child to help cover the cost of food during the summer months when school is out.
+Our records show that you have not used all of your child's Summer EBT benefit. Any unused benefits will expire on November 28, 2024 and cannot be replaced. Please be sure to use all benefits before they expire.
+Your child's benefits were issued to their existing Pandemic-EBT card. If you no longer have this EBT card and need a replacement card, you can order one following the instructions on ordering a replacement card. Once you receive the replacement card, follow these instructions carefully to set a PIN and activate the EBT card.
+If you request a replacement card, benefits will still expire on the original expiration date of November 28, 2024. Please call us right away at 1-833-452-0096 if you need help accessing your benefits.
+
+[번역문: polish]
+Niedawno otrzymali państwo wiadomość tekstową od Biura Pomocy Tymczasowej i dla Osób z Niepełnosprawnością Stanu Nowy Jork (OTDA) ponieważ jedno lub więcej z dzieci w państwa gospodarstwie domowym otrzymało świadczenie Summer EBT, które wygaśnie, jeśli nie zostanie wykorzystane do 28 listopada 2024.
+Summer EBT jest jednorazowym świadczeniem w wysokości 120$ dla każdego uprawnionego dziecka, mające pokryć koszty wyżywienia w trakcie letnich miesięcy, gdy nie ma szkoły.
+Według naszych rejestrów nie wykorzystali państwo całej kwoty świadczenia Summer EBT. Wszystkie niewykorzystane środki wygasną 28 listopada 2024 i nie mogą zostać zastąpione. Proszę się upewnić, że wykorzystają państwo środki zanim wygasną.
+Świadczenie państwa dziecka zostało udzielone na ich istniejącą kartę Pandemic-EBT. Jeśli nie posiadają państwo już karty EBT i potrzebują państwo karty zastępczej, mogą ją państwo zamówić zgodnie z instrukcjami zamawiania karty zastępczej. Kiedy już państwo otrzymają kartę zastępczą, proszę postępować zgodnie z instrukcjami aby ustawić kod PIN i aktywować kartę EBT.
+Jeśli zamówią państwo kartę zastępczą, świadczenie nadal wygaśnie w oryginalny dzień wygaśnięcia świadczenia 28 listopada 2024. Proszę zadzwonić do nas pod numer 1-883-452-0096, jeśli potrzebują państwo pomocy w uzyskaniu dostępu do państwa świadczenia.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호 $가 숫자 뒤에 위치해야 합니다. 올바른 표기는 "$120"가 아닌 "120$"입니다.

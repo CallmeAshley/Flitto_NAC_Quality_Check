@@ -1,0 +1,89 @@
+[원문: korean]
+가족관계증명서(해당자)
+※ 제출 서류는 10월 이후 발급본만 인정합니다.
+3. 제출 기한
+가. 학생 제출기한 : 2024. 11. 1. (금)
+나. 학과 제출기한 : 2024. 11. 6. (수)
+※ 학과에서는 학생이 기한 내 서류를 제출할 수 있도록 안내해 주시기 바랍니다.
+4. 제출방법(붙임의 입력방법 참고)
+가. 학생 : 인하포털시스템(http://portal.inha.ac.kr) 로그인 → (대학원) 장학→
+장학금 수혜를 위한 확인 입력→ 저장 및 확인요청 버튼 클릭→
+「장학금 수혜를 위한 확인서」 출력→학과사무실로 제출서류와 함께 제출
+나. 학과 :인하포털시스템(http://portal.inha.ac.kr) 로그인 → 기간처리업무→
+(대학원)장학→ 장학수혜자격확인→ 학과 접수→ 제출자 현황 인쇄→
+주임교수 또는 학과장 서명→ 장학복지팀 제출
+5. 기타사항
+가. 본 조사는 한국장학재단 통계 및 본교 장학금 수혜자격 확인용으로 활용될 예정이며,
+장학조건을 확인하시어불이익이 발생하지 않도록 하여 주시기 바랍니다.
+※ 확인사항
+장학금명
+장학조건
+비고
+○ 인하비전장학금
+○ 학비장학금(인하대병원 제외)
+○ 조교장학금
+○ 지도교수추천장학금
+○ INSTAR장학금
+전업생
+(Full-time)
+건강보험자격득실확인서 상
+가입자 구분 확인(직장피부양자,
+지역세대원, 지역세대주 등)
+○산학연장학금
+○ 동문사랑장학금
+○ 더배움장학금
+○ 교직원장학금
+○ 학비장학금(인하대병원)
+직장
+재직자
+(Part-time)
+건강보험자격득실확인서 상
+
+[번역문: english]
+Family relationship certificate (if applicable)
+※ Submission of documents will be accepted only after October.
+3. Submission Deadline"
+A. Student submission deadline: Friday, 2024. 11. 1.
+B. Department submission deadline: Wednesday, 2024. 11. 6.
+※ The department is responsible for ensuring that students submit their documents by the deadline.
+4. Submission Method (please refer to the attached instructions for details).
+A. Student: Log in to the Inha Portal System (http://portal.inha.ac.kr) → (Graduate)  →"
+Enter confirmation for scholarship benefits → Click the 'Save and Request Confirmation' button →
+Print the confirmation letter for the scholarship beneficiary → Submit it to the department office along with the other required documents
+B. Department: Log in to the Inha Portal System (http://portal.inha.ac.kr) → Period Processing →
+(Graduate) Scholarship → Check eligibility for scholarship benefits → Department Reception → Print submission status →
+Signature of the chief professor or department head → Submit to the Scholarship Welfare Team.
+5. Other Matters
+A. This survey will be used to verify the statistics of the Korea Scholarship Foundation and determine eligibility for the scholarship at this school.
+Please review the scholarship conditions to avoid any disadvantages.
+※ Confirmation Details
+Scholarship Name
+Scholarship Conditions
+Note
+○ Inha Vision Scholarship
+○ School Tuition Scholarship (excluding Inha University Hospital)
+○ Fellowship Scholarship
+○ Scholarship for Faculty Recommendation
+○ INSTAR Scholarship
+Full-time student
+(Full-time)
+Confirmation of subscriber classification
+on the health insurance qualification certificate
+(e.g., workplace dependent, local household member, local household head, etc.)
+○ Industry-Academia Scholarship
+○ Alumni Love Scholarship
+○ Scholarship for Further Education
+○ Staff Scholarship
+○ Tuition Scholarship (Inha University Hospital)
+Office
+Worker
+(Part-time)
+on the health insurance qualification certificate
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜 형식이 "2024. 11. 1." 및 "2024. 11. 6."으로 되어 있으며, 이는 미국 영어의 날짜 형식인 "November 1, 2024" 및 "November 6, 2024"로 수정되어야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

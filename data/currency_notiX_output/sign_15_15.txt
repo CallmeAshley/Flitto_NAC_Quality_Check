@@ -1,0 +1,51 @@
+[원문: italian]
+Carta: A0125258
+Progressivo: 109399
+ID Sistema: 00000305
+S.F: be034b385f098e14 Data/ora emiss: 30/10/24 Cod.Rich.Em.Sigillo: CW000020 Genere: 53
+Intero Artist Presale
+TITOLO DIGITALE
+Data: 30 Aprile 2025
+Settore Non Numerato
+Anello C Non Numerato Anello C Non Num.
+Ore: 20:00
+Affinché l'ingresso si svolga senza alcun intoppo, La preghiamo di osservare le seguenti istruzioni per l'uso:
+• Il biglietto è valido solo come stampa completa su foglio A4.
+• Faccia attenzione che il biglietto sia piegato conformemente alle istruzioni.
+• Solo i biglietti con una buona qualità di stampa possono essere letti all'ingresso dallo scanner.
+• Per favore, eviti che il biglietto venga in contatto con umidità.
+• Tratti il Suo biglietto come fosse denaro contante.
+• Il biglietto è valido per un solo ingresso e viene annullato dopo il primo controllo.
+Ogni spettatore deve presentarsi all’ingresso munito solo del proprio biglietto
+ISTRUZIONI SU COME PIEGARE IL BIGLIETTO
+Ai fini del controllo all'ingresso, è necessario che questo biglietto sia piegato Per favore, osservi le seguenti istruzioni:
+
+[번역문: english]
+Card: A0125258
+Progressive: 109399
+System ID: 00000305
+S.F: be034b385f098e14 Date/Time Issued: 10/30/24 Seal Request Code: CW000020 Category: 53
+Whole Artist Presale
+DIGITAL TITLE
+Date: 30 April 2025
+Sector not numbered
+Ring C Not Numbered Ring C Not Numbered
+Time: 20:00 Pm
+To ensure smooth entry, please follow the instructions below carefully:
+• The ticket is only valid as a full print on A4 sheet.
+• Ensure that the ticket is folded according to the provided instructions.
+• Only tickets with good print quality can be scanned successfully at the entrance.
+• Please avoid exposing the ticket to moisture.
+• Treat your ticket as if it were cash.
+• The ticket is valid for one entry only and will be void after the first scan.
+Each attendee must present their own ticket at the entrance.
+INSTRUCTIONS ON HOW TO FOLD THE TICKET
+For the purpose of entry control, this ticket must be folded. Please follow the instructions below:
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: "Date/Time Issued: 10/30/24"는 미국 영어 날짜 형식에 맞지 않음. "October 30, 2024"로 표기해야 함.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

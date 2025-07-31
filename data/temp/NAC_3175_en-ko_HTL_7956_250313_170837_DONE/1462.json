@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Dear Qasim,\nIt’s been a pleasure meeting with you today.\nPlease kindly revised as follows (refer to diagram):\nThere shouldn’t be connection from trusted zone to GCP\nAdd the actual sources (SAP and Imdad)\nAdd one more slide to show the server topology, firewall and segregate Dev and Prod (meaning, no access to Prod Data)\nDirection of data flow\nIdentify the ingress / egress bandwidth\nLooking forward to the revision tomorrow morning",
+    "trans": "콰심에게,\n오늘 만나뵙게 되어서 정말 반가웠습니다.\n다음과 같이 수정해 주세요 (도식 참조):\n신뢰구간에서 GCP로 연결이 있어서는 안 됩니다\n실제 출처를 추가하세요 (SAP 및 임다드)\n서버 위상 배치와 방화벽을 보여주기 위한 슬라이드를 하나 추가하고, 데브와 프로드를 구분하세요 (즉슨 프로드 데이터에 대한 접근 안됨)\n데이터 흐름의 방향성\n진입 / 배출 대역폭을 확인하세요\n내일 아침 수정본을 기대하고 있겠습니다"
+}

@@ -1,0 +1,37 @@
+[원문: english]
+Do you consent to your supply to be off for around 1 hour per fuel?
+Can you confirm someone over the age of 18 will be available for the 4 hour appointment window?
+What are the best on the day contact details?
+Would you like the engineer to have a Passphrase
+If we are able to communicate with the meter, are you happy for us to collate readings half hourly?
+Are there any vulnerabilities we need to be aware of?
+Are there any animals in the property? if so they will need to be put away for the appointment
+Boiler & Flue location - If the boiler is located in the loft, is the loft boarded and accessible with an existing loft ladder?
+Also I'd like to make you aware of our Guaranteed Standards of Service: This a promise to our customer that when an appointment is booked, we will arrive as and when we say we will and complete the appointment. If we don’t then the customer may be entitled to a payment of £30.00.
+I await your response.
+If there is anything else you want me to help you with, please do get in touch.
+Have a great day!
+Mia
+
+[번역문: spanish]
+¿Acepta que su suministro se interrumpa durante aproximadamente 1 hora por cada tipo de combustible?
+¿Puede confirmar que habrá una persona mayor de 18 años disponible durante la franja horaria de 4 horas para la cita?
+¿Cuáles son los mejores datos de contacto para el día de la cita?
+¿Le gustaría que el ingeniero tuviera una contraseña?
+Si podemos comunicarnos con el medidor, ¿está de acuerdo en que registremos las lecturas cada media hora?
+¿Existe alguna vulnerabilidad de la que debamos estar al tanto?
+¿Hay animales en la propiedad? Si es así, deberán ser llevados a otro lugar durante la cita.
+Ubicación de la caldera y el conducto: Si la caldera está en el desván, ¿el desván está tabicado y es accesible con una escalera?
+También me gustaría informarle sobre nuestros Estándares Garantizados de Servicio: Es una promesa que les hacemos a nuestros clientes de que, cuando se reserva una cita, llegaremos en el momento acordado y completaremos el servicio. Si no lo hacemos, el cliente tendrá derecho a recibir un pago de 30.00£.
+Espero su respuesta.
+Si hay algo más en lo que pueda ayudarle, no dude en contactarnos.
+¡Que tenga un excelente día!
+Mia
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호와 숫자 사이에 공백이 없어야 합니다. "30.00£" 대신 "£30,00"로 표기해야 합니다.

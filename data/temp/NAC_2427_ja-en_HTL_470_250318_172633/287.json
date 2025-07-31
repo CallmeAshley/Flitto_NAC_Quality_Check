@@ -1,0 +1,6 @@
+{
+    "source": "ja_JP",
+    "target": "en_US",
+    "text": "A：給与収入850万円以下（所得の場合は655万円以下）\nB：給与収入850万超〜1,095万円以下（所得の場合は655万超〜900万以下）\nC：給与収入1,095万超〜1,145万円以下（所得の場合は900万超〜950万以下）\nD：給与収入1,145万超〜1,195万円以下（所得の場合は950万超〜1,000万以下）\nE：給与収入1,195万円超〜2,000万円以下（所得の場合は1,000万超〜1,805万以下）",
+    "trans": "A: Salary income of up to 8.5 million yen (or taxable income up to 6.55 million yen)\nB: Salary income of 8.5 million ~ 10.95 million yen (or taxable income of 6.55 million ~ 9 million yen)\nC: Salary income of 10.95 million ~ 11.45 million yen (or taxable income of 9 million ~ 9.5 million yen)\nD: Salary income of 11.45 million ~ 11.95 million yen (or taxable income of 9.5 million ~ 10 million yen)\nE: Salary income of 11.95 million ~ 20 million yen (or taxable income of 10 million ~ 18.05 million yen)"
+}

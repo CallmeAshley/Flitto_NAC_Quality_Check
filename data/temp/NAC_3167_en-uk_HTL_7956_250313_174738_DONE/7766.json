@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "Set the temperature to 615 K, this is comparable to the temperature in a very hot oven.\nNotice that the RED line is the radiation emitted by the oven. The line should appear flat,\nbut it isn’t. Zoom the y axis in to read .001 and zoom the x-axis out.\n1. How is the curve produced by the oven similar to the line produced by the light bulb?\n2. How is the curve produced by the oven different from the curve produced by the light\nbulb?",
+    "trans": "Встановіть температуру до 615 K, це можна порівняти з температурою в дуже гарячій духовці.\nЗверніть увагу на те, що ЧЕРВОНА лінія є випромінюванням, яке випускається духовкою. Лінія повинна здатися рівною,\nале це не так. Збільште масштаб осі y до значення .001 і зменшіть масштаб осі x.\n1. Чим крива, яка отримана від печі, схожа на лінію, яка отримана від лампочки?\n2. Чим крива, яка отримана за допомогою печі, відрізняється від кривої, яка отримана за допомогою\nлампочки?"
+}

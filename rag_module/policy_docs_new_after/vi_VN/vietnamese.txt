@@ -1,0 +1,133 @@
+[Locale: vi-VN]
+
+[Numeric Format]
+
+Definition:  
+Vietnamese follows continental European numeric formatting:
+- A **comma (`,`)** is used to represent decimal points.
+- A **dot (`.`)** is used every three digits in the integer part for grouping.
+- No grouping is applied after the decimal point.
+
+Examples:  
+- 1.234,56  
+- 123.456.789,00
+
+Evaluation Criteria:
+- Use a dot (`.`) for digit grouping in the integer part.
+- Use a comma (`,`) for decimal points.
+- Do not apply grouping after the decimal.
+- No spaces between digits and separators.
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not Vietnamese đồng (₫), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **position and spacing** should be adapted according to Vietnamese conventions.
+
+Expected currency symbols include:  
+₫, $, ¢, €, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₡, ₨, ₦, ₫, ₭, ₲, ₵, ₿, ¤, ƒ, ₮, ₪, ₴, ﷼, ₸, ₾
+
+Expected ISO currency codes include:  
+VND, USD, EUR, JPY, GBP, KRW, CNY, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 đô la`) or **code** (`400 USD`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+Currency symbols such as `₫`, `$`, `€` appear **after the number**, with a **space**.
+
+Examples:  
+- 1.234,56 ₫  
+- 850,00 $  
+- 10.000,00 €
+
+Evaluation Criteria:
+- Symbol must follow the number.
+- Use a space between number and symbol.
+- Follow [Numeric Format] rules for the number.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., VND, USD) are written **after the number**, with a **space**.
+
+Examples:  
+- 1.234,56 VND  
+- 850,00 USD  
+- 10.000,00 EUR
+
+Evaluation Criteria:
+- Code must follow the number.
+- Use a space between number and code.
+- Use uppercase ISO codes.
+- Follow [Numeric Format] rules for the number.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as “đồng”, “đô la”, “yên”, “won”, or “euro” appear **after the number**, with a **space**.
+
+Examples:  
+- 1.000 đồng  
+- 850 đô la  
+- 10.000 yên  
+- 500 won  
+- 300 euro
+
+Evaluation Criteria:
+- Currency name must follow the number with a space.
+- Use proper Vietnamese grammar and word form.
+- Do not generate currency names unless present in the source.
+- Follow [Numeric Format] rules for the number.
+
+---
+
+[Date Format]
+
+Definition:  
+Vietnamese dates follow the **Day → Month → Year** order.  
+If a weekday is present, it must appear **before** the date and followed by a comma.
+
+Examples:  
+- Thứ hai, ngày 28 tháng 7 năm 2025  
+- 28 tháng 7 năm 2025  
+- 28 thg 7, 2025  
+- 28/07/2025
+
+Evaluation Criteria:
+- Confirm the Day → Month → Year order.
+- If a weekday is present, it appears before the date with a comma.
+- Accept both full-form and abbreviated styles.
+- Do not generate a weekday if it is not in the source.
+
+---
+
+[Time Format]
+
+Definition:  
+Vietnamese uses the **24-hour clock**, with colons (`:`) separating hours, minutes, and seconds.  
+No AM/PM notation is used. Time zones may appear in formal contexts but should only be included if present in the source.
+
+Examples:  
+- 14:30  
+- 14:30:45
+
+Evaluation Criteria:
+- Use colons to separate time units.
+- Do not use AM/PM.
+- Always write hours and minutes with two digits (e.g., 09:00).
+- Include time zone only if explicitly present.

@@ -1,0 +1,27 @@
+[Time Format]
+
+Definition:  
+Italian uses the **24-hour clock** format.  
+Colons (`:`) separate hours, minutes, and seconds.  
+AM/PM is not used.  
+Time zone names (e.g., CET, CEST) are not included unless explicitly stated.
+
+Examples:  
+- 14:30  
+- 14:30:45  
+
+Evaluation Criteria:  
+- Use colons between time units.  
+- Do not use AM/PM.  
+- Do not include time zone names unless required by the original.
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

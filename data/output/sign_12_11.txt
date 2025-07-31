@@ -1,0 +1,19 @@
+[원문: arabic]
+تنص على التالي:
+تشتكي المريضة من إهمال خطير من مشفى ان ام سي المعروف في دبي، وذلك حماية للمرضى من عواقب وخيمة قد تهدد الحياة. تمفي العام2021تشخيصأليافعديدةلديها،وفي[redacted_number]أجرياستئصالهامنقبلالدكتورة[redacted_name] رئيسة قسم الحوامل وأمراض النساء، و أُخرجت للمنزل في [redacted_number] دون مشاكل. بعد خمس أيام )2/24( عادت للمشفى بسبب نزف وألم، تمت معاينتها من قبل د. [redacted_name] )لم تتمكن من أخذ موعد مع د. [redacted_name](، تم تنظيف الجرح وأُعطيت مسكنات ومنوماً خفيفاً. زارت الطبيبة [redacted_name]في 02/28 و حدث ما يلي:
+1-سألت [redacted_name] الطبيبة بالخصوص عن الليف مقاس 11x8 سم، لأنه غير مذكور في تقرير الخروج من المشفى )أ كبر ليف 8x9 سم( فأجابتها أنه ليس عندها تفصيل كامل عن كل الألياف التي قد يتفاوت حجمها، و أطلعتها على ما هو مكتوب في الملحوظات.
+2- أ كدت د. [redacted_name] بثقة أنها استأصلت كل الألياف بما فيها الصغيرة ُ مقاس 2x3 ًسم. 3-استفسرت المريضة فيما إذا كان الرحم قد تهدم collapsed، كما أعلمت سابقا بأن هذا قد يحدث، وكان الرد بأنه
+
+[번역문: english]
+09/02/2023, That states the following:
+The patient complains of serious negligence by the well-known NMC Hospital in Dubai, to protect patients from severe consequences that may threaten life. In 2021, she was diagnosed with multiple fibroids, and on [redacted_number], they were removed by Dr. [redacted_name], Head of the Obstetrics and Gynecology Department, and she was discharged home on [redacted_number] without issues. Five days later (24/2), she returned to the hospital due to bleeding and pain. She was examined by Dr. [redacted_name] (she couldn't get an appointment with Dr. [redacted_name]), the wound was cleaned, and she was given painkillers and a mild sedative. She visited Dr. [redacted_name] on 28/02, and the following occurred:
+1- [Redacted_name] specifically asked the doctor about the fibroid measuring 11x8 cm, as it was not mentioned in the hospital discharge report (the largest fibroid was 8x9 cm). The doctor responded that she did not have complete details of all the fibroids, which can vary in size, and showed her what was written in the notes.
+2-Dr. [Redacted_name] confidently confirmed that she had removed all the fibroids, including the small ones measuring 2x3 cm. 3-The patient inquired whether the uterus had collapsed, as she had been previously informed that this could happen. The response was that
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 일/월/년 형식으로 표기되어 있으며, 이는 미국 영어의 월/일/년 형식과 일치하지 않습니다. 예를 들어, "24/2"는 "February 24"로, "28/02"는 "February 28"로 수정되어야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

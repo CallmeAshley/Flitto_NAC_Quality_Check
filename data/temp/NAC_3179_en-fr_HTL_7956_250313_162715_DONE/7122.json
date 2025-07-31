@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Limitations of hedging translation exposure:\n• Inaccurate earnings forecasts — Earnings in a future period are uncertain.\n• Inadequate forward contracts for some currencies — Forward contracts are not available for all currencies.\n• Accounting distortions — The forward rate gain or loss reflects the difference between the forward rate and the future spot rate, whereas the translation gain or loss is caused by the change in the average exchange rate over the period in which the earnings are generated.\n• Increased transaction exposure — The MNC may be increasing its transaction exposure.",
+    "trans": "Limites de la couverture du risque de change :\n• Prévisions de bénéfices inexactes — Les bénéfices d'une période future sont incertains.\n• Contrats à terme inadéquats pour certaines devises — Les contrats à terme ne sont pas disponibles pour toutes les devises.\n• Distorsions comptables — Le gain ou la perte sur contrat à terme reflète la différence entre le taux à terme et le taux de change au comptant futur, tandis que le gain ou la perte de conversion est causé par la variation du taux de change moyen sur la période au cours de laquelle les bénéfices sont générés.\n• Augmentation du risque de transaction — La multinationale peut accroître son risque de transaction."
+}

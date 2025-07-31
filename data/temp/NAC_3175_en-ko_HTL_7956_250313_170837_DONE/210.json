@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Life360 provides real-time location information for members based on the location of their mobile devices.\nIt is not possible to sign into multiple devices with the same email address or Life360 account simultaneously. This ensures the most accurate location for each member in your Circle.\nWhen you sign into Life360 on a new device, we will automatically sign you out of any other device you are signed into to prevent issues with location or Place Alerts.\nIf you are signed in on only one device and are still experiencing location issues, check your settings to improve your location accuracy.\nIf you are having trouble signing into your account, you can reset your password.",
+    "trans": "Life360은 구성원의 모바일 기기 위치를 기반으로 실시간 위치 정보를 제공합니다.\n동일한 이메일 주소나 Life360 계정을 사용하여 여러 기기에 동시에 로그인하는 것은 불가능합니다. 이는 서클 내 각 구성원의 위치를 가장 정확하게 확인하기 위한 조치입니다.\n새로운 기기에서 Life360에 로그인하면, 위치 정보나 장소 알림과 관련된 문제를 방지하기 위해 기존에 로그인된 다른 기기에서는 자동으로 로그아웃됩니다.\n만약 한 대의 기기에서만 로그인했음에도 위치 문제가 발생한다면, 설정을 확인하여 위치 정확도를 향상시키는 것이 좋습니다.\n계정 로그인에 어려움이 있는 경우, 비밀번호를 재설정할 수 있습니다."
+}

@@ -1,0 +1,13 @@
+[원문: english]
+I am now writing this letter to explain my family’s financial status to your embassy. My father, [redacted_name], has been working in Malong County Old County Street Wubing Cement Pipe Factory for 6 years and is currently holding the position of Factory director and Legal person of the factory. His monthly income (after tax) is about RMB 120,000 yuan and his annual income (after tax) is about RMB 1,200,000 yuan. Please see her Income Certificate and Business License issued by the factory. Apart from his income certificate, we provide his official bank statement from the China Construction Bank, account no.: [redacted_number]. As of October 8, 2024, the balance in this account is RMB 20,776.05 Yuan. My mother, [redacted_name], is a full-time housewife and mainly manages the family's savings, we have provided her official bank statement from the Agricultural Bank of China, account no.: [redacted_number]. As of October 8, 2024, the balance in this account is RMB 201,624.53 Yuan. Besides that, I also provide my bank statement from the China Construction Bank for your reference.
+
+[번역문: italian]
+Scrivo ora questa lettera per spiegare la situazione finanziaria della mia famiglia alla vostra ambasciata. Mio padre, [redacted_name], lavora da 6 anni nella fabbrica di tubi di cemento Wubing di Malong County Old County Street e attualmente ricopre la posizione di direttore della fabbrica e persona giuridica della stessa. Il suo reddito mensile (al netto delle imposte) è di circa 120 000 yuan RMB e il suo reddito annuale (al netto delle imposte) è di circa 1 200 000 yuan RMB. Si prega di vedere il suo certificato di reddito e la licenza commerciale rilasciata dalla fabbrica. Oltre al certificato di reddito, forniamo l'estratto conto ufficiale della China Construction Bank, numero di conto: [redacted_number]. All'8 ottobre 2024, il saldo di questo conto è di 20,776.05 Yuan. Mia madre, [redacted_name], è casalinga a tempo pieno e gestisce principalmente i risparmi della famiglia; abbiamo fornito il suo estratto conto ufficiale della Agricultural Bank of China, numero di conto: [redacted_number]. All'8 ottobre 2024, il saldo di questo conto è di 201,624.53 Yuan RMB. Inoltre, vi fornisco anche il mio estratto conto della China Construction Bank.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜는 "8 ottobre 2024"로 표기되어 있으며, 요일이 포함되지 않았으므로 정책 위반은 아님.
+    - 숫자 표기 오류: 천 단위 구분자가 쉼표(`,`)로 사용되었으며, 정책에 따라 마침표(`.`)로 표기해야 함. 예: "120 000"은 "120.000"으로, "1 200 000"은 "1.200.000"으로, "20,776.05"는 "20.776,05"로, "201,624.53"는 "201.624,53"로 수정 필요.
+    - 통화 표기 오류: 없음

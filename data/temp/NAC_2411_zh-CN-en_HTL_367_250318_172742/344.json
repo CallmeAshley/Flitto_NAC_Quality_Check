@@ -1,0 +1,6 @@
+{
+    "source": "zh_CN",
+    "target": "en_US",
+    "text": "开课学期\n3\n课程类型\n必修课\n总学时\n150\n学分\n15\n周课时\n4周，每周30-40学时\n先修课程\n无\n教学目标\n演示工业机电系统关键方面（传感、驱动和通信）及其集成的关键分析。\n部署和集成各种机电子系统，在复杂和不可预测的情况下做出正确的判断，以形成完全自动化的系统。\n运用机电一体化技术解决工业自动化问题，具有自主性和创新性。\n系统理解机电子系统和部件的技术信息和电路图。",
+    "trans": "Semester\n3\nCourse Type\nCompulsory\nTotal Hours\n150\nCredits\n15\nWeekly Hours\n4 weeks, 30-40 hours per week\nPrerequisite Courses\nNone\nTeaching Objectives\nDemonstrate key aspects of industrial mechatronic systems (sensing, drive, and communication) and key analyses of their integration.\nDeploy and integrate various electromechanical systems, making informed decisions in complex and unpredictable situations to create fully automated systems.\nApply mechatronics technology to solve industrial automation challenges, exhibiting autonomy and innovation.\nComprehensively understand the technical information and circuit diagrams of electromechanical systems and components."
+}

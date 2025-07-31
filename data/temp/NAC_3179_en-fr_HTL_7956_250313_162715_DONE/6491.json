@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "•\n• •\n•\nThe organism in a cell may die or survive.\nAn empty cell may give birth to an organism and become live. Rules for next generation:\nThe organism in a live cell with 2 or 3 live neighbors survives. The organism in a live cell with less than 2 or more than 3 live\nneighbors dies (lack of food or over-crowded).\nAn empty cell with exactly three live neighbors will give birth to\n•\n• A cell with an organism is called a live cell. On each generation (e.g. each clock tick):\n•\n•\n•\n•\nGame of Life\nExamples and evolutions",
+    "trans": "•\n• •\n•\nL'organisme contenu dans une cellule peut mourir ou survivre.\nUne cellule vide peut donner naissance à un organisme et devenir vivante. Règles pour la génération suivante :\nL'organisme d'une cellule vivante ayant 2 ou 3 voisins vivants survit. L'organisme dans une cellule vivante avec moins de 2 ou plus de 3 voisins\nvivants meurt (manque de nourriture ou surpeuplement).\nUne cellule vide ayant exactement trois voisins vivants donnera naissance à\n•\n• Une cellule contenant un organisme est appelée cellule vivante. À chaque génération (par exemple, à chaque tic-tac d'horloge) :\n•\n•\n•\n•\nJeu de la vie\nExemples et évolutions"
+}

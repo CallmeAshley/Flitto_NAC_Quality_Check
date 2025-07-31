@@ -1,0 +1,17 @@
+[원문: english]
+This is a message from JEA. A payment has been received on account 3157174130 for $20.00. Your current balance, including this payment, is $27.16.
+Additional payments can be made online, by phone at 904-665-6000 or at hundreds of locations that offer Fidelity Express and Western Union payment services. To check your usage or change your alert settings, please visit www.myusage.com.
+This is an automated message.
+
+[번역문: french]
+Ceci est un message de JEA. Un paiement de  20,00$ a été reçu sur le compte 3157174130. Votre solde actuel, y compris ce paiement, est de  27,16$.
+Des paiements supplémentaires peuvent être effectués en ligne, par téléphone au 904-665-6000 ou dans des centaines d'endroits qui offrent les services de paiement Fidelity Express et Western Union. Pour vérifier votre utilisation ou modifier vos paramètres d'alerte, veuillez consulter le site www.myusage.com.
+Il s'agit d'un message automatique.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 달러 기호가 숫자 앞에 위치함. 프랑스어 정책에 따르면 통화 기호는 숫자 뒤에 공백을 두고 위치해야 함. (예: 20,00 $)

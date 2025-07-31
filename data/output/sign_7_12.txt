@@ -1,0 +1,33 @@
+[원문: english]
+CLINICAL INDICATION: pelvic pain :: R10.2 Pelvic and perineal pain
+TECHNIQUE: Transvaginal imaging of the pelvis was performed.
+COMPARISON: Transabdominal and transvaginal pelvic ultrasound 5/16/2024.
+INTERPRETATION: The patient claims her last menstrual period was 10/8/2024.
+UTERUS:
+The uterus is anteverted/mobile in lie and measures 7.7 cm in length x 4.2 cm in AP diameter x 5.1 cm in width. The myometrium is homogeneous in echotexture. No focal myoma was visualized The endometrial echo complex measures up to 14 mm in thickness, which may be secondary to the patient's phase of the menstrual cycle, however, the patient claims her last menstrual period was 10/8/2024.
+The visualized portion of the cervix demonstrates small cervical nabothian cysts.
+RIGHT ADNEXUM:
+The right ovary measures 3.4 cm in length by 3.3 cm in AP diameter by 2.5 cm in width. The previously visualized right follicular type cysts noted on the prior examination were not identified on this examination.
+Doppler flow is demonstrated within the ovary.
+LEFT ADNEXUM:
+
+[번역문: russian]
+КЛИНИЧЕСКОЕ ПОКАЗАНИЕ: тазовая боль :: R10.2 Тазовая и перинеальная боль
+ТЕХНИКА: Выполнено трансвагинальное ультразвуковое исследование таза.
+СРАВНЕНИЕ: Трансабдоминальное и трансвагинальное ультразвуковое исследование таза 05-16-2024
+ИНТЕРПРЕТАЦИЯ: Пациентка утверждает, что ее последняя менструация была 10/8/2024
+МАТКА:
+Матка находится в антефлексированном/подвижном положении и имеет размеры 7.7 см в длину x 4.2 см в поперечном диаметре x 5.1 см в ширину. Миометрий однороден по эхоструктуре. Фокальных миом не визуализировано Эндометриальный эхокомплекс имеет толщину до 14 мм, что может быть связано с фазой менструального цикла пациентки, однако пациентка утверждает, что ее последняя менструация была 10.08.2024.
+Визуализируемая часть шейки матки демонстрирует небольшие шейки матки с набухшими кистами.
+ПРАВЫЙ АДНЕКС:
+Правый яичник имеет размеры 3.4 см в длину x 3.3 см в поперечном диаметре x 2.5 см в ширину. Ранее визуализированные правые фолликулярные кисты типа не были выявлены при этом исследовании.
+Допплеровский поток демонстрируется в яичнике.
+ЛЕВЫЙ АДНЕКС:
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜 형식이 영어식으로 표기되었습니다. "05-16-2024" 및 "10/8/2024"는 "16 мая 2024" 및 "8 октября 2024"로 수정되어야 합니다.
+    - 숫자 표기 오류: 소수점이 점(`.`)으로 표기되었습니다. "7.7", "4.2", "5.1", "3.4", "3.3", "2.5"는 각각 "7,7", "4,2", "5,1", "3,4", "3,3", "2,5"로 수정되어야 합니다.
+    - 통화 표기 오류: 없음

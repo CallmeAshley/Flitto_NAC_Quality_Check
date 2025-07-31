@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "The decision boundary becomes more complex and detailed with 6 RBF centers. These centers produce smaller and more refined regions of influence, which results in a better fit for the data. • The network can now create a more flexible and intricate decision boundary, capturing areas of the data that the 3 RBF center network missed. This leads to fewer misclassified points, especially around regions that were previously poorly covered by the RBF centers.",
+    "trans": "결정 경계는 6개의 방사 기저 함수 중심을 사용할 때 더 복잡하고 세밀해집니다. 이 중심들은 더 작고 세밀한 영향 영역을 생성하여 데이터에 더 잘 맞게 됩니다. • 네트워크는 이제 더 유연하고 복잡한 결정 경계를 만들 수 있으며, 3개의 방사 기저 함수 중심 네트워크가 놓친 데이터의 영역을 포착할 수 있습니다. 이로 인해 특히 이전에 방사 기저 함수 중심들에 의해 잘 커버되지 않았던 영역에서 잘못 분류된 점들이 줄어듭니다."
+}

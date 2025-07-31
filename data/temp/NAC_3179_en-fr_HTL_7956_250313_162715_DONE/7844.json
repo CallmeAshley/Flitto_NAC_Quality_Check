@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Hello, this is Optimus Health Care Pediatrics:\nThis is a reminder that KAUA has an appointment with PRAJAKTA KULKARNI on October 3rd at 02:30 PM. Please arrive at 02:15 PM.\nWe are located at: [redacted_address]\nTo confirm this appointment, reply 1. To cancel this appointment, reply 7.\nAdd appt to calendar: [redacted_url]\nPlease click this link to review your account balance: [redacted_url]",
+    "trans": "Bonjour, ici Optimus Health Care Pediatrics :\nCeci est un rappel que KAUA a un rendez-vous avec PRAJAKTA KULKARNI le 3 octobre à 14h30. Veuillez arriver à 14h15.\nNous sommes situés à : [redacted_address]\nPour confirmer ce rendez-vous, répondez 1. Pour l’annuler, répondez 7.\nAjouter le rendez-vous au calendrier : [redacted_url]\nVeuillez cliquer sur ce lien pour consulter le solde de votre compte : [redacted_url]"
+}

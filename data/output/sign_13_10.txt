@@ -1,0 +1,43 @@
+[원문: french]
+Chapitre 1 Histoire des arts
+Les arts de la préhistoire
+✔ J'associe une œuvre d'art à une époque.
+Introduction
+Vers 40000 ans avantJ. ‑C., les hommes et les femmes de la préhistoire deviennent des artistes: ils peignent, ils sculptent, ils jouent de la musique. Les témoignages qu'ils nous laissent nous renseignent sur leur culture et leurs croyances.
+Que nous apprend l'art des premiers êtres humains?
+Doc. 1Les premières représentations humaines
+Marianocecowski/Wikimedia
+Mains en négatif, Cueva de las manos, province de Santa Cruz, Patagonie (Argentine), entre 13000 et 7000 avantJ. ‑C.
+On crache un colorant en soufflant sur la main posée sur la paroi pour la faire apparaître en négatif. On retrouve ces représentations sur tous les continents. Les études scientifiques montrent que certaines ont probablement été réalisées par des femmes.
+Doc. 2Une flûte
+H. Jensen/Université de Tübingen/DR
+Flûte en os, vers -35000 ans avantJ. ‑C., Musée d'Archéologie nationale de Saint‑Germain‑en‑Laye.
+Cette flûte a été découverte parmi une vingtaine d'autres dans la grotte d'Isturitz (Pyrénées‐Atlantiques).
+Supplément numérique
+Visite la grotte de Lascaux et ses différentes salles!
+
+[번역문: english]
+Chapter 1: History of Art
+Prehistoric Art
+✔ I associate a work of art with a specific time period.
+Introduction
+Around 40 000 BC, prehistoric men and women became artists: they painted, sculpted, and played music. The evidence they left behind provides us with insights into their culture and beliefs.
+What does the art of early humans teach us?
+Doc. 1 The first human representations
+Marianocecowski/Wikimedia
+Negative handprints, Cueva de las Manos, Santa Cruz Province, Patagonia (Argentina), between 13 000 and 7 000 BC.
+A colored pigment was blown onto a hand placed on the wall to create a negative image. These representations can be found on every continent. Scientific studies show that some were probably made by women.
+Doc. 2 A Flute
+H. Jensen/University of Tübingen/DR
+Bone flute, around 35 000 BC, National Archaeology Museum of Saint-Germain-en-Laye.
+This flute was discovered among twenty others in the Isturitz cave (Pyrénées-Atlantiques).
+Digital Supplement
+Visit the Lascaux cave and its different rooms!
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 숫자에서 천 단위 구분자가 쉼표(,)로 표기되지 않았습니다. 예: "40 000" 대신 "40,000"으로 표기해야 합니다.
+    - 통화 표기 오류: 없음

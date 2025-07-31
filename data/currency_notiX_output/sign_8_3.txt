@@ -1,0 +1,55 @@
+[원문: english]
+Source: Public Records
+See All
+Mortgage History
+Date Status Loan Amount Loan Type
+05/12/06
+Previous Owner $85,500 Fannie Mae Freddie Mac
+09/21/01
+Previous Owner $6,180 Unknown
+03/23/01
+Previous Owner $71,700 Unknown
+09/17/96
+Previous Owner $62,700 No Value Available
+Source: Public Records
+About the Listing Agent
+Brian Brockman
+Bang Realty, Inc.
+(513) 995-7793
+Contact Brian
+Brian is one of a handful of real estate brokers and auctioneers who is licensed in all 50 states and the District of Columbia. Brian has over 15 years in asset management experience and has sold properties for investors, developers, and many local, national, and international financial institutions. Over the last 10 years, Brian has grown his two-person real estate sales team in Cincinnati, OH into a nationally recognized commercial brokerage. Brian is known for finding solutions and
+View Brian's Profile
+Brian's Other Listings
+$144,900
+
+[번역문: turkish]
+Kaynak: Kamu Kayıtları
+Tümünü Gör
+Kredi Geçmişi
+Tarih Durum Kredi Miktarı Kredi Türü
+12/05/06
+Önceki Sahip $85.500 Fannie Mae Freddie Mac
+21/09/01
+Önceki Sahip $6.180 Bilinmiyor
+23/03/01
+Önceki Sahip $71.700 Bilinmiyor
+17/09/96
+Önceki Sahip $62.700 Değer Bilgisi Yok
+Kaynak: Kamu Kayıtları
+Emlak Danışmanı Hakkında
+Brian Brockman
+Bang Realty, Inc.
+(513) 995-7793
+Brian ile İletişime Geç
+Brian, 50 eyalette ve Columbia Bölgesi'nde lisanslı olan az sayıda emlak komisyoncusu ve müzayedeciden biridir. Brian, 15 yıldan fazla varlık yönetimi deneyimine sahiptir ve yatırımcılar, geliştiriciler ve birçok yerel, ulusal ve uluslararası finans kurumu için mülk satışı gerçekleştirmiştir. Son 10 yılda, Cincinnati, OH'daki iki kişilik emlak satış ekibini ulusal çapta tanınan bir ticari emlak firmasına dönüştürmüştür. Brian, çözümler bulma konusundaki ünüyle tanınmaktadır.
+Brian'ın Profilini Gör
+Brian'ın Diğer İlanları
+$144.900
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜 형식이 "gün/ay/yıl" 순서로 되어 있어 정책에 맞지 않음. "12/05/06" 대신 "05/12/06" 형식이어야 함.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

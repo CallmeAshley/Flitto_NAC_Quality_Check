@@ -1,0 +1,79 @@
+[원문: english]
+Dear Magnus,
+Thank you for your earliest reply.
+I wish to have a farewell dinner at separee on 25 October.
+But could you let me know that we have other options(ex. 3 course menu)?
+I'm afraid that my clients can't eat a lot because they are elders.
+Best regards,
+[redacted_name]
+----- Original Message -----
+From: "Tegelbacken Info" <[redacted_email]>
+To: "[redacted_email]" <[redacted_email]>
+Date: 2024/10/22 火 19:47
+Subject: Sv: Please book a table on 25 October
+Dear [redacted_name],
+Thank you for the request.
+Our chambre separée is free requested date.
+I have made a primary booking at 18:30, for 14 guests.
+In our chambre separée we serve a set menu of 5 courses, price 1345 SEK/person. Drinks not included.
+Would you like to proceed with the booking?
+-------------------------------------------------------
+Magnus
+T E G E L B A C K E N
+Restaurang - Vin - Bar
+Tegelbacken 2
+111 52 Stockholm
+Huvudnr: [redacted_number]
+www.tegelbacken.com
+Från: [redacted_email] <[redacted_email]>
+Skickat: den 22 oktober 2024 05:28
+Till: Tegelbacken Info <[redacted_email]>
+Kopia: [redacted_email]
+Ämne: Please book a table on 25 October
+To Restaurant Tegelbacken,
+From Copehhagen in fine weather of Autumne,
+I, yasuhiko okamura, am a staff of Veritas Tourism Japan LLC.
+
+[번역문: italian]
+Gentile Magnus,
+Grazie per la tua rapida risposta.
+Mi piacerebbe organizzare una cena di commiato al Separee il 25 ottobre.
+Potrebbe dirmi quali opzioni ci sono (es. menù da 3 portate)?
+Purtroppo non credo i miei clienti possono mangiare molto dovuto al fatto di essere anziani.
+Cordiali saluti,
+[redacted_name]
+----- Messaggio originale -----
+Da: "Tegelbacken Info" <[redacted_email]Z
+A: "[redacted_email]" <[redacted_email]>
+Data: 10/22/2024 - 19:47
+Oggetto: RE: Si prega di riservare un tavolo il Ottobre 25 
+Gentilissimo [redacted_name],
+La ringrazio per la richiesta.
+La nostra Chambre Separée è disponibile per la data richiesta.
+Ho effettuato una prenotazione preliminare alle 18:30 per 14 ospiti.
+Nella nostra Chambre Separée serviamo un menù da 5 portate, al prezzo di 1345 corone svedesi a persona. Bevande escluse.
+Vuole procedere alla prenotazione?
+---------------------------------------------
+Magnus
+T E G E L B A C K E N
+Restaurang - Vin - Bar
+Tegelbacken 2
+111 52 Stoccolma
+Huvudnr: [redacted_name]
+www.tegelbacken.com
+Da: [redacted_email] <[redacted_email]>
+Data: 2024 Ottobre 22 05:28
+A: Tegelbacken Info <[redacted_email]>
+CC: [redacted_email]
+Oggetto: si prega di riservare un tavolo il Ottobre 25
+Al ristorante Tegelbacken
+Da Copehnagen con un bel tempo autunnale
+Io, Yasuhiko Okamura, faccio parte dello staff di Veritas Tourism Japan LLC.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "10/22/2024" 및 "2024 Ottobre 22"로 표기되어 있으며, 이는 이탈리아어 날짜 형식인 "일 + 월 + 연도" 순서에 맞지 않습니다. 올바른 형식은 "22 ottobre 2024"입니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

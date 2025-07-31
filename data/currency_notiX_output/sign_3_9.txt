@@ -1,0 +1,33 @@
+[원문: english]
+[redacted_name], a [redacted_info]-year-old woman, is a clerk. She has a body weight of 75kg, a height of
+1.65m, body mass index (BMI) of 27.5 kg/m2 and waist circumference of 98cm.
+According to the BMI, she is obesity. She believed that obese does not cause any
+adverse outcomes on her health until her brother was diagnosed with a stroke two
+months ago. Her brother’s health condition triggered her awareness and realized
+obese is harmful to health. She awakes from the potential harm of obesity and tries
+to adopt a change to her current unhealthy diet.
+However, she lacks the determination and willpower to adopt a change in her diet.
+Then, she resumes unhealthy diet as before.
+One day, [redacted_name] called and expressed to you that she felt stressful about her brother’s
+health condition
+
+[번역문: ukrainian]
+[redacted_name], [redacted_info]-річна жінка, працює клерком. Її маса тіла становить 75 кг, зріст
+1.65 м, індекс маси тіла (ІМТ) 27.5 кг/м2 і окружність талії 98 см.
+Згідно з ІМТ, вона страждає на ожиріння. Вона вважала, що ожиріння не спричиняє жодних
+несприятливих наслідків для її здоров'я, поки у її брата не діагностували інсульт два
+місяці тому. Стан здоров'я брата підштовхнув її до усвідомлення того, що
+ожиріння шкодить здоров'ю. Вона усвідомлює потенційну шкоду ожиріння і намагається
+змінити своє нинішнє нездорове харчування.
+Однак їй не вистачає рішучості та сили волі, щоб змінити свій раціон.
+Тоді вона продовжує нездорово харчуватися, як і раніше.
+Одного дня [redacted_name] зателефонувала і сказала тобі, що відчуває стрес через стан
+здоров'я її брата.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 예
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

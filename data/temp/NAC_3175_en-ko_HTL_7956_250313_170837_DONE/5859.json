@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Knit button\nRStudio may ask you if you want to update some packages, click ‘Yes’.\nAfter you knit the document, a window with the output will pop-up automatically. As you can see, this document contains the main title, followed by your name and date, as specified in the YAML. After, there is a second-level header which includes the first section of this example document. Also the the word ‘Knit’ is shown in bold, as it was wrapped by double asterisk **.",
+    "trans": "니트 버튼\nRStudio에서 일부 패키지를 업데이트할지 묻는 메시지가 표시되면 '예'를 클릭하세요..\n문서를 뜨면 출력이 있는 창이 자동으로 나타납니다. 보시다시피 이 문서에는 YAML에 명시된 대로 메인 제목 뒤에 이름과 날짜가 표시됩니다. 그 다음에는 이 예제 문서의 첫 번째 섹션이 포함된 2단계 헤더가 있습니다. 또한 'Knit'라는 단어는 굵은 글씨로 표시되어 있으며, 두 개의 별표 **로 둘러싸여 있습니다."
+}

@@ -1,0 +1,25 @@
+[원문: italian]
+2. NAVI. Le navi in servizio sono Ro/Pax o Cruise Ferry, adibite al trasporto di passeggeri e merci.
+3. NORME APPLICABILI. Oltre che dalle presenti Condizioni Generali di Trasporto, il contratto di trasporto di passeggeri, loro bagagli e veicoli al seguito è disciplinato dal Regolamento
+(UE) n. 1177/2010, dal Regolamento (CE) n. 392/2009, dalla Convenzione di Atene del 13/12/1974 come modificata dal Protocollo di Londra del 01/11/2002, dal Codice della Navigazione
+Italiano così come interpretato in conformità all’Ordinamento Giuridico Italiano, ove applicabile, nonché da eventuali successive modifiche della succitata normativa e/o di eventuali ulteriori
+normative eventualmente applicabili. Per i servizi di trasporto tra Napoli, Cagliari, Palermo e viceversa e Civitavecchia, Arbatax, Cagliari e viceversa, si applicano altresì le disposizioni di cui
+al Contratto di Servizio.
+4. POTERE DEL COMANDANTE. Il Comandante della nave ha piena facoltà di procedere senza pilota, di rimorchiare ed assistere altre navi in qualsiasi circostanza, di deviare dalla rotta
+
+[번역문: english]
+2. SHIPS. The ships in service are Ro/Pax or Cruise Ferry, used for the transport of passengers and wares.
+3. APPLICABLE RULES. In addition to these General Conditions of Transport, the contract for the carriage of passengers, their luggage and vehicles is governed by the Regulation
+(EU) No. 1177/2010, by Regulation (EC) No. 392/2009, by the Athens Convention of 13/12/1974 amended by the London Protocol of 01/11/2002, by the Navigation Code
+of Italy as interpreted in accordance with the Italian Legal System, where applicable, and by any subsequent amendments to the aforementioned legislation and/ or any further
+Regulations, if any, applicable. For transport services between Naples, Cagliari, Palermo and vice versa and Civitavecchia, Arbatax, Cagliari and vice versa, the provisions of
+to the Service Contract.
+4. COMMANDER POWER. The master of the ship has full authority to proceed alone, towing and assisting other ships in any circumstances, deviating them from the route
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "13/12/1974" 및 "01/11/2002"로 표기되어 있으며, 이는 미국 영어의 월/일/연도 형식에 맞지 않습니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

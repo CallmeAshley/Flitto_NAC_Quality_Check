@@ -1,0 +1,21 @@
+[원문: polish]
+w okresowych trudnościach w zasypianiu na tle nerwowym.
+Skład
+Substancjami czynnymi leku są: wyciąg suchy z korzenia kozłka, wyciąg suchy z szyszek chmielu, wyciąg suchy z ziela męczennicy. 1 kapsułka zawiera: 60 mg wyciągu suchego z korzenia kozłka (Valeriana officinalis, radix), w tym 99-100% wyciągu natywnego (DER 3-4:1), ekstrahent: etanol 60% V/V; 40 mg wyciągu suchego z szyszek chmielu (Humulus lupulus, flos), w tym 69,5-100% wyciągu natywnego (DER 5:1), ekstrahent: metanol 30% V/V; 40 mg wyciągu suchego z ziela męczennicy (Passiflora incarnata, herba), w tym 25-50% wyciągu natywnego (DER 2,7:1), ekstrahent: etanol 90% V/V.
+Pozostałe składniki (substancje pomocnicze) to: krzemionka koloidalna bezwodna, maltodekstryna, glukoza bezwodna, olej sojowy oczyszczony, lecytyna sojowa, olej kokosowy uwodorniony, olej palmowy rafinowany, wosk żółty; składniki kapsułki żelatynowej: żelatyna wieprzowa, glicerol, sorbitol ciekły, niekrystalizujący, dwutlenek tytanu (E 171), tlenek żelaza czarny (E 172), tlenek żelaza żółty (E 172).
+Dawkowanie VALUSED
+
+[번역문: english]
+during periodic sleeping difficulties due to stress.
+Composition
+Active substances are: valerian root dry extract, hop cones dry extract, passionflower herb dry extract. 1 capsule contains: 60 mg of valerian root dry extract (Valeriana officinalis, radix), including 99-100% native extract (DER 3-4: 1), extractant: ethanol 60% V/V; 40 mg of hop cones dry extract (Humulus lupulus, flos), including 69.5-100% native extract (DER 5: 1), extractant: 30% methanol V/V; 40 mg of passionflower herb dry extract (Passiflora incarnata, herba), including 25-50% native extract (DER 2.7: 1), extractant: ethanol 90% V/V.
+Other ingredients (auxiliary substances) include: colloidal anhydrous silica, maltodextrin, anhydrous glucose, refined soybean oil, soy lecithin, hydrogenated coconut oil, refined palm oil, yellow wax; gelatin capsule ingredients: pork gelatin, glycerol, liquid and non-crystallizing sorbitol, titanium dioxide (E 171), black iron oxide (E 172), yellow iron oxide (E 172).
+VALUSED dosage
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "DER 3-4: 1", "DER 5: 1", "DER 2.7: 1"에서 콜론(`:`) 뒤에 공백이 있어야 합니다.
+    - 통화 표기 오류: 없음

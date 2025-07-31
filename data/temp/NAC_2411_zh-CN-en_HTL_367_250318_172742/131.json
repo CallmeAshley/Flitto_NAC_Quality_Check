@@ -1,0 +1,6 @@
+{
+    "source": "zh_CN",
+    "target": "en_US",
+    "text": "按选择分度值：0.001、0.002、0.005、0.01、0.02、0.05、0.1、0.2、0.5、1、2、5、10、20、50\nCAP\n额定量程\n按加1，按移位。\nCAL X\n标定方法\n按选择标定方法，0：砝码标定；1：输入标定参数；2：输入灵敏度。 标定时一般选择砝码标定，按键进入标定流程。\n请参照下面描述进行。\n6.2 砝码标定",
+    "trans": "Select value of a scale division: 0.001, 0.002, 0.005, 0.01, 0.02, 0.05, 0.1, 0.2, 0.5, 1, 2, 5, 10, 20, 50\nCAP\nRated Range\nPress to increase by 1, press shift.\nCAL X\nCalibration Method\nSelect the calibration method accordingly: 0: Weight Calibration; 1: Input calibration parameters; 2: Input Sensitivity. For general calibration, weight calibration is chosen, and the button is pressed to enter the calibration process.\nPlease refer to the following description.\n6.2 Weight Calibration"
+}

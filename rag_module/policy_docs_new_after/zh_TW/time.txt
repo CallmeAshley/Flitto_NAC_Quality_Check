@@ -1,0 +1,30 @@
+[Time Format]
+
+Definition:  
+Taiwan uses both **12-hour** and **24-hour** systems.  
+- In the 12-hour format, use AM/PM markers such as 上午, 下午, 凌晨.
+- Markers must appear **before the time**.
+- Time is separated by colons (`:`).
+- Do not include time zone unless explicitly mentioned.
+
+Examples:  
+- 上午2:30  
+- 下午14:30  
+- 14:30:45  
+- 上午2:30:45 中華民國標準時間
+
+Evaluation Criteria:
+- Accept both 12-hour and 24-hour formats.
+- Ensure AM/PM markers precede the time in 12-hour cases.
+- Only include time zones if present in the source.
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

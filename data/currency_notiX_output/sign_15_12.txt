@@ -1,0 +1,91 @@
+[원문: italian]
+Sta migliorando
+Li ha svolti solo in parte. Abbastanza bene
+Bene
+-
+今日所学 -NoteDidattiche
+1. Le sillabe ra, re, ri, ro, ru 2. Esercizi di ascolto
+3. Oggetti della classe 4. Esercizi
+家庭作业 -Compiti
+1. Imparare a memoria gli oggetti della classe 2. Fotocopie (2) consegnate in classe
+日期 -Data
+信息 -Abilita’
+点评 -Voto
+20/10/2024
+签到 -Presenza
+Si
+晨读 -Lettura
+作业反馈 (Compiti) 课堂总结 (Comportamento) 听写 -Dettato 单元及期中-期末考试 (esame)
+Sta migliorando.
+Non ha portato i compiti.
+A volte chiacchiera con i compagni ma comunque segue la lezione. Abbastanza bene.
+/
+今日所学 -NoteDidattiche
+1. Le sillabe la, le, li, lo, lu
+2. Esercizi di ascolto
+3. La differenza tra R e L esercizi di ascolto e lettura 4. Lessico del bar
+家庭作业 -Compiti
+1. Imparare a memoria il lessico del bar 2. Imparare a memoria il lessico del giorno 3. Fotocopia consegnata in classe
+日期 -Data
+信息 -Abilita’
+点评 -Voto
+27/10/2024
+签到 -Presenza
+Si
+晨读 -Lettura
+作业反馈 (Compiti) 课堂总结 (Comportamento) 听写 -Dettato 单元及期中-期末考试 (esame)
+Sta migliorando. Bene Abbastanza bene Bene
+-
+今日所学 -NoteDidattiche
+1. Le sillabe na, ne, ni, no, nu 2. Esercizi di ascolto
+3. La differenza tra L e M 4. Esercizi di lettura
+
+[번역문: english]
+He is improving
+He only partially done them. Quite well
+Well
+-
+今日所学 -Didactic Notes
+1. The syllables ra, re, ri, ro, ru 2. Listening excercises
+3. Class objects 4. Excercises
+家庭作业 -Homework
+1. Memorising the objects of the class 2. Photocopies (2) delivered in the classroom
+日期 -Date
+信息 -Skills
+点评 -Vote
+20/10/2024
+签到 -Presence
+Yes
+晨读 -Reading
+作业反馈 (Homework) 课堂总结 (Behaviour) 听写 -Dictation 单元及期中-期末考试 (exam)
+He is improving.
+He didn't bring his homework.
+Sometimes he talks to his classmates, but he follows the lesson anyway. Quite well.
+/
+今日所学 -Didactic Notes
+1. The syllables la, le, li, lo, lu
+2. Listening excercises
+3. The difference between R and L listening exercises and reading 4. Bar vocabulary
+家庭作业 -Homework
+1. Memorise the bar vocabulary 2. Memorise the day vocabulary 3. Photocopy delivered in the classroom
+日期 -Date
+信息 -Skills
+点评 -Vote
+27/10/2024
+签到 -Presence
+Yes
+晨读 -Reading
+作业反馈 (Homework) 课堂总结 (Behaviour) 听写 -Dictation 单元及期中-期末考试 (exam)
+He is improving. Well, Quite well, Good
+-
+今日所学 -Didactic Notes
+1. The syllables na, ne, ni, no, nu 2. Listening exercises
+3. Difference between L and M 4. Reading exercises
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "20/10/2024" 및 "27/10/2024"로 표기되어 있습니다. 미국 영어에서는 "October 20, 2024" 및 "October 27, 2024"로 표기해야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

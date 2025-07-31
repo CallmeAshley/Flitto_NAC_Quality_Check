@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "eal Inertia Neutralization Inverter-based Grid\nThe large-scale integration of inverter-interfaced renewable energy generators is replacing traditional synchronous generators.\nHowever, the fragile nature of power semiconductors and digital control systems, compared to the reliable copper construction\nof synchronous generators, poses a threat to overall grid stability. This fragility may limit the further development of zero-\ncarbon energy. To address this, we propose connecting physical rotational equipment to the grid to increase real inertia in high-\npenetration converter-based grids.",
+    "trans": "Інверторна система нейтралізації реальної інерції в мережі\nВеликомасштабна інтеграція генераторів відновлювальної енергії з інверторним підключенням замінює традиційні синхронні генератори.\nОднак крихка природа силових напівпровідників і цифрових систем управління, порівняно з надійною мідною конструкцією\nсинхронних генераторів, становить загрозу для загальної стабільності мережі. Ця крихкість може обмежити подальший розвиток без\nвуглецевої енергії. Для вирішення цієї проблеми ми пропонуємо підключити фізичне ротаційне обладнання до мережі для збільшення реальної інерції в мережах з високим\nпроникненням перетворювачів на основі інверторів."
+}

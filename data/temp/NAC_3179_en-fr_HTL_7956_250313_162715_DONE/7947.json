@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "View PDF Result Report\nImaging\nMRI Brain Without IV Contrast (Order: [redacted_id]) - [redacted_info]\nResult History\nMRI Brain Without IV Contrast (Order [redacted_id]) on[redacted_info] - Order Result History Report\nComments From the Doctor's Office\nMRI looks good. Nothing concerning. We can discuss further at the next appointment.\nWritten by [redacted_name] on [redacted_info] 12:47 GST\nSeen by patient [redacted_name] on [redacted_info] 20:28",
+    "trans": "Voir le rapport de résultats en PDF\nImagerie\nIRM du cerveau sans contraste intraveineux (Commande : [redacted_id]) - [redacted_info]\nHistorique des résultats\nIRM du cerveau sans contraste intraveineux (Commande [redacted_id]) du [redacted_info] - Rapport historique des résultats de la commande\nCommentaires du cabinet du médecin\nL'IRM est bonne. Rien d'inquiétant. Nous pourrons en discuter davantage lors du prochain rendez-vous.\nÉcrit par [redacted_name] le [redacted_info] à 12h47 GST\nVu par le patient [redacted_name] le [redacted_info] à 20h28"
+}

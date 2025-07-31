@@ -1,0 +1,41 @@
+[원문: japanese]
+簡易清掃済み。
+◾️付属品
+取扱説明書
+【サイズ】
+横 50cm 高さ 121.5cm 奥行き 54.9cm
+◾️機能
+IRIS IRSD-14A-B
+color: BLACK ブラック
+ノンフロン対応
+冷凍室・ドア開閉タイプ: 片開き
+冷凍室位置: 冷凍室下
+冷蔵庫ドア数クラス別: 2ドア
+冷蔵庫・ドア開閉タイプ: 片開き
+定格内容積(新基準)クラス別: 141〜170L
+定格内容積クラス別: 141〜170L
+
+[번역문: english]
+Simple cleaning completed.
+◾️Accessories Included
+Instruction Manual
+[Size]
+Width 50cm Height 121,5cm Depth 54,9cm
+◾️Features
+IRIS IRSD-14A-B
+Color: Black
+Non-fluorocarbon compatible
+Freezer Door Type: Single-Swing Door
+Freezer Location: Bottom-Freezer
+Refrigerator Door Count: 2 Doors
+Refrigerator Door Type: Single-Swing Door
+Rated Capacity (New Standard): 141~170L
+Rated Capacity: 141~170L
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "Height 121,5cm" 및 "Depth 54,9cm"에서 소수점이 쉼표로 표기됨. 미국 영어에서는 소수점에 마침표를 사용해야 함.
+    - 통화 표기 오류: 없음

@@ -1,0 +1,31 @@
+[원문: english]
+H. pylori is a Gram-negative bacterium that plays a pivotal role in the development of gastritis,
+peptic ulcers, and gastric cancer. In addition to its association with various gastrointestinal disorders,
+an increased prevalence of H. pylori infection in patients with rosacea was also reported. About 88% of
+the patients with rosacea were infected with H. pylori, compared with 65% of the non-ulcer dyspeptic
+controls [57]. Moreover, eradication of H. pylori improved the skin symptoms of rosacea [57–59].
+However, a Danish population-based cohort study reported no significant association between H. pylori
+infection (hazard ratio (HR): 1.04; 95% CI: 0.96–1.13) in patients with rosacea compared with control
+subjects [60]. Although they also found an increased prevalence of H. pylori infection in patients with
+rosacea, the prevalence of new-onset H. pylori infection was not increased in patients with rosacea,
+suggesting that H. pylori infection could be one of the predisposing factors in rosacea by acting as a
+
+[번역문: polish]
+H. pylori to bakteria Gram-ujemna, która odgrywa kluczową rolę w rozwoju zapalenia żołądka,
+wrzodów żołądka i raka żołądka. Oprócz jej związku z różnymi zaburzeniami żołądkowo-jelitowymi,
+zgłoszono również zwiększoną częstość występowania zakażenia H. pylori u pacjentów z trądzikiem różowatym. Około 88%
+pacjentów z trądzikiem różowatym było zakażonych H. pylori, w porównaniu z 65% osób z grupy kontrolnej bez dyspepsji
+wrzodowej [57]. Ponadto wykorzenienie H. pylori poprawiło objawy skórne trądziku różowatego [57–59].
+Jednak duńskie badanie kohortowe oparte na populacji nie wykazało istotnego związku między zakażeniem
+H. pylori (współczynnik ryzyka (HR): 1,04; 95% CI: 0.96–1.13) u pacjentów z trądzikiem różowatym w porównaniu z osobami z grupy
+kontrolnej [60]. Chociaż stwierdzili również zwiększoną częstość występowania zakażenia H. pylori u pacjentów z
+trądzikiem różowatym, częstość występowania nowego zakażenia H. pylori nie była zwiększona u pacjentów z trądzikiem różowatym,
+co sugeruje, że zakażenie H. pylori może być jednym z czynników predysponujących do trądzika różowatego, działając jako
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "0.96–1.13"에서 소수점이 점(`.`)으로 표기됨. 폴란드어에서는 소수점을 쉼표(`,`)로 표기해야 함.
+    - 통화 표기 오류: 없음

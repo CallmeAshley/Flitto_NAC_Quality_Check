@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "An algebraic function is a function that can be defined as the root of a polynomial equation. Quite often algebraic functions can be expressed using a finite number of terms, involving only the algebraic operations addition, subtraction, multiplication, division, and raising to a fractional power.\n• A transcendental function is an analytic function that does not satisfy a polynomial equation, in contrast to an algebraic function. Examples of transcendental functions include the exponential function, the logarithm, and the trigonometric functions. --- from Wikipedia",
+    "trans": "대수함수는 다항식의 근으로 정의할 수 있는 함수를 말한다. 대수함수는 보통 대수연산인 더하기, 빼기, 곱하기, 나누기, 거듭제곱만이 포함된 한정된 수의 항을 사용하여 나타낼 수 있다.\n초월함수는 대수함수와 달리 다항식을 만족시키지 않는 해석 함수를 말한다. 초월함수의 예시에는 지수 함수, 로가리듬, 삼각 함수 등이 있다. --- 위키백과에서"
+}

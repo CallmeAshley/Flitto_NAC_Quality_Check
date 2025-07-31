@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Laser speckle interferometry is used to detect micro-structure and its dynamic behavior of a sample surface by the statistical analysis of its laser speckle images. In this paper, the methodology of laser speckling and statistical analysis are studied with the aims to develop a non-contact, non-destructive surface sensing technique which potentially devices a compact, cost-effective tool for measuring the biological status of a plant by scanning its leaves. First, an auto-correlation based analysis method is proposed for the discrimination of various surface roughness levels using their laser speckle statistics. Second, techniques for dynamic speckle pattern analysis for the detection of the evolution of a time-varying sample surface are discussed. The effectiveness of proposed measurement methods are demonstrated via the experiment on a detached leaf.",
+    "trans": "레이저 스펙클 간섭법은 마이크로 조직과 레이저 스펙클 이미지의 통계적 분석에 의한 표본 표면의 이 역동적인 행동을 탐지하기 위해 사용됩니다. 본 연구에서는, 잎을 스캔하는 것에 의해 식물의 생물학적 상태를 측정할 수 있는 작고 비용 효율적인 도구를 비-접촉식, 비-파괴적 표면 감지 기술을 개발하기 위한 목적으로 레이저 스펙클 방법론 및 통계 분석이 연구되었습니다. 우선, 그들의 레이저 스펙클 통계를 사용하여 다양한 표면 거칠기의 수준을 구분하기 위한 자동-상관 관계를 기반으로 분석 방법이 제안됩니다. 두 번째로, 시간-변화하는 표본 표면의 진화를 탐지하기 위한 역동적 스펙클 양식 분석에 대해 논의됩니다. 제안된 측정법의 효과는 분리된 잎에 대한 실험을 통해서 설명됩니다."
+}

@@ -1,0 +1,39 @@
+[원문: french]
+• Les transports en commun
+• Attractions, croisières...
+• Pourboire demandé de 2€ par personne par jour de voyage pour le guide (total de 10€ sur ce voyage)
+Optionnel :
+- 1 bagage cabine à placer dans le compartiment supérieur (10 kg et 55x35x25cm max.) = supplément de 75€ au total pour les 2 vols
+- 1 valise de 15kg enregistrée en soute = supplément de 85€ au total pour les 2 vols
+ACTIVITÉS RECOMMANDÉES :
+• Visiter la Mosquée Bleue, merveille architecturale d'Istanbul
+• Acheter des souvenirsauGrand Bazar
+• Visiter le Musée Sainte-Sophie
+•Traverser le pont de Galata
+• Découvrirl’hippodrome sur la placeSultanahmet
+• Visiter le Palais de Topkapi, classé au patrimoine mondial de l’UNESCO et construit au XVe siècle
+•Se promenerdans le parc Gülhane
+
+[번역문: english]
+• Public transport
+• Attractions, cruises...
+• Guide tip of €2 per person per day of travel (total of €10 on this trip)
+Optional :
+- 1 cabin luggage to be placed in the overhead compartment (10kg and 55x35x25cm max.) = additional charge of €75 in total for the 2 flights
+- 1 suitcase of 15kg checked in cargo hold = additional charge of 85€ in total for the 2 flights
+RECOMMENDED ACTIVITIES :
+• Visit the Blue Mosque, Istanbul's architectural masterpiece
+• Buy souvenirs at the Grand Bazaar
+• Visit the Saint Sophia Museum
+• Cross the Galata Bridge
+• Discover the racecourse in Sultanahmet Square
+• Visit the Topkapi Palace, a UNESCO World Heritage site built in the 15th century
+• Take a walk in Gülhane Park
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: "85€"는 유로 기호가 숫자 앞에 와야 하므로 "€85"로 수정해야 합니다. 정책에 따르면 유로 기호는 숫자 앞에 위치해야 합니다.

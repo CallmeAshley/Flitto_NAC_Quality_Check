@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "g\nHello [redacted_name],\n[redacted_id] is your temporary password for Online Banking and will expire in 7 days. We won't call or text you for this password. Please don't share it with anyone.\nAfter signing in using your temporary password, you'll be asked to create a new permanent password for your account.\nIf you didn't make this request, please reset your password by selecting \"Reset password\" from the sign-in page. For additional support, please",
+    "trans": "g\nBonjour [redacted_name],\n[redacted_id] est votre mot de passe temporaire pour les Services bancaires en ligne et il expirera dans 7 jours. Nous ne vous appellerons pas ni ne vous enverrons un message texte pour obtenir ce mot de passe. S’il vous plaît ne le partagez avec personne.\nAprès vous être connecté avec votre mot de passe temporaire, il vous sera demandé de créer un nouveau mot de passe permanent pour votre compte.\nSi vous n'avez pas effectué cette demande, veuillez réinitialiser votre mot de passe en sélectionnant « Réinitialiser le mot de passe » depuis la page de connexion. Pour un soutien supplémentaire, veuillez"
+}

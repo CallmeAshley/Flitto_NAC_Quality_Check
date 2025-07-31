@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Hello [redacted_name],\nYour iCloud storage is full. You have exceeded your storage plan and this means that your documents, contacts and device data are no longer being backed up to iCloud. Your photos and videos are also not being uploaded to iCloud Photos. iCloud Drive and iCloud-enabled apps are not being updated across your devices.\nTo keep using these iCloud services, you need to upgrade to iCloud+ or reduce the amount of storage that you are using.\nUpgrade to iCloud+ with 50GB for SAR3.99 per month\nSincerely,\nThe iCloud Team",
+    "trans": "안녕하세요 [redacted_name],\n귀하의 iCloud 저장 공간이 가득 찼습니다. 저장 용량을 초과하였으며, 이로 인해 문서, 연락처 및 기기 데이터가 더 이상 iCloud에 백업되지 않습니다. 사진과 비디오도 iCloud 사진에 업로드되지 않습니다. iCloud 드라이브 및 iCloud 지원 앱은 기기 간에 업데이트되지 않습니다.\n이 iCloud 서비스를 계속 사용하려면 iCloud+로 업그레이드하거나 사용 중인 저장 용량을 줄여야 합니다.\niCloud+ 50GB로 업그레이드하려면 월 SAR3.99가 청구됩니다.\n진심으로,\niCloud 팀 드림"
+}

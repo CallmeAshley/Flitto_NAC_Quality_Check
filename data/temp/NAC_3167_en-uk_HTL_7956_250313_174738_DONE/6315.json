@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "The relationship between the Time Worked and Disburse Cash events reflects the basic economic exchange of getting the use of an employee’s time and paying for it. Figure 20-3 shows that the relationship between these two events is 1:N. This is because Fred’s Train Shop, like most businesses, pays employees periodically but records their time worked daily. Thus, each Disburse Cash event is linked to many daily Time Worked events. Like most businesses,",
+    "trans": "Відношення між подіями «Відпрацьований час» та «Виплата грошей» відображують базовий економічний обмін між використанням часу працівника та оплати за нього. Рисунок 20-3 показує, що відношення між цими двома подіями складає 1:N. Це відбувається тому що Fred’s Train Shop, як і більшість підприємств, платять співробітникам періодично, однак щоденно реєструють їх робочий час. Таким чином кожна подія «Виплата грошей» пов'язана з багатьма щоденними подіями «Відпрацьований час». Як і більшість підприємств,"
+}

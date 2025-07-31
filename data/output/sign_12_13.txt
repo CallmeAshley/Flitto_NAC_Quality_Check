@@ -1,0 +1,39 @@
+[원문: arabic]
+11- عضو ومقرر لجنة الاستخدامات الحديثة والتعرفة 15/11/1999 .
+12- عضو ومقرر لجنة تخصيص الغرف والمساحات 6/3/2002 .
+13- رئيس فريــــــق عمل للتحضير للمؤتمر العالمي للاتصالات الراديويـــــــة 2003 ( WRC-03) للاتحاد الدولي للاتصالات 7/7/2012 .
+14- عضو ومقرر لجنة الرد الأسئلة البرلمانية 2003
+15-عضو ومقرر لجنة الاستخدامات الحديثة والتعرفة 1997-2004
+16-عضو لجنة لدراسة البدلات 19/ نوفمبر 2006
+17- عضو لجنة متابعة القرارات والأسئلة 17 ابريل 2007.
+18-نائب رئيس لجنة دائمة لتقييم ومتابعة مؤتمرات واجتماعات الاتحاد الدولي للاتصالات 6/5/2007 .
+19- عضو لجنة دراسة تعرفة الكوابل البحرية والبرية الدولية قرار وزاري رقم (135/2011)
+20- عضو لجنة الكوابل الدولية والتراخيص قرار وزاري رقم (151/ 2011)
+21- عضو ومقرر لجنة الاتصالات 10 يناير 2012 القرار (256/2012)
+22- نائب رئيس فريق عمل للرد على الأسئلة البرلمانية 10 مايو 2012
+23- رئيس فريق عمل للتحضير لأحداث الاتحاد الدولي للاتصالات 10 يونيو 2012
+24- عضو ومقرر لجنة الاتصالات إعادة تشكيل اللجنة 12 سبتمبر 2012
+
+[번역문: english]
+11- Member and Coordinator of the Committee on Modern Uses and Tariffs – 1999/11/15.
+12- Member and Coo.rdinator of the Committee for Room and Space Allocation – 2002/03/06.
+13- Head of the Working Group for Preparing the 2003 World Radiocommunication Conference (WRC-03)of International Telecommunication Union - 2012/07/07.
+14- Member and Coordinator of the Committee for Responding to Parliamentary Questions – 2003
+15- Member and Coordinator of the Committee on Modern Uses and Tariffs 1997–2004
+16- Member of the Committee for Studying Allowances – 2006/11/19
+17- Member of the Committee for Monitoring Decisions and Questions – 2007/04/17
+18- Deputy Head of the Permanent Committee for Evaluating and Monitoring "International Telecommunication Union" Conferences and Meetings – 2007/05/06.
+19- Member of the Committee for Studying International Submarine and Terrestrial Cables Tariffs - Ministerial Decision No. (135/2011)
+20- Member of the Committee on International Cables and Licenses – Ministerial Decision No. (151/2011)
+21- Member and Coordinator of the Communications Committee – 2012/01/10 -Decision No. (256/2012)
+22- Deputy Head of the Working Group for Responding to Parliamentary Questions – 2012/05/10
+23- Leader of the Working Group for Preparing "International Telecommunication Union" Events – 2012/06/10
+24- Member and Coordinator of the Communications Committee - Reforming the committee - 2012/09/12
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 YYYY/MM/DD 형식으로 표기되어 있으며, 미국 영어 정책에 따라 월 + 일 + 연도 형식으로 표기해야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

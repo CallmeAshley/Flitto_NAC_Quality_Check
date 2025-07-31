@@ -1,0 +1,20 @@
+[원문: english]
+Alyssa RosenbergOpinion Columnist5:50 p.m.
+Hi, wonderful readers! I'm Alyssa Rosenberg, and I'm the chief editor behind the Letters to the Editor that show up in your paper every day. Like you, I'll be watching the debate and reading my colleagues' insights throughout the night. But I wanted to drop in to emphasize that we at The Post want to hear from you. As the debate gets started, let us know: Does an exchange stand out to you? Do you think there was a clear winner or loser? Submit your letter here or email me at letters@washpost.com and we might publish it in the days to come!
+3
+Press Enter to expand
+Ramesh PonnuruContributing columnist5:52 p.m.
+I'm Ramesh Ponnuru, editor of National Review and a columnist at The Post. One thing I'll be watching for at this debate is what JD Vance considers his mission to be. Is it to soften his own image? To slam Tim Walz? Or to use Walz to raise doubts about Kamala Harris? I think Option No. 3 is what makes the most sense for the Trump-Vance ticket, but the first two will be tempting for Vance.
+
+[번역문: russian]
+«Публикация индекса потребительских цен (CPI) на самом деле не изменила структурного подхода к рискам инфляции, — отметил руководитель отдела анализа данных [redacted_name] на нашем еженедельном совещании. — И, судя по протоколам заседания ФРС от 18 сентября, которые были опубликованы в среду, большинство участников видят снижение инфляционных рисков, поэтому ФРС вернулась к выполнению своего двойного мандата».
+[redacted_name] согласился: «Реальность такова, что ФРС теперь больше фокусируется на данных по занятости и занимает мягкую позицию, в основном направленную на поддержку экономики», — сказал он.
+На этой неделе руководитель отдела технического анализа [redacted_name] отметил положительные краткосрочные перспективы: «Одним из главных краткосрочных плюсов является то, что структура рынка остается очень бычьей, — сказал он. — Мы только что увидели, как индекс S&P 500 пробился к новым историческим максимумам, как и Dow Jones. На мой взгляд, это очень конструктивный сигнал на ближайшую перспективу, под которой я имею в виду следующую неделю или две. Думаю, вполне возможно, что на следующей неделе мы увидим уверенный рост индекса S&P 500 вплоть до значения 5 835 или даже 5 850».
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 천 단위 구분에 공백이 사용되지 않음 (예: 5 835, 5 850)
+    - 통화 표기 오류: 없음

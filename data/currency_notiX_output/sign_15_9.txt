@@ -1,0 +1,31 @@
+[원문: italian]
+CASO B-Il tuo ordine èal di sopradella soglia minima per la spedizione gratuita (es: per l'Italia al di sopra di 100€):
+Ilreso ha un costo di 6,00 €;
+Prenotiamo noi il ritiro per te;
+Al ritorno, dopo aver verificato l'integrità del capo, ti rimborseremo l'importo della transazione al netto di 6,00 €come "contributo spese"
+SPEDIZIONI IN CONTRASSEGNO:è possibile con un pagamento aggiuntivo di 6,50€, scrivici nella chat di Whatsapp per organizzare la tua spedizione!
+MODALITÀ' DI RESO PER SPEDIZIONI INTERNAZIONALI:
+EUROPA: il reso avrà un costo convenzionato di 15€ in quanto prenoteremo noi il ritiro per te, rimborsandoti l'importo del capo acquistato
+RESTO DEL MONDO:il reso avrà un costo convenzionato di 30€ in quanto prenoteremo noi il ritiro per te, rimborsandoti l'importo del capo acquistato
+Sono a carico del cliente eventuali costi di spedizione per cambio taglia o eventuali dazi doganali che verranno detratti dal rimborso.
+Tutti gli ordini effettuati sul nostro store online sono spediti direttamente dalle Boutique di Cassino. I giorni lavorativi sono considerati dal Lunedì al Venerdì, escluse festività nazionali e locali (nei giorni festivi non vengono effettuate spedizioni o consegne). Gli ordini effettuati il venerdi oltre le ore 13, verranno evasi il lunedi successivo.
+
+[번역문: english]
+CASE B-Your order is above the minimum threshold for free shipping (e.g.: for Italy above 100 €):
+The return costs is 6.00 €;
+We book the pick-up for you;
+Upon return, after verifying the integrity of the ware, we will refund you the amount of the transaction net of 6.00 € as "contribution expenses"
+CASH ON DELIVERY: with an additional payment of 6.50 €, you can write to us by WhatsApp to organize your shipment!
+RETURN METHODS FOR INTERNATIONAL SHIPMENTS:
+EUROPE: the return will have an agreed cost of 15 € as we will book the collection for you, refunding the amount of the purchased item
+REST OF THE WORLD: the return will have an agreed cost of 30 € as we will book the collection for you, refunding the amount of the purchased item
+The customer is responsible for any shipping costs for change of size or customs duties that will be deducted from the refund.
+All orders placed on our online store are shipped directly from the Boutique of Cassino. Working days are from Monday to Friday, excluding national and local holidays (no shipments or deliveries are made on public holidays). Orders placed on Friday after 13:00 will be processed the following Monday.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 유로 기호(€)가 숫자 앞에 와야 합니다. 예: €100, €6.00, €6.50, €15, €30

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "U.S. Customs: You have a USPS parcel being cleared, due to the detection of an invalid zip code address, the parcel can not be cleared, the parcel is temporarily detained, please confirm the zip code address information in the link within 24 hours.\nhttps://postal.uspsmy.info/tracking\n(Please reply with a Y, then exit the text message and open it again to activate the link, or copy the link into your Safari browser and open it) Have a great day from the USPS team!",
+    "trans": "Douanes américaines : Vous avez un colis USPS en cours de dédouanement. En raison de la détection d'une adresse de code postal invalide, le colis ne peut pas être dédouané et est temporairement retenu. Veuillez confirmer les informations du code postal dans le lien dans les 24 heures.\nhttps://postal.uspsmy.info/tracking\n(Veuillez répondre par un O, puis quitter le message texte et l'ouvrir à nouveau pour activer le lien, ou copiez le lien dans votre navigateur Safari et ouvrez-le) Passez une excellente journée de la part de l'équipe USPS !"
+}

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Recoverability refers to the\nability to reach a desired goal\nafter recognition of some error in\na previous interaction.\n How?\n Reducing the possibility of making\nerrors by:\n◼ Avoiding free-form input where\npossible\n◼ Validating input immediately and\nallowing correction\n The error messages must be\nconcise, informative, specific, and\nconstructive.\n◼ This allows the user to understand\nbetter what the problem was and\nrecover from it quickly.",
+    "trans": "복구 가능성이란\n의도한 목표에\n이전 상호작용에서 어떠한 오류를 인식한 후\n도달하는 능력이다.\n어떻게?\n다음과 같은 방식으로\n오류 생성의 가능성을 줄인다:\n◼ 자유형식 입력은\n가능한 피한다\n◼ 입력을 즉시 검증하고\n수정을 허용한다\n오류 메시지는\n간결하고, 유익하고, 구체적이며\n건설적이어야 한다.\n◼ 이렇게 하면 사용자가\n무엇이 문제였는지 더 잘 이해할 수 있고\n거기서 더 빨리 회복할 수 있다."
+}

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Entel:\nFollow the directions below to manually activate Truecaller Assistant:\n1. Disable your phone's Wi-Fi connection.\n2. Open your phone's main dialer, dial one of thesecodes, and hit call:\n**61*232938764#\n**67*232938764#\n3. Once the call is successfully forwarded you can end the call. You should see this screen:\n**If the condition says busy or unanswered, this means it is also successful**\nNote: If the message states call forwarding activation was a success then you are done. If it failed redial the activation code.\nDidn't work?\nYou will need to temporarily disable your phone LTE to enable the service.\nAndroid Instructions:\nGo to your Android Settings\nGo to \"Network and Internet\"\nGo to \"Mobile Network\"\nTurn off \"Enhanced 4G LTE Mode\"",
+    "trans": "Entel:\n다음 지침에 따라 Truecaller Assistant를 수동으로 활성화하세요.\n1. 휴대전화의 와이파이 연결을 해제하세요.\n2. 휴대전화의 메인 숫자판을 열고 다음 코드들 중 하나를 입력한 다음 통화버튼을 누르세요.\n**61*232938764#\n**67*232938764#\n3. 통화가 성공적으로 전달되면 통화를 종료해도 됩니다. 이제 다음 화면이 표시되어야 합니다.\n**조건이 통화 중 또는 응답 없음이면 이 역시 성공한 것입니다.**\n주: 메시지에 통화 전달 활성화에 성공했다고 표시되면 끝난 것입니다. 실패하면, 활성화 코드를 다시 다이얼하세요.\n작동하지 않았습니까?\n서비스를 활성화하려면 휴대전화 LTE를 일시적으로 비활성화해야 합니다.\n안드로이드 지침:\n안드로이드 설정으로 이동하세요.\n\"네트워크 및 인터넷\"으로 이동하세요.\n\"모바일 네트워크\"로 이동하세요.\n\"향상된 4G LTE 모드\"를 끕니다."
+}

@@ -1,0 +1,25 @@
+[원문: indonesian]
+User Name, Password, dan PIN tersebut dapat digunakan untuk mengakses dan melakukan transaksipada aplikasi HPX yang dapat diunduh melalui: https://henanputihrai.com, Play Store untuk HPX for Android, dan App Store untuk HPX for iPhone/iPad.
+Sehubungan dengan perihal di atas, mohon Bapak/Ibu perhatikan 5 poin penting berikut:
+Harap segera melakukan penggantian Kode Akses (Password & PIN) setelah Login pertama kali untuk menjaga kenyamanan dan keamanan dalam bertransaksi.
+Untuk memulai berinvestasi saham, silakan melakukan penyetoran dana ke nomor Rekening Dana Nasabah (RDN) tersebut di atas.
+Terhitung sejak diaktifkan, akun Bapak/Ibu berada dalam masa 30 hari Free Trial. Apabila sampai dengan masa Free Trial berakhir Bapak/Ibu tidak melakukan penyetoran dana ataupun saham, maka User akan otomatis terblokir.
+Setelah 30 hari Free Trial berakhir, penggunaan data real time Bursa Efek Indonesia (Market Info) akan dikenakan biaya lisensi sebesar Rp16.500,-/bulan. Namun sebagai bentuk pelayanan kepada Bapak/Ibu, HP Sekuritas akan membebaskan biaya Market Info apabila total Nett Fee/bulan mencapai minimum Rp16.500,- (Enam belas ribu lima ratus rupiah).
+Dapatkan informasi seputar investasi saham dengan bergabung di kelas Training Easy Investing gratis yang kami sediakan. Info jadwal dan pendaftaran melalui Link HPXXomunity.
+
+[번역문: english]
+The User Name, Password, and PIN can be used to access and carry out transaction on HPX application that can be downloaded through: https://henanputihrai.com, Play Store for HPX for Android, and App Store for HPX for iPhone/iPad.
+Regarding to the matters above, you should pay attention to these 5 important points:
+Change the Access Code (Password & PIN) immediately after Logging in for the first time to keep the convenience and safety during transaction.
+To start investing in stock, please deposit money to Customer Fund Account (RDN) number mentioned above.
+Starting from activation time, your account is in 30 days Free Trial period. User will be automatically blocked if you don't deposit money or stock until the Free Trial period end.
+Once the 30 days Free Trial is ended, the use of Indonesia Stock Exchange (Market Info) data in real time will be charged a license fee of 16.500,- Rp/month. However, as a form of service for you, HP Security will not charge you Market Info fee if the total Nett Fee/month reached the minimum of 16.500,- Rp (Sixteen thousands five hundred rupiah).
+Get information on stock investment by joining the free Training Easy Investing class we provided. Information on schedule and registration can be seen via HPXXomunity Link.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호 "Rp"가 숫자 뒤에 위치해 있으며, 이는 정책에 따라 숫자 앞에 위치해야 합니다. 예: Rp16,500,-/month.

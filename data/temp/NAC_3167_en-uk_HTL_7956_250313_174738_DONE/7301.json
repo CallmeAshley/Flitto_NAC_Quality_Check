@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "Hi [redacted_name],\nWe are following up with support, no issues in the router suspected as of now. Support is waiting the syslogs to analyze\nDid the team took any icmp/tracert or pcap from those impacted flows? we cannot debug user plane packets in TS files as you know, so need to confirm it was ip reachability issue not application related\nNote: this is not second time to have such issue, actually IBGN1 lag expansion activity is done without any issue.\nBest Regards,\n[redacted_name]",
+    "trans": "Вітаємо [redacted_name]!\nНаразі ми контактуємо зі службою підтримки, жодних проблем з роутером поки не запідозрено. Служба підтримки очікує на аналіз системних журналів\nКоманда часом не використовувала icmp/tracert або pcap з проблемних потоків? Як ви знаєте, ми не можемо налагоджувати пакети користувацького рівня у файлах TS, тому нам потрібно підтвердити, що проблема була  пов'язана з доступністю IP-адреси, а не з застосунком\nПримітка: така проблема виникає вже вдруге, фактично робота над розширенням затримки IBGN1 виконується без жодних проблем.\nЗ найкращими побажаннями,\n[redacted_name]"
+}

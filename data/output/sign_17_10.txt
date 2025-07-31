@@ -1,0 +1,49 @@
+[원문: korean]
+1Q 2Q 3Q 4Q 연간(2024) 2023
+대출금리 8% 8% 9% 9% 8.5% 8%
+이자소득 20억원 20억원 22.5억원 22.5억원 85억원 80억원
+CD금리 6% 7% 7% 7% 6.75% 6%
+이자비용 12억원 14억원 14억원 14억원 54억원 48억원
+순이자마진 3.1% 3.2%
+순이자소득 8억원 6억원 8.5억원 8.5억원 31억원 32억원
+√ 이자소득과 이자비용, 순이자소득
+√ 순이자마진 = 연간순이자소득 / 수익자산 = 3.1%
+√ 자본금 시장가치 = 자산 현재가치(995.4억원) – 부채 현재가치(798.06억원) = 197.33억원
+√ 경제적 자본비율 = 자본금의 시장가치 / 자산의 시장가치 = 19.82%
+↑
+√ 순이자마진 = 연간순이자소득 / 수익자산 = 3.2%
+√ 자본금의 시장가치 = 자산의 현재가치(1,000) – 부채의 현재가치(800) = 200
+√ 경제적 자본비율 = 자본금의 시장가치 / 자산의 시장(현재)가치 = 20%
+◇ Interest Rate Risk
+□ ALM: 관리지표
+√ ALM을 통한 금리위험의 최소화
+√ 만기가 몇 개월인 CD로 자금을 조달해야 세 가지 관리지표(순이자소득, 자본금의 시장가치,
+
+[번역문: english]
+1Q, 2Q, 3Q, 4Q, Annual (2024) 2023
+Loan rates: 8%, 8%, 9%, 9%, 8.5%, 8%
+Interest income: 2 billion won, 2 billion won, 2,25 billion won, 2,25 billion won, 8.5 billion won, 8 billion won
+CD rate: 6%, 7%, 7%, 7%, 7%, 6,75%, 6%
+Interest expenses: 1.2 billion KRW, 1.4 billion KRW, 1.4 billion KRW, 5.4 billion KRW, 4.8 billion KRW
+Net interest margin: 3.1%, 3.2%
+Net interest income: 800 million won, 600 million won, 850 million won, 850 million won, 3.1 billion won, 3.2 billion won
+√ Interest income, interest expense, net interest income
+√ Net interest margin = Annual net interest income / earning assets = 3.1%
+√ Capital stock market value = Present value of assets (KRW 995.4 billion) – Present value of debt (KRW 798,06 billion) = KRW 197.3 billion
+√ Economic capital ratio = Market value of capital stock / Market value of assets = 19,82%
+↑
+√ Net interest margin = Annual net interest income / earning assets = 3.2%
+√ Capital stock market value = Present value of assets (1.000) – Present value of debt (800) = 200
+√ Economic capital ratio = Market value of capital stock / Market(present)  value of assets = 20%
+◇ Interest Rate Risk
+□ ALM: Management Indicators
+√ Minimize interest rate risk through ALM
+√ Three management indicators (net interest income, market value of capital stock, must be financed by a CD with a maturity of several months
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "2,25 billion won" 및 "6,75%"에서 소수점 대신 쉼표 사용
+    - 통화 표기 오류: 없음

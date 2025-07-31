@@ -1,0 +1,34 @@
+[Date Format]
+
+Definition:  
+Ukrainian dates follow the **Day → Month → Year** order.  
+If a weekday is present, it must appear **before** the date and be followed by a comma.  
+The abbreviation “р.” (for “рік”) follows the year.
+
+Examples:  
+- понеділок, 28 липня 2025 р.  
+- 28 липня 2025 р.  
+- 28.07.2025  
+- 28.07.25
+
+Evaluation Criteria:
+- Confirm Day → Month → Year order.
+- If weekday is present, place before the date with comma.
+- Do not generate weekday if absent in the source.
+- Include “р.” if it appears in the original.
+- Accept both full month and short numerical formats.
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

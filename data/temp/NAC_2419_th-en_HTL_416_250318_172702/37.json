@@ -1,0 +1,6 @@
+{
+    "source": "th_TH",
+    "target": "en_US",
+    "text": "พอร์ต MIDI สำหรับ MIDI IN\nGlobal EQ ช่วยให้ผู้ใช้ปรับโทนเสียงได้อย่างรวดเร็วตามการตั้งค่าเสียงที่แตกต่างกัน\nสามารถตั้งค่าลูปเปอร์ 300 วินาทีแบบบูรณาการเป็นโหมดก่อนหรือหลังได้\nมีกลองให้เลือกหลากหลายถึง 200 แบบ\nแป้นเหยียบ CTRL ช่วยให้ผู้ใช้สามารถตั้งค่าแป้นเหยียบที่สอดคล้องกันเป็นสวิตช์เปิด/ปิดหรือแตะสวิตช์ปรับจังหวะ – ฟังก์ชันการขยายแป้นเหยียบสามารถตั้งค่าแป้นเหยียบ 4 ตัวเป็น “ใช้แป้นเหยียบเพื่อบันทึก” “ค่าที่ตั้งไว้ล่วงหน้า #4”\n“ระดับเสียงที่ตั้งไว้ล่วงหน้า ±5”, “แป้นเหยียบ 1 A/B”, “แป้นเหยียบ 2 A/B” เป็นต้น\nอายุการใช้งานแบตเตอรี่: ประมาณ 8 ชั่วโมง",
+    "trans": "A MIDI port for MIDI IN\nGlobal EQ helps users adjust the tone of voice quickly according to different voice settings\nUsers can set the integrated 300-second looper to pre- or post-mode.\nThere are as many as 200 drum types to select from.\nThe CTRL pedal helps users to set the corresponding pedal as an on/off switch or tap the tempo switch - the pedal expansion function can set 4 pedals to \"use pedal to save\"  \"preset value #4\"\n\"Previously set volume ±5\", \"Pedal 1 A/B\", \"Pedal 2 A/B\", etc.\nBattery life: around 8 hours"
+}

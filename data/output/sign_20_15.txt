@@ -1,0 +1,23 @@
+[원문: thai]
+5. ผู้โชคดีที่ได้รับสิทธิ์ 250 ท่าน ต้องมาลงทะเบียนหน้างานในวันที่ 1 พฤศจิกายน 2567 ตั้งแต่เวลา 14.00 น. - 15.00 น. (GMT+7) โดยนำบัตรประชาชนและ QR Code ที่ได้รับ มายืนยันตัวตนหน้างานด้วยตนเองเท่านั้น ไม่อนุญาตให้ผู้อื่นลงทะเบียนเข้าร่วมงานแทน
+ผู้โชคดีไม่สามารถโอนสิทธิ์ให้กับผู้อื่นได้ หากไม่มาลงทะเบียนยืนยันตัวตน ภายในเวลาที่กำหนดจะถือว่าสละสิทธิ์
+หมายเลขที่นั่งภายในงานจะเรียงลำดับตามรายชื่อที่ประกาศทาง Social Media ของ iQIYI Thailand ทุกช่องทาง
+8. ผู้ที่ไม่ได้รับสิทธิ์เข้างานสามารถมาให้กำลังใจนักแสดงในช่วง Green Carpet ได้ตั้งแต่เวลา 15.00 น. (GMT+7)
+ผู้โชคดีที่ได้รับสิทธิ์เข้างาน “iQIYI iJOY TH 2025” จะไม่รวมกับสิทธิ์เข้างาน “iQIYI VIP MEET AND GREET”
+* สำหรับผู้ที่ไม่ได้รับสิทธิ์ สามารถรับชมไลฟ์สดงาน "iQIYI iJOY TH 2025"
+
+[번역문: english]
+5. The 250 lucky winners must register at the venue on 2024 November 1 from 14:00 pm - 15:00 pm (GMT+7). Winners must present their ID card and received QR code to verify their identity in person only. Registration by proxy is not permitted.
+Winners cannot transfer their rights to others. Failure to register and verify identity within the specified time will be considered as forfeiting the right.
+Seating numbers at the event will be arranged according to the name list announced on all iQIYI Thailand social media channels.
+8. Non-winners can come to support the artists during the Green Carpet period starting from 15:00 pm (GMT+7).
+Winners who receive entry rights to "iQIYI iJOY TH 2025" will not include the right to attend "iQIYI VIP MEET AND GREET."
+* Those who did not receive entry rights can watch the "iQIYI iJOY TH 2025" live stream.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "2024 November 1"로 표기되어 있으며, 이는 미국 영어의 표준 형식인 "November 1, 2024"와 일치하지 않습니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

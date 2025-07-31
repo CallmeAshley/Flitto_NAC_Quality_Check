@@ -1,0 +1,81 @@
+[원문: arabic]
+130 جيجا إنترنت 🌍( 100 جيجا بعد انتهاء العرض)
+1200 دقيقة لجميع الشبكات 𑠊___
+سوا فليكس 240 (240 ريال)
+أرسل 7241 للاشتراك
+سوشال لا محدود 📲
+100 جيجا إنترنت 🌍
+2000 دقيقة محلّية و دولية ول19 دولة 📞
+___
+باقة سوا فليكس 340 (بـ 340 ريال)
+1000 دقيقة محلّية ودولية
+90 جيجا انترنت
+110 جيجا سوشال
+للإشتراك أرسل 7242
+ارسل "فليكس 340" للتعرف على ال 19 دولة المشمولة.
+___
+سوا بوست بلس (170 ريال)
+أرسل 7170 للاشتراك
+سوشال لا محدود 📲
+74 جيجا إنترنت 🌍 (40 جيجا بعد انتهاء العرض)
+دقائق لامحدودة داخل الشبكة 📞
+500 دقيقة خارج الشبكة 📞
+___
+سوا فليكس150 (150 ريال)
+أرسل 7243 للاشتراك
+45 جيجا سوشال 📲
+35 جيجا إنترنت 🌍
+1500 دقيقة محلّية ولـ19 دولة 📞
+ارسل "فليكس" للتعرف على الدول المشمولة.
+___
+سوا شير بلس (115 ريال)
+أرسل 7115 للاشتراك
+50 جيجا سوشال 📲 (20 جيجا بعد انتهاء العرض)
+30 جيجا إنترنت 🌍 (10 جيجا بعد انتهاء العرض)
+دقائق لامحدودة داخل الشبكة 📞
+500 دقيقة خارج الشبكة 📞
+
+[번역문: english]
+Internet: 130 Gigabytes 🌍 (100 Gigabytes, when the offer expires).
+Calls: 1200 minutes to all networks 𑠊____
+Sawa Flex 240 (240 SAR)
+Send 7241, to subscribe
+Social Media: Unlimited 📲
+Internet: 100 Gigabytes 🌍
+Calls: 2000 minutes to local and international networks (19 countries) 📞
+___
+Sawa Flex 340 (340 SAR) Package
+Calls: 1000 minutes to local and international networks
+Internet: 90 Gigabytes
+Social Media: 110 Gigabytes
+Send "7242" to subscribe
+send "Flex 340", to know the included countries.
+___
+Sawa Post Plus (170 SAR)
+Send "7170" to subscribe
+Social Media: Unlimited 📲
+Internet: 74 Gigabytes 🌍 (40 Gigabytes when the offer expires)
+Calls: Unlimited within the network 📞
+500 minutes outside the network 📞
+___
+Sawa Flex 150 (150 SAR)
+Send "7243" to subscribe
+Social Media: 45 Gigabytes 📲
+Internet: 35 Gigabytes 🌍
+Calls: 1500 minutes to local and international networks (19 countries) 📞
+To know the included countries, send "Flex".
+___
+Sawa Share Plus (115 SAR)
+Send "7115" to subscribe
+Social Media: 50 Gigabytes 📲 (20 Gigabytes, when the offer expires).
+Internet: 30 Gigabytes 🌍 (10 Gigabytes, when the offer expires)
+Calls: Unlimited within the network 📞
+500 minutes outside the network 📞
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: SAR 통화 기호는 숫자 앞에 위치해야 합니다. 예: SAR 240 대신 240 SAR.

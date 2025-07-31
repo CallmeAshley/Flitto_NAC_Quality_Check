@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Current USB4 / Thunderbolt 4 products don't support USB 3.2 Gen 2x2, only USB 3.2 Gen 2.\nI'm also very annoyed by this state of affairs because I bought a USB 3.2 Gen 2x2 SSD enclosure and I can't get 20 Gb/s when I connect the SSD enclosure to a Thunderbolt 3 or Thunderbolt 4 port, only 10 Gb/s.\nFortunately, more and more motherboards have a native USB 3.2 Gen 2x2 port. My MSI Z490 Tomahawk has this port. My MSI X570 ACE doesn't have it, so I had to buy a Yottamaster USB 3.2 Gen 2x2 AIC.\nThe new EZDIY-FAB USB 3.2 Gen 2x2 AIC is much cheaper and much better, because it has a heatsink.",
+    "trans": "현재 USB4 / 썬더볼트 4 제품은 USB 3.2 Gen 2x2를 지원하지 않으며, USB 3.2 Gen 2만 지원합니다.\n이러한 상황은 매우 불편한데 USB 3.2 Gen 2x2 SSD 인클로저를 구입했음에도 불구하고 이 SSD 인클로저를 썬더볼트 3 또는 썬더볼트 4 포트에 연결하면 초당 20기가바이트가 아닌 초당 10기가바이트의 속도로만 작동하기 때문입니다.\n다행히, 점점 더 많은 메인보드가 기본적으로 USB 3.2 Gen 2x2 포트를 탑재하고 있습니다. 제 MSI Z490 토마호크는 해당 포트를 갖추고 있습니다. 그렇지만 제 MSI X570 에이스에는 없기 때문에 요타마스터 USB 3.2 Gen 2x2 AIC를 별도로 구매해야 했습니다.\n새롭게 출시된 EZDIY-FAB USB 3.2 Gen 2x2 AIC는 가격이 훨씬 저렴하면서도 방열판이 장착되어 있어, 더 낫습니다."
+}

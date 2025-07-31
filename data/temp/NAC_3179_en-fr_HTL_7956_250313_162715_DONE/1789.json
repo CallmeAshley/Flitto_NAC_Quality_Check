@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "The LG B4 has good low-quality content smoothing. It does a very good job of preserving details while doing a good job at removing artifacts, but there is still some noticeable macro-blocking in dark scenes. Setting 'Smooth Gradation' to 'High' behaves differently than last year's model and doesn't actually smooth out many artifacts at all. The picture you see is with 'Smooth Gradation' set to 'Medium'.",
+    "trans": "La LG B4 offre une bonne amélioration du contenu de faible qualité. Elle fait un excellent travail pour préserver les détails tout en supprimant les artefacts, mais il reste encore quelques macro-blocages visibles dans les scènes sombres. Le réglage \"Smooth Gradation\" sur \"High\" fonctionne différemment par rapport au modèle de l'année dernière et ne lisse en réalité pas beaucoup les artefacts. L'image que vous voyez est avec \"Smooth Gradation\" réglé sur \"Medium\"."
+}

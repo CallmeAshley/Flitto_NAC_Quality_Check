@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "The results related to Hypothesis 2a are shown in Column 4. The coefficient of the interaction term between similarity to peers and market overlap with peers is positive and statistically significant (β=8.102; p<0.01), and the interaction term between similarity to peers2 and market overlap with peers is negative and statistically significant (β=−5.606; p<0.01). Therefore, as market overlap with peers increases, both the linear and the quadratic coefficient of similarity to peers become larger, supporting Hypothesis 2a. To understand this moderating effect better, we explored the curves that we obtained for different values of market overlap with peers. These curves are depicted in Fig. 2.",
+    "trans": "가설 2a와 관련된 결과는 4열에 나와 있습니다. 동종업계와의 유사성과 동종업계와의 시장 중첩 간의 상호작용 항목의 계수는 양수이며 통계적으로 유의미합니다(β=8.102; p<0.01), 따라서 시장이 동종업계와 겹칠수록 동종업계의 유사성 계수가 선형과 이차 모두 커지며, 이는 가설 2a를 뒷받침합니다. 이 조절 효과를 더 잘 이해하기 위해서, 동종업계와의 시장 중첩 값을 통해 얻은 곡선을 분석했습니다. 이 곡선은 그림2에 나와 있습니다."
+}

@@ -1,0 +1,140 @@
+[Locale: zh-TW]
+
+[Numeric Format]
+
+Definition:  
+Traditional Chinese in Taiwan follows Western-style numeric formatting, but native large number units (e.g., 萬, 億, 兆) are used in natural language.
+
+- A **dot (`.`)** is used for decimal points.
+- A **comma (`,`)** is used every three digits in the integer part.
+- No grouping is applied after the decimal point.
+- Do not generate unit-based expressions unless present in the source (e.g., 10萬).
+
+Examples:  
+- 1,234.56  
+- 12,345,678 → 1234萬5678 (if expressed in native units)
+
+Evaluation Criteria:
+- Use commas for digit grouping in the integer part.
+- Use a dot for decimal points.
+- Do not group digits after the decimal.
+- Ignore unit-based rewrites unless explicitly present in the original.
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not the New Taiwan Dollar (NT$), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **position and spacing** should be adapted according to Traditional Chinese conventions.
+
+Expected currency symbols include:  
+NT$, $, ¢, €, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₡, ₨, ₦, ₫, ₭, ₲, ₵, ₿, ¤, ƒ, ₮, ₪, ₴, ﷼, ₸, ₾
+
+Expected ISO currency codes include:  
+TWD, USD, EUR, JPY, CNY, KRW, GBP, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400美元`) or **code** (`USD 400`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+Currency symbols such as `NT$`, `$`, `¥` are placed **before the number** with **no space** in between.
+
+Examples:  
+- NT$1,234.56  
+- $1,234.56  
+- ¥10,000
+
+Evaluation Criteria:
+- The symbol must be placed directly before the number.
+- No space is allowed between the symbol and the number.
+- Number must follow [Numeric Format] rules.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., TWD, USD, EUR) appear **after the number**, separated by a **space**.
+
+Examples:  
+- 1,234.56 TWD  
+- 850.00 USD  
+- 10,000.00 EUR
+
+Evaluation Criteria:
+- Code must follow the number.
+- Use a space between number and code.
+- Use uppercase letters for currency codes.
+- Follow [Numeric Format] for number formatting.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as “元”, “美元”, or “日圓” are written **after the number**, usually **without a space**.
+
+Examples:  
+- 1,000元  
+- 850美元  
+- 10,000日圓  
+- 300歐元  
+- 1,200韓元
+
+Evaluation Criteria:
+- Currency name must come after the number with no space.
+- Use proper traditional Chinese names for each currency.
+- Do not generate currency names unless they appear in the source.
+- Follow [Numeric Format] rules.
+
+---
+
+[Date Format]
+
+Definition:  
+Taiwan follows the **Year → Month → Day** format (e.g., 2025年7月28日).  
+If a weekday is included, it is placed **after** the date, separated by a space.  
+Short formats may use `/` or `-`.
+
+Examples:  
+- 2025年7月28日 星期一  
+- 2025年7月28日  
+- 2025/7/28  
+- 2025-7-28
+
+Evaluation Criteria:
+- Use Year → Month → Day order.
+- If a weekday exists, place it after the date with a space.
+- Accept long-form (`年/月/日`) and short-form (`/` or `-`) formats.
+- **Do not generate a weekday unless it exists in the source.**
+
+---
+
+[Time Format]
+
+Definition:  
+Taiwan uses both **12-hour** and **24-hour** systems.  
+- In the 12-hour format, use AM/PM markers such as 上午, 下午, 凌晨.
+- Markers must appear **before the time**.
+- Time is separated by colons (`:`).
+- Do not include time zone unless explicitly mentioned.
+
+Examples:  
+- 上午2:30  
+- 下午14:30  
+- 14:30:45  
+- 上午2:30:45 中華民國標準時間
+
+Evaluation Criteria:
+- Accept both 12-hour and 24-hour formats.
+- Ensure AM/PM markers precede the time in 12-hour cases.
+- Only include time zones if present in the source.

@@ -1,0 +1,35 @@
+[원문: polish]
+- tylne szyby przyciemniane;
+- nagłośnienie Bose - rewelacja;
+- światła do jazdy dziennej w technologii led;
+- tylne światło przeciwmgielne, nie każde auto, które pochodzi z importu je ma, jest jednak podstawowym warunkiem, żeby auto przeszło przegląd;
+- przednie lampy ksenonowe, świecą asymetrycznie zgodnie z wymaganiami europejskimi, zostały odpowiednio przystosowane;
+- partronik przód oraz tył, co zdecydowanie ułatwia manewrowanie tym zwrotnym autem;
+- felgi aluminiowe oryginalne od modelu Mazdy czwartej generacji, najnowszy model, poszerzają auto i bardzo ładnie kontrastują z czarnym kolorem nadwozia;
+- tempomat;
+- automatyczna skrzynia biegów, zmienia płynnie biegi, olej był wymieniany na 80 tys km;
+- dodatkowy komplet opon zimowych dla zdecydowanego klienta;
+- ubezpieczenie na rok czasu, przegląd kończy się w grudniu pod koniec;
+- szyberdach sprawny i działający, można cieszyć się z jazdy przy szumie wiatru;
+
+[번역문: english]
+- shade rear windows;
+- Bose speaker system - excellent;
+- LED day lights
+- rear anti-fog lights, not every imported car is fitted with them but this is a basic requirement for inspection'
+- front xenon lights that shine asymmetrically according to the European requirements, properly adapted;
+- park distance control on the front and back which greatly facilitates steering this maneuverable car;
+- aluminum rims original from the 4th gen Mazda model, most recent model, they make the car look wider and contrast very well with the black chassis;
+- speed control;
+- automatic transmission, changes gears smoothly, oil was replaced at mileage of 80.000 km;
+- extra set of winter tires for a determined buyer;
+- insurance for one year, inspection is valid until the end of December;
+- sunroof is working so you can enjoy driving with the wind;
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "80.000 km"에서 천 단위 구분자가 점(`.`)으로 되어 있어야 합니다. 미국 영어에서는 천 단위 구분자로 쉼표(`,`)를 사용해야 합니다.
+    - 통화 표기 오류: 없음

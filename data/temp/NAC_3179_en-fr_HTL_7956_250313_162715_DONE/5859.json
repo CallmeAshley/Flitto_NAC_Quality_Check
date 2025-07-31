@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Knit button\nRStudio may ask you if you want to update some packages, click ‘Yes’.\nAfter you knit the document, a window with the output will pop-up automatically. As you can see, this document contains the main title, followed by your name and date, as specified in the YAML. After, there is a second-level header which includes the first section of this example document. Also the the word ‘Knit’ is shown in bold, as it was wrapped by double asterisk **.",
+    "trans": "Bouton Knit\nRStudio peut vous demander si vous souhaitez mettre à jour certains paquets, cliquez sur 'Oui'.\nAprès avoir tricoté le document, une fenêtre avec la sortie apparaîtra automatiquement. Comme vous pouvez le voir, ce document contient le titre principal, suivi de votre nom et de la date, comme spécifié dans le YAML. Ensuite, il y a un en-tête de deuxième niveau qui inclut la première section de cet exemple de document. De plus, le mot ‘Knit’ est affiché en gras, car il était entouré de doubles astérisques **."
+}

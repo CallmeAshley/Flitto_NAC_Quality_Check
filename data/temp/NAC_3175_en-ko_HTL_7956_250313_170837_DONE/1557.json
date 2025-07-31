@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "The C++ compiler always associates an else with the immediately preceding if unless told to do otherwise by the placement of braces ({ and }).\nThis behavior can lead to what’s referred to as the dangling- else problem.\n• if ( x > 5 ) if ( y > 5 )\ncout << \"x and y are > 5\"; else\ncout << \"x is <= 5\";\nappears to indicate that if x is greater than 5, the nested if statement determines whether y is also greater than 5.",
+    "trans": "C++ 컴파일러는 중괄호({ 와 })를 사용하여 별도 지정하지 않는 한 항상 else를 바로 앞의 if 문과 연결합니다.\n이 동작은 매달린 else 문제를 일으킬 수 있습니다.\n• if ( x > 5 ) if ( y > 5 )\ncout << \"x and y are > 5\"; else\ncout << \"x is <= 5\";\n위 코드는 x가 5보다 클 경우 중첩된 if 문이 y가 5보다 큰지 여부를 결정하는 것처럼 보입니다."
+}

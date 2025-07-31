@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "This tool requires the two input videos, the one where you want to add the additional tracks to (the destination video) and the one where you take the additional tracks from (the source video).\nIt then tries to find the exact same frame in both videos, in order to synchronize them (in case one of them is longer or shorter than the other).\nIt allows you to pick the audio and subtitle tracks you want to add to the destination and specify the output file.\nThere's an interactive mode (simply don't pass any arguments, flags are fine) and a CLI mode (pass the two arguments listed at the top).",
+    "trans": "이 툴을 사용하기 위해서는 두 개의 입력 비디오가 필요하다. 추가 트랙을 넣고자 하는 비디오(도착지 비디오)와 그 트랙을 가져올 비디오(소스 비디오)다.\n이후 두 비디오에서 완전히 똑같은 프레임을 찾아 (둘 중 하나가 더 길거나 짧을 경우를 대비하여) 동기화한다.\n사용자는 도착지 비디오에 추가하고자 하는 오디오 및 자막 트랙을 고를 수 있으며 출력 파일을 특정할 수도 있다.\n인터랙티브 모드 (인수를 따로 전달하지 않아도 플래그 사용 가능) 및 CLI 모드(상단에 있는 두 인수를 전달)가 있다."
+}

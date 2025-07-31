@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Stata/MP (parallel-processing version): Runs on any Mac with macOS 10.13 or later. Stata/MP is the fastest version of Stata on Macs with multiple cores and has larger limits than Stata/BE. Requires a Stata/MP license. Stata/SE (Standard Edition): Runs on any Mac with macOS 10.13 or later. Stata/SE has larger limits than Stata/BE. Requires a Stata/SE license. Stata/BE (Basic Edition): Runs on any Mac with macOS 10.13 or later. Requires a Stata/BE license.",
+    "trans": "Stata/MP (병렬 처리 버전): macOS 10.13 이상을 사용하는 모든 Mac에서 실행됩니다. Stata/MP는 다중 코어를 갖춘 Mac에서 Stata의 가장 빠른 버전이며, Stata/BE보다 더 큰 제한을 가지고 있습니다. Stata/MP 라이센스가 필요합니다. Stata/SE (Standard Edition): macOS 10.13 이상을 사용하는 모든 Mac에서 실행됩니다. Stata/SE는 Stata/BE보다 더 큰 제한을 가지고 있습니다. Stata/SE 라이센스가 필요합니다. Stata/BE (Basic Edition): macOS 10.13 이상을 사용하는 모든 Mac에서 실행됩니다. Stata/BE 라이센스가 필요합니다."
+}

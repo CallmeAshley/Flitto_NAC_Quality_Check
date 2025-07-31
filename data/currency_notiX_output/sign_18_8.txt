@@ -1,0 +1,21 @@
+[원문: polish]
+1. niezabudowanego gruntu oznaczonego geodezyjnie jako dziatka nr 263/72, obreb ewidencyny: 001, Bielany Wroctawskie potozonego przy ul. Atramentowej nr 1 w Bielanach Wroctawskich o powierzchni 0,0895 ha (Nieruchomosc 1),
+2. niezabudowanego gruntu oznaczonego geodezyjnie jako dziatka nr 11/43, obreb ewidencyjny: 0015, Klecina potozonego we Wroctawiu o powierzchni 0,0297 ha (Nieruchomosé nr 2)
+3. niezabudowanego gruntu oznaczonego geodezyjnie jako dziatka nr 11/13, obreb ewidencyjny: 0015, Klecina potozonego przy ul. Kobierzyckiej nr 20E we Wroctawiu o powierzchni 0,1126 ha wraz z prawem wasnosci posadowionych na tym gruncie stanowiacych odrebne nieruchomosci: budynku magazynowego i budynku biurowego (Nieruchomos nr 3).
+Wyznaczam termin zawarcia umowy pryzeczone i prenoszace wasnosé na dzien 4 pazziernika 2024 roku, godzina 13.00 w Kancelarii Notarialnej Aleksandra Kanas Matgorzata Gieniec-Mordak spótka cywilna 50-123 Wroctaw, ul. Otawska 9.
+Wskazuje, ze spredaz Nieruchomosci 1, Nieruchomosci 2iNieruchomosci 3powinna nastapic za taczna kwote brutto 4 059 000,00 PLN (stownie: cztery miliony piecdziesiat dziewiec tysiecy ztotych 00/100) brutto, stanowiaca zgodnie z trescia Warunkowej Umowy Sprzedazy ora
+
+[번역문: english]
+1. undeveloped land surveyed and subdivided as plot 263/72, cadastral district: 001, Bielany Wroclawskie located at ul. Atramentowa 1 in Bielany Wroclawskie, with an area of 0,0895 ha (Property 1);
+2. undeveloped land surveyed and subdivided as plot 11/43, cadastral district: 0015, Klecina located in Wroclaw, with an area of 0,0297 ha (Property 2);
+3. undeveloped land, mapped and subdivided as plot 11/13, cadastral district: 0015, Klecina, located at ul. Kobierzycka 20E in Wrocław, with an area of 0,1126 ha, including ownership rights to the distinct properties built on this land: a warehouse and an office building (Property 3).
+I hereby arrange for the contract of transfer of ownership to be concluded on October 4, 2024, at 1:00 PM at the Notary's Office Aleksandra Kanas Małgorzata Gieniec-Mordak Spółka Cywilna, 50-123 Wrocław, ul. Oławska 9.
+I hereby note that Property 1, Property 2, and Property 3 should all be sold for a total gross amount of PLN 4 059 000,00 (in words: four million fifty-nine thousand Zloty 00/100), in accordance with the Conditional Sale Contract and
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 소수점 표기에서 쉼표(,) 대신 점(.)을 사용해야 합니다.
+    - 통화 표기 오류: 없음

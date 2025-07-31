@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "We have received a request from a new customer to start service on Nov. 02, 2024 at the same address of your FPL account at[redacted_address].\nIf you believe this request is an error and do not want to close your account, you must let us know. If you do not take an action below, this service request will proceed. Do you want to close your account?",
+    "trans": "Nous avons reçu une demande d'un nouveau client pour commencer le service le 2 novembre 2024 à la même adresse que celle de votre compte FPL à [redacted_address].\nSi vous pensez que cette demande est une erreur et que vous ne souhaitez pas fermer votre compte, vous devez nous en informer. Si vous ne prenez aucune action ci-dessous, cette demande de service sera traitée. Voulez-vous fermer votre compte ?"
+}

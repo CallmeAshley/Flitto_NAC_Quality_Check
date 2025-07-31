@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "transaction made using your Wells Fargo Debit Card was declined.\nCard ending in 9528\nDeclined due to insufficient funds. Sign on to view available balance and account activity.\nTransaction amount 15.89 USD\nLocated at Amazon.com in Amzn.com/bill UNITED STATES\nDate 10/14/2024 02:55 PM US/Pacific\nFor your current balance, sign on and select this account. To modify or cancel your alerts, sign on to Manage Alerts.\nIf you don't recognize this transaction, please call Wells Fargo customer service immediately at 1-800-869-3557, 24 hours a day, 7 days a week.",
+    "trans": "귀하의 웰스 파고 체크카드 결제가 거부됐습니다.\n9528로 끝나는 카드입니다\n잔액 부족으로 거부됐습니다. 이용 가능 잔고와 계좌 활동을 확인하시려면 로그인 하세요.\n결제액은 15.89 미국달러입니다\n미국 Amzn.com/bill의 아마존닷컴에 위치하고 있습니다\n일시 2024년 10월 14일 오후 2시 55분 미국/태평양 시간대\n현재 잔고의 경우 로그인 하신 후 계좌를 선택하세요. 알림을 수정하거나 취소하시려면 로그인 하셔서 알람 관리로 가세요.\n해당 결제를 의도하지 않으셨다면 매일 24시간 운영되는 1-800-869-3557번을 통해 즉시 웰스 파고 고객 서비스에 연락 주시길 바랍니다."
+}

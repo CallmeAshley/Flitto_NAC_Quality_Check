@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "U.S. Customs: You have a USPS parcel being cleared, due to the detection of an invalid zip code address, the parcel can not be cleared, the parcel is temporarily detained, please confirm the zip code address information in the link within 24 hours.\nhttps://uspsii.info/us\n(Please reply with a Y, then exit the text message and open it again to activate the link, or copy the link into your Safari browser and open it) Have a great day from the USPS team!",
+    "trans": "U.S. Customs: 귀하의 USPS 소포가 통관 중 입니다만, 잘못된 우편번호 주소가 감지되어, 소포가 통관되지 못하고, 임시로 보류되었으므로, 24시간 이내에 아래 링크에서 우편번호 주소 정보를 확인해 주세요.\nhttps://uspsii.info/us\n(Y를 회신한 후, 문자 메시지를 종료하고 다시 열어 링크를 활성화하거나, 링크를 Safari 브라우저에 복사하여 열어 주세요.) USPS 팀에서 즐거운 하루 되시길 바랍니다!"
+}

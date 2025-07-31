@@ -1,0 +1,34 @@
+[Locale: ko-KR]
+
+1. 숫자 표기 (Numeric Format)
+- Decimal separator: '.' (dot)
+- Grouping separator: ',' (comma)
+- Example: 1,234.56
+- 설명: 일반적인 서양식 표기를 따르며, 천 단위 쉼표와 소수점 점(.)을 사용합니다.
+
+2. 화폐 표기 (Currency Format)
+- Symbol format:
+  • Pattern: "¤#,##0.00"
+  • 예시: "₩12,345.00"
+  • 설명: **통화 기호(₩)**가 숫자 앞에 붙고, **공백 없이** 바로 이어집니다.
+
+- ISO Code format:
+  • Pattern: "¤¤ #,##0.00"
+  • 예시: "KRW 12,345.00"
+  • 설명: 통화 코드(KRW)는 **공백(U+00A0)** 뒤에 숫자를 따릅니다.
+
+3. 날짜 및 요일 표기 (Date Format)
+- Full: "2025년 7월 28일 월요일"
+- Long: "2025년 7월 28일"
+- Medium: "2025. 7. 28."
+- Short: "25. 7. 28."
+- 날짜 순서 (Order): **연 / 월 / 일** (Year / Month / Day)
+- 요일 위치: 일부 포맷에서는 날짜 뒤에 요일 표시
+
+4. 시간 표기 (Time Format)
+- Full: "오전/오후 h시 m분 s초 KST"
+- Medium: "HH:mm:ss"
+- Short: "HH:mm"
+- 설명: 
+  • 12시간제와 24시간제가 모두 사용되며,  
+  • Full 포맷에서는 오전/오후와 함께 KST와 같은 타임존도 표기

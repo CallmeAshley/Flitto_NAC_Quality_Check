@@ -1,0 +1,91 @@
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not the euro (€), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adapted according to Italian conventions.
+
+Expected currency symbols include:  
+€, $, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
+
+Expected ISO currency codes include:  
+EUR, USD, JPY, GBP, CNY, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 dollari`) or **code** (`400 USD`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+The currency symbol (e.g., €) appears **after the number**, with a **space**.
+
+Examples:  
+- 1.234,56 €  
+- 2.000,00 $  
+- 850,00 ¥  
+
+Evaluation Criteria:  
+- The symbol must follow the number.  
+- Use a space between the number and symbol.  
+- Number format must follow the [Numeric Format] rules.  
+- Do not convert the symbol into a name or code.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., EUR, USD) are written **after the number**, with a **space**.
+
+Examples:  
+- 1.234,56 EUR  
+- 2.000,00 USD  
+- 800,00 JPY  
+
+Evaluation Criteria:  
+- Code must appear after the number.  
+- Use a space between number and code.  
+- Follow the [Numeric Format] rules.  
+- Do not rewrite the code into a name or symbol.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names like “euro”, “dollaro”, or “yen” appear **after the number**, usually with a space.  
+All currency names in Italian are written in lowercase.
+
+Examples:  
+- 1.000 euro  
+- 850 dollari  
+- 10.000 yen  
+- 500 sterline  
+- 300 rubli  
+- 1.200 won  
+
+Evaluation Criteria:  
+- Currency name must appear after the number with a space.  
+- The name must match the referenced currency in Italian.  
+- Number formatting must follow the [Numeric Format] rules.  
+- Do not generate a currency name unless one exists in the source.
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

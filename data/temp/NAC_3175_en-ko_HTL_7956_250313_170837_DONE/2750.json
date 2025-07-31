@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Labeled data sets are massive collections of images that have been meticulously tagged with relevant information about their content. For example, a picture of a golden retriever would be labeled as \"Golden Retriever,\" while a picture of a Siamese cat would be labeled as \"Siamese cat.\" This organized digital library allows the AI to learn from a diverse range of examples, understanding the variations within each category.",
+    "trans": "데이터 분류 세트는 그 내용에 대해 관련된 정보로 꼼꼼하게 태깅된 이미지를 모은 것이다. 예를 들어, 골든 리트리버 사진 한 장은 \"골든 리트리버\"로 분류될 수 있고, 샴 고양이의 사진 한 장이 \"샴 고양이\"로 분류될 수 있는 것이다. 이러한 조직화된 디지털 라이브러리는 AI가 다양한 범위의 예시를 학습해, 각 범주 내의 변형형들을 이해할 수 있게 한다."
+}

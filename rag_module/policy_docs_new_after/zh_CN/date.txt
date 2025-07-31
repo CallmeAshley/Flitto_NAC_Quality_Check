@@ -1,0 +1,32 @@
+[Date Format]
+
+Definition:  
+Chinese dates follow the **Year → Month → Day** order, using native suffixes (`年`, `月`, `日`).  
+If a weekday is present, it must appear **after the date**.  
+Slashes (`/`) may be used in short format.
+
+Examples:  
+- 2025年7月28日星期一  
+- 2025年7月28日  
+- 2025/7/28
+
+Evaluation Criteria:  
+- Date must be ordered as Year → Month → Day.  
+- If the weekday is present, it follows the date.  
+- Accept both character-based (`年/月/日`) and slash-based formats.  
+- Do not add a weekday unless explicitly present in the source.
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

@@ -1,0 +1,88 @@
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not Polish złoty (zł), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adjusted according to Polish conventions.
+
+Expected currency symbols include:  
+zł, €, $, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾  
+
+Expected ISO currency codes include:  
+PLN, USD, EUR, JPY, GBP, CNY, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD  
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 dolarów`) or **code** (`400 USD`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+Currency symbols like `zł` appear **after the number**, with a **space** in between.
+
+Examples:  
+- 1 234,56 zł  
+- 2 000,00 $  
+- 850,00 €  
+
+Evaluation Criteria:
+- Symbol must follow the number.
+- Use a space between number and symbol.
+- Follow the [Numeric Format] rules for number formatting.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes like `PLN`, `USD` also appear **after the number**, with a **space**.
+
+Examples:  
+- 1 234,56 PLN  
+- 2 000,00 USD  
+- 800,00 EUR  
+
+Evaluation Criteria:
+- Code must follow the number.
+- Use a space before the code.
+- Numeric formatting must follow the [Numeric Format] section.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as “złoty”, “dolar”, or “jen” appear **after the number**, usually with a space.
+
+Examples:  
+- 1 000 złotych  
+- 850 dolarów  
+- 10 000 jenów  
+- 500 euro  
+- 300 funtów  
+- 1 200 wonów  
+
+Evaluation Criteria:
+- The currency name must follow the number with a space.
+- The name should match the grammatical form used in Polish.
+- Use [Numeric Format] rules for number formatting.
+- Do not generate a currency name unless explicitly present in the source.
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

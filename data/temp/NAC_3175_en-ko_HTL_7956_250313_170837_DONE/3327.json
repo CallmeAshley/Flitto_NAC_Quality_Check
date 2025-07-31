@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Below, we present some metrics commonly adopted to evaluate the results quanti- tatively. Some of these metrics are directly used from the computer vision and ML/DL domains, while others are more specific to cellular image analysis.\n5.1. Metrics for Pixel-Wise Cell Segmentation\nMany different metrics are adopted in the literature to evaluate the performance of (cell) segmentation algorithms. The most frequently used is the one adopted for the CTC [22], generally denoted as SEG. Given the ground truth cell segmentation GT and the corresponding segmentation S computed with any segmentation algorithm, the Jaccard similarity index, also known as Intersection over Union (IoU), evaluates the degree of overlap between the true and the computed results and is defined as",
+    "trans": "아래에서는 결과를 정량적으로 평가하는 데 흔히 적용되는 일부 메트릭을 소개합니다. 이 메트릭 중 일부는 컴퓨터 비전과 머신 러닝/딥 러닝 도메인에 직접 사용되는 반면, 다른 메트릭은 세포 이미지 분석에 특화되어 있습니다.\n5.1. 픽셀 단위 세포 분할을 위한 메트릭\n많은 다양한 메트릭이 (세포) 분할 알고리즘의 성능을 평가하기 위해 문헌에 적용되었습니다. CTC [22]에 적용된 것이 가장 자주 사용되며 일반적으로 SEG로 표시됩니다. 지상 실측 세포 분할 GT와 모든 분할 알고리즘과 계산된 해당 분할 S를 고려해 볼 때 교집합 비율(IoU)이라고도 알려진 제이카드 유사성 지수가 실제 결과와 계산된 결과의 공통 부분을 평가하고 이것은 정의됩니다."
+}

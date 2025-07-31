@@ -1,0 +1,21 @@
+[원문: english]
+You recently received a text message from the New York State Office of Temporary and Disability Assistance (OTDA) because one or more children in your household have been issued Summer EBT benefits that will expire if they are not completely used by November 28, 2024.
+Summer EBT is a one-time $120 benefit for each eligible child to help cover the cost of food during the summer months when school is out.
+Our records show that you have not used all of your child's Summer EBT benefit. Any unused benefits will expire on November 28, 2024 and cannot be replaced. Please be sure to use all benefits before they expire.
+Your child's benefits were issued to their existing Pandemic-EBT card. If you no longer have this EBT card and need a replacement card, you can order one following the instructions on ordering a replacement card. Once you receive the replacement card, follow these instructions carefully to set a PIN and activate the EBT card.
+If you request a replacement card, benefits will still expire on the original expiration date of November 28, 2024. Please call us right away at 1-833-452-0096 if you need help accessing your benefits.
+
+[번역문: vietnamese]
+Bạn gần đây đã nhận được một tin nhắn từ Văn phòng Hỗ trợ Tạm thời và Khuyết tật Bang New York (OTDA) thông báo rằng một hoặc nhiều trẻ em trong gia đình bạn đã được cấp quyền lợi Summer EBT và số tiền này sẽ hết hạn nếu không được sử dụng hết trước tháng 11 ngày 28  năm 2024.
+Summer EBT là khoản trợ cấp một lần trị giá $120 cho mỗi trẻ em đủ điều kiện, nhằm hỗ trợ chi phí thực phẩm trong những tháng hè khi trường học đóng cửa.
+Hồ sơ của chúng tôi cho thấy bạn chưa sử dụng hết quyền lợi Summer EBT của con mình. Bất kỳ khoản tiền nào chưa sử dụng sẽ hết hạn vào tháng 11 ngày 28 năm 2024 và không thể được thay thế. Vui lòng sử dụng toàn bộ quyền lợi trước khi hết hạn.
+Quyền lợi của con bạn đã được chuyển vào thẻ Pandemic-EBT hiện có. Nếu bạn không còn giữ thẻ EBT này và cần thay thế, bạn có thể đặt thẻ mới theo hướng dẫn đặt lại thẻ. Khi nhận được thẻ thay thế, hãy làm theo các hướng dẫn cẩn thận để đặt mã PIN và kích hoạt thẻ EBT.
+Nếu bạn yêu cầu thay thế thẻ, quyền lợi vẫn sẽ hết hạn vào ngày hết hạn ban đầu là tháng 11 ngày 28 năm 2024. Vui lòng gọi ngay cho chúng tôi theo số 1-833-452-0096 nếu bạn cần hỗ trợ truy cập quyền lợi của mình.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "tháng 11 ngày 28 năm 2024"로 표기되어 있으며, 올바른 형식은 "ngày 28 tháng 11 năm 2024"입니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

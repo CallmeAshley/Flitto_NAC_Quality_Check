@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "The Coverage Center is a capability of Active Testing that introduces a dual approach to security testing. First, it allows immediate vulnerability detection without deep insights into the API’s underlying business logic. Second, it provides a centralized mechanism for refining API consumption. This feature simplifies the initial testing phase, enabling quick identification of security issues without additional setup or configuration. Simultaneously, it offers guidance for optimizing API interactions improving testing depth and breadth. By balancing straightforward, initial testing",
+    "trans": "Le Coverage Center est une fonctionnalité des tests actifs qui introduit une approche double du test de sécurité. Tout d'abord, il permet de détecter immédiatement les vulnérabilités sans avoir une connaissance approfondie de la logique commerciale sous-jacente de l'API.  Ensuite, il fournit un mécanisme centralisé pour affiner la consommation de l'API. Cette fonctionnalité simplifie la phase de test initiale, permettant une identification rapide des problèmes de sécurité sans configuration ou installation supplémentaire. Simultanément, elle offre des conseils pour optimiser les interactions avec l'API en améliorant la profondeur et l'étendue des tests. En équilibrant les tests initiaux simples"
+}

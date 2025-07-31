@@ -1,0 +1,23 @@
+[원문: english]
+BY MAURO ORRU
+ Porsche AG posted lower sales and operating profit in the first nine months of the year as the company grapples with challenges in the key Chinese market and a slower-than-expected shift to electric vehicles.
+ The German premium carmaker reported sales of €28.56 billion, equivalent to $30.92 billion, down 5.2% from the same period a year ago, as it delivered 226,026 vehicles to customers between January and September, down 6.9% from last year.
+ Lutz Meschke, deputy chairman of the executive board, said the third quarter had been the weakest of the year for Porsche as the group faces a structural shift in demand in China, the world’s largest car market. Meanwhile, the transition to electric vehicles has proceeded more slowly than expected.
+ “For this reason, we are reviewing our product lineup and ecosystem, as well as our budgets and cost position,” he said.
+ For months, the automotive industry has been dealing with a slow EV market and fierce competition from local carmakers in China, forcing several European auto manufacturers to lower their profit and sales forecasts for the year.
+
+[번역문: portuguese]
+POR MAURO ORRU
+ A Porsche AG registrou vendas e lucros operacionais mais baixos nos primeiros nove meses do ano, à medida que a empresa enfrenta desafios no principal mercado chinês e uma mudança mais lenta que o esperado para veículos elétricos.
+ O fabricante alemão registrou vendas de €28,56 bilhões, o equivalente a U$30,92 bilhões, 5,2% abaixo do que o registrado no mesmo período do ano passado, como foi entregue 226,026 veículos para clientes entre janeiro e setembro, uma queda de 6,9% em comparação ao último ano.
+ Lutz Meschke, vice-presidente do conselho executivo, disse que o terceiro trimestre foi o mais fraco do ano para a Porsche, uma vez que o grupo tem enfrentado uma mudança estrutural na procura na China, o maior mercado de automóveis do mundo. Todavia, a transição para veículos elétricos tem sido mais lenta do que o esperado.
+ "Por esse motivo, nós estamos revisando nossa linha de produtos e ecossistema, bem como nossos orçamentos e posições de custos," ele disse.
+ Por meses, a industria automotiva tem lidado com um mercado de veículos elétricos lento e com a concorrência feroz de fabricantes de automóveis locais na China, forçando vários fabricantes de automóveis europeus a reduzirem os seus lucros e previsões de vendas para o ano.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 천 단위 구분자가 쉼표(,)로 되어 있어야 하는데, 점(.)으로 되어 있습니다. 예: 226.026 대신 226,026
+    - 통화 표기 오류: 달러 기호가 숫자 앞에 있어야 하며, 기호와 숫자 사이에 공백이 없어야 합니다. 예: U$30,92 대신 $30,92

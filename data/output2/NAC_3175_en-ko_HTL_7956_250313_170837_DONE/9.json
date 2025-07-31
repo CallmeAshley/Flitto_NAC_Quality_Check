@@ -1,0 +1,85 @@
+{
+  "source": "en_US",
+  "target": "ko_KR",
+  "text": "She freaking knows how to dress\n2. [+30, -9]\nShe's so gangster and f*cking cool. She's tall but she doesn't look tryhard, it just looks effortless and she has an aura\n3. [+24, -10]\nSeriously she has the best casual fashion among female idols, she's freaking cool\n4. [+22, -6]\nShe really dresses with sense\n5. [+22, -5]\nF*cking cool\n6. [+13, -4]\nI love this",
+  "original_trans": "그녀는 옷을 잘 입는다\n2. [+30, -9]\n그녀는 완전 갱스터 같고 존나 쿨해. 그녀는 키는 크지만 애쓰는 것 같아 보이지 않고, 그냥 여유로워 보이고 아우라가 있다\n3. [+24, -10]\n진짜 그녀는 여성 아이돌 중 캐쥬얼 패션을 제일 잘 소화하고, 짱 멋져\n4. [+22, -6]\n그녀는 진짜 센스 있게 잘 입어\n5. [+22, -5]\n존나 멋져\n6. [+13, -4]\n이거 너무 마음에 들어",
+  "checked_trans": "그녀는 옷을 잘 입는다\n2. [+30, -9]\n그녀는 완전 갱스터 같고 존나 쿨해. 그녀는 키는 크지만 애쓰는 것 같아 보이지 않고, 그냥 여유로워 보이고 아우라가 있다\n3. [+24, -10]\n진짜 그녀는 여성 아이돌 중 캐쥬얼 패션을 제일 잘 소화하고, 짱 멋져\n4. [+22, -6]\n그녀는 진짜 센스 있게 잘 입어\n5. [+22, -5]\n존나 멋져\n6. [+13, -4]\n이거 너무 마음에 들어",
+  "checked_sentences": [
+    {
+      "original": "그녀는 옷을 잘 입는다",
+      "revised": "그녀는 옷을 잘 입는다",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "2. [+30, -9]",
+      "revised": "2. [+30, -9]",
+      "violated": false,
+      "categories": [
+        "numeric"
+      ]
+    },
+    {
+      "original": "그녀는 완전 갱스터 같고 존나 쿨해. 그녀는 키는 크지만 애쓰는 것 같아 보이지 않고, 그냥 여유로워 보이고 아우라가 있다",
+      "revised": "그녀는 완전 갱스터 같고 존나 쿨해. 그녀는 키는 크지만 애쓰는 것 같아 보이지 않고, 그냥 여유로워 보이고 아우라가 있다",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "3. [+24, -10]",
+      "revised": "3. [+24, -10]",
+      "violated": false,
+      "categories": [
+        "numeric"
+      ]
+    },
+    {
+      "original": "진짜 그녀는 여성 아이돌 중 캐쥬얼 패션을 제일 잘 소화하고, 짱 멋져",
+      "revised": "진짜 그녀는 여성 아이돌 중 캐쥬얼 패션을 제일 잘 소화하고, 짱 멋져",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "4. [+22, -6]",
+      "revised": "4. [+22, -6]",
+      "violated": false,
+      "categories": [
+        "numeric"
+      ]
+    },
+    {
+      "original": "그녀는 진짜 센스 있게 잘 입어",
+      "revised": "그녀는 진짜 센스 있게 잘 입어",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "5. [+22, -5]",
+      "revised": "5. [+22, -5]",
+      "violated": false,
+      "categories": [
+        "numeric"
+      ]
+    },
+    {
+      "original": "존나 멋져",
+      "revised": "존나 멋져",
+      "violated": false,
+      "categories": []
+    },
+    {
+      "original": "6. [+13, -4]",
+      "revised": "6. [+13, -4]",
+      "violated": false,
+      "categories": [
+        "numeric"
+      ]
+    },
+    {
+      "original": "이거 너무 마음에 들어",
+      "revised": "이거 너무 마음에 들어",
+      "violated": false,
+      "categories": []
+    }
+  ]
+}

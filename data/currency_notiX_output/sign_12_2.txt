@@ -1,0 +1,43 @@
+[원문: arabic]
+سوا 160 الشهري يحتوي على مكالمات لا محدودة داخل شبكة stc و1000 دقيقة لكل الشبكات و 50 جيجابايت بيانات و بيانات سوشال لا محدودة، صالحة لمدة 4 أسابيع بـ 160 ريال
+للحصول على هذا العرض أرسل 88895
+* سوا 35 / 28 يوم
+سوا الشهري 35 لكل الشبكات يحتوي على 200 دقيقة لكل الشبكات و 4 جيجابايت بيانات، صالحة لمدة 4 أسابيع بـ 35 ريال
+للحصول على هذا العرض أرسل 88919
+* سوا سوشال / 7 أيام
+ب 29 ريال ستحصل على انترنت لا محدود لتطبيقات التواصل الإجتماعي و2 جيجا انترنت صالحة لمدة 7 أيام.
+للحصول على هذا العرض أرسل 88792
+* سوا 20 / 7 أيام
+استمتع بـ 250 دقيقة مكالمات لكل الشبكات و 3 جيجابايت انترنت و 5 جيجابايت سوشل ميديا بـ 20 ريال فقط، صالحة لمدة 7 أيام
+للحصول على هذا العرض أرسل 88879
+* سوا 15 / 7 أيام
+سوا الأسبوعي 15 لكل الشبكات يحتوي على 100 دقيقة لكل الشبكات و 3 جيجابايت بيانات، صالحة لمدة أسبوع بـ 15 ريال
+للحصول على هذا العرض أرسل 88911
+* سوا 10 اليومية
+سوا 10 اليومية تحتوي على 100 دقيقة لكل الشبكات و 3 جيجابايت بيانات، 3 جيجا بيانات سوشال صالحة لمدة يوم واحد بـ 10 ريال
+
+[번역문: english]
+Sawa 160 Monthly Plan includes unlimited calls within the STC network and 1,000 minutes to other local networks and 50 GB data and unlimited social media data. It's valid for 4 weeks with 160 SAR
+To get this offer send 88895
+* Sawa 35 / 28 Days
+Sawa 35 Monthly Plan for all networks includes 200 minutes to all local networks and 4 GB data, valid for 4 weeks for 35 SAR
+To get this offer send 88919
+* Sawa Social / 7 Days
+For SAR 29, you get unlimited internet for social media apps and 2 GB internet valid for 7 days.
+To get this offer send 88792
+* Sawa 20 / 7 Days
+Enjoy 250 minutes for all local networks, 3 GB internet and 5 GB social media data for only SAR 20, valid for 7 days
+To get this offer send 88879
+* Sawa 15 / 7 Days
+Sawa 15 Weekly Plan for all networks includes 100 minutes for all local networks and 3 GB data, valid for one week for SAR 15
+To get this offer send 88911
+* Sawa 10 Daily Plan
+Sawa 10 Daily Plan includes 100 minutes for all local networks and 3 GB data, and 3 GB social media data, valid for one day for SAR 10
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: SAR 통화 기호가 숫자 앞에 위치해야 합니다. 예: SAR 160 대신 160 SAR.

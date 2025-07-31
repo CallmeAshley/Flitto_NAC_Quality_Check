@@ -1,0 +1,6 @@
+{
+    "source": "ja_JP",
+    "target": "en_US",
+    "text": "[redacted_name] 様\nAmazon.co.jp でのご注文について、くわしくは注文についてのヘルプページをご確認ください。\nその他ご不明な点がある場合は、ヘルプページをご確認ください。\n[redacted_id]\n[redacted_address]",
+    "trans": "Mr./Ms. [redacted_name]\nFor details regarding your order on Amazon.co.jp, please refer to the help page for orders.\nIf you have any other questions, please check the help page.\n[redacted_id]\n[redacted_address]"
+}

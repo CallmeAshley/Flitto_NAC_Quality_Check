@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "• Type II error – retaining the null hypothesis when we should have rejected • It indicates that our research hypothesis may be correct, despite the decision to reject it and retain the null hypothesis • Best solution for reducing the risk of committing Type II error is to increase the sample size to represent the true population parameter • The probability of Type II error is denoted by • As long as we do not have knowledge of true population parameters, we take the risk of making either a Type I or Type II error, depending our decision.",
+    "trans": "• 제2종 오류 – 귀무 가설을 기각해야 할 때 유지하는 오류 • 이는 연구 가설이 맞을 수도 있음을 나타내며, 귀무 가설을 유지하고 연구 가설을 기각한 결정을 내린 경우에도 그렇습니다. • 제2종 오류의 위험을 줄이기 위한 최선의 해결책은 샘플 크기를 늘려 실제 모집단 매개변수를 대표하는 것입니다. • 제2종 오류의 확률은 로 표시됩니다.• 우리가 실제 모집단 매개변수에 대한 지식이 없다면, 제1종 오류나 제2종 오류를 발생시킬 위험을 감수하게 되고, 우리의 결정에 따라 달라집니다."
+}

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Understand what these metrics mean\nItem mistakes\nThese are any shopping-related issues a customer reports. This includes missing, damaged, or incorrect items.\nFulfillment rate\nThis measures how many of the requested items you found or successfully replaced. Out-of-stock items with the note “you can remove this item” are excluded from this calculation. Let’s say an order includes 10 items. You find 8, and are able to successfully replace 2 that were out-of-stock. The Fulfillment rate would be 100%: (8 items + 2 replacements) ÷ 10 items x 100.",
+    "trans": "La comprendre de la signification de ces indicateurs\nErreurs d'articles\nIl s'agit de tout problème lié aux achats signalé par un client. Il peut s'agir d'articles manquants, endommagés ou incorrects.\nTaux d'exécution\nCe taux mesure le nombre d'articles commandés que vous avez trouvés ou remplacés avec succès. Les articles en rupture de stock portant la mention « vous pouvez retirer cet article » sont exclus de ce calcul. Supposons qu'une commande comporte 10 articles. Vous en trouvez 8 et réussissez à remplacer 2 qui étaient en rupture de stock. Le taux d'exécution sera de 100 % : (8 articles + 2 remplacements) ÷ 10 articles x 100."
+}

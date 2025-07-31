@@ -1,0 +1,25 @@
+[원문: japanese]
+【お届け先】ご注文者と同じ
+【お支払方法】クレジットカード
+【ご注文明細】
+【希望配送】配送員組立設置もしくは配送員玄関先迄納品(希望日)2024年11月03日16時～20時
+1. 6201930
+ゲーミングL型コーナーデスク(GM003 160 BK/RE)
+保証期間:1年価格：27,990円（税込）×数量：1＝合計：27,990円（税込）
+
+[번역문: english]
+"[Delivery address] Same as the purchaser
+[Payment method] Credit card
+[Order details]
+[Delivery request] Assembled and installed by delivery staff or delivered to the front door (Preferred date) November 3, 2024, 16:00-20:00
+1. 6201930
+Gaming L-shaped corner desk (GM003 160 BK/RE)
+Warranty period: 1 year Price: 27,990 yen (tax included) × Quantity: 1 = Total: 27,990 yen (tax included)"
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

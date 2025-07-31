@@ -1,0 +1,6 @@
+{
+    "source": "zh_TW",
+    "target": "en_US",
+    "text": "加密型帳單輸入密碼為『身分證號』(第一碼英文字母須大寫)，如為公司戶請輸入『統一編號』\n；外籍人士請輸入『統一證號』(英文字母須大寫)。\n為讓您的電子帳單收件更順利，建議將「台新銀行寄件人信箱[redacted_email]」加入您的通訊錄中或設定為非垃圾信件。 此為信箱為系統直接發送請勿回覆，若有疑問請與客服聯繫。",
+    "trans": "The password for encrypted billing is \"Identification Card Number\" (the first English letter must be capitalized). If it is a corporate account, please enter the \"Government Uniform Invoice Number\"\n; foreigners please enter \"Uniform Identification Number\" (English letters should be capitalized)\nTo ensure your e-bill receipt, it is recommended to add the \"Taishin Bank sender's mailbox [redacted_email]\" to your address book or set it as non-spam. This is an email sent directly by the system. Please do not reply. If you have any questions, please contact customer service."
+}

@@ -1,0 +1,33 @@
+[원문: english]
+"CLINICAL INDICATION: pelvic pain :: R10.2 Pelvic and perineal pain
+ TECHNIQUE: Transvaginal imaging of the pelvis was performed.
+ COMPARISON: Transabdominal and transvaginal pelvic ultrasound 5/16/2024.
+ INTERPRETATION: The patient claims her last menstrual period was 10/8/2024.
+ UTERUS:
+ The uterus is anteverted/mobile in lie and measures 7.7 cm in length x 4.2 cm in AP diameter x 5.1 cm in width. The myometrium is homogeneous in echotexture. No focal myoma was visualized The endometrial echo complex measures up to 14 mm in thickness, which may be secondary to the patient's phase of the menstrual cycle, however, the patient claims her last menstrual period was 10/8/2024.
+ The visualized portion of the cervix demonstrates small cervical nabothian cysts.
+ RIGHT ADNEXUM:
+ The right ovary measures 3.4 cm in length by 3.3 cm in AP diameter by 2.5 cm in width. The previously visualized right follicular type cysts noted on the prior examination were not identified on this examination.
+ Doppler flow is demonstrated within the ovary.
+ LEFT ADNEXUM:"
+
+[번역문: portuguese]
+INDICAÇÃO CLÍNICA: dor pélvica :: R10,2 Dor pélvica e perineal
+ TÉCNICA: Exame de imagem transvaginal da pélvis foi realizado.
+ COMPARAÇÃO: Ultrassom transabdominal e transvaginal pélvicos 2024/5/16.
+ INTERPRETAÇÃO: A paciente afirma que a sua última menstruação foi em 2024/10/08.
+ Útero
+ O útero está antevertido/móvel em posição e mede 7,7 cm de comprimento x 4,2 cm em diâmetro AP x 5,1 de largura. O miométrio está homogêneo em ecotextura. Não foi vizualizado mioma focal. O complexo eco endometrial mede até 14 mm de grossura, o que pode ser secundário para a fase do ciclo menstrual da paciente, no entanto, a paciente afirma que seu último período de menstruação foi em 2024/10/08.
+ A porção visualizada do colo do útero demonstra cistos pequenos cervicais de Naboth.
+ ANEXO DIREITO:
+ O ovário direito mede 3,4 cm de comprimento por 3,3 cm em diâmetro AP por 2,5 cm de largura. Os cistos de tipo folicular direitos visualizados anteriormente observados no exame anterior não foram identificados neste exame.
+ O fluxo do doppler é demonstrado dentro do ovário.
+ ANEXO ESQUERDO:
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "2024/5/16" 및 "2024/10/08" 형식으로 잘못 표기되었습니다. 포르투갈어 날짜 형식은 "16 de maio de 2024" 및 "8 de outubro de 2024"와 같이 "일 + 월 + 연도" 순서로 작성되어야 하며, "de"가 월과 연도 앞에 사용되어야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

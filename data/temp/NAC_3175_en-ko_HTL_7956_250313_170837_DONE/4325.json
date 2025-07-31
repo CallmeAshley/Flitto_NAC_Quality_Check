@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Example 24\nAt a college there are 31 students for every member of staff. It is known that one out of every five\nmembers of staff walks to the college and that half of the students walk to the college.\nConstruct a probability tree diagram and use it to determine:\na) The proportion of staff that walk to college.\nb) What is the probability that a randomly chosen person at the college is a",
+    "trans": "예시 24\n한 대학교에는 직원 한 명 당 31명의 학생이 있다. 다섯 명 마다 한 명이라는 것은 알려져 있다\n직원이 대학교에 걸어서 오고 학생 중 절반이 걸어온다는 것은.\n확률 수형도를 그리고 그것을 활용하여 다음을 알아내시오:\na) 대학교에 걸어서 오는 직원의 비율.\nb) 대학교에서 임의로 선정된 한 사람이 일 확률은 무엇인가"
+}

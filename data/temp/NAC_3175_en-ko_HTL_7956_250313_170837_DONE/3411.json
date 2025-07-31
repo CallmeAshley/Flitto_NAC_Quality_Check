@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Because for a perfect gas Z = 1 under all conditions, deviation\nof Z from 1 is a measure of departure from perfect behaviour.\nSome experimental values of Z are plotted in Fig. 1C.3. At\nvery low pressures, all the gases shown have Z ≈ 1 and behave\nnearly perfectly. At high pressures, all the gases have Z > 1, sig-\nnifying that they have a larger molar volume than a perfect gas.\nRepulsive forces are now dominant. At intermediate pressures,\nmost gases have Z < 1, indicating that the attractive forces are\nreducing the molar volume relative to that of a perfect gas.",
+    "trans": "완벽한 기체에서는 모든 조건에서 Z = 1이므로, 벗어나는 정도는\nZ가 1에서, 완벽한 기체 거동에서 벗어나는 정도를 나타냅니다.\n실험적 값 몇몇은 그림 1C.3에 표시되어 있습니다.\n매우 낮은 압력에서, 모든 기체들은 Z ≈ 1을 가지며 행동합니다.\n거의 완벽하게. 높은 압력에서는 모든 기체가 Z > 1을 가지며\n이는 이들이 완벽한 기체보다 더 큰 몰 부피를 가진다는 것을 의미합니다.\n이제 반발력이 지배적입니다. 중간 압력에서는\n대부분의 기체들이 Z < 1을 가지며, 이는 인력 작용이\n몰 부피를 완벽한 기체에 비해 감소시키고 있음을 나타냅니다."
+}

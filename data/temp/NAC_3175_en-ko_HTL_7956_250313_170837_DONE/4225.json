@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "where qe is the amount of ammonium in the solid phase (mg/g) at time t; Co (mg/L) and Ce (mg/L) represent the initial and equilibrium ammonium concentration, respectively; V (L) is the volume of the chosen solution; and w (g) is the mass of adsorbent employed.\nThe kinetic experiments were fitted to two mathematical models to determine the best fit. A pseudo first-order (PFO) kinetic equation is given by the relationship Equation (2):",
+    "trans": "시간이 t일 때 고체 상태(mg/g) 암모늄의 양이 qe일 경우, 코발트(mg/L) 및 세륨(mg/L)은 각각 최초 및 평형 암모늄 농도를 나타낸다. V(L)는 선택된 용액의 양이다. 또한 w(g)는 사용된 흡착제의 질량이다.\n운동 실험은 가장 적합한 경우를 결정하기 위한 두 가지 수학적 모델에 알맞았다. 유사 일차(PFO) 운동 방정식이 관계방정식(2)에 의해 주어진다:"
+}

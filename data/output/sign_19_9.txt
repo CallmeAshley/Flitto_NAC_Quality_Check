@@ -1,0 +1,65 @@
+[원문: portuguese]
+10x de R$309,90 sem juros
+ADICIONAR
+Máquina de Lavar 17kg Electrolux LEV17 Perfect Care Com Vapor e Jatos Poderosos Branca 110V
+R$2.813,007%
+R$2.629,00
+10x de R$262,90 sem juros
+ADICIONAR
+Compre também
+Fogão A Lenha Metávila Dupla Combustão Barcelona - Grafite
+R$3.147,37
+em 1x no cartão
+10x de R$314,73 sem juros
+ADICIONAR
+Fogão Pmsd-402f - Gás Baixa Pressão Epóxi Desmontável - Progás Gás (glp) Progás
+R$1.709,99
+em 1x no cartão
+10x de R$170,99 sem juros
+ADICIONAR
+Fogão Industrial Baixa Pressão Pms-300 - 3 Queimadores Simples - Progás Gás Glp - Botijão Progás
+R$1.179,99
+em 1x no cartão
+10x de R$117,99 sem juros
+ADICIONAR
+Fogão 2 Bocas Mistas com Forno tampo inox Grelhas 30 X 30 Itajobi Gás GLP - Botijão Itajobi
+R$2.299,99
+em 1x no cartão
+10x de R$229,99 sem juros
+
+[번역문: english]
+10 installments of R$309,90, with no interest.
+ADD
+17kg Electrolux LEV 17 Perfect Care Washing Machine With Steam and Powerful Jets White 110V
+R$2 813,007%
+R$2 629,00
+10 installments of R$262,90 with no interest
+ADD
+Also buy
+Metávila Double Burning Stove Barcelona - Graphite
+R$3147,37
+in 1 instalment
+10x of R$314,73 with no interest
+ADD
+Cooker Pmsd-402f - Gas Low-Pressure Epoxy Demountable - Progás Gas (LPG) Progás
+R$ 170,99 with no interest
+1 instalment on your card
+10 installments of R$170.99 with no interest
+ADD
+Industrial Low-Pressure Stove Pms-300 - 3 Single Burners - Progás LGP Gas - Progás Bottle
+R$ 1 179,99
+1 instalment on your card
+10 installments of R$117,99 with no interest
+ADD
+Itajobi 2 Mixed Burners Stove with Oven Stainless Steel Top Grates 30 X 30 LPG Gas - Itajobi Bottle
+R$2 299,99
+1 instalment on your card
+10 installments of R$229,99 with no interest
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 천 단위 구분자가 누락되었습니다. 예: "R$2 813,007%"는 "R$2,813.007%"로 표기되어야 합니다.
+    - 통화 표기 오류: 통화 기호는 숫자 앞에 위치해야 합니다. 예: "R$ 170,99"는 "R$170.99"로 표기되어야 합니다.

@@ -1,0 +1,33 @@
+[원문: english]
+CLINICAL INDICATION: pelvic pain :: R10.2 Pelvic and perineal pain
+TECHNIQUE: Transvaginal imaging of the pelvis was performed.
+COMPARISON: Transabdominal and transvaginal pelvic ultrasound 5/16/2024.
+INTERPRETATION: The patient claims her last menstrual period was 10/8/2024.
+UTERUS:
+The uterus is anteverted/mobile in lie and measures 7.7 cm in length x 4.2 cm in AP diameter x 5.1 cm in width. The myometrium is homogeneous in echotexture. No focal myoma was visualized The endometrial echo complex measures up to 14 mm in thickness, which may be secondary to the patient's phase of the menstrual cycle, however, the patient claims her last menstrual period was 10/8/2024.
+The visualized portion of the cervix demonstrates small cervical nabothian cysts.
+RIGHT ADNEXUM:
+The right ovary measures 3.4 cm in length by 3.3 cm in AP diameter by 2.5 cm in width. The previously visualized right follicular type cysts noted on the prior examination were not identified on this examination.
+Doppler flow is demonstrated within the ovary.
+LEFT ADNEXUM:
+
+[번역문: vietnamese]
+CHỈ ĐỊNH LÂM SÀNG: đau vùng chậu :: R10,2 Đau vùng chậu và tầng sinh môn
+PHƯƠNG PHÁP: Siêu âm qua âm đạo vùng chậu đã được thực hiện.
+SO SÁNH: Siêu âm vùng chậu qua thành bụng và qua âm đạo ngày 05/16/2024.
+GIẢI THÍCH: Bệnh nhân cho biết kỳ kinh cuối cùng của mình là ngày 10/08/2024.
+TỬ CUNG:
+Tử cung bị lộn ngược/di động khi nằm và có kích thước dài 7,7 cm x đường kính AP 4,2 cm x rộng 5,1 cm. Mô cơ tử cung có cấu trúc đồng nhất. Không thấy nhân xơ tử cUNG. Lớp nội mạc tử cung dày lên dến 14 mm, có thể phù hợp với giai đoạn chu kỳ kinh của bệnh nhân, tuy nhiên, bệnh nhân cho biết kỳ kinh cuối cùng của mình là ngày 10/08/2024.
+Phần cổ tử cung quan sát cho thấy một số nang naboth cổ tử cung nhỏ.
+BUỒNG TRỨNG PHẢI:
+Buồng trứng phải có kích thước dài 3,4 cm, đường kính AP 3,3 cm, rộng 2,5 cm. Các nang dạng nang phải trước đó đã được thấy trong lần siêu âm trước không còn xuất hiện trong lần này.
+Lưu lượng máu qua Doppler được ghi nhận.
+BUỒNG TRỨNG TRÁI:
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "05/16/2024" 및 "10/08/2024"로 표기되어 있으며, 이는 베트남어 날짜 형식인 "ngày + day + tháng + month + năm + year" 순서를 따르지 않았습니다. 올바른 형식은 "ngày 16 tháng 05 năm 2024" 및 "ngày 08 tháng 10 năm 2024"입니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

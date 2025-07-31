@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "We recommend you close your browser window and notify the person who sent you the link.\nWhy was this blocked?\nLinks are blocked when they violate our Acceptable Use Policy. Violations include:\nThe link may be listed on a website blocklisting service.\nThe link may have been reported to Bitly by a member of the public.\nThe link may contain malware (software designed to harm your computer), attempt to collect your personal information for nefarious purposes, or otherwise contain harmful and/or illegal content.\nThe link may be attempting to hide the final destination.\nThe link may lead to a forgery of another website or may infringe the rights of others.\nIf you believe this has been blocked in error, please contact Bitly via this form.",
+    "trans": "브라우저 창을 닫고 링크를 보낸 사람에게 알리는 것을 권장합니다.\n이게 왜 차단되었을까요?\n링크는 허용 가능한 사용 정책을 위반할 경우 차단됩니다. 위반 사항은 다음과 같습니다:\n링크는 웹사이트 차단 목록 서비스에 등록될 수 있습니다.\n이 링크는 한 대중에 의해 Bittly에게 보고되었을 가능성이 있습니다.\n링크에는 악성 코드(귀하의 컴퓨터에 해를 끼치도록 설계된 소프트웨어)가 포함되어 있거나, 악의적인 목적으로 귀하의 개인 정보를 수집하려고 시도하거나, 유해하거나 불법적인 콘텐츠가 포함될 수 있습니다.\n링크가 최종 목적지를 숨기려고 할 수 있습니다.\n해당 링크는 다른 웹사이트를 위조하거나 타인의 권리를 침해할 수 있습니다.\n오류로 인해 차단되었다고 생각되면 이 양식을 통해 Bitly에 문의하세요."
+}

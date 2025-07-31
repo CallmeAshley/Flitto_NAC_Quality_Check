@@ -1,0 +1,22 @@
+[원문: japanese]
+・お客様から女優さんに触れる行為は禁止となりますのでご注意下さい。
+・発券は18:45に締め切らせていただきます。
+・特典受付は19:00で終了となります。 受付終了時間までに列にお並びください。
+・ライブフォトモード、連写撮影は禁止とさせていただきます。
+・撮影したお写真のSNS掲載については、女優事務所様で確認後に許可の出た写真のみアップOKとなります。
+
+[번역문: english]
+-Please be aware that it is strictly prohibited to touch the actresses.
+-Ticket issuance will end at 18:45 PM.
+-Bonus item reception will end at 19:00 PM. Please ensure you line up before the reception closes.
+-Live photo mode and burst photography are prohibited.
+-Regarding posting photos on social media, only photos approved by the actresses' management office may be uploaded.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음
+    - 시간 표기 오류: 12시간제를 사용해야 하며, "18:45 PM"과 "19:00 PM"은 잘못된 표기입니다. "6:45 PM"과 "7:00 PM"으로 수정해야 합니다.

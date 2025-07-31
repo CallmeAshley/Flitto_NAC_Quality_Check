@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Authors must disclose the use of generative AI and AI-assisted technologies in the writing process by adding a statement at the end of their manuscript in the core manuscript file, before the References list. The statement should be placed in a new section entitled 'Declaration of Generative AI and AI-assisted technologies in the writing process'\nStatement: During the preparation of this work the author(s) used [NAME TOOL / SERVICE] in order to [REASON]. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the content of the publication\nThis declaration does not apply to the use of basic tools for checking grammar, spelling, references etc. If there is nothing to disclose, there is no need to add a statement.",
+    "trans": "저자는 참고문헌 목록 앞, 핵심 원고 파일의 원고 끝 부분에 설명을 추가하여 집필 과정에서 생성 AI 및 AI 보조 기술을 사용했음을 공개해야 합니다. 이 성명은 '작성 과정에서 생성 AI 및 AI 지원 기술 선언'이라는 제목의 새로운 섹션에 배치되어야 합니다.\n성명: 이 저작물을 준비하는 동안 저자는 [REASON]을 위해 [NAME TOOL / SERVICE]를 사용했습니다. 이 도구/서비스를 사용한 후, 저자는 필요에 따라 내용을 검토하고 편집했으며 출판물 내용에 대한 전적인 책임을 집니다\n이 선언문은 문법, 철자, 참조 등을 확인하기 위한 기본 도구의 사용에는 적용되지 않습니다. 공개할 내용이 없는 경우 설명을 추가할 필요가 없습니다."
+}

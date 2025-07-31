@@ -1,0 +1,23 @@
+[원문: english]
+BY MAURO ORRU
+Porsche AG posted lower sales and operating profit in the first nine months of the year as the company grapples with challenges in the key Chinese market and a slower-than-expected shift to electric vehicles.
+The German premium carmaker reported sales of €28.56 billion, equivalent to $30.92 billion, down 5.2% from the same period a year ago, as it delivered 226,026 vehicles to customers between January and September, down 6.9% from last year.
+Lutz Meschke, deputy chairman of the executive board, said the third quarter had been the weakest of the year for Porsche as the group faces a structural shift in demand in China, the world’s largest car market. Meanwhile, the transition to electric vehicles has proceeded more slowly than expected.
+“For this reason, we are reviewing our product lineup and ecosystem, as well as our budgets and cost position,” he said.
+For months, the automotive industry has been dealing with a slow EV market and fierce competition from local carmakers in China, forcing several European auto manufacturers to lower their profit and sales forecasts for the year.
+
+[번역문: turkish]
+MAURO ORRU'NUN HABERİ
+Porsche AG, yılın ilk dokuz ayında Çin pazarındaki zorluklar ve elektrikli araçlara geçişin beklenenden daha yavaş olması nedeniyle satış ve operasyonel kârda düşüş yaşadı.
+Alman premium otomobil üreticisi, 28.56 milyar € (30.92 milyar $) satış rakamı bildirdi, bu da geçen yılın aynı dönemine göre %5.2'lik bir düşüşü işaret ediyor. Şirket, Ocak ile Eylül arasında 226,026 araç teslim etti, bu da geçen yıla göre %6.9'luk bir azalma anlamına geliyor.
+Yönetim Kurulu Başkan Yardımcısı Lutz Meschke, üçüncü çeyreğin Porsche için yılın en zayıf çeyreği olduğunu belirtti ve şirketin, dünyanın en büyük otomobil pazarı olan Çin’de talepte yapısal bir değişimle karşı karşıya olduğunu vurguladı. Ayrıca, elektrikli araçlara geçişin beklenenden daha yavaş ilerlediğini belirtti.
+“Bu nedenle, ürün yelpazemizi ve ekosistemimizi, ayrıca bütçelerimizi ve maliyet durumumuzu gözden geçiriyoruz,” dedi.
+Aylarca, otomotiv endüstrisi, yavaşlayan elektrikli araç pazarından ve Çinli yerel otomobil üreticilerinden gelen sert rekabetten dolayı zorlanıyor, bu da birkaç Avrupa otomobil üreticisini yıl için kâr ve satış tahminlerini aşağı çekmeye zorladı.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "226,026"은 천 단위 구분자로 쉼표가 사용되었으나, 터키어에서는 마침표를 사용해야 합니다.
+    - 통화 표기 오류: 없음

@@ -1,0 +1,94 @@
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not the euro (€), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adapted according to French typographic conventions.
+
+Expected currency symbols include:  
+€, $, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₨, ₫, ₭, ₵, ₿, ₪, ₴, ﷼, ₸, ₾
+
+Expected ISO currency codes include:  
+EUR, USD, JPY, CNY, GBP, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 dollars`) or a **code** (`USD 400`).  
+The same rule applies in reverse for codes and names.  
+Always preserve the original representation type used in the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+Currency symbols such as € are placed **after the number**, separated by a **space**.  
+Within the number itself, use **spaces** for grouping.
+
+Examples:  
+- 12 345,00 €  
+- 1 000,00 $  
+- 850,00 ¥
+
+Evaluation Criteria:  
+- The symbol must appear after the number.  
+- Use spaces for digit grouping and between the number and the currency symbol.  
+- Number format must follow the [Numeric Format] section.  
+- Preserve the symbol from the source without conversion.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes such as EUR, USD appear **after the number**, separated by a **space**.  
+Digit grouping uses **spaces**.
+
+Examples:  
+- 12 345,00 EUR  
+- 1 000,00 USD  
+- 2 500,00 JPY
+
+Evaluation Criteria:  
+- The currency code appears after the number.  
+- A space must be used between number and code.  
+- Follow all rules from the [Numeric Format] section.  
+- Do not convert the representation type.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as “euros,” “dollars,” or “livres” typically follow the number, with a space.  
+Do not rewrite symbols or codes into names.
+
+Examples:  
+- 1 000 euros  
+- 850 dollars  
+- 10 000 yens  
+- 500 livres  
+- 300 roupies  
+- 800 wons
+
+Evaluation Criteria:  
+- The currency name must come after the number, separated by a space.  
+- The name must match the referenced currency.  
+- Number formatting must follow the [Numeric Format] rules.  
+- Do not generate a currency name unless it exists in the source.
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

@@ -1,0 +1,67 @@
+[원문: polish]
+email: [redacted_url]
+Zory, dnia 9 pazdziernika 2024r.
+Pan
+[redacted_name]
+SCHUTZ Polska Sp. z o.0.
+[redacted_address]
+Odpowiedí na pismo
+Data pisma:
+Data wplywu pisma:
+Dotyczy sprawy:
+magazynowej
+11.09.2024 r
+11.09.2024 r.
+W odpowiedzi na wniosek dotyczacy wydania opinii w sprawie mozliwosci budowy instalacji
+fotowoltaicznej o szacunkowej mocy okoto 250-350 kWp na hali produkcyjno-magazynowej,
+zlokalizowanej na dziatce ewidencyjnej o identyfikatorze [redacted_id]
+informuje, ze zgodnie z obowiazujacym miejscowym planem zagospodarowania
+przestrzennego miasta Zory "), urzadzenia do produkcji energii ze zródet odnawialnych
+o mocy powyzej 100 kW moga byé lokalizowane jedynie na terenach oznaczonych symbolem
+R/PE, czyli na „terenach rolniczych oraz terenach produkcji energii ze zrodet odnawialnych
+o mocy powyzej 100 kW". Dziatka, na której planowana jest inwestycja, nie jest objeta takim
+przeznaczeniem.
+Niezaleznie od powyiszego mata instalacja odnawialnego éródta energii o tacznej mocy
+zainstalowanej elektrycznej wiekszej niz 50 kW i nie wiekszej niz 1 MW, przytaczona do sieci
+elektroenergetycznej o napieciu znamionowym nizszym niz 110 kV 2, moze byé
+zainstalowana na dachach budynków jako urzadzenia techniczne zwiazane z obiektem
+budowlanym, zapewniajace mozliwosé uzytkowania obiektu zgodnie z jego przeznaczeniem,
+podobnie jak przytacza i urzadzenia instalacyjne3).
+
+[번역문: english]
+email: [redacted_url]
+Zory, October 9th, 2024
+Mr
+[redacted_name]
+SCHUTZ Polska Sp. z o.o.
+[redacted_address]
+Reply to letter
+Letter sent on:
+Letter received on:
+Refers to case:
+storage case
+11/09/2024
+11/09/2024
+In a reply to your request regarding issuance of opinion on construction of photovoltaic
+installation with an estimated power of about 250-350 kWp in the production and storage hall,
+located on the parcel of record [redacted_id]
+I hereby notify that, in accordance with the current local spatial development plan
+of the town of Zory"), energy generation devices from renewable sources
+with a power exceeding 100 kW may be located only in areas designated by the symbol
+R/PE, that is on "the agricultural areas or areas of energy generation from renewable sources of
+more than 100 kW." The parcel where the investment is planned is not covered by this
+intended use.
+Regardless of the above, the installation of a renewable energy source with a total
+electrical installed power higher than 50 kW and not higher than 1 MW, connected to the
+power network with a rated voltage lower than 110 kV 2, may not be
+installed on the roofs of buildings as technical devices related to the
+construction structure, ensuring that it can be used for its intended purpose,
+just like installation devices and connections 3).
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "11/09/2024"로 표기되어 있으며, 이는 미국 영어의 월/일/년 순서에 맞지 않습니다. "September 11, 2024"로 수정해야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

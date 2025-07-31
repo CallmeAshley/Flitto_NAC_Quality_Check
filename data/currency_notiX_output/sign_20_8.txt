@@ -1,0 +1,39 @@
+[원문: thai]
+99 ถนนพระราม 9 แขวงห้วยขวาง เขตห้วยขวาง กรุงเทพฯ 10310 โทร. 02-1693755 โทรสาร. 02-1693754
+หน้า 1 / 2 6711000915 11/2024 01/11/2024 30/11/2024
+D-1509 33.68/33.68
+1. ขอความร่วมมืองดชําระด้วยเงินสดและกรุณาชําระผ่านช่องทางอิเล็กทรอนิกส์ในแบบฟอร์มชําระเงินท้ายใบแจ้งค่าใช้จ่าย (Bill Payment) ผ่านแอพพลิเคชั่นของธนาคารทุกแห่งที่ท่านมีบัญชีอยู่
+- เมื่อทํารายการสําเร็จแล้วท่านไม่ต้องส่งหลักฐานให้นิติฯ ฝ่ายจัดการจะเปิดใบเสร็จรับเงินจัดส่งให้ท่านผ่านตู้รับจดหมายหรือช่องทางที่แจ้งความประสงค์ไว้
+[redacted_name] ผู้จัดการชุมชน
+สําหรับชําระเงิน
+จํานวนเงิน
+150.00
+8,536.00 0.00 0.00
+8,536.00
+รายละเอียด
+ค่ารักษามาตรน้ํา 11/2024 - 04/2025
+อ้างถึงพรบ. อาคารชุด(ฉบับที่ 4) 2551ไม่ชําระหนี้ภายในกําหนด ต้องเสียเงินเพิ่ม 12% ต่อปี และตั้งแต่ 6 เดือนขึ้นไปต้องเสียเงินเพิ่ม 20% ต่อปี
+
+[번역문: english]
+99 Rama IX Road, Kwang Huai Kwang, Khet Huai Kwang, Bangkok 10310 Tel 02-1693755 Fax 02-1693754
+Page 1/2 6711000915 11/2024 01/11/2024 30/11/2024
+D-1509 33,68/33,68
+1. Ask for your cooperation no payment with cash and please pay through electronic channel in the form attached with bill payment via all bank applications you have an account with.
+- When successfully completed transaction, no need to evidence to the juristic person, management will send the receipt to you throuhg your mail box or specified channel.
+[redacted_name] community manager
+For payment
+Amount
+150,00
+8 536,00 0,00 0,00
+8 536,00
+Details
+Water meter maintenance fee 11/2024 - 04/2025.
+Referring to the Condominium Act (No. 4) 2008, if the debt is not paid within the specififed time, must pay additional amount of 12% per year and from 6 months and above, must pay additional amount of 20% per year.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 숫자에서 소수점이 쉼표로 표기됨 (예: 33,68/33,68 및 150,00 등). 소수점은 마침표로 표기해야 함.
+    - 통화 표기 오류: 없음

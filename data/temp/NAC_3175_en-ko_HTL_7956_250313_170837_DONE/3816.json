@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "To effectively sample the skewed distribution 𝑃 ∗ , we leverage the existing source domain data 𝑃𝑠𝑟𝑐 . We achieve this by re-weighting samples from 𝑃𝑠𝑟𝑐 based on the density ratio between the skewed transition dynamics and the original (source) transition dynamics. In particular, we propose a sampling approach where source tran- sitions (𝑠, 𝑎, 𝑠′) are chosen with probabilities proportional to the density ratio 𝑤 (𝑠, 𝑎, 𝑠′) as follows:",
+    "trans": "비대칭 분포 𝑃 ∗의 표본을 효율적으로 확보하기 위하여 기존의 원본 도메인 데이터인 𝑃𝑠𝑟𝑐를 사용한다. 우리는 비대칭 변천 역학과 원본(소스) 변천 역학 사이의 밀도비를 기반으로 𝑃𝑠𝑟𝑐의 표본의 무게를 재측정하여 해당 값을 얻는다. 특히 다음과 같이 소스 변천(𝑠, 𝑎, 𝑠′)을 밀도비 𝑤 (𝑠, 𝑎, 𝑠′)에 비례하는 확률로 선택하는 샘플링 방법을 제안한다:"
+}

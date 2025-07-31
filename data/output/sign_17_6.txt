@@ -1,0 +1,37 @@
+[원문: korean]
+ㆍGOLD FOR LOTTE DEPARTMENT STORE : 국내전용/국내외겸용(VISA Signature) 15만원
+· 롯데백화점은 현대카드의 신용카드 회원 모집 업무를 대리·중개합니다.
+· 롯데백화점은 다수의 신용카드사를 대리하거나 중개합니다.
+· 롯데백화점은 현대카드의 금융상품에 대한 계약체결권한이 없습니다.
+· 롯데백화점은 금융관계법률에 따라 현대카드와 위탁계약을 체결한 금융상품판매대리·중개업자입니다.
+>카드 이용대금 연체 시 약정금리+연체가산금리 3%의 연체금리가 적용됩니다.
+(회원별,이용 상품별 차등 적용/법정 최고금리 20%이내)
+단, 연체 발생시점에 약정금리가 없는 경우 아래와 같이 적용
+>일시불:거래 발생시점 기준 최소 기간(2개월)의 유이자할부 약정금리+연체가산금리 3%
+>무이자할부:거래 발생시점 기준 동일한 할부 계약 기간의 유이자할부 약정금리+연체가산금리 3%
+>상환 능력에 비해 신용카드 이용금액이 과도할 경우,귀하의 개인신용평점이 하락할 수 있습니다.
+>개인신용평점 하락 시 금융 거래와 관련된 불이익이 발생할 수 있습니다.
+>일정 기간 원리금을 연체할 경우, 모든 원리금을 변제할 의무가 발생할 수 있습니다.
+
+[번역문: english]
+GOLD FOR LOTTE DEPARTMENT STORE: Domestic only/Domestic and international (VISA Signature) 150.000 won
+· Lotte Department Store acts as an agent and intermediary for Hyundai Card's credit card member recruitment business.
+· Lotte Department Store acts as an agent or intermediary for lots o credit card companies.
+Lotte Department Store does not have the authority to sign a contract with Hyundai Card's financial products.
+· Lotte Department Store is a financial product sales agent and intermediary that has signed a consignment contract with Hyundai Card  according to financial laws.
+>If you are overdue on your card payment, a late payment interest rate of 3% of the agreed interest rate + late payment penalty will be applied.
+(Applied differently for each member and product used/within 20% of the maximum legal interest rate)
+However, in the case that there is no agreed interest rate at the time of delinquency, it was applied as below
+> Lump sum payment: Based on the time of transaction, interest rate installment contracted for a minimum period (2 months) + late payment penalty interest rate of 3%
+>Interest-free installment: Based on the time the transaction occurred, Contracted interest rate for interest installments for the same installment contract period + 3% penalty interest rate for late payment
+>In the cast that you use your credit card excessively compared to your ability to repay, your personal credit score may drop.
+>In the case that your personal credit score drops, you may face disadvantages in financial transactions.
+>In the case that you default on your loan payments for a certain period of time, you may be liable to repay all principal and interest.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 150.000은 천 단위 구분 기호로 쉼표(,)를 사용해야 하므로 150,000으로 표기해야 합니다.
+    - 통화 표기 오류: 없음

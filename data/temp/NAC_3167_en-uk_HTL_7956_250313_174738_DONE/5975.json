@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "}\nExplanation:\n1. The program asks the user to input two integers and an arithmetic operation (addition, subtraction, multiplication, or division).\n2. Using the switch statement, the program performs the chosen operation.\n3. If the operation is division and the second number is zero, it displays an appropriate message to avoid division by zero.\n4. If the operation is not one of the listed ones, an error message is displayed.\nLet me know if you need further adjustments!",
+    "trans": "}\nПояснення:\n1. Програма просить користувача ввести два цілих числа та арифметичну операцію (додавання, віднімання, множення або ділення).\n2. Використовуючи оператор switch, програма виконує вибрану операцію.\n3. Якщо операція є діленням і друге число дорівнює нулю, програма виводить відповідне повідомлення, щоб уникнути ділення на нуль.\n4. Якщо операція не є однією з перелічених, виводиться повідомлення про помилку.\nДайте мені знати, якщо вам потрібні додаткові коригування!"
+}

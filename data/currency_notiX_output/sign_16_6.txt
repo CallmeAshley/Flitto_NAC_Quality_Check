@@ -1,0 +1,23 @@
+[원문: japanese]
+(2)テレビやラジオなどから正しい情報を収集し、落ち着いて行動してください。
+■発表日時:2024年10月21日15時22分
+■発生日時:2024年10月21日15時19分
+■発生規模:マグニチュードM3.8
+■震源地情報:岐阜県美濃中西部
+北緯35.3度 東経136.7度 深さ 20km
+
+[번역문: english]
+(2) Collect accurate information from television, radio, or other reliable sources, and please remain calm as you take action.
+■Date and Time of Announcement: October 21, 2024, at 15:22
+■Date and Time of the Event: October 21, 2024, at 15:19
+■Scale of the Occurrence: Magnitude M3,8
+■Epicenter Location: Central-Western Mino Region, Gifu Prefecture
+Latitude 35,3° N, Longitude 136,7° E, Depth 20km
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 소수점은 마침표(`.`)로 표기해야 합니다. "Magnitude M3,8" 및 "Latitude 35,3° N, Longitude 136,7° E"에서 쉼표 대신 마침표를 사용해야 합니다.
+    - 통화 표기 오류: 없음

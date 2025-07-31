@@ -1,0 +1,21 @@
+[원문: indonesian]
+Pada tahun 2008 --tahun yang sama ketika Android versi 1.0 diluncurkan-- laba Q3 Nokia menukik 30%, sementara penjualan turun 3,1%. Di sisi lain, penjualan iPhone meroket sekitar 330% selama periode yang sama.
+Pada tahun 1979, Nokia mengadakan joint venture dengan produsen TV berwarna Skandinavia Salora untuk menciptakan Mobira Oy, sebuah perusahaan telepon radio. Beberapa tahun kemudian, Nokia meluncurkan sistem seluler internasional pertama di dunia yang diberi nama jaringan Telepon Seluler Nordik, yang menghubungkan Swedia, Denmark, Norwegia, dan Finlandia. Hal ini diikuti oleh peluncuran ponsel mobil pertama perusahaan yang diberi nama Mobira Senator, yang beratnya sekitar 10 kg.
+Tahun berikutnya, Stephen Elop --yang sebelumnya adalah kepala divisi perangkat lunak bisnis Microsoft-- ditunjuk sebagai CEO baru Nokia. Dia juga merupakan pemimpin perusahaan non-Finlandia pertama. Meskipun 2010 melihat kenaikan keuntungan bagi perusahaan, PHK terus berlanjut.
+Dari menjadi perusahaan telekomunikasi terbesar di dunia pada tahun 2007 hingga berada di ambang kebangkrutan pada tahun 2013, Nokia mengalami hari-hari terburuk mereka. Kejatuhan Nokia adalah konsekuensi dari banyak faktor internal dan eksternal.
+Anda bisa juga melakukan studi kepustakaan agar dapat menggali lebih dalam terkait permasalahan di atas?
+
+[번역문: english]
+In 2008 -- the same year as Android version 1.0 was released-- the profit of the Q3 Nokia swooped down to 30%, meanwhile, the sales dropped by 3.1%. On the other side, iPhone sales soared around 330% in the same period.
+In 1979, Nokia conducted a joint venture with Skandinavia Salora, the colored TV producer, to create Mobira Oy, a radio phone company. A few years later, Nokia launched the first cellular system in the world, named the Nordic Cellular Phone Network, which connected Sweden, Denmark, Norway, and Finland. It was followed by the launching of the first mobile phone named Mobira Senator, approximately 10 kg in weight.
+The following year, Stephen Elop --who was the head division of the software business Microsoft-- appointed as Nokia's new CEO. He was also the first non-Finland company leader. Even though the company saw an increased profit in 2010, layoffs continued.
+From the biggest telecommunication company in the world in 2007 to the brink of bankruptcy, Nokia experienced its worst day. The bankruptcy of Nokia was the consequence of the internal and external factors.
+You can also do the literature review to discover more about the problem above?
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 예
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

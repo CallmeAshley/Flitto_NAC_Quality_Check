@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Dear Qasim,\nIt’s been a pleasure meeting with you today.\nPlease kindly revised as follows (refer to diagram):\nThere shouldn’t be connection from trusted zone to GCP\nAdd the actual sources (SAP and Imdad)\nAdd one more slide to show the server topology, firewall and segregate Dev and Prod (meaning, no access to Prod Data)\nDirection of data flow\nIdentify the ingress / egress bandwidth\nLooking forward to the revision tomorrow morning",
+    "trans": "Cher Qasim,\nCe fut un plaisir de faire votre connaissance aujourd'hui.\nJe vous prie de bien vouloir réviser les points suivants (voir le diagramme) :\nIl ne devrait pas y avoir de lien entre la zone de confiance et le GCP.\nAjoutez les sources réelles (SAP et Imdad)\nAjoutez une diapositive supplémentaire pour montrer la topologie du serveur, le pare-feu et la séparation entre Dev et Prod ( en d'autres termes, pas d'accès aux données Prod).\nDirection du flux de données\nIdentifiez la bande passante d'entrée et de sortie.\nJ'attends avec impatience la révision de demain matin."
+}

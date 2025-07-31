@@ -1,0 +1,65 @@
+[원문: polish]
+-15,49£
+* Dotyczy tylko kosztów samochodu
+Cena za 7 dni:
+139,37£
+Zarządzaj rezerwacją
+Pobierz fakturę
+Odwołaj rezerwację
+Zmiana rezerwacji
+Wystarczy odwołać tę rezerwację i dokonać kolejnej, wprowadzając odpowiednie zmiany.
+Pełen zwrot, jeśli odwołasz przed:
+January 16 at 09:59 PM
+Europe/London
+Nasze zasady zwrotu
+Potrzebujesz pomocy?
+Centrum Pomocy
+Przydatne odpowiedzi na popularne pytania
+Znajdź odpowiedź
+Informacja o ochronie prywatności
+Ciasteczka
+Warunki Umowy
+Pomoc
+Ustawa dotycząca handlu ludźmi
+Oświadczenie w sprawie praw człowieka
+Jak pracujemy
+Kontakt
+Strony wynajmu samochodów dostępne za pośrednictwem tego portalu są obsługiwane przez Booking.com Transport Limited, która jest spółką z ograniczoną odpowiedzialnością zarejestrowaną w Anglii i Walii (numer: 05179829), z siedzibą pod adresem 6 Goods Yard Street, Manchester, M3 3BG, Wielka Brytania. Numer VAT: GB 855349007
+Więcej informacji o tym, kto zapewnia i dystrybuuje ochronę dostępną na naszej platformie: Informacje na temat ochrony
+
+[번역문: english]
+-15,49£
+* Applies to the cost of the car only
+Price for 7 days:
+139,37£
+Manage your car reservation
+Download your invoice
+Cancel your car reservation
+Change your car reservation
+Simply cancel this reservation and make another one with relevant changes applied.
+Full refund if you cancel before:
+January 16 at 09:59 PM
+Europe/London
+Our refund policy
+Do you need help?
+Help Center
+Helpful answers to commonly asked questions
+Find an answer
+Privacy Notice
+Cookies
+Terms & Conditions
+Help
+Law on Human Trafficking
+Declaration on Human Rights
+How we work
+Contact us
+The car rental websites accessible through this portal are operated by Booking.com Transport Limited, which is a limited liability company registered in England and Wales (registered number: 05179829), with registered office at 6 Goods Yard Street, Manchester, M3 3BG, United Kingdom. VAT No. GB 855349007
+More information about the entity that provides and distributes the protection available on our platform: Protection Information
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 소수점은 마침표로 표기해야 합니다. 현재는 쉼표로 표기되어 있습니다.
+    - 통화 표기 오류: 통화 기호는 숫자 앞에 와야 합니다. 현재는 숫자 뒤에 위치하고 있습니다.

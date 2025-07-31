@@ -1,0 +1,143 @@
+[Locale: en-US]
+
+[Numeric Format]
+
+Definition:  
+American English uses Western-style numeric formatting:  
+- A comma (`,`) is used every three digits in the integer part.  
+- A dot (`.`) is used to represent decimal points.  
+- Commas must not appear after the decimal point.  
+
+Examples:  
+- 1,000  
+- 12,345.67  
+- Invalid: 12,345.678,900  
+- Invalid: 1.000,25 (wrong decimal separator)  
+- Invalid: 1000 (missing thousand separator)
+
+Evaluation Criteria:  
+- Comma (`,`) grouping is used only in the integer part.  
+- Decimal points must be written using a dot (`.`).  
+- No space appears between digits and separators.  
+- Do not use commas in decimal places.  
+- Accept numbers with any decimal precision if separators are applied correctly.
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not USD, the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adapted according to American English formatting rules.
+
+Expected currency symbols include:  
+$, ¢, €, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₡, ₨, ₦, ₫, ₭, ₲, ₵, ₿, ¤, ƒ, ₮, ₪, ₴, ﷼, ₸, ₾
+
+Expected ISO currency codes include:  
+USD, EUR, JPY, CNY, GBP, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 dollars`) or a **code** (`USD 400`).  
+The same rule applies in reverse for codes and names.  
+Always preserve the original representation type used in the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+Currency symbols like `$`, `€`, `£`, and `¥` appear **before the number with no space** in American English.
+
+Examples:  
+- $1,234.56  
+- €2,000.00  
+- £850.00  
+- ¥10,000
+
+Evaluation Criteria:  
+- The symbol must be placed directly before the number.  
+- There must be no space between the symbol and the number.  
+- Use commas and dots according to the [Numeric Format] rules.  
+- Preserve the original symbol from the source.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes such as USD, EUR, GBP are written **after the number**, separated by a regular space.
+
+Examples:  
+- 1,234.56 USD  
+- 2,000 EUR  
+- 850 JPY
+
+Evaluation Criteria:  
+- The currency code must follow the number with a space.  
+- The number format must follow the rules defined in the [Numeric Format] section.  
+- Preserve the ISO code used in the source.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names like “dollars,” “euros,” or “pounds” are typically written **after the number**, with a space.  
+Do not change other representation types (symbol or code) into currency names.
+
+Examples:  
+- 1,000 dollars  
+- 850 euros  
+- 10,000 yen  
+- 500 rupees  
+- 300 pounds  
+- 1,200 won
+
+Evaluation Criteria:  
+- The currency name must follow the number with a space.  
+- The name must match the referenced currency.  
+- Numeric formatting must follow the [Numeric Format] rules.  
+- Do not generate a currency name unless it exists in the source.
+
+---
+
+[Date Format]
+
+Definition:  
+American English uses the **Month → Day → Year** order.  
+Slashes (`/`) or commas (`,`) may be used depending on the format style.  
+If a weekday is present, it must appear **before the date**, followed by a comma.  
+Do not add a weekday if it is not present in the source.
+
+Examples:  
+- Monday, July 28, 2025  
+- July 28, 2025  
+- Jul 28, 2025  
+- 7/28/25
+
+Evaluation Criteria:  
+- Follow Month → Day → Year order when all components are present.  
+- If a weekday is included, place it **before the date** and separate it with a comma.  
+- Do not generate a weekday unless it exists in the source.
+
+---
+
+[Time Format]
+
+Definition:  
+American English typically uses the **12-hour format** with AM/PM indicators.  
+Times are written with a colon (`:`) between hours and minutes (and seconds, if included).  
+“at” is commonly used to link dates and times in text (e.g., “on July 28 at 2:30 PM”).
+
+Examples:  
+- 2:30 PM  
+- 2:30:45 PM  
+- 2:30 PM on July 28
+
+Evaluation Criteria:  
+- Include `AM` or `PM` after the time.  
+- Use colons between hours, minutes, and seconds.  
+- Do not include time zone markers (e.g., EDT, PST) unless explicitly present in the original.

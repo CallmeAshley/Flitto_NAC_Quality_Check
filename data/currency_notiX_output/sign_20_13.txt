@@ -1,0 +1,33 @@
+[원문: thai]
+ห้องชุดเลขที่ _____/______
+โปรดจัดส่งใบตอบรับการเข้าร่วมประชุมใหญ่สามัญเจ้าของร่วมครั้งแรก กลับคืนนิติบุคคลอาคารชุดฯ ภายในวันที่ 24 เดือนตุลาคม พ. ศ. 2567 และ
+สามารถสอบถามข้อมูลเพิ่มเติมได้ที่สํานักงานนิติบุคคลอาคารชุด อาคาเดีย มิลเลนเนียม ทาวเวอร์ เบอร์โทรศัพท์ [redacted_number] ได้ในวันและ
+เวลาทําการ 09.00 – 18.00 น. (เปิดบริการทุกวัน)
+Reply form for attending the First General Meeting
+Date .......... Month ................. Year ........
+According to the arcadia millennium tower juristic person will conduct the First General Meeting To comply with the
+objectives of the Condominium Act. On Friday, October 25, 2024, from 10 a.m. to 12 p.m.
+Name …………………………………………………………………………………...................................
+As the owner of the room number .................................... located on the floor........................................................
+I wish
+
+[번역문: english]
+Apartment number  _____/______
+Please return the participation form in the first general meeting of joint owners to the condominium juristic person by October 24, 2024 and
+Can ask for more information at the Arcadia Millenium Tower condominium juristic person office Telephone number [redacted_number] available on the day and
+working hours 9.00 - 18.00 (open every day).
+Reply form attending the First General Meeting
+Date .......... Month ................. Year ........
+According to the arcadia millennium tower juristic person will conduct the First General Meeting To comply with the
+objectives of the Condominium Act. On october 25, friday, 2024, from 10 a.m. to 12 p.m.
+Name …………………………………………………………………………………...................................
+As the owner of the room number .................................... located on the floor........................................................
+I wish
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: "On october 25, friday, 2024"에서 "october"와 "friday"는 대문자로 시작해야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

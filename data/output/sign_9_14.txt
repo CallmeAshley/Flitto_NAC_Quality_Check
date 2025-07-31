@@ -1,0 +1,55 @@
+[원문: english]
+Source: Public Records
+See All
+Mortgage History
+Date Status Loan Amount Loan Type
+05/12/06
+Previous Owner $85,500 Fannie Mae Freddie Mac
+09/21/01
+Previous Owner $6,180 Unknown
+03/23/01
+Previous Owner $71,700 Unknown
+09/17/96
+Previous Owner $62,700 No Value Available
+Source: Public Records
+About the Listing Agent
+Brian Brockman
+Bang Realty, Inc.
+(513) 995-7793
+Contact Brian
+Brian is one of a handful of real estate brokers and auctioneers who is licensed in all 50 states and the District of Columbia. Brian has over 15 years in asset management experience and has sold properties for investors, developers, and many local, national, and international financial institutions. Over the last 10 years, Brian has grown his two-person real estate sales team in Cincinnati, OH into a nationally recognized commercial brokerage. Brian is known for finding solutions and
+View Brian's Profile
+Brian's Other Listings
+$144,900
+
+[번역문: ukrainian]
+Джерело: Публічні записи
+Дивитись все
+Історія іпотеки
+Дата Статус Сума кредиту Тип кредиту
+05.12.2006
+Попередній власник 85,500$ Фанні Мей Фредді Мак
+09.21.2001
+Попередній власник 6,180$ Невідомий
+03.23.2001
+Попередній власник 71,700$ Невідомий
+09.17.1996
+Попередній власник 62,700$ Вартість невідома
+Джерело: Публічні записи
+Про кредитного агента
+Брайан Брокман
+Bang Realty, Inc.
+(513) 995-7793
+Зв'язатись з Брайаном
+Брайан — один з небагатьох брокерів та аукционістів з нерухомості, ліцензованих в усіх 50 штатах та в окрузі Колумбія. У Брайана більше 15 років досвіду в управлінні активами, він продавав нерухомість інвесторам, забудовникам та багатьом місцевим, національним та міжнародним фінансовим установам. Протягом останніх 10 років Брайан збільшив свою команду з двох ріелторів в Цинциннаті, штат Огайо, в національно визнану брокерську компанію. Брайан відомий здатністю знаходити рішення та
+Дивитись профіль Брайана
+Інші оголошення Брайана
+144,900$
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "MM.DD.YYYY" 형식으로 번역되었으나, "day + month + year" 순서로 표기되어야 합니다.
+    - 숫자 표기 오류: 숫자에 천 단위 구분이 쉼표로 되어 있으나, 공백으로 구분되어야 합니다.
+    - 통화 표기 오류: 통화 기호가 숫자 뒤에 위치하였으나, 숫자 앞에 위치해야 합니다.

@@ -1,0 +1,25 @@
+[원문: indonesian]
+S : Berapakah jumlah atau nilai pelaburan kamu di Genting Highland untuk bermain judi?
+J : Semasa berada di Genting saya telah melabur sebanyak RM 1.25 Juta untuk bermain judi.
+S : Daripada manakah kamu memperolehi duit sebanyak itu?
+J : Saya telah membuat pinjaman dengan pihak genting sebanyak RM 1 Juta dan saya ada meminjam duit daripada Hermes sebanyak RM 250,000/- dalam masa yang sama Hermes merupakan penjamin saya.
+S : Adakah kamu mempunyai apa-apa dokument yang menyatakan kamu ada berhutang atau meminjam dengan pihak genting?
+J : Resit pinjaman tersebut pihak genting ada memberi kepada saya akan tetapi saya tidak mengambil. Tuan boleh membuat semakan dengan pihak genting untuk mendapatkan resit tersebut.
+S : Apakah kata-kata ugutan yang kamu terima jika kamu tidak membuat pembayaran?
+
+[번역문: english]
+Q: What was the amount or value of your investment at Genting Highlands for gambling?
+A: While at Genting, I invested RM 1,25 million in gambling.
+Q: Where did you get that much money from?
+A: I took out a loan of RM 1 million from Genting, and I also borrowed RM 250 000 from Hermes; at the same time, Hermes acted as my guarantor.
+Q: Do you have any documents stating that you owe or borrowed money from Genting?
+A: Genting did offer me a loan receipt, but I didn't take it. You can check with Genting to obtain the receipt.
+Q: What threatening words did you receive if you didn't make payment?
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: "RM 1,25 million"에서 소수점이 쉼표로 잘못 표기됨. 올바른 표기는 "RM 1.25 million"입니다.

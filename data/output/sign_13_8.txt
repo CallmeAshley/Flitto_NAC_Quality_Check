@@ -1,0 +1,79 @@
+[원문: french]
+Fermeture assistée du coffre
+Freinage d’urgence assisté actif
+HANDS-FREE ACCESS
+Horloge analogique
+Inserts décoratifs en frêne gris à pores ouverts
+Intégration pour smartphone Android Auto et Apple CarPlay
+Intérieur AMG Line
+Jantes alliage AMG 50.8 cm (20'') multibranches
+KEYLESS-GO
+Kit carrosserie AMG
+Module de communication (LTE) pour l’utilisation des services Mercedes me connect
+Moteur à Diesel 6 cyl.
+Pack Confort KEYLESS-GO
+Pack d'éclairage intérieur
+Pack Premium Plus
+Pack rangement
+Pack Rétroviseurs
+Pack Sport Black
+Pack Stationnement avec caméras panoramiques 360°
+Palettes de changement de rapport au volant DIRECT SELECT
+Pavé tactile avec sélecteur
+Pneus avec possibilité de roulage à plat
+Pré équipement pour Live Traffic Information
+Prééquipement pour fonction «bureau» embarquée
+Prééquipement pour Mercedes-Benz Link
+Prééquipement pour réglages du véhicule à distance
+Prééquipement pour service de conciergerie
+Prééquipement pour services de navigation
+Prééquipement pour suivi du véhicule à distance
+Projecteurs MULTIBEAM LED
+Protection piétons
+Rétroviseur intérieur et rétroviseur extérieur côté conducteur à commutation jour/nuit automatique
+Rétroviseurs extérieurs rabattables électriquement
+Siège conducteur à réglages électriques avec fonction Mémoires
+
+[번역문: english]
+Power-assisted trunk closure
+Active power-assisted emergency braking
+HANDS-FREE ACCESS
+Analogue clock
+Open-pore grey ash decorative inserts
+Android Auto and Apple CarPlay smartphone integration
+AMG Line interior
+50,8 cm (20") multi-spoke AMG alloy wheels
+KEYLESS-GO
+AMG body kit
+Communication module (LTE) for use with Mercedes me connect services
+6-cylinder Diesel engine
+KEYLESS-GO comfort package
+Interior lighting package
+Premium Plus package
+Storage package
+Rear view mirrors Package
+Sport Black Package
+Parking package with 360° panoramic cameras
+DIRECT SELECT steering wheel gearshift paddles
+Touchpad with selector
+Tyres with run-flat capability
+Pre-equipment for Live Traffic Information
+Pre-equipment for on-board "office" function
+Pre-equipment for Mercedes-Benz Link
+Pre-equipment for remote vehicle settings
+Pre-equipment for concierge service
+Pre-equipment for navigation services
+Pre-equipment for remote vehicle monitoring
+MULTIBEAM LED headlamps
+Pedestrian protection
+Interior rear-view mirror and driver's side exterior rear-view mirror with automatic day/night switching
+Electrically folding outside rear view mirrors
+Electrically adjustable driver's seat with Memory function
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "50,8 cm"에서 소수점 표기가 쉼표로 되어 있음. 미국 영어에서는 소수점에 마침표를 사용해야 함.
+    - 통화 표기 오류: 없음

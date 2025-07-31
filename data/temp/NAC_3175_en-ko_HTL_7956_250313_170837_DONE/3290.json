@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Our records indicate that your account [redacted_id] has been delinquent for 37 days. The amount delinquent is $53.11. Your payment amount due is $171.48. Please log in with your username and password to make a payment. We would appreciate your prompt action to rectify this situation.\nIf you did not authorize this change please Contact Us directly. This message was sent by an automated system. Please do not reply to this email.",
+    "trans": "저희 기록에 따르면 귀하의 계정 [redacted_id]은 37일 동안 연체된 것으로 나타났습니다. 연체 금액은 53.11달러입니다. 귀하의 지불 금액은 171.48달러입니다. 사용자 이름과 비밀번호로 로그인하여 지불해 주십시오.이 상황을 바로잡을 수 있도록 신속한 조치를 취해 주시면 감사하겠습니다.\n이 변경을 승인하지 않으셨다면 저희에게 직접 연락해 주십시오. 이 메시지는 자동화된 시스템에 의해 전송되었습니다. 이 이메일에 답장하지 마십시오."
+}

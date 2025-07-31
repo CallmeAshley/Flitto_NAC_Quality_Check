@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "SMTP SERVER, ISP:\nSMTP stands for Simple Mail Transfer Protocol Server. This server takes care of\ndelivering emails from one server to another server. When you send an email to an\nemail address, it is delivered to its recipient by a SMTP Server.\nISP stands for Internet Service Provider. They are the companies who provide you\nservice in terms of internet connection to connect to the internet.\nYou will buy space on a Web Server from any Internet Service Provider. This space\nwill be used to host your Website.",
+    "trans": "SMTP-СЕРВЕР, ISP:\nSMTP розшифровується як Simple Mail Transfer Protocol Server. Цей сервер піклується про\nдоставку електронних листів з одного сервера на інший. Коли ви відправляєте електронний лист на\nадресу електронної пошти, то він доставляється одержувачу сервером SMTP.\nISP розшифровується як Internet Service Provider. Це компанії, які надають вам\nпослуги з підключення до Інтернету.\nВи купуєте місце на вебсервері у будь-якого інтернет-провайдера. Це місце\nбуде використовуватися для розміщення вашого веб-сайту."
+}

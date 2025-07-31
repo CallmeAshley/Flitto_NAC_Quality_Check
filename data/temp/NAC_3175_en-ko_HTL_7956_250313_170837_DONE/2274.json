@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "ER Comment： The customer said that they connected AppleCare on September 26 to consult whether the device with 88% battery health performance can be repaired at the Apple Store, the Advisor told them yes. However, when the customer visited Apple Wangfujing on October 11, this request was declined by Genius Bar since the device’s battery health was at 87%, which was not below 80%, therefore the device was not eligible for repair. The customer disputed and filed a complaint with the government regarding the Advisor's incorrect expectation.",
+    "trans": "ER 코멘트 : 고객은 9월 26일에 AppleCare에 연결하여 배터리 건강 상태가 88%인 기기가 Apple Store에서 수리 가능한지 상담하였고, 상담원은 수리가 가능하다고 답했습니다. 그러나, 고객이 10월 11일에 애플 왕푸징을 방문했을 때, Genius Bar에서는 기기의 배터리 건강 상태가 87%로, 80% 미만이 아니므로, 수리가 불가능하다는 이유로 해당 요청을 거절했습니다. 이에 고객은 상담원의 잘못된 예상에 대해 이의를 제기하고 정부에 민원을 제기했습니다."
+}

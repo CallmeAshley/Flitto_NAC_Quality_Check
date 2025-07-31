@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Because of the large scale, three SCBs are required for full redundancy. This is referred to as 2 + 1 SCB redundancy. If any SCB fails, the other two SCB are able to support all 11 FPCs at line rate.\nIf you like living life on the edge and don’t need redundancy, the MX960 requires at least two SCBs to switch the available 12 FPCs.",
+    "trans": "규모가 크기 때문에 완전한 이중화를 위해서는 SCB가 3개 필요합니다. 이를 2 + 1 SCB 이중화라고 부릅니다. SCB 중 하나가 고장나면 다른 두 SCB가 11개의 FPC 모두를 라인 레이트로 지원 가능합니다.\n위험을 감수하는 것을 좋아하고 이중화가 필요 없는 경우, MX960은 이용 가능한 12개의 FPC를 스위칭하기 위해 적어도 2개의 SCB를 필요로 합니다."
+}

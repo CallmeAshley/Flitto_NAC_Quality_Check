@@ -1,0 +1,39 @@
+[원문: korean]
+* 모든 녹화 현장에는 인원체크 시 배부받은 팔찌를 반드시 지참하셔야 하며, 훼손 및 분실의 경우 입장이 제한됩니다.
+* 인원 체크 시간 이후 도착 시 지각 처리 되어 지각 번호로 배부 진행되며, 맨 뒷 순서로 입장 진행될 예정입니다.
+* 임의로 대기줄을 생성하는 행위를 금지합니다.
+▶참여 조건
+1) ONEDOOR Membership 가입자이면서 BOYNEXTDOOR 3rd EP [19.99] 위버스샵(GLOBAL) 구매자 (‘Nice’ / ‘Dangerous’ / ‘Twenty’ ver. 중 3종 이상/버전 무관 or Set 구매) + BOYNEXTDOOR 3rd EP [19.99] 앨범 내 음원 전곡 다운로드 명세서(멜론) + 멜론 회원 정보 확인 페이지' 만 신청이 가능합니다.
+2) 본 이벤트는 만 15세 이상만 참여 가능합니다. (2009년 10월 3일 이전 출생자)
+* 위 조건에 부합하지 않는 경우 공개방송 신청 및 참여 불가합니다.
+▶신청 일시
+2024년 10월 2일(수) 4:00~4:30PM(KST) → 선착순
+▶신청 링크
+* 신청 페이지는 10분 전부터 활성될 예정입니다. 신청 폼에 미리 진입하여 개인 정보 기재 및 개인정보 수집/이용 동의에 체크하신 후, 신청 시간에 맞춰 참여 신청을 완료해주시기 바랍니다.
+* '참여 신청' 클릭 후 내용 수정은 절대 불가하오니 신청 시간에 맞춰 참여 신청을 진행해주셔야 합니다.
+* 신청 페이지는 서버 시간을 기준으로 합니다.
+* 신청 마감 30분 ~ 1시간 이후 'BOYNEXTDOOR 이벤트 신청내역'에서 선착순 당첨 여부 및 입장 번호를 확인해주세요.
+
+[번역문: english]
+"* All participants must carry the wristband received during the participant check at the recording site. Entry will be restricted in case of damage or loss.
+* If you arrive after the participant check time, you will be considered late and will receive a late number. You will enter last in the queue.
+* Creating an unauthorized waiting line is prohibited.
+▶ Participation Conditions
+1) Only those who are ONEDOOR Membership holders and have purchased BOYNEXTDOOR 3rd EP [19,99] from Weverse Shop (GLOBAL) ('Nice' / 'Dangerous' / 'Twenty' versions, at least 3 versions regardless of type, or a set purchase), along with the full track download receipt for the BOYNEXTDOOR 3rd EP [19,99] album (Melon) and the Melon membership information verification page, are eligible to apply.
+2) This event is only open to participants aged 15 or older (born before October 3, 2009).
+* If you do not meet the above conditions, you will not be able to apply for or participate in the public broadcast.
+▶ Application Period
+October 2, 2024 (Wednesday) from 4:00 to 4:30 PM (KST) → First-come, first-served
+▶ Application Link
+* The application page will be activated 10 minutes before the start. Please enter the application form in advance, fill in your personal information, and check the consent for collection and use of personal information. Then, complete your application at the designated time.
+* Once you click 'Apply', you cannot modify the details, so please make sure to submit your application at the scheduled time.
+* The application page follows server time.
+* After 30 minutes to 1 hour from the application deadline, check your 'BOYNEXTDOOR event application details' to confirm your first-come, first-served status and entrance number."
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 숫자 "19,99"는 잘못된 형식입니다. 미국 영어에서는 소수점에 마침표를 사용해야 하므로 "19.99"로 수정해야 합니다.
+    - 통화 표기 오류: 없음

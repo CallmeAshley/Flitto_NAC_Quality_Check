@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "MVO results in the construction of an efficient frontier that represents a mix of assets that produces the minimum standard deviation (as a proxy for risk) for the maximum level of expected return. It is based on defined asset-class buckets and long-term expected returns, risks, and correlations. The Black– Litterman Global Asset Allocation is an MVO model, using the Markowitz portfolio optimization model or modern portfolio theory (MPT).",
+    "trans": "MVO aboutit à la construction d'une frontière efficiente qui représente un mélange d'actifs produisant l'écart-type minimal (utilisé comme indicateur de risque) pour un niveau de rendement espéré maximal. Elle repose sur des catégories d'actifs définies et sur les rendements espérés à long terme, les risques et les corrélations. Le modèle d'allocation d'actifs globale de Black-Litterman est un modèle MVO, utilisant le modèle d'optimisation de portefeuille de Markowitz ou la théorie moderne du portefeuille (MPT)."
+}

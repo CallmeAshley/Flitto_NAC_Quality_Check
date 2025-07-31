@@ -1,0 +1,33 @@
+[원문: english]
+CLINICAL INDICATION: pelvic pain :: R10.2 Pelvic and perineal pain
+TECHNIQUE: Transvaginal imaging of the pelvis was performed.
+COMPARISON: Transabdominal and transvaginal pelvic ultrasound 5/16/2024.
+INTERPRETATION: The patient claims her last menstrual period was 10/8/2024.
+UTERUS:
+The uterus is anteverted/mobile in lie and measures 7.7 cm in length x 4.2 cm in AP diameter x 5.1 cm in width. The myometrium is homogeneous in echotexture. No focal myoma was visualized The endometrial echo complex measures up to 14 mm in thickness, which may be secondary to the patient's phase of the menstrual cycle, however, the patient claims her last menstrual period was 10/8/2024.
+The visualized portion of the cervix demonstrates small cervical nabothian cysts.
+RIGHT ADNEXUM:
+The right ovary measures 3.4 cm in length by 3.3 cm in AP diameter by 2.5 cm in width. The previously visualized right follicular type cysts noted on the prior examination were not identified on this examination.
+Doppler flow is demonstrated within the ovary.
+LEFT ADNEXUM:
+
+[번역문: turkish]
+KLİNİK ENDİKASYON: Pelvik ağrı :: R10.2 Pelvik ve perineal ağrı
+TEKNİK: Pelvisin transvajinal görüntülemesi yapıldı.
+KARŞILAŞTIRMA: Transabdominal ve transvajinal pelvik ultrason 05/16/2024.
+YORUM: Hasta, son adet döneminin 10/8/2024 olduğunu belirtiyor.
+UTERUS:
+Uterus antevert/mobil konumda ve 7.7 cm uzunluk x 4.2 cm ön-arka çap x 5.1 cm genişlik ölçülerinde. Miyometrium eko dokusu homojendir. Fokal miyom görülmedi. Endometriyal eko kompleksi kalınlığı 14 mm’ye kadar ölçülmüştür, bu hastanın menstrüel döngüsündeki fazına bağlı olabilir. Ancak hasta son adet döneminin 10/08/2024 olduğunu ifade etmektedir.
+Görüntülenen serviks kısmında küçük servikal nabothian kistleri izlenmiştir.
+SAĞ ADNEX:
+Sağ over, 3.4 cm uzunluk x 3.3 cm ön-arka çap x 2.5 cm genişlik ölçülerindedir. Önceki incelemede not edilen sağ foliküler tip kistler bu incelemede saptanmamıştır.
+Over içinde Doppler akışı gösterilmiştir.
+SOL ADNEX:
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "05/16/2024" 및 "10/8/2024"로 표기되어 있으며, 이는 터키어 날짜 형식인 "gün ay yıl" 순서를 따르지 않았습니다. 올바른 형식은 "16 Mayıs 2024" 및 "8 Ekim 2024"입니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

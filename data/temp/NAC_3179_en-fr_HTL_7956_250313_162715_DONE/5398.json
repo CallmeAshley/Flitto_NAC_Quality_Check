@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "The project relies on creating forms for easy data entry into the\ntables, along with interactive reports that allow for flexible data\nreview. Additionally, triggers and sequences are used to ensure\ndata is entered automatically, reducing manual intervention and\nensuring accuracy when dealing with primary keys.\nProject Objectives:\n• Store and organize employee data: Provide an easy\nmethod for recording basic information such as names,\npositions, and departments.\n• Daily attendance tracking: Ensure the ability to track\nemployee attendance on a daily basis",
+    "trans": "Le projet repose sur la création de formulaires pour faciliter l'entrée des données dans les\nables, ainsi que des rapports interactifs permettant une revue flexible des données.\nDe plus, des déclencheurs et des séquences sont utilisés pour garantir que les\ndonnées sont saisies automatiquement, réduisant ainsi l'intervention manuelle et\nassurant l'exactitude lors de la gestion des clés primaires.\nObjectifs du projet :\n• Stocker et organiser les données des employés : Fournir une méthode simple\npour enregistrer des informations de base telles que les noms,\nes postes et les départements.\n• Suivi quotidien de l'assiduité : Assurer la possibilité de suivre\nla présence des employés quotidiennement."
+}

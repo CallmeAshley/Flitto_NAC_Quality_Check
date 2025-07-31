@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "The data presented here represent the first lipid and transcriptome analyses performed on PD and control SN as well as putamen samples from the same individuals. We conducted a transcriptome analysis by RNA-seq rather than microarrays in order to identify not only annotated transcripts, but also currently unannotated sequences for future re-evaluation (50/354 SN DEGs and 29/261 putamen DEGs represent not-annotated transcripts) [26]. Additionally, we analyzed our data together with publicly available transcriptome datasets to draw more robust conclusions about the relevance of gene functions and pathways for PD.",
+    "trans": "여기에 제시된 데이터는 동일한 개인의 PD와 대조군 SN 및 조가비핵 샘플에 대해 수행된 최초의 지질 및 전사체 분석을 나타냅니다. 저희는 주석이 달린 전사체뿐만 아니라 향후 재평가를 위한 현재 주석이 달리지 않은 서열도 식별하기 위해 마이크로어레이가 아닌 RNA-seq으로 전사체 분석을 수행했습니다(SN DEG 354개 중 50개와 피각 DEG 261개 중 29개는 주석이 달리지 않은 전사체를 나타냅니다)[26]. 또한, 저희는 PD에 대한 유전자 기능과 경로의 관련성에 대해 더 강력한 결론을 도출하기 위해 공개적으로 이용 가능한 전사체 데이터셋과 함께 저희의 데이터를 분석했습니다."
+}

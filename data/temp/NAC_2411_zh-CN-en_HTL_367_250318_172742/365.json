@@ -1,0 +1,6 @@
+{
+    "source": "zh_CN",
+    "target": "en_US",
+    "text": "谁受到影响？: 只是我自己\n告诉我们您的问题与什么有关。 访问/登录\nSelect the application: ServiceNow - Mobile App\n问题的性质是什么？: 应用程序启动，但我无法登录\n请提供更多详细信息，以便我们快速解决您的问题。 :\nAuthenticator失效，请帮忙处理\n设备iPhone13",
+    "trans": "Who is affected? Only myself.\nWhat is your issue related to: Access/Login\nSelect the application: ServiceNow - Mobile App\nWhat is the nature of the issue: The app launches, but I can't log in.\nPlease provide more details so we can resolve your issue quickly:\nThe authenticator is not working, please help.\nDevice: iPhone 13"
+}

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Update your payment method to continue Prime\nHello [redacted_name],\nYour Prime membership is renewing on [redacted_info]. However, we noticed that your default payment method for your membership is no longer valid.\nTo avoid losing your benefits, we'll try charging other active payment methods associated with your Amazon account. If we can't process the charge for your membership fee, your Prime benefits will be suspended.\nThank you,\nAmazon Customer Service",
+    "trans": "프라임을 계속 이용하려면 결제 방법을 업데이트하세요\n안녕하세요 [redacted_name],\n귀하의 프라임 멤버십은 [redacted_info]에 갱신됩니다. 그러나 귀하의 멤버십 기본 결제 방법이 더 이상 유효하지 않음을 확인했습니다.\n혜택을 잃지 않으려면, 귀하의 아마존 계정에 연결된 다른 유효한 결제 방법으로 결제를 시도할 것입니다. 만약 멤버십 요금 결제가 처리되지 않으면, 귀하의 프라임 혜택은 일시 중지됩니다.\n감사합니다,\n아마존 고객 서비스"
+}

@@ -1,0 +1,43 @@
+[원문: english]
+$15.50 to $16.30 per hour plus tips
+ Paid Sick Leave
+ Flexible schedule
+ Discounts on meals
+ Career advancement opportunities
+ Duties & Responsibilities:
+ Cleaning and sweeping the dining areas of the restaurant, cleaning, sanitizing, and resetting each table for the next guest, taking out the garbage, stocking stations with necessary supplies, and cleaning the bathrooms.
+ Anticipate guests’ and coworkers’ needs and exceed guest service expectations.
+ Protects establishment and patrons by adhering to sanitation and safety policies.
+ Maintain composure in a fast-paced environment.
+ Respond urgently and appropriately to guests’ and coworkers’ needs.
+ Exhibit a professional appearance and mannerisms.
+ Ensure guests are enjoying their experience and take action to correct any problems.
+ Concludes the guest experience by acknowledging choice of establishment and inviting patrons to return.
+ Complete assigned sidework at the beginning, during, and at end of shift.
+ Other Duties: Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job.
+
+[번역문: portuguese]
+De US$ 15.50 a US$ 16.30 por hora mais gorjetas
+ Licença Médica Paga
+ Horários flexíveis
+ Descontos em refeições
+ Oportunidades de progressão de carreira
+ Deveres e Responsabilidades
+ Limpar e varrer as áreas de refeitório do restaurante, limpara, higienizar e reorganizar cada uma das mesas para o próximo cliente, tirar o lixo, repor as estações com os suprimentos necessários e limpar os banheiros.
+ Antecipar as necessidades dos clientes e colaboradores e superar as expectativas de serviço dos clientes.
+ Proteger o estabelecimento e seus clientes aderindo a políticas de higienização e segurança.
+ Manter a compostura em um ambiente de ritmo ágil.
+ Atender às necessidades de clientes e colaboradores com agilidade e de modo apropriado.
+ Demonstrar aparência e comportamento profissionais.
+ Garantir que os clientes aproveitem a experiência e agir para corrigir quaisquer problemas.
+ Concluir a experiência do cliente agradecendo pela escolha do estabelecimento e convidando os clientes a retornar.
+ Concluir as tarefas adicionais atribuídas no início, durante e ao final do turno.
+ Outros Deveres: observe que esta descrição de trabalho não tem o objetivo de cobrir ou conter uma relação abrangente das atividades, deveres ou responsabilidades exigidas para o colaborador empregado nesta função.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호와 숫자 사이에 공백이 있습니다. 정책에 따르면 통화 기호와 숫자 사이에 공백이 없어야 합니다.

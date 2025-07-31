@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "DO NOT DISCLOSE YOUR OTP CODE WITH ANYONE. The OTP code [redacted_id] is required to authorize your online transaction performed at eand UAE App for AED 429.45 from your FAB card ending with 6894. This OTP will expire within the next 3 minutes. If you did not initiate this request, please contact us on 600 522 298 if you are inside the UAE or +971 2 4996279 if you are outside of the UAE.",
+    "trans": "누구에게도 귀하의 OTP 코드를 알려주지 마십시오. OTP 코드 [redacted_id]는 6894로 끝나는 귀하의 FAB 카드로부터 AED 429.45용 eand UAE 앱에서 수행한 귀하의 온라인 거래를 승인하는 데 필요합니다. 이 OTP의 유효기간은 3분 이내에 만료됩니다. 이 요청을 시작하지 않은 경우. 다음 연락처로 전화하시기 바랍니다: 600 522 298(UAE 체류시), +971 2 4996279(UAE 비체류시)"
+}

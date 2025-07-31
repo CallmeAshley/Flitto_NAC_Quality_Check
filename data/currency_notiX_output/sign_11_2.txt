@@ -1,0 +1,22 @@
+[원문: english]
+BY MAURO ORRU
+Porsche AG posted lower sales and operating profit in the first nine months of the year as the company grapples with challenges in the key Chinese market and a slower-than-expected shift to electric vehicles.
+The German premium carmaker reported sales of €28.56 billion, equivalent to $30.92 billion, down 5.2% from the same period a year ago, as it delivered 226,026 vehicles to customers between January and September, down 6.9% from last year.
+Lutz Meschke, deputy chairman of the executive board, said the third quarter had been the weakest of the year for Porsche as the group faces a structural shift in demand in China, the world’s largest car market. Meanwhile, the transition to electric vehicles has proceeded more slowly than expected.
+“For this reason, we are reviewing our product lineup and ecosystem, as well as our budgets and cost position,” he said.
+For months, the automotive industry has been dealing with a slow EV market and fierce competition from local carmakers in China, forcing several European auto manufacturers to lower their profit and sales forecasts for the year.
+
+[번역문: vietnamese]
+VIẾT BỞI MAURO ORRU
+Porsche AG đã công bố doanh thu và lợi nhuận hoạt động giảm trong chín tháng đầu năm khi công ty đối mặt với những thách thức tại thị trường trọng điểm ở Trung Quốc và quá trình chuyển đổi sang xe điện chậm hơn so với dự tính.
+Nhà sản xuất ô tô hạng sang của Đức đã báo cáo doanh thu đạt 28.56 tỷ euro, tương đương với 30.92 tỷ đô la Mỹ, giảm 5.2% so với cùng kỳ năm ngoái, khi họ đã bán được 226,026 chiếc xe tới khách hàng trong khoảng  thời gian từ tháng Một đến tháng Chín, giảm 6.9% so với năm ngoái.
+Lutz Meschke, phó chủ tịch hội đồng quản trị, chia sẻ rằng quý thứ ba trong năm nay đã trở thành quý có doanh thu kém nhất của Porsche vì tập đoàn này đối mặt với việc chuyển đổi cơ cấu nhu cầu ở Trung Quốc, thị trường xe hơi lớn nhất thế giới. Trong khi đó, quá trình chuyển đổi sang xe điện tiến hành chậm hơn so với dự tính.
+Vì lý do này, chúng tôi đang triển khai kiểm tra lại các chuỗi sản phẩm và hệ sinh thái của mình, cũng như ngân sách và tình hình chi phí", ông cho biết.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 유로(€)와 달러($) 기호는 숫자 앞에 붙여야 하며, 공백 없이 표기해야 합니다. 현재 번역에서는 유로와 달러 기호가 숫자 뒤에 위치하고 있습니다.

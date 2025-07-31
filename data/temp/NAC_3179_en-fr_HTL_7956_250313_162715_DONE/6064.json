@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "To keep the explanations tractable, when it says one prefers going out at t=3 to t=2, I will simplify the statement as one prefers 3 over 2. As for [redacted_name], she expects that she will choose to go out at t=2 when she is at t=2. Before she gets to t=2, she must make her choice at t=1. At t=1, she prefers 3 over 2, but since she knows that she will choose 2 over 3 at t=2, she will rule out 3. So, at t=1, [redacted_name] should choose between 1 and 2. As it shows, she prefers 1 over 2 at t=1. Now, going backward to t=0,[redacted_name] actually prefers 0 over 1. Therefore, [redacted_name] should go out at t=0.",
+    "trans": "Pour simplifier les explications, quand on dit que quelqu'un préfère sortir à t=3 plutôt qu'à t=2, je simplifierai cette affirmation en disant qu'il préfère 3 à 2. En ce qui concerne [redacted_name], elle s'attend à choisir de sortir à t=2 lorsqu'elle sera à t=2. Avant d'arriver à t=2, elle doit faire son choix à t=1. À t=1, elle préfère 3 à 2, mais comme elle sait qu'elle choisira 2 à 3 à t=2, elle exclura 3. Donc, à t=1, [redacted_name] doit choisir entre 1 et 2. Comme cela le montre, elle préfère 1 à 2 à t=1. Maintenant, en revenant en arrière à t=0, [redacted_name] préfère en fait 0 à 1. Par conséquent, [redacted_name] devrait sortir à t=0."
+}

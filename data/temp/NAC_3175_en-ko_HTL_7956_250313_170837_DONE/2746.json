@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Password Expiry Notice\nDear Albimar SanchezAndrade,\nThis is a notice that your ClassLink, Office 365, Domain, ViewIT, Eduphoria, eSchool, eTac and domain related account passwords will expire in 2 day(s).\nYou should change your password immediately using the steps below:\nLogin to the SSO.\nClick your profile icon in the top right.\nSet your Profile to Staff - 2FA (Secure OR Relaxed).\nClick the Settings button.\nClick the Recovery button.\nClick the Change Password button.\nReboot your computer after changing your password.",
+    "trans": "비밀번호 만료 알림\n친애하는 Albimar SanchezAndrade님\n귀하의 ClassLink, Office 365, 도메인, ViewIT, Eduphoria, eSchool, eTac 및 도메인 관련 계정 비밀번호가 2일 후 만료된다는 알림입니다.\n아래 단계를 따라 즉시 비밀번호를 변경해야 합니다:\nSSO에 로그인하세요.\n우측 상단의 프로필 아이콘을 클릭하세요.\n프로필을 직원 - 2FA (보안 또는 완화)로 설정하세요.\n설정 버튼을 클릭하세요.\n복구 버튼을 클릭하세요.\n비밀번호 변경 버튼을 클릭하세요.\n비밀번호 변경 후 컴퓨터를 재시작하세요."
+}

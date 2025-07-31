@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "The AI data center industry will continue to evolve as the demand for AI-driven applications grows. Experts predict a significant shift toward edge computing, where data centers are decentralized and located closer to the source of data generation. This reduces latency and improves performance for real-time AI applications such as autonomous driving and smart cities. Moreover, the integration of quantum computing into AI data centers could revolutionize the field. Quantum computers are capable of processing complex calculations at speeds unattainable by classical computers, making them ideal for AI and big data applications. Companies like IBM and Google are already exploring quantum technology in their AI research.",
+    "trans": "인공지능 기반 애플리케이션에 대한 수요가 증가함에 따라 인공지능 자료 중심 산업은 계속 진화할 것이다. 전문가들은 자료 중심이 분산되고 자료 생성 원천에 더 가깝게 위치하는 에지 컴퓨팅으로의 상당한 전환을 예측한다. 이를 통해 대기 시간이 줄어들고 자율 주행 및 스마트 시티와 같은 실시간 인공지능 적용의 성능이 향상된다. 게다가 양자 컴퓨팅을 인공지능 자료 중심에 통합하면 이 분야에 혁명을 일으킬 수 있다. 양자 컴퓨터는 기존 컴퓨터로는 달성할 수 없는 속도로 복잡한 계산을 처리할 수 있어 인공지능 및 빅데이터 적용에 이상적이다. 아이비엠과 구글과 같은 회사는 이미 인공지능 연구에서 양자 기술을 탐색하고 있다."
+}

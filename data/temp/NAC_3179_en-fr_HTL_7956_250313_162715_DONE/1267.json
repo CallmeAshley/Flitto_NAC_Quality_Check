@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "This tool requires the two input videos, the one where you want to add the additional tracks to (the destination video) and the one where you take the additional tracks from (the source video).\nIt then tries to find the exact same frame in both videos, in order to synchronize them (in case one of them is longer or shorter than the other).\nIt allows you to pick the audio and subtitle tracks you want to add to the destination and specify the output file.\nThere's an interactive mode (simply don't pass any arguments, flags are fine) and a CLI mode (pass the two arguments listed at the top).",
+    "trans": "Cet outil nécessite deux vidéos en entrée, celle où seront ajoutées les pistes supplémentaires de (la vidéo de destination) et celle où seront prélevées les pistes supplémentaires de (la vidéo source).\nEnsuite, il essaye de trouver le même cadre dans les deux vidéos, afin de les synchroniser (au cas où l'un est plus long ou plus court que l'autre).\nIl permet de choisir l'audio et les pistes de sous-titres que tu souhaites ajouter à la destination et spécifier le fichier de sortie.\nIl existe un mode interactif (ne pas passer d'arguments, des options suffisent) et un mode CLI (passer les deux arguments en haut de la liste)."
+}

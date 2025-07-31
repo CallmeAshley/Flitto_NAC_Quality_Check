@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "To keep the explanations tractable, when it says one prefers going out at t=3 to t=2, I will simplify the statement as one prefers 3 over 2. As for [redacted_name], she expects that she will choose to go out at t=2 when she is at t=2. Before she gets to t=2, she must make her choice at t=1. At t=1, she prefers 3 over 2, but since she knows that she will choose 2 over 3 at t=2, she will rule out 3. So, at t=1, [redacted_name] should choose between 1 and 2. As it shows, she prefers 1 over 2 at t=1. Now, going backward to t=0,[redacted_name] actually prefers 0 over 1. Therefore, [redacted_name] should go out at t=0.",
+    "trans": "설명을 다루기 쉬운 상태로 유지하기 위해 말하자면, 누군가 t=3에서 t=2로 가는 것을 선호한다고 말할 때, 나는 이 선언을 그 사람이 2보다는 3을 선호한다고 단순화시킬 것이다. [redacted_name]에 관해서라면, 그녀는 t=2에 있을 때 t=2에서 나가기를 선택하리라 기대한다. 그녀가 t=2에 도달하기 전, 그녀는 t=1 지점에서 선택을 내려야만 한다. t=1에서, 그녀는 2보다는 3을 선호하지만, 자신이 t=2에서는 3보다는 2를 선택할 것임을 알고 있기 때문에, 그녀는 3을 배제할 것이다. 그래서, t=1에서, [redacted_name]은 1과 2 사이에서 골라야 한다. 보이다시피, 그녀는 t=1에서는 2보다는 1을 선호한다. 이제, t=0으로 돌아가서, [redacted_name]은 사실은 1보다는 0을 선호한다. 따라서, [redacted_name]은 t=0에서 나가야 한다."
+}

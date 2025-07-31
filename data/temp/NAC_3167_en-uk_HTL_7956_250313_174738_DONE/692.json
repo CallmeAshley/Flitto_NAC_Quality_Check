@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "[redacted_name],\nWe noticed a new login attempt to your Afterpay account with the following details:\nDevice: Unknown\nIP Address: [redacted_id]\nApproximate location: [redacted_address]\nIf this was you, you can safely disregard this email.\nIf this wasn't you, please reset your password below.\nReset your password\nThanks,\nThe Afterpay Team\nNeed help?\nVisit Our Help Page\n© 2024 Afterpay. [redacted_address]",
+    "trans": "[redacted_name],\nМи помітили нову спробу входу у ваш акаунт Afterpay з такими даними:\nПристрій: Невідомо\nIP-адреса: [redacted_id]\nПриблизне місце розташування: [redacted_address]\nЯкщо це були ви, ви можете спокійно ігнорувати цей лист.\nЯкщо це були не ви, будь ласка, скиньте свій пароль нижче.\nСкинути пароль\nДякую,\nКоманда Afterpay\nПотрібна допомога?\nВідвідайте нашу сторінку довідки\n© 2024 Afterpay. [redacted_address]"
+}

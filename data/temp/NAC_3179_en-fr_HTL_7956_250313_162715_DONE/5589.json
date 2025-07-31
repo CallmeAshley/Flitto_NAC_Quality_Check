@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "nstantly blocks remote payments including:\nonline and in-app card payments\nonline and in-app payments with Apple Pay or Google Pay\npayments over the phone\nmail order payments.\nIt won’t block recurring payments, such as Direct Debits or subscriptions.\nYou can turn off this freeze in the app at any time.\nIf your card is lost or stolen, you’ll need to turn the freeze back on when you get your replacement.",
+    "trans": "bloque instantanément les paiements à distance, y compris :\nles paiements par carte en ligne et dans les applications\nles paiements en ligne et dans les applications avec Apple Pay ou Google Pay\nles paiements par téléphone\nles paiements par commande par courrier.\nIl ne bloquera pas les paiements récurrents, tels que les Prélèvements Automatiques ou les abonnements.\nVous pouvez désactiver ce blocage dans l'application à tout moment.\nSi votre carte est perdue ou volée, vous devrez réactiver le blocage lorsque vous recevrez votre carte de remplacement."
+}

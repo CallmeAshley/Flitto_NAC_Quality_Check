@@ -1,0 +1,57 @@
+[원문: english]
+Welcome to your new Learning and Development Platform
+ Everything that you need to get started is in this email. Simply
+ copy this link to Mapal one: https://one.mapal-os.com/
+ You can access this content at any time by using the link here
+ Company
+ SIX COMPANY
+ Branch
+ Dublin
+ Training modules
+ Food Safety Level 2 — due 7th November 2024
+ Health and Safety Level 2 — due 7th November 2024
+ Working in a Kitchen — due 21st November 2024
+ Food Allergens — due 7th November 2024
+ The Fire Marshal — due 7th November 2024
+ COSHH: Working With Hazardous Substances - UK — due 21st November 2024
+ Induction to Six by Nico — due 5th November 2024
+ Diversey Products Chemical Training
+ Diversey COSHH Chemical Safety Training
+ Logging In
+ If you have a personal email address registered
+ with your employer, when you first log into your Mapal one you will be given
+ the option to create an account. Going forward, you may use your email address
+ and password of choice to log in. Why not save this to your favourites to allow
+
+[번역문: portuguese]
+Boas-vindas à sua nova Plataforma de Aprendizado e Desenvolvimento
+ Tudo o que você precisa para começar está neste e-mail. Basta
+ copiar este link para o Mapal one: https://one.mapal-os.com/
+ É possível acessar este conteúdo a qualquer momento usando o link aqui
+ Empresa
+ SIX COMPANY
+ Filial
+ Dublin
+ Módulos de treinamento
+ Segurança Alimentar Nível 2 — até 7 novembro 2024
+ Saúde e Segurança Nível 2 — até 7 novembro 2024
+ Trabalhando em uma Cozinha — até 21 novembro 2024
+ Alergênicos Alimentares — até 7 novembro 2024
+ Inspetor de Bombeiros — até 7 novembro 2024
+ COSHH: Trabalhando com Substâncias Perigosas - Reino Unido — até 21 novembro 2024
+ Indução à Six por Nico — até 5 novembro 2024
+ Treinamento de Produtos Químicos da Diversey
+ Treinamento de Segurança Química COSHH Diversey
+ Login
+ Caso tenha um endereço de e-mail pessoal registrado
+ com seu empregador, ao fazer login pela primeira vez no Mapal one, será dada
+ a opção de criar uma conta. A partir de agora, você pode usar seu endereço de e-mail
+ e senha de sua escolha para fazer login. Que tal salvar isso nos seus favoritos para facilitar
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: "7 novembro 2024"와 같은 날짜 표기에서 "de"가 누락되었습니다. 올바른 형식은 "7 de novembro de 2024"입니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

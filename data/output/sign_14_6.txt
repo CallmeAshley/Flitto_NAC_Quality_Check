@@ -1,0 +1,37 @@
+[원문: indonesian]
+- Pembayaran pertama dilaksanakan pada tanggal 01 November 2024 sebesar RP 15,000,000 untuk 3 bulan petama Anda harus berbagi biaya bulanan untuk pemeliharaan, Listrik, dan Air.
+Sebagai bukti pembayaran akan di berikan kwitansi tersendiri dan merupakan bagian yang tak terpisahkan dari perjanjian ini.
+PASAL 4
+HAK DAN KEWAJIBAN
+Setelah PIHAK KEDUA anggap memenuhi segala persyaratan yang di tetapkan oleh PIHAK PERTAMA, antara lain dengan menandatangani segala dokumen/formulir ataupun perjanjian- perjanjian yang berkaitan dengan itu, maka PIHAK KEDUA telah berhak untuk menggunakan /memakai persewaan sesuai dengan kegunaanya, tanpa mendapat ganguan dari pihak manapun juga.
+Selama Perjanjian Sewa menyewa ini berlangsung maka:
+1. HAK DAN KEWAJIBAN PIHAK PERTAMA
+a. Mendapat uang sewa sesuai dengan perjanjian sewa menyewa yang telah di sepakati kedua belah pihak.
+b. Menyerahkan gudang kepada pihak kedua dengan bersih.
+2. HAK DAN KEWAJIBAN PIHAK KEDUA
+a. Mendapat gudang yang telah di sepakati
+b. Menjaga dan merawat gudang yang di sewakan tersebut dengan baik dan atas beban biaya di tanggung sendiri.
+c. Membayar seluruh biaya-biaya yang timbul atas operasional gudang tersebut sejak di tanda tangani perjanjian sewa menyewa ini termasuk iuraan kebersihan, keamanan, rekening listrik dan air.
+
+[번역문: english]
+- The first payment will be made on November 1, 2024, in the amount of Rp 15.000.000 for the first three months. You are required to share the monthly costs for maintenance, electricity, and water.
+As proof of payment, a separate receipt will be provided and will form an integral part of this agreement.
+ARTICLE 4
+RIGHTS AND OBLIGATIONS
+After the SECOND PARTY fulfills all the requirements set by the FIRST PARTY, including signing all relevant documents/forms or agreements, the SECOND PARTY shall have the right to use the rental in accordance with its intended purpose, without interference from any third party.
+During the term of this Lease Agreement, the following shall apply:
+1. RIGHTS AND OBLIGATIONS OF THE FIRST PARTY
+a. To receive rental payments as per the lease agreement agreed upon by both parties.
+b. To hand over the warehouse to the SECOND PARTY in a clean condition.
+2. RIGHTS AND OBLIGATIONS OF THE SECOND PARTY
+a. To receive the warehouse as agreed upon.
+b. To maintain and care for the rented warehouse appropriately, with all associated costs to be borne by the SECOND PARTY.
+c. To pay all expenses arising from the operation of the warehouse from the date of signing this lease agreement, including cleaning fees, security, electricity, and water bills.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호 'Rp'는 숫자 앞에 위치해야 합니다. (예: Rp 15,000,000)

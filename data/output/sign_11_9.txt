@@ -1,0 +1,41 @@
+[원문: english]
+$0.00
+Order Total
+$208.00
+Shop in the Apple Store app,
+tailored specifically for you
+Get personalized product recommendations, compare models, access Your Saves, and track your orders. Plus, opt in today to get updates on new products, promotions, flexible payment options, and store events.
+Scan the QR code or tap the link to get started.
+Download the Apple Store app ›
+Questions
+When will I get my items?
+The shipping estimates above tell you when your items are expected to arrive. As each item leaves our warehouse, we’ll email you with delivery and tracking information.
+Ordered more than one item? You’ll get a separate email as each item ships. There are no additional shipping fees for these items.
+How do I view or change my order?
+Visit online Order Status to view the most up-to-date status and make changes to your order. To learn more about shipping, changing your order, or returns, please visit online Help.
+You can also call Apple Support at 800-692-7753 Monday through Friday from 9:00 a.m. to 9:00 p.m. and Saturday from 9:00 a.m. to 6:00 p.m. Pacific time.
+
+[번역문: vietnamese]
+$0,00
+Tổng Đơn Hàng
+$208,00
+Mua sắm trên ứng dụng Apple Store,
+được thiết kế dành riêng cho bạn
+Nhận các gợi ý sản phẩm được cá nhân hóa, so sánh các mẫu, truy cập mục Đã Lưu và theo dõi đơn hàng. Ngoài ra, đăng ký ngay hôm nay để nhận thông tin cập nhật về sản phẩm mới, khuyến mãi, phương thức thanh toán linh hoạt, và các sự kiện ở cửa hàng.
+Hãy quét mã QR hoặc nhấn vào liên kết để bắt đầu.
+Tải xuống ứng dụng Apple Store ›
+Câu hỏi
+Khi nào tôi sẽ nhận được hàng?
+Các ước tính vận chuyển ở trên cho bạn biết khi nào hàng dự kiến sẽ đến. Khi mỗi mặt hàng rời kho, chúng tôi sẽ gửi email cho bạn thông tin giao hàng và theo dõi.
+Đặt nhiều hơn một mặt hàng? Bạn sẽ nhận được một email riêng khi từng mặt hàng được vận chuyển. Không tính thêm phí vận chuyển cho các mặt hàng này.
+Làm thế nào để xem hoặc thay đổi đơn hàng?
+Truy cập Trạng thái Đơn hàng trực tuyến để xem tình trạng mới nhất và thay đổi đơn hàng của bạn. Để tìm hiểu thêm về vận chuyển, thay đổi đơn hàng, hoặc hoàn trả, vui lòng truy cập vào phần Trợ giúp trực tuyến.
+Bạn cũng có thể gọi cho bộ phận Hỗ trợ của Apple theo số 800-692-7753 từ Thứ Hai đến Thứ Sáu từ 9:00 sáng đến 9:00 tối và Thứ Bảy từ 9:00 sáng đến 6:00 tối theo giờ Thái Bình Dương.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 소수점은 점(`.`)으로 표기해야 하지만, 번역에서는 쉼표(`,`)로 표기되었습니다.

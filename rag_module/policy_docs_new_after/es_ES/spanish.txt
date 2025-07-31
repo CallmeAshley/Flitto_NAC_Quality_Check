@@ -1,0 +1,139 @@
+[Locale: es-ES]
+
+[Numeric Format]
+
+Definition:  
+Spanish uses continental European formatting:
+- A **comma (`,`)** is used to represent decimal points.
+- A **dot (`.`)** is used every three digits in the integer part for grouping.
+- No grouping is applied after the decimal point.
+
+Examples:  
+- 1.234,56  
+- 123.456.789,00
+
+Evaluation Criteria:
+- Use a dot for digit grouping in the integer part.
+- Use a comma for decimal points.
+- Do not apply grouping after the decimal.
+- No spaces between digits and separators.
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not the euro (€), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adapted according to Spanish conventions.
+
+Expected currency symbols include:  
+€, $, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾  
+
+Expected ISO currency codes include:  
+EUR, USD, JPY, GBP, KRW, CNY, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 dólares`) or **code** (`USD 400`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+Currency symbols such as `€`, `$`, `¥`, etc. appear **after the number**, with a **space**.
+
+Examples:  
+- 12.345,00 €  
+- 850,00 $  
+- 10.000,00 ¥  
+- 1.200,00 ₩  
+- 300,00 £
+
+Evaluation Criteria:
+- Symbol must follow the number.
+- Use a space between number and symbol.
+- Follow the [Numeric Format] rules.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., EUR, USD) are written **after the number**, with a **space**.
+
+Examples:  
+- 12.345,00 EUR  
+- 2.000,00 USD  
+- 10.000,00 JPY
+
+Evaluation Criteria:
+- Code must follow the number.
+- Use a space between number and code.
+- Use uppercase for currency codes.
+- Follow the [Numeric Format] rules.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as “euros,” “dólares,” or “yenes” appear **after the number**, usually with a space.  
+Currency names follow Spanish grammatical rules and pluralization.
+
+Examples:  
+- 1.000 euros  
+- 850 dólares  
+- 10.000 yenes  
+- 500 libras  
+- 1.200 wons  
+- 300 yuanes
+
+Evaluation Criteria:
+- Currency name must follow the number with a space.
+- Use the grammatically correct Spanish form of the currency name.
+- Do not generate a currency name unless one exists in the source.
+- Follow [Numeric Format] rules for number formatting.
+
+---
+
+[Date Format]
+
+Definition:  
+Spanish dates follow the **Day → Month → Year** order.  
+If a weekday is present, it appears **before the date**, followed by a comma.  
+The preposition “de” is used between components in long formats.  
+Slashes (`/`) are used in short formats.
+
+Examples:  
+- lunes, 28 de julio de 2025  
+- 28 de julio de 2025  
+- 28 jul 2025  
+- 28/7/25
+
+Evaluation Criteria:
+- Ensure date order is Day → Month → Year.
+- If a weekday is present, place it before the date with a comma.
+- Accept both long-form (with “de”) and short-form (with slashes) formats.
+- **Do not generate a weekday unless it is present in the source.**
+
+---
+
+[Time Format]
+
+Definition:  
+Spanish uses the **24-hour clock**.  
+Colons (`:`) separate hours, minutes, and seconds.  
+Time zones (e.g., CEST) are not included unless explicitly required.
+
+Examples:  
+- 14:30  
+- 14:30:45
+
+Evaluation Criteria:
+- Use colons to separate time units.
+- Do not use AM/PM markers.
+- Only include time zone names if present in the original.

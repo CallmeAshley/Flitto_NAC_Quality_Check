@@ -1,0 +1,15 @@
+[원문: indonesian]
+Selanjutnya, bila kita berjalan kembali menyusuri gang, sekitar 100 meter berikutnya, kita akan menemui gapura untuk memasuki pelataran tempat pertunjukan Sigale-Gale. Di tempat tersebut kita akan menjumpai juga tiga buah rumah adat yang masih terawat dengan baik. Anda masih dapat melihat detail ornamen di dinding depan ketiga rumah adat tersebut. Ketiga rumah adat tersebut, masing-masing, menyambungu dengan rumah tinggal yang sudah dibangun dengan
+Pertunjukan Sigale-Gale akan digelar bila Anda menginginkannya. Ada tempat bagi Anda dan rombongan untuk menyaksikannya sambil duduk santai. Lalu Anda dapat menari bersama-sama. Pengelola pertunjukan setempat telah menyediakan beberapa ulos (kain sarung tradisional) untuk Anda dan rombongan menari bersama. Pertunjukan akan menyajikan tiga buah lagu. Namun untuk dapat menikmati pertunjukan, Anda harus membayar Rp. 60.000 untuk satu kali pertunjukan. Sebaiknya, seperti halnya, di lokasi makam yang pertama, Anda memberikan kontribusi untuk biaya perawatan.
+
+[번역문: english]
+Next, if we continue walking down the alley for about 100 meters, we will encounter an archway leading into the courtyard of the Sigale-Gale performance area. Here, you will also find three well-preserved traditional houses. You can still see the intricate details of the ornaments on the front walls of these three houses, each connected to the living quarters that have been built nearby.
+The Sigale-Gale performance will take place if you wish to see it. There is a designated area for you and your group to relax and enjoy the show. Then you can dance together as well. The local performance organizers have provided several ulos (traditional sarong fabrics) for you and your group to wear while dancing. The performance will feature three songs. However, to enjoy the show, you will need to pay Rp. 60,000 for a single performance. As with the first cemetery location, it is advisable to contribute to maintenance costs.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호 'Rp.'는 숫자 앞에 위치해야 합니다. 정책에 따라 통화 기호는 숫자 앞에 와야 합니다.

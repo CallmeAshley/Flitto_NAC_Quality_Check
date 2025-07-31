@@ -1,0 +1,25 @@
+[원문: english]
+I would like to remind you of the upcoming events we have planned this semester which we’d love to see you at!
+Guided Walking Tour of Leeds, Wednesday 30 October 2024 and Friday 15 November 2024, 12:30-14:30
+Led by Rachael Unsworth of Leeds City Walking Tours, this 2-hour walking tour will take you through Leeds via the civic quarter & old town centre to the waterfront and back to campus.
+Places are free but limited to 25 people per tour. If you would like to attend, please book your place here. One ticket permitted per student, please do not book more than one ticket.
+York and York Christmas Market, Wednesday 27 November 2024, 12:00-21:00
+Places cost £5 and include return travel by coach.
+Only 16 places are left, book your place here if you would like to attend. One ticket permitted per student, please do not book more than one ticket.
+
+[번역문: vietnamese]
+Tôi muốn nhắc bạn về các sự kiện sắp tới mà chúng tôi đã lên kế hoạch trong học kỳ này và rất mong được gặp bạn tham gia!
+Chuyến tham quan đi bộ có hướng dẫn tại Leeds Thứ Tư, 2024/10/30 và Thứ Sáu, 2024/11/15, 12:30-14:30`
+Được dẫn dắt bởi Rachael Unsworth từ Leeds City Walking Tours, chuyến tham quan kéo dài 2 giờ sẽ đưa bạn khám phá Leeds qua khu vực hành chính, trung tâm phố cổ đến bờ sông và quay lại khuôn viên trường.
+Chỗ tham gia miễn phí nhưng giới hạn 25 người mỗi tour. Nếu bạn muốn tham dự, vui lòng đặt chỗ tại đây. Mỗi sinh viên chỉ được phép đặt một vé, vui lòng không đặt hơn một vé.
+York và Chợ Giáng sinh York Thứ Tư, 2024/11/27, 12:00-21:00
+Chi phí tham gia là £5 và bao gồm vé khứ hồi bằng xe buýt.
+Hiện chỉ còn 16 chỗ trống, hãy đặt vé tại đây nếu bạn muốn tham dự. Mỗi sinh viên chỉ được phép đặt một vé, vui lòng không đặt hơn một vé.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "2024/10/30" 및 "2024/11/15" 형식으로 표기되어 있으며, 이는 정책에 따라 "thứ tư, ngày 30 tháng 10 năm 2024" 및 "thứ sáu, ngày 15 tháng 11 năm 2024"로 표기되어야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "On a modern vehicle, the ignition coil’s secondary circuit usually consists of the spark plug and secondary windings inside the coil-on-plug ignition coil. Meanwhile, the ignition coil’s primary circuit includes the primary windings inside of the coil-on-plug ignition coil, an engine RPM sensor (usually the crankshaft position sensor), the powertrain control module (PCM), and corresponding circuitry. The ignition switch supplies battery power to the primary circuit.\nIf the PCM detects a problem with the ignition coil “B” circuit, it will store code P2305 in memory.\nYou may also watch this video to understand how ignition coil works",
+    "trans": "최신 차량에서 점화 코일의 2차 회로는 일반적으로 점화 플러그와 코일 온 플러그 점화 코일 내부의 2차 권선으로 구성됩니다. 한편 점화 코일의 1차 회로에는 코일 온 플러그 점화 코일 내부의 1차 권선, 엔진 RPM 센서(보통 크랭크축 위치 센서), 파워트레인 제어 모듈(PCM) 및 그게 걸맞은 회로가 포함됩니다. 점화 스위치는 1차 회로에 배터리로 전원을 공급합니다.\nPCM이 “B” 회로 점화 코일에 문제를 감지하면 코드 P2305를 메모리에 저장할 것입니다.\n점화 코일의 작동 원리를 알아보려면 이 동영상을 시청해 주세요."
+}

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Self-describing nature of a database system:\n●A DBMS catalog stores the description of a particular database (e.g. data structures, types, and constraints)\n●The description is called meta-data.\n●This allows the DBMS software to work with different database applications.\n●Insulation between programs and data:\n●Called program-data independence.\n●Allows changing data structures and storage organization without having to change the DBMS access programs.\n●Support of multiple views of the data:\n●Each user may see a different view of the database, which describes only the data of interest to that user.",
+    "trans": "데이터베이스 시스템의 자체 설명적 특성:\n●DBMS 카탈로그는 특정 데이터베이스의 설명(예를 들어, 데이터 구조, 유형, 그리고 제약 조건)을 저장한다\n●설명은 메타 데이터라고 부른다.\n●이를 통해 DBMS 소프트웨어는 여러 데이터베이스 어플리케이션에서 작업할 수 있다.\n●프로그램 및 데이터 간의 절연:\n●프로그램-데이터 독립성이라고 불린다.\n●DBMS 접근 프로그램을 변경하지 않고도 데이터 구조 및 스토리지 구성을 변경할 수 있게 해준다.\n●데이터의 멀티 뷰 지원:\n●각 이용자는 이용자에게 관심 있는 데이터만 설명하는 데이터베이스의 여러 뷰를 볼 수 있다."
+}

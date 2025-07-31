@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "If the customer will become a repeat customer, the cash inflow changes. The cash inflow is now\none minus the default probability, times the sales price minus the variable cost. We need to use\nthe sales price minus the variable cost since we will have to build another engine for the customer\nin one period. Additionally, this cash inflow is now a perpetuity, so the NPV under these\nassumptions is:",
+    "trans": "고객이 재구매 고객이 될 경우, 현금 유입이 변경된다. 이제 현금 유입은\n일 빼기 채무 불 이행 확률, 곱하기 판매가격 빼기 변동 비용이다. 우리는 사용해야 한다\n판매가격 빼기 변동 비용을 고객을 위해 또 다른 엔진을 제작해야 하기 때문이다\n한 기간에. 추가적으로, 이 현금 유입은 이제 영구 흐름이다, 그래서 순현재가치는\n이러한 가정하에서:"
+}

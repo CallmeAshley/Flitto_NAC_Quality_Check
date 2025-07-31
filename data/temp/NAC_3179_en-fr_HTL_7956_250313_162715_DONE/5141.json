@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Hi Alejandra,\nDue to a problem with the payment method you provided, we couldn’t charge your account for your order ([redacted_id]).\nWe may attempt to reprocess payment for your order in a few days using the payment method you provided.\nPlease go to the following page to make sure that the payment information for your account is correct, and so that we have a valid payment method for your future orders:\n[redacted_url] orderID=[redacted_id]",
+    "trans": "Bonjour Alejandra,\nEn raison d'un problème avec la méthode de paiement que vous avez fournie, nous n'avons pas pu effectuer le paiement de votre commande ([redacted_id]).\nIl est possible que nous essayions de traiter à nouveau le paiement de votre commande dans quelques jours en utilisant la méthode de paiement que vous avez fournie.\nVeuillez vous rendre sur la page suivante pour vous assurer que les informations de paiement de votre compte sont correctes, et afin que nous ayons une méthode de paiement valide pour vos futures commandes :\n[redacted_url] orderID=[redacted_id]"
+}

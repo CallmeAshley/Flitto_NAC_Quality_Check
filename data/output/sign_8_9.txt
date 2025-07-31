@@ -1,0 +1,39 @@
+[원문: english]
+1) Go to our website at http://www.airandenergyservices.com
+2) Choose the Make an Appointment tab
+3) Click on the Schedule and Appointment button in the middle of the page
+4) Choose the Vita building and follow the prompts (make sure that your unit number is in the customer address field)
+5) If you have more than one thermostat, make sure you block off two consecutive time slots
+Cost:$199 for (1) thermostat and $59 for each additional thermostat
+Fall residential maintenance services will include:
+Start and test heat mode and check all safety circuits and devices involving heart only
+Evaporator coils, pans, drains are not serviced in the fall
+Replace the air filter with 40% MERV 8
+Check controls
+Check electrical connections
+Check discharge air temperature
+Check for refrigerant and oil leaks, if involved
+
+[번역문: turkish]
+1)Web sitemize gidin: http://www.airandenergyservices.com
+2)Randevu Almak sekmesine tıklayın
+3)Sayfanın ortasında yer alan "Randevu Planla" butonuna tıklayın
+4)Vita binasını seçin ve yönergeleri takip edin (lütfen müşteri adresi alanına birim numaranızın ekli olduğundan emin olun)
+5)Birden fazla termostatınız varsa, iki ardışık zaman dilimi ayırdığınızdan emin olun
+Fiyat: (1) termostat için 199$ ve her ek termostat için 59$
+Sonbahar konut bakımı hizmetleri şunları içerecektir:
+Isıtma modunu başlatın ve test edin, yalnızca ısıtma ile ilgili tüm güvenlik devrelerini ve cihazlarını kontrol edin
+Evaporatör bobinleri, paneller, drenajlar sonbaharda bakım yapılmaz
+Hava filtresini 40% MERV 8 ile değiştirin
+Kontrolleri kontrol edin
+Elektrik bağlantılarını kontrol edin
+Çıkış hava sıcaklığını kontrol edin
+Soğutucu ve yağ sızıntılarını kontrol edin, varsa
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호는 숫자 앞에 와야 하며, 숫자와 기호 사이에 공백이 없어야 합니다. 예: $199 대신 199$ 사용.

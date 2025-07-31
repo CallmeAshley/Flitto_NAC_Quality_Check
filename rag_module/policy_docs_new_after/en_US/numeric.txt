@@ -1,0 +1,36 @@
+[Numeric Format]
+
+Definition:  
+American English uses Western-style numeric formatting:  
+- A comma (`,`) is used every three digits in the integer part.  
+- A dot (`.`) is used to represent decimal points.  
+- Commas must not appear after the decimal point.  
+
+Examples:  
+- 1,000  
+- 12,345.67  
+- Invalid: 12,345.678,900  
+- Invalid: 1.000,25 (wrong decimal separator)  
+- Invalid: 1000 (missing thousand separator)
+
+Evaluation Criteria:  
+- Comma (`,`) grouping is used only in the integer part.  
+- Decimal points must be written using a dot (`.`).  
+- No space appears between digits and separators.  
+- Do not use commas in decimal places.  
+- Accept numbers with any decimal precision if separators are applied correctly.
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

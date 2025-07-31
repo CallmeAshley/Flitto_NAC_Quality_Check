@@ -1,0 +1,25 @@
+[원문: english]
+Our lightest, waterproof ski/snowboard jacket developed for ski touring.
+ This weather-protective shell jacket is made for ski touring but works excellent for alpine activities ranging from trekking to lightweight mountaineering.
+ It’s made in premium GORE-TEX® fabric, and we use this because it’s the world-leading quality for durable waterproofness (28,000mm), breathability (RET less than 4), and total windproofness.
+ The jacket blends two GORE-TEX technologies: The main fabric is a recycled 30D GORE-TEX© Active nylon fabric to provide maximum protection and breathability during high intensity. It’s sturdy and durable but considerably lower in weight than our other ski shell jackets.
+ The second material is a recycled 3-layer 30D rip-stop GORE-TEX® C-knit recycled nylon, which is used on shoulders, sleeves, and the collar to increase the range of movement and durability without compromising on protection.
+ Key features include: A helmet-compatible storm hood with one-hand adjustment, asymmetric cuffs with velcro adjustment, chest ventilation with YKK water-resistant zipper and mesh, internal chest pocket, laminated stretch woven hand gaiter, reinforced shoulders, two vertical chest pockets with YKK water-resistant zippers.
+ The jacket has a refined technical fit with a Y-shaped cut and articulated arms, perfect for alpine movement. It's slightly longer in the back for extra protection.
+
+[번역문: korean]
+스키 투어링을 위해 개발된 우리의 가장 가벼운 방수 스키/스노보드 자켓.
+ 이 날씨 보호용 쉘 자켓은 스키 투어링을 위해 만들어졌지만, 트레킹에서 가벼운 등반에 이르기까지 알파인 활동에 적합합니다.
+ 이 자켓은 프리미엄 고어텍스 원단으로 제작되었으며, 내구성 있는 방수성(28,000mm), 통기성(RET 4 미만), 그리고 완전한 방풍 성능에서 세계 최고 품질을 보이기 때문에 이를 사용합니다.
+ 이 자켓은 두 가지 고어텍스 기술을 결합하여 제작되었습니다: 주요 원단은 재활용된 30D 고어텍스 액티브 나일론 원단으로, 고강도 활동 중 최대 보호력과 통기성을 제공합니다. 튼튼하고 내구성이 있지만, 다른 스키 쉘 자켓보다 훨씬 가볍습니다.
+ 두 번째 소재는 재활용된 3층 30D 리프-스톱 고어텍스 C-니트 재활용 나일론으로, 어깨, 소매, 그리고 칼라 부분에 사용되어 보호력을 훼손하지 않으면서도 움직임의 범위와 내구성을 높여줍니다.
+ 주요 특징은 다음과 같습니다: 한 손으로 조정 가능한 헬멧 호환 스톰 후드, 벨크로 조정 가능한 비대칭 커프, YKK 방수 지퍼와 메쉬가 있는 가슴 통풍구, 내부 가슴 포켓, 라미네이티드 스트레치 직조 핸드 게이터, 강화된 어깨, YKK 방수 지퍼가 있는 두 개의 수직 가슴 포켓.
+ 이 자켓은 Y자 형태의 컷과 관절이 있는 팔꿈치로 알파인 활동에 완벽한 정밀한 기술적 핏을 제공합니다. 추가 보호를 위해 뒷부분이 약간 더 깁니다.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 예
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

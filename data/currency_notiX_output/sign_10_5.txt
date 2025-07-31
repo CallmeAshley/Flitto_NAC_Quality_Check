@@ -1,0 +1,25 @@
+[원문: english]
+Continue using your current credit card until you receive your new one.
+Confirm your new card by going to wellsfargo.com/confirmcard or calling 1-866-537-8424.
+Update your new card information with companies that charge your card or bill you automatically (some may already have it through account update services).
+On 01/31/2025, your Rewards Card will be deactivated, and transactions will no longer be approved even though your old card still has a valid expiration date.
+Your card features start on 10/22/2024
+Earn 1X points on purchases.1
+50% more value when you redeem points for airfare through Wells Fargo Rewards®. For example, 20,000 points is a $300 value toward airfare redemption or a $200 value toward cash redemption. Plus, there are no blackout dates, no advance booking, and no minimum stay requirements.2
+
+[번역문: polish]
+Kontynuuj korzystanie z obecnej karety kredytowej, dopóki nie otrzymasz nowej.
+Potwierdź swoją nową kartę, wchodząc na stronę wellsfargo.com/confirmcard lub dzwoniąc pod numer 1-866-537-8424.
+Zaktualizuj dane swojej nowej karty w firmach, które obciążają twoją kartę, lub wystawiają automatycznie rachunki (niektóre mogły już to zrobić za pomocą usług aktualizacji konta).
+31/01/2025 twoja karta Rewards zostanie zdezaktywowana i tranzakcje nie będą już więcej akceptowane, mimo tego, że twoja stara karta jeszcze nie straciła ważności.
+Funkcje twojej karty zaczną działać od 22/10/2024
+Zdobądź 1X punktów za zakupy.1
+Wartość większa o 50%, gdy wymienisz punkty na bilety lotnicze za pośrednictwem Wells Fargo Rewards®. Na przykład 20 000 punktów to wartość 300 USD na bilet lotniczy lub 200 USD w gotówce. Ponadto nie ma żadnych dni, w których oferta nie jest aktywna, wcześniejszej rezerwacji ani minimalnych wymagań dotyczących pobytu.2
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜는 "31/01/2025" 및 "22/10/2024"로 표기되었으나, 폴란드어 정책에 따라 "31 stycznia 2025" 및 "22 października 2024"와 같이 표기되어야 합니다.
+    - 숫자 표기 오류: "20 000"은 올바르게 표기되었습니다.
+    - 통화 표기 오류: "300 USD" 및 "200 USD"는 올바르게 표기되었습니다.

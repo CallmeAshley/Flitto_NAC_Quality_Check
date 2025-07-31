@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "YOUR SHIPMENT IS ON ITS WAY\nHello [redacted_name],\nYour DHL Express shipment with waybill number [redacted_info] from WORLD EDUCATION is on its way. The current estimated delivery is [redacted_info] by End of Day.\nTo authorize delivery without signature, or for other delivery options, click here.\nDELIVERY INFORMATION\nWaybill No.\n[redacted_info]\nDelivery Address\n[redacted_address]\nEstimated Delivery Date\n[redacted_info]\nDelivery Time\nby End of Day\nShipper's Reference\nN/A",
+    "trans": "VOTRE EXPÉDITION EST EN COURS\nSalut [nom_masqué]\nVotre envoi DHL Express avec le numéro de suivi [info_masquée] en provenance de WORLD EDUCATION est en cours d’acheminement. La livraison est actuellement estimée pour le [info_masquée] avant la fin de la journée.\nPour autoriser la livraison sans signature ou pour d'autres options de livraison, cliquez ici.\nINFORMATIONS DE LIVRAISON\n•Numéro de suivi :\n[Info_masquée]\n•Adresse de livraison :\n[Adresse_masquée ]\n•Date de livraison estimée :\n[Info_masquée]\n•Heure de livraison :\nAvant la fin de la journée\n•Référence de l'expéditeur :\nN/A"
+}

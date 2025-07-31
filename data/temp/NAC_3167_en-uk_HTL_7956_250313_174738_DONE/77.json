@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "Rage: Gain temporary Hit Points and bonuses to attack, damage, thrown weapon damage rolls and Will saving throws.\nFast Movement: Increased movement speed. Does not work if under heavy encumbrance or if wearing heavy armor.\nUncanny Dodge: Prevents character from being flat footed and negates loss of DEX bonus to AC if being attacked from Stealth.\nImproved Uncanny Dodge: Prevents Sneak Attack and Flanking.\nDanger Sense: Adds bonuses against Traps.\nDamage Reduction: Increases Damage Reduction against Weapons and Natural attacks.\nIndomitable Will: Adds +4 to Will saving throw against enchantment spells. Stacks with all other Will bonuses.",
+    "trans": "Лють: Отримайте тимчасові Бали та бонуси, щоб напасти, пошкодити, звитки метальної зброї та захисні кидки.\nШвидке переміщення: Збільшена швидкість руху. Не працює, якщо забагато амуніції.\nНадприродне ухиляння: Не дозволяє раптово застати персонажа та зводить до нуля втрату бонуса DEX у випадку прихованої атаки.\nПокращене надприродне ухиляння: Запобігає прихованому нападу та обходу з флангу.\nВідчуття небезпеки: Додає бонуси проти Капканів\nЗменшення шкоди: Збільшує зменшення пошкоджень від  зброї та природніх нападів.\nНепохитна воля: Додає +4 до волі, захищаючи від заклинань. Додається до всіх інших бонусів Волі."
+}

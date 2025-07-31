@@ -1,0 +1,13 @@
+[원문: english]
+For self-supervised speaker verification, the quality of pseudo labels decides the upper bound of the system due to the massive unreliable labels. In this work, we propose dynamic loss-gate and label correction (DLG-LC) to alleviate the performance degradation caused by unreliable estimated labels. In DLG, we adopt Gaussian Mixture Model (GMM) to dynamically model the loss distribution and use the estimated GMM to distinguish the reliable and unreliable labels automatically. Besides, to better utilize the unreliable data instead of dropping them directly, we correct the unreliable label with model predictions. Moreover, we apply the negative-pairs-free DINO framework in our experiments for further improvement. Compared to the best-known speaker verification system with self-supervised learning, our proposed DLG-LC converges faster and achieves 11.45%, 18.35% and 15.16% relative improvement on Vox-O, Vox-E and Vox-H trials of Voxceleb1 evaluation dataset.
+
+[번역문: ukrainian]
+Для самоконтрольованої верифікації динаміків якість псевдоміток визначає верхню межу продуктивності системи через велику кількість ненадійних міток. У цій роботі ми пропонуємо динамічну корекцію втрат і міток (DLG-LC), щоб зменшити погіршення продуктивності, спричинене ненадійними оціненими мітками. У DLG ми застосовуємо модель гауссової суміші (GMM) для динамічного моделювання розподілу втрат і використовуємо оцінену GMM для автоматичного розрізнення надійних і ненадійних міток. Крім того, для кращого використання ненадійних даних замість того, щоб відкидати їх безпосередньо, ми виправляємо ненадійні мітки за допомогою прогнозів моделі. Крім того, ми застосовуємо в наших експериментах фреймворк DINO без від'ємних пар для подальшого вдосконалення. Порівняно з найвідомішою системою верифікації дикторів із самонавчанням, запропонований нами DLG-LC збігається швидше і досягає 11.45%, 18.35% і 15.16% відносного покращення у випробуваннях Vox-O, Vox-E і Vox-H оціночного набору даних Voxceleb1.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 숫자 "11.45%", "18.35%", "15.16%"는 5자리 이상의 숫자가 아니므로 오류가 아님. 그러나, 5자리 이상의 숫자 "Voxceleb1" 데이터셋의 경우, "1 000 000"과 같은 형식으로 천 단위마다 공백을 사용해야 함.
+    - 통화 표기 오류: 없음

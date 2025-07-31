@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Hi [redacted_name] (Patient Number: [redacted_info]),\nWe've received your breast pump prescription and are processing your breast pump order for shipment!\nYour order will be shipped to:\n[redacted_address]\nIf you need to update your shipping address, please log inyour accountand update your address there. Please note, if your order has already had a shipping label printed, we are unable to change the address at that point.\nOnce your package is on its way, you will receive an email with tracking details. The average shipping time is 7-10 business days and packages may show \"pending status\" several times on their journey to you.\nIf you have any questions regarding this information, please feel free to reach out via the information below. Thank you!",
+    "trans": "안녕하세요 [redacted_name] (환자 번호: [redacted_info]),\n저희는 귀하의 유축기 처방전을 접수하였으며 현재 유축기 주문을 배송 준비 중입니다!\n귀하의 주문은 이 곳으로 배송될 예정입니다:\n[redacted_address]\n배송 주소를 변경해야 하는 경우, 계정에 로그인하여 주소를 업데이트해 주세요. 이미 배송 라벨이 출력된 경우, 그 이후로는 주소 변경이 불가능한 점을 반드시 참조해주세요.\n귀하의 패키지가 ㅂ라송되면, 배송 추적 정보가 포함된 이메일을 받게 됩니다. 평균 배송 소요 시간은 7-10 영업일이며 귀하께 배송되는 과정에서 제품이 \"보류 상태\"로 여러 번 표시될 수 있습니다.\n이 정보와 관련해 문의 사항이 있으시면, 아래 정보를 통해 언제든지 문의해 주세요. 감사합니다!"
+}

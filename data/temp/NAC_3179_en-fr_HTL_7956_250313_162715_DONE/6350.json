@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "is a set of guidelines implemented to ensure the integrity, confidentiality, and availability of an operating system (OS).\nThe following are some of the key elements of an Operating System Security Policy:\nAccess control\nPatch management\nMonitoring and auditing\nConfiguration management\nIncident response\nPhysical security\nData backup and recovery\nImplementation of an Operating System Security Policy ensures that the operating system remains secure, reducing the risk of unauthorized access and minimizing the potential impact of breaches on the organization.",
+    "trans": "Ces directives ont été établies pour assurer l'intégrité, la confidentialité et la disponibilité d'un système d'exploitation (SE).\nLes composants essentiels d'une politique de sécurité du système d'exploitation incluent :\nContrôle d'accès\nGestion des correctifs\nSurveillance et audit\nGestion de la configuration\nRéaction aux incidents\nSécurité physique\nSauvegarde et récupération des données\nLa mise en œuvre d'une politique de sécurité du système d'exploitation garantit que le système d'exploitation reste sécurisé, réduisant ainsi le risque d'accès non autorisé et minimisant l'impact potentiel des violations sur l'organisation."
+}

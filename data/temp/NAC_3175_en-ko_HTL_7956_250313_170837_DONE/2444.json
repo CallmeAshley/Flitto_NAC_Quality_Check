@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Listing all files in an AWS Bucket with a specific Prefix\nUsing Terminal or Command Prompt we can get a list of all the prefixes in use at the top level of a specific bucket.\nOpen Terminal on MAC or Command Prompt on Windows.\nLogin to your AWS profile and open the session.\nType “aws s3 ls --profile [ADD YOU PROFILE NAME] s3://zoo-example-bucket”.\nFor example, if we search the zoo-disney bucket by typing “aws s3 ls --profile zoo-it s3://zoo-disney” it will show us the following results:\n~ % aws s3 ls --profile zoo-it s3://zoo-disney\n_FINAL_DELIVERY/\n_SOURCE/",
+    "trans": "특정 접두사가 있는 AWS 버킷의 모든 파일 나열\n터미널 또는 명령 프롬프트를 사용하면 특정 버킷의 최상위 수준에서 사용 중인 모든 접두사 목록을 얻을 수 있습니다.\nMAC에서 터미널을 열거나 윈도우에서 명령 프롬프트를 엽니다.\nAWS 프로필에 로그인하고 세션을 엽니다.\n\"aws s3 ls --profile [프로필 이름 추가] s3://zoo-example-bucket\"을 입력합니다.\n예를 들어, \"aws s3 ls --profile zoo-it s3://zoo-disney\"를 입력하여 동물원-디즈니 버킷을 검색하면 다음과 같은 결과가 나타납니다:\n~ % aws s3 ls --profile zoo-it s3://zoo-disney\n_최종_배송/\n_출처/"
+}

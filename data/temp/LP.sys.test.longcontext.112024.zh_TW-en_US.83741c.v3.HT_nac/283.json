@@ -1,0 +1,6 @@
+{
+    "source": "zh_TW",
+    "target": "en_US",
+    "text": "廠商會加上一些LED或功能，也是因為消費者或提高價位.... 所以選用最單純的電容構造是最安全，內部電容耐壓值只有16V，真的要考慮一下(電解電容誤差值是20%，電壓或容量都是屬於誤差範圍)，建議至少25V！ 更佳是35V以上，減低因耐壓不足絕緣層被擊穿造成短路(瞬間放電，例如發動馬達啟動瞬間或拆下造成短路時會發生)，所以不是貴就一定好，沒把握寧可不裝，避免付出更高代價...",
+    "trans": "Manufacturers will add some LEDs or functions because of either the consumers or for raising the price.... So it is safest to choose the simplest capacitor structure. The internal capacitor withstand voltage value is only 16V, which really needs to be considered (the error value of electrolytic capacitor is 20%, and the voltage or capacity are all within the error range). It is recommended to be at least 25V! 35V or above would be even better, to reduce the possibility of short circuit caused by insulation breakdown due to insufficient withstand voltage (it is possible to have instantaneous discharge, such as when the motor is started or removed, causing a short circuit). So something expensive is not necessarily good. If you are not certain, it is better not to install it, to avoid paying a higher price..."
+}

@@ -1,0 +1,27 @@
+[원문: english]
+Notice ID: 222258347816
+Title: DRAGON BALL: SPARKING! ZERO - PC
+Protocol: BitTorrent
+File Name: Dragon Ball Sparking ZERO [DODI Repack]
+File Size: 20644608485
+Timestamp: 10-15-2024 23:38:42 GMT
+Copyright infringement violates not only U.S. copyright law, it also violates the relevant agreements, terms of service and acceptable use policies between Verizon and its customers. You must take all measures to protect your account from future violations. Failure to implement these measures may subject your Service to termination by Verizon and may result in possible legal action against you by the copyright owner.
+Protecting Your Privacy: The copyright owner has not asked Verizon to identify you, and Verizon will NOT provide your identity without a lawful subpoena. However, if the copyright owner does issue a lawful subpoena that identifies your account as allegedly infringing its copyright rights, Verizon will be legally required to provide your account information to the copyright owner.
+
+[번역문: turkish]
+Bildirim Kimliği: 222258347816
+Başlık: DRAGON BALL: SPARKING! ZERO - PC
+Protokol: BitTorrent
+Dosya Adı: Dragon Ball Sparking ZERO [DODI Yeniden Paketleme]
+Dosya Boyutu: 20644608485
+Timestamp: 10-15-2024 23:38:42 GMT
+Telif hakkı ihlali yalnızca ABD telif hakkı yasasını ihlal etmekle kalmaz, aynı zamanda Verizon ile müşterileri arasındaki ilgili anlaşmaları, hizmet şartlarını ve kabul edilebilir kullanım politikalarını da ihlal eder. Hesabınızı gelecekteki ihlallerden korumak için tüm önlemleri almanız gerekmektedir. Bu önlemleri uygulamamanız, Verizon tarafından hizmetinizin sonlandırılmasına ve telif hakkı sahibinin size karşı olası yasal işlemlerle karşılaşmanıza neden olabilir.
+Özelliğinizi Koruma: Telif hakkı sahibi, Verizon'dan sizi tanımlamasını istememiştir ve Verizon, yasal bir celp emri olmadan kimliğinizi sağlamayacaktır. Ancak, eğer telif hakkı sahibi, hesabınızı iddia edilen telif hakkı ihlali olarak tanımlayan yasal bir celp emri verirse, Verizon, yasal olarak hesap bilgilerinizi telif hakkı sahibine sağlamak zorunda kalacaktır.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜 형식이 영어 형식(월-일-연도)으로 되어 있으며, 터키어 형식(일 월 연도)으로 수정해야 합니다.
+    - 숫자 표기 오류: 숫자에 천 단위 구분자가 포함되어 있지 않습니다. 예를 들어, "20.644.608.485"로 수정해야 합니다.
+    - 통화 표기 오류: 없음

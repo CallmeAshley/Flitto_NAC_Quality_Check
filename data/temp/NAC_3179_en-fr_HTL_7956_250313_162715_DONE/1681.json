@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Your reservation has been cancelled\nDear [redacted_name],\nYour reservation number [redacted_number] with [redacted_info] has been cancelled.\nYour Cancellation Confirmation code is [redacted_info].\nWe hope that we can welcome you to [redacted_info] at a future date. We would be delighted to assist you with any future bookings or queries you may have. Our contact details arereservations@strandpalacehotel.co.uk or\ncall +44 (0)20 7379 4737\nBest Regards, Strand Palac",
+    "trans": "Votre réservation a été annulée\nCher [redacted_name],\nVotre réservation numéro [numéro redacted] avec [info redacted] a été annulée.\nVotre code de confirmation d'annulation est [info redacted].\nNous espérons pouvoir vous accueillir à [info redacted] à une date ultérieure. Nous serions ravis de vous aider avec toute future réservation ou question que vous pourriez avoir. Nos coordonnées sont reservations@strandpalacehotel.co.uk ou\nappelez le +44 (0)20 7379 4737\nMeilleures salutations, Strand Palace"
+}

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Understand what these metrics mean\nItem mistakes\nThese are any shopping-related issues a customer reports. This includes missing, damaged, or incorrect items.\nFulfillment rate\nThis measures how many of the requested items you found or successfully replaced. Out-of-stock items with the note “you can remove this item” are excluded from this calculation. Let’s say an order includes 10 items. You find 8, and are able to successfully replace 2 that were out-of-stock. The Fulfillment rate would be 100%: (8 items + 2 replacements) ÷ 10 items x 100.",
+    "trans": "이 지표들의 의미 이해하기\n상품 실수\n이는 고객이 보고하는 모든 쇼핑 관련 문제를 의미합니다. 여기에는 누락된 상품, 손상된 상품, 또는 잘못된 상품이 포함됩니다.\n이행률\n이는 요청된 상품 중 얼마나 많은 상품을 찾았거나 성공적으로 대체했는지를 측정하는 지표입니다. \"이 상품을 제외할 수 있습니다\"라는 메모가 있는 품절 상품은 이 계산에서 제외됩니다. 예를 들어 한 주문에 10개의 상품이 포함되어 있다고 해봅시다. 그 중 8개를 찾았고, 품절된 2개를 성공적으로 대체할 수 있습니다. 이행률은 100퍼센트가 됩니다: (8개 상품 + 2개 대체) ÷ 10개 상품 x 100."
+}

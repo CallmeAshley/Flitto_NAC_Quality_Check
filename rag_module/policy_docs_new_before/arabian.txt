@@ -1,0 +1,37 @@
+[Locale: ar]
+
+1. 숫자 표기 (Numeric Format)
+- Decimal separator: '٫' (Arabic decimal separator)
+- Grouping separator: '٬' (Arabic thousands separator)
+- Example: ١٬٢٣٤٫٥٦
+- 설명: 소수점은 아랍어 소수 구분자(٫), 천 단위 구분은 아랍어 쉼표(٬)를 사용합니다.
+
+2. 화폐 표기 (Currency Format)
+
+- Symbol format:
+  • Pattern: "#,##0.00 ¤"
+  • 예시: "١٬٢٣٤٫٥٦ د.إ"
+  • 설명: 통화 기호(د.إ)는 숫자 뒤에 공백(U+00A0)과 함께 붙습니다.
+
+- ISO Code format:
+  • Pattern: "#,##0.00 ¤¤"
+  • 예시: "١٬٢٣٤٫٥٦ AED"
+  • 설명: 통화 코드(AED)는 숫자 뒤에 공백(U+00A0)과 함께 표기됩니다.
+
+3. 날짜 및 요일 표기 (Date Format)
+
+- Full: "الاثنين، ٢٨ يوليو ٢٠٢٥ م"
+- Long: "٢٨ يوليو ٢٠٢٥ م"
+- Medium: "٢٨‏/٠٧‏/٢٠٢٥"
+- Short: "٢٨‏/٧‏/٢٥"
+
+- 날짜 순서 (Order): **Day / Month / Year**
+- 요일 위치: Full 포맷에서는 날짜 앞에 요일을 명시함
+
+4. 시간 표기 (Time Format)
+
+- Full: "٢:٣٠:٤٥ ص توقيت الخليج الرسمي"
+- Medium: "٢:٣٠:٤٥ ص"
+- Short: "٢:٣٠ ص"
+
+- 설명: 12시간제를 사용하며, Full 포맷에서는 타임존(예: توقيت الخليج الرسمي)을 포함합니다. 오전은 ‘ص’, 오후는 ‘م’으로 표기됩니다.

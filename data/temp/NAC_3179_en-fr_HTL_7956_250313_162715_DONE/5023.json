@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "An object starts its motion at x = 10m. After 5 seconds, it's at -15 m. It then\nremains stationary for 2 seconds. Finally, it moves for 4 seconds, reaching the\nposition 25m.\na) Plot a position-time graph.\nb) Find the equation of the line for each movement.\nc) Determine the position when the time is 3s.\nd) Determine the position when the time is 9s.",
+    "trans": "Un objet commence son mouvement à x = 10 m. Après 5 secondes, il se trouve à -15 m. Ensuite, il\nreste immobile pendant 2 secondes. Enfin, il se déplace pendant 4 secondes, atteignant la\nposition 25 m.\na) Tracez un graphique position-temps.\nb) Trouvez l'équation de la ligne pour chaque mouvement.\nc) Déterminez la position lorsque le temps est de 3 secondes.\nd) Déterminez la position lorsque le temps est de 9 secondes."
+}

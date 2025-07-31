@@ -1,0 +1,39 @@
+[원문: english]
+UC Health:Jungsun, an earlier visit is available:
+Existing visit:
+12/10/2024 at 9:15 AM
+[redacted_name], PT
+7675 Wellness Way, Suite 101
+West Chester, OH 45069-2509
+New visit:
+10/21/2024 at 8:30 AM
+JAMILA L THOMASON, PT
+7675 Wellness Way, Suite 101
+West Chester, OH 45069-2509
+Offer expires 10/18/2024 at 7:05 AM.
+Reply ACCEPT to reschedule, DECLINE to keep the existing visit, or REMOVE to get off the wait list for this visit.
+Reply STOP to opt-out
+
+[번역문: ukrainian]
+UC Health: Джунгсун, можливий більш ранній візит:
+Існуючий візит:
+2024.10.12 о 9:15
+[redacted_name], фізіотерапевт
+7675 Велнес Вей, офіс 101
+Вест Честер, штат Огайо, 45069-2509
+Новий візит:
+2024.10.21 о 8:30
+ДЖАМІЛА Л ТОМАСОН, фізіотерапевт
+7675 Велнес Вей, офіс 101
+Вест Честер, штат Огайо, 45069-2509
+Термін дії пропозиції закінчується 2024.10.18 о 7:05.
+Дайте відповідь ПРИЙНЯТИ, щоб перенести візит, ВІДХИЛИТИ, щоб зберегти наявний візит, або ВИДАЛИТИ, щоб виключити цей візит зі списку очікування.
+Дайте відповідь СТОП, щоб відмовитися
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜 형식이 "년.월.일"로 되어 있으며, 정책에 따라 "일 + 월 + 년" 순서로 표기되어야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

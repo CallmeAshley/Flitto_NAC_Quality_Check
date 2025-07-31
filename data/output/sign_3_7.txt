@@ -1,0 +1,17 @@
+[원문: english]
+That was inconvenient, most of all, for Kamala Harris’ campaign, which had not replied to the network and was seriously considering accepting the invitation. But while Trump denied Fox in the moment, that role reversal was a sign of the network’s unexpected strength in 2024.
+Fox — trapped in the declining cable business, reeling from massive 2020 defamation lawsuits, and despised by American Democrats — has despite it all emerged as a preeminent broadcaster in the final stretch of the presidential campaign. The network has continued to top cable news ratings, averaging 1,571,000 total-day viewers and 2,641,000 primetime viewers last quarter, which the network boasts surpassed ratings for traditional broadcasters ABC and CBS. The top 13 cable news shows among the key 25-54 age group were all on Fox.
+And
+
+[번역문: ukrainian]
+Це було незручно насамперед для кампанії Камали Гарріс, яка не відповідала у мережі і всерйоз розглядала можливість прийняти запрошення. Але хоча Трамп у той момент відмовив Fox, ця зміна ролі стала ознакою несподіваної сили мережі у 2024 році.
+Fox, який опинився в пастці занепаду кабельного бізнесу, постраждав від масових судових позовів за наклеп у 2020 році та який зневажався американськими демократами, незважаючи на все це, став провідною телерадіокомпанією на заключному етапі президентської кампанії. Мережа продовжує очолювати рейтинги кабельних новин: у середньому 1,571,000 глядачів за день і 2, 641,000 глядачів у прайм-тайм у минулому кварталі, що, за словами мережі, перевершує рейтинги традиційних телерадіокомпаній ABC і CBS. Усі 13 найкращих кабельних новинних шоу серед ключової вікової групи 25-54 років були на Fox.
+Та
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 숫자 "2, 641,000"에서 천 단위 구분이 쉼표로 되어 있으며, "2 641 000"으로 수정해야 합니다.
+    - 통화 표기 오류: 없음

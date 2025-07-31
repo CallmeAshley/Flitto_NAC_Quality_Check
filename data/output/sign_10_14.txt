@@ -1,0 +1,45 @@
+[원문: english]
+[redacted_name]
+[redacted_address]
+Policy Number [redacted_id]
+Cancellation Date (12:01 a.m.)
+10/17/24
+Mailing Date 10/03/2024
+You are hereby notified in accordance with the terms and conditions of your policy, and in accordance
+with applicable laws and regulations, that your insurance will cancel at the date and time shown above.
+Producer
+KASH INS AGY & SVCS INC
+1448 BUTTERFIELD RD
+MUNDELEIN, IL 60060
+(847) 641-6001
+Amount Due $166.60
+Reason(s) for cancellation: Non-Payment of premium by Insured: Premium and/or fees due on 10/17/24 in the amount of $166.60. This amount, and all other amounts due before the cancellation date, must be received prior to the cancellation date for the policy to be considered for reinstatement.
+Policy may be reinstated at the option of the Company, by remitting to the Company the amount owed shown above prior to the cancellation date. Reinstatement is effective only upon Company issuance of the notice of reinstatement indicating date of reinstatement.
+All funds received from you will be applied to your account. In the event of cancellation, any return premium due you will be refunded. Without liability insurance, you may be in violation of state law. For further assistance, please contact your producer.
+
+[번역문: polish]
+[imię_usunięte]
+[adres_usunięty]
+Numer polityki [numer_usunięty]]
+Data anulowania (12:01)
+10/17/24
+Data wysłania 10/03/2024
+Niniejszym powiadamiamy, zgodnie z warunkami i zasadami korzystania twojej polityki, oraz zgodnie
+z obowiązującymi prawami i przepisami, że twoje ubezpiecznenie zostanie anulowane w dniu i o godzinie wskazanej powyżej.
+Producent
+KASH INS AGY & SVCS INC
+1448 BUTTERFIELD RD
+MUNDELEIN, IL 60060
+(847) 641-6001
+Kwota do zapłaty 166,60 USD
+Powód(y) anulowania: Niezapłacenie składki przez Ubezpieczonego: Składka i/lub opłaty należne na dzień 10/17/2024 w kwocie 166.60 USD. Ta kwota i wszystkie inne kwoty należne przed datą anulowania muszą zostać otrzymane przed datą anulowania, aby polisa mogła zostać rozpatrzona pod kątem przywrócenia.
+Polisa może zostać przywrócona według uznania Firmy, poprzez przekazanie Firmie kwoty należnej wskazanej powyżej przed datą anulowania. Przywrócenie jest skuteczne tylko po wydaniu przez Firmę zawiadomienia o przywróceniu, wskazującego datę przywrócenia.
+Wszystkie otrzymane od ciebie środki zostaną zaksięgowane na twoim koncie. W przypadku anulowania, każda należna ci składka zwrotna zostanie zwrócona. Bez ubezpieczenia OC możesz naruszać prawo stanowe. Aby uzyskać dalszą pomoc, skontaktuj się ze swoim producentem.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜 형식이 영어 형식(월/일/연도)으로 되어 있으며, 폴란드어 형식(일/월/연도)으로 수정되어야 합니다. 예: 10/17/24 → 17 października 2024
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호가 숫자 뒤에 위치해야 하며, 현재는 숫자 앞에 위치하고 있습니다. 예: 166,60 USD → USD166,60

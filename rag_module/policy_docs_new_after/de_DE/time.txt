@@ -1,0 +1,27 @@
+[Time Format]
+
+Definition:  
+German uses the **24-hour clock** in both spoken and written contexts.  
+Colons (`:`) are used to separate time units.  
+AM/PM is not used.  
+Time zones should not be included unless explicitly present in the original.
+
+Examples:  
+- 14:30  
+- 14:30:45
+
+Evaluation Criteria:  
+- Use colons between hours, minutes, and seconds.  
+- Do not use AM/PM.  
+- Do not include time zone names unless explicitly required.
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

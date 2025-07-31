@@ -1,0 +1,17 @@
+[원문: arabic]
+أهمية البنية الماليّة
+حين بدأت المصارف اللبنانية في وضع حد للسّحوبات بالدولار الأمريكيّ في تشرين الأول 2019 وفرض ضوابط غير رسميّة على رؤوس الأموال، قرّر العديد من المودّعين سحب أكبر قدر ممكن من الدولارات. ومنذ ذلك الحين، سحب اللبنانيون من المصارف ما يقدَّر بنحو 6 مليارات دولار نقدًا، وسعى الحزب إلى الاستفادة من هذا الاحتياطيّ النقديّ العام غير الرسميّ. ومن جملة الاستراتيجيات الّتي لجأ إليها، هي تشجيع قاعدته على استخدام مؤسساته الماليّة لتبادل أموالهم وإيداعها - لا سيما مؤسسة "القرض الحسن" التي صنفتها الولايات المتحدة على قائمة الإرهاب وأصبحت مركز الصيرفة الرئيسي لحزب الله والبديل عن المصارف لقاعدته.
+وبحكم أن هذه المؤسسة ليست مصرفًا أو مؤسسة ماليّة، لذا فهي لا تتلقى الأموال من المصرف المركزيّ أو من أي جهازٍ رسميّ آخر من أجهزة الدولة. ويسمح لها هذا الترتيب بوضع قواعدها الخاصة، وعقد صفقاتها الخاصة، إضافةً إلى تعزيز اقتصاد حزب الله ونظامه المالي. إلّا أن الأزمة الماليّة اللّبنانيّة الّتي تفاداها الحزب ورهطٌ من قاعدته الشعبيّة -نسبياً- منذ العام 2019 حتّى اليوم، قد يضطر الحزب إلى أن يعيشها اليوم مع الحرب الإسرائيليّة، بالضرب المنهجيّ لموارده الماليّة وأهمها "القرض الحسن" الذي يعمل كمصرفٍ كبير مع عشرات الفروع وماكينات السّحب الآليّ (ATM) الخاصّة به، والّتي أصبحت الآن "تحت الأنقاض"
+
+[번역문: english]
+The Importance of Financial Infrastructure
+When Lebanese banks began restricting dollar withdrawals in October 2019 and imposed unofficial capital controls, many depositors opted to withdraw as many Dollars as possible. Since then, Lebanese citizens have reportedly withdrawn approximately $6 billion in cash. The party sought to capitalize on this unregulated cash reserve by encouraging its supporters to use its financial institutions for transactions and deposits, particularly the "Al-Qard Al-Hassan" Association which was classified by the United States as a terrorist entity, has become Hezbollah's main banking hub and a substitute for traditional banks for its supporters.
+As this association is neither a bank nor a financial institution in the conventional sense, it does not receive funds from the central bank or any other official state body. This arrangement allows it to establish its own rules, negotiate its deals, and further strengthen Hezbollah's economy and financial system. However, the Lebanese financial crisis, which the party and segments of its popular base managed to largely avoid since 2019, may now catch up with it due to the Israeli war. The systematic targeting of its financial resources chief among them "Al-Qard Al-Hassan," which operates as a major bank with dozens of branches and ATMs, has become "under the rubble"
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: "Dollars"는 소문자로 표기되어야 하며, 통화 기호($)는 숫자 앞에 위치해야 합니다. "approximately $6 billion"은 올바르게 표기되었으나, "as many Dollars as possible"에서 "Dollars"는 "dollars"로 수정되어야 합니다.

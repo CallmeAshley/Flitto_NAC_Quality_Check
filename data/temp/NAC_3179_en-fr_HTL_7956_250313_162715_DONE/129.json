@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "1. A direct attack: is a hacker using a personal computer to break into a system.\n2. An indirect attack: is a hacker compromising a system and using it to attack other\nsystems, for example, as part of a botnet.\n3. intentional attack: A hacker attempting to break into an information system.\n4. Unintentional attack: A lightning strike that causes a fire in a building.",
+    "trans": "1. Une attaque directe : un hacker utilise un ordinateur personnel pour pénétrer dans un système.\n2. Une attaque indirecte : un hacker compromet un système et l’utilise pour attaquer d’autres systèmes\nsystèmes, par exemple, dans le cadre d'un botnet.\n3. Attaque intentionnelle : un hacker tentant de pénétrer dans un système d'information.\n4. Attaque non intentionnelle : une frappe de foudre qui provoque un incendie dans un bâtiment."
+}

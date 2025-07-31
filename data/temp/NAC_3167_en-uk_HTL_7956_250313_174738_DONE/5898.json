@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "The data presented here represent the first lipid and transcriptome analyses performed on PD and control SN as well as putamen samples from the same individuals. We conducted a transcriptome analysis by RNA-seq rather than microarrays in order to identify not only annotated transcripts, but also currently unannotated sequences for future re-evaluation (50/354 SN DEGs and 29/261 putamen DEGs represent not-annotated transcripts) [26]. Additionally, we analyzed our data together with publicly available transcriptome datasets to draw more robust conclusions about the relevance of gene functions and pathways for PD.",
+    "trans": "Представлені тут дані є першими аналізами ліпідів та транскриптомів, проведеними на зразках субстанції чорної речовини пацієнтів з PD та контрольних осіб, а також на зразках путамена від тих самих індивідуумів. Ми здійснили аналіз транскриптома за допомогою RNA-seq, а не мікроархівів, щоб виявити не лише анотовані транскрипти, але й наразі не анотовані послідовності для майбутньої переоцінки (50 із 354 DEGs SN та 29 із 261 DEGs путамена представляють не анотовані транскрипти) [26]. Додатково, ми проаналізували наші дані разом із публічно доступними наборами транскриптомних даних, щоб зробити більш обґрунтовані висновки щодо значущості генних функцій та шляхів для PD."
+}

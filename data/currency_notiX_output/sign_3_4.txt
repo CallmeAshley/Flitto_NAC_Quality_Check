@@ -1,0 +1,33 @@
+[원문: english]
+Hong Kong
+CNN
+—
+Chinese property shares tanked on Thursday, after measures announced by officials to bolster the flagging real estate market were deemed by investors and economists to be too piecemeal.
+After dismal economic data over the summer prompted concern that China may miss its 5% target growth rate, leader Xi Jinping finally decided to go ahead with a much-needed stimulus package, mostly focused on monetary measures, in the last week of September.
+Since then, economists have been expecting an additional stimulus package worth up to 10 trillion yuan ($1.4 trillion) to restore bullishness in the world’s second-largest economy. Thursday’s press conference by the Housing Ministry didn’t deliver on those hopes.
+“(The) housing supports announced today remain incremental in nature,” Larry Hu, chief China economist at Macquarie, told CNN. “They can help ease the financial distress for developers but may not be enough to stabilize the housing market.”
+Investors agreed, sending shares in China’s benchmark CSI300 real estate indexdown 5%, reversing days of gains. The Shanghai Composite index last traded flat while the Hang Seng index in Hong Kong was half a percent higher, giving up bigger gains from earlier in the day.
+During the press conference, theMinistry of Housing and Urban-Rural Developmentvowed to nearly double bank lending to designated property projects to four trillion yuan ($561 billion) by the end of 2024.
+In January, China unveiled a “whitelist” of construction projects, which allowed banks to provide them with loans to help get them to the finish line and into the hands of buyers.
+“(We’re) full of confidence in the recovery of real estate market, and we will focus on implementation in the future,” said Housing Minister Ni Hong
+
+[번역문: ukrainian]
+Гонконг
+CNN
+—
+В четвер акції китайських компаній з продажу нерухомості впали після того, як інвестори та економісти визнали заходи, які були оголошені офіційними особами для підтримки ослабленого ринку нерухомості, занадто фрагментарними.
+Після того, як невтішні економічні дані влітку викликали побоювання, що Китай може не досягти цільового рівня зростання в 5%, лідер країни Сі Цзіньпін в останній тиждень вересня вирішив ухвалити такий необхідний пакет стимулюючих заходів, в основному спрямованих на монетарні заходи.
+Відтоді економісти очікують на додатковий пакет стимулюючих заходів на суму до 10 трильйонів юанів (1,4 трильйона доларів), щоб відновити бичачі настрої в другій за величиною економіці світу. Прес-конференція Міністерства житлового будівництва, що відбулася в четвер, не виправдала цих надій.
+«Оголошені сьогодні заходи підтримки житлового будівництва мають поступовий характер», — сказав CNN Ларрі Ху, головний економіст по Китаю в Macquarie. «Вони можуть допомогти полегшити фінансове становище забудовників, але їх може бути недостатньо для стабілізації ринку житла».
+Інвестори погодилися з цим, унаслідок чого акції китайського базового індексу нерухомості CSI300 впали на 5 %, звівши нанівець багатоденне зростання. Індекс Shanghai Composite торгувався без змін, у той час як індекс Hang Seng у Гонконзі виріс на піввідсотка, поступившись значнішим досягненням, досягнутим раніше протягом дня.
+Під час пресконференції Міністерство житлового будівництва та міського і сільського розвитку пообіцяло майже вдвічі збільшити обсяг банківського кредитування проєктів з будівництва нерухомості до чотирьох трильйонів юанів (561 мільярд доларів) до кінця 2024 року.
+У січні Китай оприлюднив «білий список» будівельних проєктів, що дало змогу банкам надавати їм кредити, щоб допомогти довести їх до фінішу і передати в руки покупців.
+«Ми сповнені впевненості у відновленні ринку нерухомості, і в майбутньому ми зосередимося на його реалізації», — сказав міністр житлового будівництва Ні Хун.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "561 мільярд доларів"에서 숫자 "561"은 다섯 자리 이상이므로 "561 000 000 000"으로 표기해야 합니다.
+    - 통화 표기 오류: 없음

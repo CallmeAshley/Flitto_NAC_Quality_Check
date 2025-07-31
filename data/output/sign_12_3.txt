@@ -1,0 +1,19 @@
+[원문: arabic]
+مرة اخرى يعود التذبذب في سعر صرف الدولار الامريكي الى الواجهة وهذه المرة بفعل المضاربين وتجار الازمات والحروب مستغلين الحرب التي يشنها حاليا الكيان الصهيوني على شعبنا العربي في فلسطين ولبنان والأوضاع الامنية المربكة جراء ذلك.
+حيث يتراوح مستواه حاليا فوق الـ 1500 دينار في السوق السوداء،وان استمرار هذه الاشكالية بين فترة واخرى يمكن ان نعزيه الى عدة أسباب، منها قبل 2023 عدم السيطرة على تنظيم تمويل التجارة وعدم وجود سياسة تجارية واضحة، وتشابك السياسات وعدم وجود منهاج استيرادي سنوي للقطاع الخاص بالكميات وبالمبالغ، وانما الاستيرادات مفتوحة وبدون ضوابط للتحويلات الخارجية".
+اضافة الى "عدم السيطرة على الاستيرادات غير المشروعة والمنافذ الحدودية غير الرسمية، فضلاً عن وجود نحو 1200 محل صرافة منتشرة في جميع المحافظات غير مجازة من البنك المركزي تتعامل بالدولار النقدي ونحو 12000 منفذ لصرف رواتب المتقاعين والرعاية الاجتماعية تتعامل بتداوله بسعر الصرف في السوق السوداء".
+وأن "أغلب التجار الذين يحصلون على الدولار الاميركي بالسعر الرسمي من البنك المركزي، لكنهم يبيعون بضاعتهم في السوق المحلية بسعر السوق السوداء، وكذلك عدم وجود بنوك مراسلة عالمية سابقاً تتعامل مع مصارفنا ولم يتم فتح حسابات لها بعملات الدول التي لدينا تبادل تجاري واسع معها كالصين والهند وتركيا والامارات".
+
+[번역문: english]
+Once again, the fluctuation in the US dollar exchange rate has come to the forefront, this time fueled by speculators and crisis profiteers who are exploiting the war currently being waged by the Zionist entity against our Arab people in Palestine and Lebanon, and the resulting chaotic security situation.
+Currently, the exchange rate stands above 1,500 dinars on the black market. The continued occurrence of this issue from time to time can be attributed to several reasons, including, before 2023, the failure to regulate trade financing, the absence of a clear trade policy, the entanglement of policies, and the lack of an annual import plan for the private sector in terms of quantities and amounts. Instead, imports are open and without controls for foreign transfers."
+Additionally, "there is the issue of the lack of control over illegal imports and unofficial border crossings. Furthermore, there are around 1,200 unlicensed exchange shops spread across all governorates that deal in cash dollars and approximately 12,000 outlets for disbursing salaries for retirees and social welfare recipients that exchange currency at the black market rate."
+And "most traders who obtain US dollars at the official exchange rate from the central bank sell their goods in the local market at the black market rate. Additionally, there was previously a lack of global correspondent banks dealing with our banks, and no accounts were opened in the currencies of countries with which we have extensive trade, such as China, India, Turkey, and the UAE."
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 달러 기호($)가 숫자 앞에 위치해야 합니다. "1,500 dinars" 대신 "$1,500"로 표기해야 합니다.

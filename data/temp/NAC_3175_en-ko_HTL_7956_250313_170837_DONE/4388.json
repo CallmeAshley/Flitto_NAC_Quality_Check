@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Hello [redacted_name]\nAs all the other alarms the E23 will be closed when the situation is restored.\nIn this case the system detects a consecutive number of events in low flow rate and the assumption is that the suction is Out Of Product (OOP)\nHere a screenshot of the version of the instruction manual, that we are going to publish on the usual could link.",
+    "trans": "안녕하세요, [redacted_name]님\n다른 모든 경보와 마찬가지로, E23 경보는 상황이 정상으로 복구되면 자동으로 해제됩니다.\n이 경우, 시스템은 연속적인 저유량 이벤트를 감지하며, 이를 기반으로 흡입이 제품 부족 상태일 가능성이 있다고 판단합니다.\n여기에 사용 설명서 해당 버전의 스크린샷이 있으며, 이를 기존의 클라우드 링크에 게시할 예정입니다."
+}

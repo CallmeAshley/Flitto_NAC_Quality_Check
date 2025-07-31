@@ -1,0 +1,41 @@
+[원문: english]
+What are Clippy and GOLD Materials?
+ GOLD Materials
+ GOLD are points that can be used like money on Clip Studio Assets. Materials marked with “G” are GOLD Materials.
+ >More information: About GOLD
+ Clippy Materials
+ Clippy are points that you get from various activities in Clip Studio. Materials marked with “CP” are Clippy Materials.
+ >More information: About Clippy
+ What are Assets materials?
+ Assets materials are brushes, stamps, 3D materials, and other materials that can be used in your work.
+ There are currently over 200,000 materials available with around 200 new materials posted every day.
+ There are three types of materials: materials that can be obtained for free, materials that can be obtained with Clippy, and materials that can be purchased with GOLD.
+ Recommended Information
+ Try using Clip Studio Paint
+ Use acquired materials in Clip Studio Paint
+ Check out these materials if you don’t know where to start
+
+[번역문: portuguese]
+O que são Materiais Clippy e GOLD?
+ Materiais GOLD
+ GOLD são os pontos que podem ser utilizados como dinheiro nos Assets do Clip Studio. Os materiais marcados com "G" são materiais GOLD.
+ >Mais informações: Sobre GOLD
+ Materiais Clippy
+ Clippy são os pontos que você recebe por meio de várias atividade no Clip Studio. Os materiais marcados com "CP" são Materiais Clippy.
+ >Mais informações: Sobre Clippy
+ O que são materiais Assets?
+ Materiais Assets são pincéis, carimbos, materiais 3D, e outros materiais que podem ser utilizados no seu trabalho.
+ No momento existem mais de 200 000 materiais disponíveis com aproximadamente 200 novos materiais todos os dias.
+ Existem três tipos de materiais: materiais que podem ser obtidos gratuitamente, materiais que podem ser obtidos com Clippy, e materiais que podem ser comprados com GOLD.
+ Informação Recomendada
+ Tente utilizar a Tintura do Clip Studio
+ Use materiais obtidos no Clip Studio Paint
+ Confira esses materiais se você não sabe por onde começar
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 천 단위 구분자가 공백으로 되어 있어야 하는데, 마침표로 되어 있지 않음 (예: 200 000 대신 200.000)
+    - 통화 표기 오류: 없음

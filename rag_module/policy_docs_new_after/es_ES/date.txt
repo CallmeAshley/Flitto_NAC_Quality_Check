@@ -1,0 +1,34 @@
+[Date Format]
+
+Definition:  
+Spanish dates follow the **Day → Month → Year** order.  
+If a weekday is present, it appears **before the date**, followed by a comma.  
+The preposition “de” is used between components in long formats.  
+Slashes (`/`) are used in short formats.
+
+Examples:  
+- lunes, 28 de julio de 2025  
+- 28 de julio de 2025  
+- 28 jul 2025  
+- 28/7/25
+
+Evaluation Criteria:
+- Ensure date order is Day → Month → Year.
+- If a weekday is present, place it before the date with a comma.
+- Accept both long-form (with “de”) and short-form (with slashes) formats.
+- **Do not generate a weekday unless it is present in the source.**
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

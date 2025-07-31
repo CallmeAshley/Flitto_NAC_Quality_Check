@@ -1,0 +1,39 @@
+[원문: japanese]
+交通・アクセス
+イオンモール大垣のすぐ横/大垣駅～車で12分
+給与・待遇
+給与詳細
+基本給：時給 1100円 〜 1350円
+※土日祝手当て（時給：+50円）
+給与例
+日収7500円
+（時給1250円x6h）
+試用期間
+試用期間なし
+待遇・福利厚生
+【福利厚生】
+＊交通費規定支給（ガソリン代換算支給）
+
+[번역문: english]
+Transportation and Access
+Right next to Aeon Mall Ogaki / 12 minutes by car from Ogaki Station
+Salary and Benefits
+Salary Details
+Base pay: 円1,100 - 円1,350 per hour
+*Weekend and holiday bonus: (+50 Yen per hour)
+Typical salary example
+Daily wages: 円7,500
+(円1,250/hour x 6 hours)
+Trial Period
+No trial period
+Benefits and Welfare
+[Welfare Benefits]
+* Transportation expenses are paid according to regulations (converted to gasoline cost)
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 일본 엔화(円)는 숫자 뒤에 위치해야 합니다. 현재 번역에서는 "円1,100", "円1,350", "円7,500", "円1,250"로 잘못 표기되었습니다. 올바른 표기는 "1,100円", "1,350円", "7,500円", "1,250円"입니다.

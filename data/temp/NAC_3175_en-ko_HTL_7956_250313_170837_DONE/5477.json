@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "I agree with that. I tried the given parameters, but it didn't work. So I searched official docs. This is the docs of version 3.4.2 and I think all the versions of the functions have same parameter. The description of the HoughLines function is different from that given in ppt. When I used that function, it works. I couldn't find another type of the parameters yet. Did I miss something?",
+    "trans": "저도 동의합니다. 제시된 파라미터를 사용해 보았지만, 작동하지 않았습니다. 그래서 공식 문서를 찾아보았습니다.이 문서는 버전 3.4.2의 문서이며 저는 모든 버전에서 해당 함수의 파라미터가 동일하다고 생각합니다. 파워포인트에서 제시된 허프 변환 직선 검출 함수의 설명이 문서의 내용과 다릅니다. 제가 해당 함수를 사용해 본 결과, 정상적으로 작동했습니다. 아직 다른 형태의 파라미터는 찾지 못했습니다. 혹시 제가 놓친 부분이 있을까요?"
+}

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "At this point, the reader may wonder what has been gained by introduction of the La- place transform. The transform merely changes a function of t into a function of s. The functions of s look no simpler than those of t and, as in the case of A → A/s, may actu- ally be more complex. In the next few paragraphs, the motivation will become clear.",
+    "trans": "이 시점에서 독자는 라플라스 변환을 도입하여 무엇을 얻었는지 궁금해할 수 있습니다. 변환은 단지 t의 함수를 s의 함수로 변경하는 것 뿐입니다. s의 함수는 t의 함수보다 단순해 보이지 않으며 A → A/s의 경우처럼 실제로는 더 복잡할 수 있습니다. 다음 몇 단락에서 동기가 분명해질 것입니다."
+}

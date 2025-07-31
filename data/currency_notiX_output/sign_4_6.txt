@@ -1,0 +1,41 @@
+[원문: english]
+What are Clippy and GOLD Materials?
+GOLD Materials
+GOLD are points that can be used like money on Clip Studio Assets. Materials marked with “G” are GOLD Materials.
+>More information: About GOLD
+Clippy Materials
+Clippy are points that you get from various activities in Clip Studio. Materials marked with “CP” are Clippy Materials.
+>More information: About Clippy
+What are Assets materials?
+Assets materials are brushes, stamps, 3D materials, and other materials that can be used in your work.
+There are currently over 200,000 materials available with around 200 new materials posted every day.
+There are three types of materials: materials that can be obtained for free, materials that can be obtained with Clippy, and materials that can be purchased with GOLD.
+Recommended Information
+Try using Clip Studio Paint
+Use acquired materials in Clip Studio Paint
+Check out these materials if you don’t know where to start
+
+[번역문: spanish]
+¿Qué son los materiales Clippy y GOLD?
+Materiales GOLD
+Los GOLD son puntos que se pueden usar como dinero en Clip Studio Assets. Los materiales marcados con una «G» son materiales GOLD.
+>Más información: sobre GOLD
+Materiales Clippy
+Los Clippy son puntos que obtienes a través de diferentes actividades en Clip Studio. Los materiales marcados con las letras «CP» son materiales Clippy.
+>Más información: sobre Clippy
+¿Qué son los materiales Assets?
+Los materiales Assets son pinceles, sellos, materiales 3D y otros materiales que puedes usar en tu proyecto.
+Actualmente, hay más de 200 000 materiales disponibles y cada día se publican unos 200 nuevos.
+Hay tres tipos de materiales: materiales que puedes obtener de forma gratuita, materiales que se pueden adquirir con Clippy y materiales que se pueden comprar con GOLD.
+Información recomendada
+Prueba usar Clip Studio Paint
+Usa los materiales adquiridos en Clip Studio Paint
+Échale un vistazo a estos materiales si no sabes por dónde empezar
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 천 단위 구분자가 잘못 사용되었습니다. "200 000"과 "200"은 "200.000"과 "200"으로 표기되어야 합니다.
+    - 통화 표기 오류: 없음

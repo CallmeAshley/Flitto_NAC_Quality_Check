@@ -1,0 +1,19 @@
+[원문: thai]
+ทุกคนก็รู้ว่าบัตร LingOrm หายากมาก ซึ่งฉันซื้อตั๋วมาจากคนที่เอามาขายต่อในราคาที่แพงมาก พ่อแม่ของฉันมาหนานหนิงเพื่อดูหลิงออมกับฉัน โดยตั๋วทั้งหมด 6 ใบราคาประมาณ 34,000 หยวน (161,700 บาท ตกใบละประมาณ 26,950 บาท) ซึ่งนอกจากนี้ฉันยังซัพพอร์ตแฟนคลับหลิงออมด้วยการส่งตั๋วและอื่นๆให้ฟรีเกือบ 10,000 หยวน (47,600 บาท)
+พ่อแม่ของฉันและญาติๆอีก 7 คนมีแพลนจะไปฮ่องกงและมาเก๊า 1 เดือน แต่เพราะทริปหนานหนิง พวกเขาเลยปรับแผนของพวกเขาเพื่อมาหนานหนิงกับพ่อแม่ของฉัน ฉันเคยบอกพวกเขาตั้งแต่ช่วงอายุ 20 ว่าจะไม่แต่งงานหรือมีลูก ซึ่งพวกเขาก็ให้เสรีภาพกับฉันอย่างเต็มที่
+พ่อแม่ของฉันรู้ว่าหลิงออมถ่าย GL รู้จัก The Secret of Us และยังเคยดูฉากจูบด้วย ถึงแม้ว่าพวกเขาจะไม่ใช่ชิปเปอร์คู่จิ้น แต่พวกเขาก็ชอบทั้งหลิงและออม คิดว่าหลิงออมมารยาทดีสุภาพและเป็นเด็กน่ารัก พวกเขาคิดว่าหลิงสวยมาก และออมสดใสมากๆ
+ขอบคุณทุกคนที่ให้ความสนใจและคำชมต่างๆนะคะ! LingOrm Forever 🌹“
+
+[번역문: english]
+Everyone knows that LingOrm tickets are extremely rare. I bought them from a reseller at a very high price. My parents came to Nanning to watch LingOrm with me, and the total cost for 6 tickets was around 34,000 yuan (approximately 161,700 baht, or about 26,950 baht each). Additionally, I supported LingOrm's fans by sending them tickets and more worth nearly 10,000 yuan (47,600 baht).
+My parents and my 7 other relatives had planned to visit Hong Kong and Macau for a month. However, because of the Nanning trip, they adjusted the plan to join my parents at Nanning. I had told them in my 20s that I wouldn't get married or have a child, and they have respected my freedom.
+My parents are aware that LingOrm starred in GL, and they are also familiar with The Secret of Us, having seen the kissing scenes. Although they're not shippers of the pairing, they like both Ling and Orm. They think Ling and Orm are polite, well-mannered, and adorable. They think Ling is very attractive and Orm is incredibly cheerful.
+Thank you for your interest and kind compliments! LingOrm Forever. 🌹“
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호가 숫자 앞에 있어야 합니다. 예를 들어, "34,000 yuan" 대신 "¥34,000"으로 표기해야 합니다.

@@ -1,0 +1,88 @@
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not Vietnamese đồng (₫), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **position and spacing** should be adapted according to Vietnamese conventions.
+
+Expected currency symbols include:  
+₫, $, ¢, €, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₡, ₨, ₦, ₫, ₭, ₲, ₵, ₿, ¤, ƒ, ₮, ₪, ₴, ﷼, ₸, ₾
+
+Expected ISO currency codes include:  
+VND, USD, EUR, JPY, GBP, KRW, CNY, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 đô la`) or **code** (`400 USD`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+Currency symbols such as `₫`, `$`, `€` appear **after the number**, with a **space**.
+
+Examples:  
+- 1.234,56 ₫  
+- 850,00 $  
+- 10.000,00 €
+
+Evaluation Criteria:
+- Symbol must follow the number.
+- Use a space between number and symbol.
+- Follow [Numeric Format] rules for the number.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., VND, USD) are written **after the number**, with a **space**.
+
+Examples:  
+- 1.234,56 VND  
+- 850,00 USD  
+- 10.000,00 EUR
+
+Evaluation Criteria:
+- Code must follow the number.
+- Use a space between number and code.
+- Use uppercase ISO codes.
+- Follow [Numeric Format] rules for the number.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as “đồng”, “đô la”, “yên”, “won”, or “euro” appear **after the number**, with a **space**.
+
+Examples:  
+- 1.000 đồng  
+- 850 đô la  
+- 10.000 yên  
+- 500 won  
+- 300 euro
+
+Evaluation Criteria:
+- Currency name must follow the number with a space.
+- Use proper Vietnamese grammar and word form.
+- Do not generate currency names unless present in the source.
+- Follow [Numeric Format] rules for the number.
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

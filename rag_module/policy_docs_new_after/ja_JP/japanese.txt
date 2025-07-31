@@ -1,0 +1,135 @@
+[Locale: ja-JP]
+
+[Numeric Format]
+
+Definition:  
+Japanese uses Western-style numeric formatting:  
+- A **dot (`.`)** is used to represent decimal points.  
+- A **comma (`,`)** is used every three digits in the integer part for grouping.  
+- Grouping is not applied after the decimal point.
+
+Examples:  
+- 1,234.56  
+- 123,456,789.00  
+
+Evaluation Criteria:  
+- Use commas in the integer part only.  
+- Use a dot for decimal points.  
+- Do not apply grouping after the decimal.  
+- No space should appear between digits and punctuation.
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not the Japanese yen (円 or ￥), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adapted according to Japanese conventions.
+
+Expected currency symbols include:  
+￥, $, €, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
+
+Expected ISO currency codes include:  
+JPY, USD, EUR, KRW, CNY, GBP, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400ドル`) or **code** (`USD 400`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+The currency symbol (e.g., ￥) is placed **directly before the number** without any space.
+
+Examples:  
+- ￥1,234.56  
+- $850.00  
+- €2,000.00  
+
+Evaluation Criteria:  
+- The symbol must appear immediately before the number.  
+- No space should be inserted.  
+- Follow [Numeric Format] rules.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., JPY, USD) are also placed **before the number**, separated by a **space**.
+
+Examples:  
+- JPY 1,234.56  
+- USD 2,000.00  
+
+Evaluation Criteria:  
+- Use a space between code and number.  
+- Code must appear before the number.  
+- Follow the [Numeric Format] rules.  
+- Preserve the original code type.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as “円” (yen), “ドル” (dollar), or “ユーロ” (euro) are typically placed **after the number**, without a space.
+
+Examples:  
+- 1,000円  
+- 850ドル  
+- 10,000ユーロ  
+- 300ポンド  
+- 500ウォン  
+
+Evaluation Criteria:  
+- Currency names must follow the number with **no space**.  
+- The name must match the intended currency in Japanese.  
+- Follow the [Numeric Format] rules.  
+- Do not generate currency names unless explicitly in the source.
+
+---
+
+[Date Format]
+
+Definition:  
+Japanese dates follow the **Year → Month → Day** order.  
+If a weekday is present, it appears **after the full date**, without punctuation.  
+Slash (`/`) formats may also be used.
+
+Examples:  
+- 2025年7月28日月曜日  
+- 2025年7月28日  
+- 2025/07/28  
+- 25/07/28  
+
+Evaluation Criteria:  
+- Ensure date order is Year → Month → Day.  
+- If a weekday is present, it must follow the full date without punctuation.  
+- Accept both kanji-based and slash-based formats.  
+- **Do not generate a weekday unless it exists in the source.**
+
+---
+
+[Time Format]
+
+Definition:  
+Japanese uses the **24-hour clock** system.  
+- The full format uses **kanji units** for hours (時), minutes (分), and seconds (秒).  
+- Colons (`:`) are used in digital or abbreviated formats.  
+- Time zone names (e.g., 日本標準時) should not be included unless explicitly stated in the source.
+
+Examples:  
+- 14時30分45秒  
+- 14:30  
+- 14:30:45  
+
+Evaluation Criteria:  
+- Use either kanji-based or colon-based format depending on context.  
+- Do not use AM/PM.  
+- Do not include time zone unless present in the original.

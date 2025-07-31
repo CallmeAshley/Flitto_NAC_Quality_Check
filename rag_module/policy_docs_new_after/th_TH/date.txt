@@ -1,0 +1,33 @@
+[Date Format]
+
+Definition:  
+Thai dates follow **Day → Month → Year** order.  
+If a weekday is present, it uses the structure: “วัน” + weekday + “ที่” + date.  
+“ที่” is used to introduce the date after the weekday.
+
+Examples:  
+- วันจันทร์ที่ 28 กรกฎาคม 2025  
+- 28 กรกฎาคม 2025  
+- 28 ก.ค. 2025  
+- 28/7/25
+
+Evaluation Criteria:
+- Confirm order is Day → Month → Year.
+- Use “วัน + [weekday] + ที่” if a weekday is present.
+- Accept both long-form and abbreviated month names.
+- **Do not generate weekday unless present in the source.**
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

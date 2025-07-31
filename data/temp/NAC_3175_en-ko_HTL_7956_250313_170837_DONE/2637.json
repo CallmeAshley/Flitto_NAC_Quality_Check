@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Hi [redacted_name],\nYour $3.00 transfer to your Robinhood individual account from your bank account ending in ****6401 has been completed.\nPlease note that the final amount reflected in your buying power may be less than the full amount deposited if you have used any funds that were part of your Instant Deposit or if you had an account deficit.\nIf you have any questions, please refer to our Help Center or contact support.",
+    "trans": "안녕하세요 [redacted_name],\n****6401로 끝나는 귀하의 은행 계좌에서 로빈후드 개별 계좌로 송금하신 $3.00 이체가 완료되었습니다.\n만약 귀하의 즉시 이체의 일부였던 돈을 사용하셨거나 계좌가 적자셨다면 입금된 전체 금액보다 귀하의 구매력에 반영된 최종 액수가 적을 수도 있음을 유념 부탁드립니다.\n질문이 있으시다면 우리의 도움 센터를 참조하거나 지원에 연락해 주세요."
+}

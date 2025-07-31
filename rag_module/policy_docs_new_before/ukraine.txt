@@ -1,0 +1,32 @@
+[Locale: uk]
+
+1. 숫자 표기 (Numeric Format)
+- Decimal separator: ',' (comma)
+- Grouping separator: ' ' (non-breaking space)
+- Example: 1 234,56
+- 설명: 천 단위 구분자는 공백(U+00A0), 소수점은 쉼표(,)를 사용합니다.
+
+2. 화폐 표기 (Currency Format)
+- Symbol format:
+  • Pattern: "#,##0.00 ¤"
+  • 예시: "12 345,00 ₴"
+  • 설명: 통화 기호(₴)는 숫자 뒤에 공백과 함께 위치합니다.
+
+- ISO Code format:
+  • Pattern: "#,##0.00 ¤¤"
+  • 예시: "12 345,00 UAH"
+  • 설명: 통화 코드(UAH)는 숫자 뒤에 공백과 함께 위치합니다.
+
+3. 날짜 및 요일 표기 (Date Format)
+- Full: "понеділок, 28 липня 2025 р."
+- Long: "28 липня 2025 р."
+- Medium: "28.07.2025"
+- Short: "28.07.25"
+- 날짜 순서 (Order): **Day / Month / Year**
+- 요일 위치: Full 포맷에서는 날짜 앞에 요일을 명시함
+
+4. 시간 표기 (Time Format)
+- Full: "HH:mm:ss zzzz"
+- Medium: "HH:mm:ss"
+- Short: "HH:mm"
+- 설명: 24시간제를 기본으로 사용하며, Full 포맷에서는 타임존(예: EET) 포함

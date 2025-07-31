@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "a) Push and release the LOC TEST switch on the compartment overheat detection module.\n1) Make sure the FAULT & ALARM CODE display shows code 90 comes on while the test is in progress, then the code 99 comes on to show the test is complete.\nAMX ALL; AIRPLANES WITH CODM P/N 475928-01\n(b) Push and release the LOCAL TEST switch on the compartment overheat detection module.\n1) Make sure the FAULT & ALARM CODE display shows code CONFIG NEXTGEN1 comes on while the self-test is in progress, then the code TEST COMPLETE comes on to show there are no faults.",
+    "trans": "(a) Appuyez et relâchez l'interrupteur LOC TEST sur le module de détection de surchauffe du compartiment.\n1) Assurez-vous que l'écran FAULT & ALARM CODE affiche le code 90 pendant que le test est en cours, puis le code 99 pour indiquer que le test est terminé.\nAMX TOUS ; AVIONS AVEC CODM P/N 475928-01\n(b) Appuyer et relâcher l'interrupteur LOCAL TEST du module de détection de surchauffe du compartiment.\n1) Assurez-vous que l'écran FAULT & ALARM CODE affiche le code CONFIG NEXTGEN1 pendant que l'autotest est en cours, puis le code TEST COMPLETE pour indiquer qu'il n'y a pas d'anomalie."
+}

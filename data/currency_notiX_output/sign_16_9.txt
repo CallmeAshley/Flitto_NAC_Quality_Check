@@ -1,0 +1,23 @@
+[원문: japanese]
+お申し込みはこちら
+https://ymobile.jp/s/BzSid
+――――――――――――
+・早トクオプション利用料：19,800円(※4)
+・機種購入時から特典利用のお申し込みが完了するまで、あんしん保証パックサービス（月額使用料1,450円）(※4)に継続して加入していることが必要です。
+・当社指定の回収・査定条件を満たす必要があります。 査定条件を満たさなかった場合、回収に加えて22,000円（不課税）のお支払いが必要です。
+
+[번역문: english]
+Apply Here
+https://ymobile.jp/s/BzSid
+――――――――――――
+・Early Discount Option Fee: 19,800 yen (※4)
+・You must continuously subscribe to the Anshin Warranty Pack Service (monthly fee: 1 450 yen) (※4) from the time of device purchase until the application for the benefit is completed.
+・You must meet the company's specified return and assessment conditions. If the assessment conditions are not met, an additional payment of 22,000 yen (tax-exempt) will be required along with the return.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 숫자 1,450와 22,000에서 천 단위 구분자 쉼표가 누락되었습니다.
+    - 통화 표기 오류: 없음

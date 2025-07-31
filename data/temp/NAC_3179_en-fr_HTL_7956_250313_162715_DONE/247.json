@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Newbie here. I recently purchased a Universal Audio Apollo Twin X Duo Heritage interface. I'm using Logic Pro for music production and I recognised that when I load in a Neural DSP plugin on any of my guitar tracks, even if I turn on direct monitoring in Logic, I can only hear the sound of the guitar during playback. Is there a way I can hear the sound of the plugin while recording?\nThanks in advance!",
+    "trans": "Nouveau ici. J'ai récemment acheté une interface Universal Audio Apollo Twin X Duo Heritage. J'utilise Logic Pro pour la production musicale et j'ai remarqué que lorsque je charge un plug-in Neural DSP sur l'une de mes pistes de guitare, même si j'active la surveillance directe dans Logic, je n'entends le son de la guitare qu'en lecture. Existe-t-il un moyen d'entendre le son du plug-in pendant l'enregistrement ?\nMerci d'avance !"
+}

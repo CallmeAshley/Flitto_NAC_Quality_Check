@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Set the temperature to 615 K, this is comparable to the temperature in a very hot oven.\nNotice that the RED line is the radiation emitted by the oven. The line should appear flat,\nbut it isn’t. Zoom the y axis in to read .001 and zoom the x-axis out.\n1. How is the curve produced by the oven similar to the line produced by the light bulb?\n2. How is the curve produced by the oven different from the curve produced by the light\nbulb?",
+    "trans": "Réglez la température à 615 K, ce qui est comparable à la température dans un four très chaud.\nNotez que la ligne ROUGE est la radiation émise par le four. La ligne devrait apparaître plate,\nmais ce n’est pas le cas. Zoomez l'axe des y pour lire 0,001 et dézoomez l'axes-x.\n1. Comment la courbe produite par le four est-elle similaire à la ligne produite par la lumière de l'ampoule ?\n2. Comment la courbe produite par le four est-elle différente de la courbe produite par la lumière de\nl'ampoule ?"
+}

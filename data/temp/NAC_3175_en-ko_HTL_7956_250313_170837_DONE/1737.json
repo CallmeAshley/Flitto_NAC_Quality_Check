@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "It's all about the Wi-Fi\nVerify the customer is connected to a good, stable Wi-Fi network.\nCaptive Wi-Fi and weak cellular connections may not provide the solid connection to the Apple Servers required to verify software, activate devices, etc.\nIf this happens, they can fail with this error before the process begins, thus leaving the device stranded.\nIf the issue persists try a different known good Wi-Fi network.\nDid this resolve your issue?\nYes",
+    "trans": "모든 것은 와이파이에 달려 있습니다\n고객이 안정적인 와이파이 네트워크에 연결되어 있는지 확인하세요.\n공용 와이파이 및 신호가 약한 셀룰러 연결은 소프트웨어 검증, 기기 활성화 등 애플 서버에 필요한 안정적인 연결을 제공하지 못할 수 있습니다.\n이 경우, 프로세스 시작 전에 오류가 발생하여 기기가 사용 불가능한 상태로 남을 수 있습니다.\n문제가 지속되면 다른 양호한 와이파이 네트워크로 시도해 보세요.\n이 문제가 해결되었습니까?\n예"
+}

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "It's all about the Wi-Fi\nVerify the customer is connected to a good, stable Wi-Fi network.\nCaptive Wi-Fi and weak cellular connections may not provide the solid connection to the Apple Servers required to verify software, activate devices, etc.\nIf this happens, they can fail with this error before the process begins, thus leaving the device stranded.\nIf the issue persists try a different known good Wi-Fi network.\nDid this resolve your issue?\nYes",
+    "trans": "Tout tourne autour du Wi-Fi\nVérifiez que le client est connecté à un bon réseau Wi-Fi stable.\nLes connexions Wi-Fi captives et cellulaires faibles peuvent ne pas fournir la connexion solide aux serveurs Apple nécessaire pour vérifier les logiciels, activer les appareils, etc.\nSi cela se produit, ils peuvent échouer avec cette erreur avant que le processus ne commence, laissant ainsi l'appareil bloqué.\nSi le problème persiste, essayez un autre réseau Wi-Fi fiable.\nCela a-t-il résolu votre problème ?\nOui"
+}

@@ -1,0 +1,32 @@
+[Locale: it]
+
+1. 숫자 표기 (Numeric Format)
+- Decimal separator: ',' (comma)
+- Grouping separator: '.' (dot)
+- Example: 1.234,56
+- 설명: 소수점은 쉼표(,)를, 천 단위 구분은 점(.)을 사용합니다.
+
+2. 화폐 표기 (Currency Format)
+- Symbol format:
+  • Pattern: "#,##0.00 ¤"
+  • 예시: "1.234,56 €"
+  • 설명: 통화 기호(€)는 숫자 뒤에 공백(U+00A0)과 함께 붙습니다.
+
+- ISO Code format:
+  • Pattern: "#,##0.00 ¤¤"
+  • 예시: "1.234,56 EUR"
+  • 설명: 통화 코드(EUR)는 숫자 뒤에 공백(U+00A0)과 함께 표기됩니다.
+
+3. 날짜 및 요일 표기 (Date Format)
+- Full: "lunedì 28 luglio 2025"
+- Long: "28 luglio 2025"
+- Medium: "28 lug 2025"
+- Short: "28/07/25"
+- 날짜 순서 (Order): **Day / Month / Year**
+- 요일 위치: Full 포맷에서는 날짜 앞에 요일을 명시함
+
+4. 시간 표기 (Time Format)
+- Full: "HH:mm:ss ora legale dell’Europa centrale"
+- Medium: "HH:mm:ss"
+- Short: "HH:mm"
+- 설명: 24시간제를 기본으로 사용하며, Full 포맷에서는 타임존(예: CET 또는 CEST)을 포함합니다.

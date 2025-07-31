@@ -1,0 +1,6 @@
+{
+    "source": "zh_CN",
+    "target": "en_US",
+    "text": "3 钢结构材料翻新 平方米 2100 30 63000\n4 回填及地面夯实 平方米 2100 20 42000\n5 钢结构制作 平方米 2100 45 94500\n6 钢结构安装 平方米 2100 45 94500\n7 铺设屋面彩钢瓦 平方米 2100 15 31500\n8 厂房内地面硬化 立方米 420 110 46200\n9 吊车费及挖机费 台班 20 2000 40000\n10 合计 508300\n11 管理费(1-9)*5% 25415\n12 综合利润（1-10）*6% 32022.9",
+    "trans": "3 Steel structure material renovation 2100 30 63000\n4 Backfill and ground compaction 2100 20 42000\n5 Steel structure construction 2100 45 94500\n6 Steel structure installation 2100 45 94500\n7 Roofing color steel tiles 2100 15 31500\n8 Hardening of the ground in the factory 420 110 46200\n9 Crane and excavator fees 20 2000 40000\n10 Total 508300\n11 Management fee (1-9)*5% 25415\n12 Total profit (1-10)*6% 32022.9"
+}

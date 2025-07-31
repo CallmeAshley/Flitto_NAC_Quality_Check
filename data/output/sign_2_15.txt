@@ -1,0 +1,39 @@
+[원문: english]
+UC Health:Jungsun, an earlier visit is available:
+ Existing visit:
+ 12/10/2024 at 9:15 AM
+ [redacted_name], PT
+ 7675 Wellness Way, Suite 101
+ West Chester, OH 45069-2509
+ New visit:
+ 10/21/2024 at 8:30 AM
+ JAMILA L THOMASON, PT
+ 7675 Wellness Way, Suite 101
+ West Chester, OH 45069-2509
+ Offer expires 10/18/2024 at 7:05 AM.
+ Reply ACCEPT to reschedule, DECLINE to keep the existing visit, or REMOVE to get off the wait list for this visit.
+ Reply STOP to opt-out
+
+[번역문: korean]
+UC Health:정선, 조기 방문이 가능합니다:
+ 기존 방문:
+12월 10일 2024년 오전 9시 15분
+ [redacted_name], PT
+ 7675 웰니스 웨이, 스위트 101
+ 웨스트 체스터, 오하이오 45069-2509
+ 새로운 방문:
+10월 21일  2024년 오전 8시 30분
+ 자밀라 토마슨, PT
+ 7675 웰니스 웨이, 스위트 101
+ 웨스트 체스터, 오하이오 45069-2509
+ 혜택은 2024년 10월 18일 오전 7시 5분에 만료됩니다.
+ 일정을 변경하려면 수락, 기존 방문을 유지하려면 거절, 이번 방문에 대한 대기자 명단에서 제외하려면 삭제라고 답하세요.
+ 선택 해제하려면 STOP이라고 답장하세요.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 예
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

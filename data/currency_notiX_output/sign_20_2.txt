@@ -1,0 +1,43 @@
+[원문: thai]
+1. แบบก่อสร้าง (Drawing for Bidding & Construction)
+ผอู้ อกแบบจะดาํ เนินการจดั เตรยี มแบบขออนญุ าตก่อสรา้ ง หรอื แบบทีเพิมเติมรายละเอียด และเอกสารสาํ หรบั การประมลู และก่อสรา้ ง ประกอบดว้ ย
+* แบบสถาปัตยกรรม
+* แบบวิศวกรรมโครงสรา้ ง
+2. ค่าบริการวิชาชีพ
+ผอู้ อกแบบขอเรียนเสนอคา่ บรกิ ารวิชาชีพ โดยคิดเป็นอตั รารอ้ ยละ 2.50 ของราคาประมาณการคา่ ก่อสรา้ ง กลา่ วคือ
+ถนน 120 ตรม. และกาํ แพงกนั ดิน 180 ตรม. รวมพืน ทีใชส้ อยประมาณ 300 ตรม. (รายละเอียดพืน ทีใชส้ อย ตามแบบPrimary Design ทีแนบมา)
+ราคาคา่ ก่อสรา้ งเบือ งตน้ ตร. ม. ละ 8,000 บาท
+รวมคา่ ก่อสรา้ งโดยประมาณการ 2,400,000.00 บาท
+คิดค่าบริการออกแบบ = 60,000 บาท (หกหมืนบาทถ้วน)
+(โดยไม่รวมภาษีมลู ค่าเพมิ 7% และภาษีหกั ณ ทจี ่าย)
+D CON 24 CO.,LTD 39/10 Moo9 , Laharn, Bangbuathong, Nonthaburi 11110, Thailand Tel.( 02)983 3891-4 Fax. (02) 983 3899
+วนั ที 14 ตลุ าคม 2567
+Page 1|2
+ซงึ ทางผอู้ อกแบบขอเรยี นเสนอรายละเอียดการเบิกจ่ายคา่ บริการวิชาชีพ ดงั นี
+งวดที 1 50% เมือตกลงวา่ จา้ งเป็นผอู้ อกแบบ เป็นเงิน 30,000 บาท
+
+[번역문: english]
+"1. Construction Drawings (Drawing for Bidding & Construction)
+The designer will prepare the construction approval drawings or the drawings with additional details and documents for bidding and construction, which include
+Architectural Drawings
+Structural Engineering Drawings
+2. Professional Service Fees
+The designer proposes a professional service fee at a rate of 2.50% of the estimated construction cost, which is as follows
+Road: 120 square meters Earthworks (embankment): 180 square meters Total usable area: approximately 300 square meters (detailed usable area as per the attached Primary Design drawing)
+Estimated initial construction cost: 8,000 Baht per square meter.
+Total estimated construction cost: 2,400,000.00 Baht.
+Design service fee = 60,000 Baht (sixty thousand Baht)
+(Excluding 7% VAT and withholding tax)
+D CON 24 CO., LTD 39/10 Moo 9, Laharn, Bangbuathong, Nonthaburi 11110, ThailandTel. (02) 983 3891-4Fax. (02) 983 3899
+Date: October 14th 2024
+Page 1|2
+The designer also proposes the following schedule for the payment of the professional service fee:
+Phase 1: 50% upon agreement to hire the designer, which amounts to 30,000 Baht."
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: "October 14th 2024"는 "October 14, 2024"로 표기되어야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: "60,000 Baht"는 "Baht"가 숫자 앞에 와야 합니다. (예: "Baht 60,000")

@@ -1,0 +1,93 @@
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle various currency symbols and ISO codes in translations.  
+Even if the currency is not the local one (e.g., درهم), the original format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **position and spacing** should be adjusted according to Arabic formatting rules.
+
+Expected currency symbols include:  
+د.إ, $, €, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
+
+Expected ISO codes include:  
+AED, USD, EUR, JPY, CNY, GBP, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`٤٠٠ دولار`) or **code** (`٤٠٠ USD`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+Arabic currency symbols (e.g., د.إ for UAE Dirham) appear **after the number**, preceded by a **space**.  
+Arabic digits and separators must be used.
+
+Examples:  
+- ١٬٢٣٤٫٥٦ د.إ  
+- ٨٥٠٬٠٠ $  
+- ٢٬٠٠٠٬٠٠ €  
+
+Evaluation Criteria:  
+- The symbol comes after the number.  
+- A space is used between the number and symbol.  
+- Use Arabic digits and proper numeric formatting.  
+- Do not convert to other currency formats.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., AED, USD) appear **after the number**, with a **space** in between.
+
+Examples:  
+- ١٬٢٣٤٫٥٦ AED  
+- ٨٬٥٠٠٫٠٠ USD  
+- ١٬٠٠٠٫٠٠ JPY
+
+Evaluation Criteria:  
+- Code must follow the number.  
+- Use a space between number and code.  
+- Follow Arabic number formatting.  
+- Do not rewrite code as a name or symbol.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names (e.g., درهم, ريال, دولار) follow the number and are separated by a space.  
+Names should match the directionality and grammar of Arabic text.  
+Do not rewrite other formats (symbol or code) into names.
+
+Examples:  
+- ١٬٠٠٠ درهم  
+- ٨٥٠ دولار  
+- ١٠٬٠٠٠ ين  
+- ٥٠٠ يورو  
+- ٣٠٠ جنيه  
+- ١٬٢٠٠ وون
+
+Evaluation Criteria:  
+- Currency name must appear after the number, with a space.  
+- Number format and digit style must follow Arabic conventions.  
+- Do not use Western digits or punctuation.  
+- Do not generate currency names unless they appear in the original.
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

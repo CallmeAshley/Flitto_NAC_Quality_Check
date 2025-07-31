@@ -1,0 +1,35 @@
+[원문: japanese]
+発着時間：14:35 - 16:25
+座席クラス：普通席
+運賃種別：
+大人：いま得(変更不可)
+金額：
+大人：17,480円×1
+合計金額：17,654円（事務手数料174円含む）
+大人1名、小児名、幼児0名、計1名
+━━━━━━━━━━━━━
+◆※重複申込に注意※◆
+同様の重複申込をされている場合は、ご利用されない申込の事前取消をお願いします。
+お申込みごとに発行されるお問合番号（さくら***-****）を必ずご確認くださいませ。
+
+[번역문: english]
+Departure Time / Arrival Time: 14:35 - 16:25
+Seat Class: Economy
+Fare Type:
+Adult: Ima Toku (Non-changeable)
+Amount:
+Adult: 17 480 yen x 1
+Total Amount: 17,654 yen (includes 174 yen handling fee)
+Passengers: 1 adult, 0 child, 0 infant, total 1 passenger.
+-----------------
+◆※Avoid Duplicate Bookings※◆
+If you have made similar duplicate bookings, please cancel any unused bookings in advance.
+Please check the application reference number issued for each booking (Sakura ***-****).
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "17 480 yen"에서 천 단위 구분자가 쉼표로 표기되지 않음. 올바른 표기는 "17,480 yen"이어야 함.
+    - 통화 표기 오류: 없음

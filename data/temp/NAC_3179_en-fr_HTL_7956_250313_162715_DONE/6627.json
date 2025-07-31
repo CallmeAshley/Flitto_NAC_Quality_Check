@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Dear [redacted_name],\nApplication reference: [redacted_id]\nThe photo you submitted with your passport application can’t be used. It doesn’t meet the photo standards set by the International Civil Aviation Organisation.\nYou need to provide a different photo.\nFind out more and submit a photo\nYou can see details of the problem and submit your new photo at: https://www.passport.service.gov.uk/track/\nPlease don’t reply to this email – it’s an automatic message from an unmonitored accou",
+    "trans": "Cher [redacted_name],\nRéférence de l'application : [redacted_id]\nLa photo que vous avez soumise avec votre demande de passeport ne peut pas être utilisée. Elle ne respecte pas les normes photo établies par l'Organisation de l'aviation civile internationale.\nVous devez fournir une autre photo.\nEn savoir plus et soumettre une photo\nVous pouvez voir les détails du problème et soumettre votre nouvelle photo à : https://www.passport.service.gov.uk/track/\nVeuillez ne pas répondre à cet e-mail – il s'agit d'un message automatique provenant d'un compte non surveillé"
+}

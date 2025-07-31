@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "The Coverage Center is a capability of Active Testing that introduces a dual approach to security testing. First, it allows immediate vulnerability detection without deep insights into the API’s underlying business logic. Second, it provides a centralized mechanism for refining API consumption. This feature simplifies the initial testing phase, enabling quick identification of security issues without additional setup or configuration. Simultaneously, it offers guidance for optimizing API interactions improving testing depth and breadth. By balancing straightforward, initial testing",
+    "trans": "커버리지 센터는 보안 테스트에 대한 이중 접근 방식을 도입하는 능동 테스트의 기능입니다. 첫째, API의 기본 비즈니스 로직에 대한 심층적인 통찰력 없이 즉각적인 취약점 감지가 가능합니다. 둘째, API 소비를 개선하기 위한 중앙 집중식 메커니즘을 제공합니다. 이 기능은 초기 테스트 단계를 간소화하여 추가 설정이나 구성 없이 보안 문제를 신속하게 식별할 수 있습니다. 동시에 테스트 깊이와 범위를 개선하여 API 상호 작용을 최적화하기 위한 지침을 제공합니다. 간단한 초기 테스트의 균형을 유지함으로써"
+}

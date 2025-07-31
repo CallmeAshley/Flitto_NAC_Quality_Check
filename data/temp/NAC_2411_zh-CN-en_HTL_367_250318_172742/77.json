@@ -1,0 +1,6 @@
+{
+    "source": "zh_CN",
+    "target": "en_US",
+    "text": "3、当前支持的子路由间的连接类型有哪些？\n1）无线组网：支持5GHz Wi-Fi的连接；\n2）有线组网：支持网线的连接，当子路由间采用网线连接时，将优先使用网线的传输方式；\n3）AP Mesh组网：支持子路由有一个共同的上级设备。 例如：在光猫两个LAN口下分别接了两个小米Wi-Fi6路由器，先将一个路由器配置成有线中继模式，再将另一台路由器添加至Mesh网络中。",
+    "trans": "3. What types of connections between sub-routers currently support?\n1) Wireless networking: supports 5GHz Wi-Fi connection;\n2) Wired networking: supports network cable connection. When using network cable to connect the sub-routers, the transmission method of network cable will be used first;\n3) AP Mesh networking: supports sub-routers to have a common upper-level device. For instance: when two Xiaomi Wi-Fi6 routers are connected to two LAN ports of the optical modem, first configure one router to wired relay mode, and then add the other router to the Mesh network."
+}

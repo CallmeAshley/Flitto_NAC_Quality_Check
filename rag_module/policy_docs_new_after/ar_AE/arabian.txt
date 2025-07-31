@@ -1,0 +1,146 @@
+[Locale: ar]
+
+[Numeric Format]
+
+Definition:  
+Arabic uses localized numeric formatting:  
+- A **Arabic decimal separator (٫)** is used for decimal points.  
+- An **Arabic thousands separator (٬)** is used every three digits in the integer part.  
+- These are different Unicode characters from Western commas and dots.
+
+Examples:  
+- ١٬٠٠٠  
+- ١٬٢٣٤٫٥٦  
+- Invalid: ١٫٠٠٠٬٥٦ (wrong separators)  
+- Invalid: ١٢٣٤٥٦٧٫٨٩ (missing grouping)
+
+Evaluation Criteria:  
+- Use `٬` as the grouping separator in the integer part.  
+- Use `٫` as the decimal separator.  
+- Grouping must not be used after the decimal point.  
+- Use Arabic digits and Arabic separators only.  
+- Accept any number of decimal places if separators are applied correctly.
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle various currency symbols and ISO codes in translations.  
+Even if the currency is not the local one (e.g., درهم), the original format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **position and spacing** should be adjusted according to Arabic formatting rules.
+
+Expected currency symbols include:  
+د.إ, $, €, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
+
+Expected ISO codes include:  
+AED, USD, EUR, JPY, CNY, GBP, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`٤٠٠ دولار`) or **code** (`٤٠٠ USD`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+Arabic currency symbols (e.g., د.إ for UAE Dirham) appear **after the number**, preceded by a **space**.  
+Arabic digits and separators must be used.
+
+Examples:  
+- ١٬٢٣٤٫٥٦ د.إ  
+- ٨٥٠٬٠٠ $  
+- ٢٬٠٠٠٬٠٠ €  
+
+Evaluation Criteria:  
+- The symbol comes after the number.  
+- A space is used between the number and symbol.  
+- Use Arabic digits and proper numeric formatting.  
+- Do not convert to other currency formats.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., AED, USD) appear **after the number**, with a **space** in between.
+
+Examples:  
+- ١٬٢٣٤٫٥٦ AED  
+- ٨٬٥٠٠٫٠٠ USD  
+- ١٬٠٠٠٫٠٠ JPY
+
+Evaluation Criteria:  
+- Code must follow the number.  
+- Use a space between number and code.  
+- Follow Arabic number formatting.  
+- Do not rewrite code as a name or symbol.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names (e.g., درهم, ريال, دولار) follow the number and are separated by a space.  
+Names should match the directionality and grammar of Arabic text.  
+Do not rewrite other formats (symbol or code) into names.
+
+Examples:  
+- ١٬٠٠٠ درهم  
+- ٨٥٠ دولار  
+- ١٠٬٠٠٠ ين  
+- ٥٠٠ يورو  
+- ٣٠٠ جنيه  
+- ١٬٢٠٠ وون
+
+Evaluation Criteria:  
+- Currency name must appear after the number, with a space.  
+- Number format and digit style must follow Arabic conventions.  
+- Do not use Western digits or punctuation.  
+- Do not generate currency names unless they appear in the original.
+
+---
+
+[Date Format]
+
+Definition:  
+Arabic dates follow the **Day → Month → Year** order.  
+If a weekday is included, it must appear **before the date**.  
+Western-style slashes (`/`) are used in medium/short forms, with Arabic numerals.  
+Do not generate a weekday unless it is explicitly present in the source.
+
+Examples:  
+- الاثنين، ٢٨ يوليو ٢٠٢٥ م  
+- ٢٨ يوليو ٢٠٢٥ م  
+- ٢٨‏/٠٧‏/٢٠٢٥  
+- ٢٨‏/٧‏/٢٥
+
+Evaluation Criteria:  
+- Confirm that the date is in Day → Month → Year order.  
+- If a weekday is included, ensure it appears before the date.  
+- Use Arabic digits and grammar, including `م` for Gregorian years when applicable.  
+- Do not add weekdays unless explicitly present in the source.
+
+---
+
+[Time Format]
+
+Definition:  
+Arabic uses the **12-hour clock** with `ص` for AM and `م` for PM.  
+Colons (`:`) are used to separate hours, minutes, and seconds.  
+Do not include time zone names unless explicitly present in the original.
+
+Examples:  
+- ٢:٣٠ ص  
+- ٢:٣٠:٤٥ ص  
+- ٢:٣٠:٤٥ م  
+- ٢:٣٠:٤٥ م على توقيت الخليج الرسمي
+
+Evaluation Criteria:  
+- Use Arabic digits and punctuation.  
+- `ص` must be used for AM, `م` for PM.  
+- Colons separate time units.  
+- Omit time zones unless explicitly required.

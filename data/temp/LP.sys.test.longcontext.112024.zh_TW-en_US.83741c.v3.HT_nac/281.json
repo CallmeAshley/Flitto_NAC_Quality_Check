@@ -1,0 +1,6 @@
+{
+    "source": "zh_TW",
+    "target": "en_US",
+    "text": "*目前我們僅接受台灣地區境內設立之銀行台幣轉帳或臨櫃台幣匯款。\n帳戶名稱：荷蘭商聯想股份有限公司台灣分公司\n銀行名稱：花旗台灣商業銀行 (021)\n銀行分支機構：營業部 (0018)\n銀行地址：台北市信義區松智路1號12-16樓\n轉入帳戶：72720 +訂單編號數字部分9碼 (共14碼)\n例如：\n您的訂單編號為[redacted_number]\n您進行匯款的帳號則為 [redacted_number]",
+    "trans": "*Currently, we only accept bank transfers in NTD from banks established within Taiwan or over-the-counter remittances in NTD.\nAccount Name: Lenovo Technology B.V. Taiwan Branch\nBank Name: Citibank Taiwan (021)\nBank branch: Sales Department (0018)\nBank address: 12th-16th Floors, No. 1, Songzhi Road, Xinyi District, Taipei City\nTransfer to account: 72720 + 9 digits of the numerical part of the order number (14 digits in total)\nFor example:\nYour order number is [redacted_number]\nThe account number you are transferring funds to is [redacted_number]"
+}

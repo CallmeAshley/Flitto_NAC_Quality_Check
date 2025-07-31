@@ -1,0 +1,6 @@
+{
+    "source": "zh_CN",
+    "target": "en_US",
+    "text": "代理人地址 AGENCY ADDRESS: 电话 TEL:\nITINERARY\n订座记录编号 IE PNR: [redacted_id]\n票号 ETKT NBR:[redacted_id]\n机票 CONJ NBR:\n出票时间 DATE OF ISSUE:2024-10-15\n始发地/目的地 ORIGIN/DES\nBKK-Bangkok\nSZX-shenzhen\n航班 座位等级 日期 起飞时间 FLIGHT CLASS DATE TIME",
+    "trans": "Agent's address and telephone:\nItinerary\nIE Passenger name record: [redacted_id]\nTicket number: [redacted_id]\nConjunction number:\nDate of issue: October 15, 2024\nOrigin/destination\nBKK - Bangkok\nSZX - Shenzhen\nflight, class, date and time"
+}

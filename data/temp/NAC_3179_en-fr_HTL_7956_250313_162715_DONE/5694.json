@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Hi [redacted_name],\nYour package was delivered. Thanks again for shopping with Victoria's Secret!\nOrder Number: [redacted_id]\nCan't find your package? Some carriers will place packages out of view. Make sure to click the \"View Tracking Details\" button below for any additional delivery information.\nWe find that carriers may accidentally scan a package as “Delivered” when it is still out for delivery and will deliver within the next two days. We ask that you wait the additional time to reduce the need to return a duplicate shipment.",
+    "trans": "Bonjour [redacted_name],\nVotre colis a été livré. Merci encore d'avoir acheté chez Victoria's Secret !\nNuméro de commande : [redacted_id]\nVous ne trouvez pas votre colis ? Certains transporteurs placent les colis hors de vue. Assurez-vous de cliquer sur le bouton \"Voir les détails de suivi\" ci-dessous pour toute information de livraison supplémentaire.\nNous constatons que les transporteurs peuvent parfois scanner un colis comme \"Livré\" alors qu'il est encore en cours de livraison et qu'il sera livré dans les deux jours suivants. Nous vous demandons d'attendre le délai supplémentaire pour éviter le besoin de renvoyer un colis en double."
+}

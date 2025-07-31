@@ -1,0 +1,35 @@
+[원문: english]
+The writing can be fiction (including poetry) or nonfiction and must be done at home, with no adult support.
+The fiction is judged on creativity and originality
+The nonficiton is judged on factual accuracy and originality.
+Do not include any pictures/images, borders or coloured text.
+All written entries must be emailed to Mr Thompson by Friday, 10th January 2025. Any submissions after this date can not be accepted.
+The word documents must be 10 point Times New Roman and have single line and word spacing
+The entries must feature the title and written text of the student’s work. Do not include your child’s name in the title of the story.
+Cover Art Guidelines:
+The creating of the cover art is to be done at home and with no adult support.
+It must be a hard copy (not digital).
+For Cover Art, we need the entries by Friday, 10th January 2025 at the latest. Any submissions after this date can not be posted.
+Cover Art is designing a front cover that is based on the title New Tales of China’s Dinosaurs. All submissions must be based on the topic - New Tales of China’s Dinosaurs
+
+[번역문: italian]
+La scrittura può essere di narrativa (inclusa la poesia) o di saggistica e deve essere fatta a casa, senza il supporto di un adulto.
+La narrativa viene giudicata in base alla creatività e all'originalità.
+La saggistica viene giudicata in base all'accuratezza dei fatti e all'originalità.
+Non includere immagini, bordi o testo colorato.
+Tutti gli elaborati scritti devono essere inviati via e-mail al signor Thompson entro Venerdì 10 Gennaio 2025. Eventuali invii successivi a tale data non potranno essere accettati.
+I documenti word devono essere in formato Times New Roman 10 punti, con interlinea singola e spaziatura tra le parole.
+Gli elaborati devono riportare il titolo e il testo scritto del lavoro dello studente. Non includere il nome del bambino nel titolo della storia.
+Linee guida per la copertina:
+La creazione della copertina deve essere fatta a casa senza il supporto di un adulto.
+Deve essere una copia cartacea (non digitale).
+Le copertine devono essere inviate entro e non oltre Venerdì 10 Gennaio 2025. Tutti i lavori inviati dopo questa data non potranno essere spediti.
+La Cover Art consiste nel disegnare una copertina basata sul titolo Nuovi racconti sui dinosauri della Cina. Tutti gli elaborati devono essere basati sul tema Nuovi racconti sui dinosauri della Cina
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: "Venerdì 10 Gennaio 2025"에서 "Gennaio"는 대문자로 시작되어야 하지 않으며, 소문자로 "gennaio"로 표기해야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

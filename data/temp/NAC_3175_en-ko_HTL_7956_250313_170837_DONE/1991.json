@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Skip Quiz navigation\nQuestion text\nWhich technique used by a threat actor is known as spam?\nSelect one:\nWeaponized emails that claim to come from a legitimate sender\nIrrelevant or inappropriate messages sent on the Internet to a large number of recipients\nAn attacker observes websites that a targeted group visits, and herds them into an infected website\nFraudulent messages that target a specific role or person within an organization",
+    "trans": "퀴즈 건너뛰기 경로\n질문 텍스트\n위협 행위자가 사용하는 기법 중 스팸으로 알려진 것은 무엇인가요?\n선택지:\n합법적인 발신자에서 온 것처럼 보이는 무기화된 이메일\n인터넷에서 불필요하거나 부적절한 메시지를 대량의 수신자에게 보내는 것\n공격자가 대상 그룹이 방문하는 웹사이트를 관찰하고 그들을 감염된 웹사이트로 유도하는 것\n조직 내 특정 역할이나 사람을 대상으로 하는 사기성 메시지"
+}

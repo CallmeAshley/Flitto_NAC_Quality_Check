@@ -1,0 +1,31 @@
+[원문: japanese]
+ミニフィットプラン＋でスマホ料金を節約しませんか？
+🔴ミニフィットプラン＋とは...
+ギガを使った分だけ支払うコスパ◎の料金プランです！
+SoftBank Airご加入の場合、1GBまでのご利用で翌月から
+／
+🔷月額料金『2,178円』
+＼
+（2GBまで3,278円/月、3GBまで4,378円/月）
+※内訳：基本料金3,278円/月＋おうち割 光セット-1,100円/月。
+※SoftBank Air加入例5,368円/月。
+
+[번역문: english]
+Save on your smartphone bill with Mini Fit Plan+ ?
+🔴 What is Mini Fit Plan+ ?
+A cost-effective plan where you only pay for the data you use!
+If you’re subscribed to SoftBank Air and your monthly usage is up to 1GB, starting next month, it will be:
+／
+🔷 2,178 yen per month
+＼
+(up to 2GB: 3,278 yen per month, up to 3GB: 4,378 yen per month)
+※Breakdown: Base fee of 3,278 yen per month + 1,100 yen per month for the Home Bundle Discount.
+※Example for SoftBank Air subscribers: 5,368 yen per month.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 예
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

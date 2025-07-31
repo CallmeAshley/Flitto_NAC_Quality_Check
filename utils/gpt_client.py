@@ -1,28 +1,29 @@
-import os
 import openai
-from dotenv import load_dotenv
+import os
+import json
+from typing import List, Tuple
 
-# .env에서 API 키 불러오기
-load_dotenv()
+# 환경 변수로부터 키 로딩
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-def call_gpt(messages, model="gpt-4o", temperature=0.0):
-    """
-    GPT API 호출 함수
+def ask_gpt(messages: List[dict], model="gpt-4o", temperature=0.0) -> Tuple[str | list, dict]:
+    try:
+        response = openai.ChatCompletion.create(
+            model=model,
+            messages=messages,
+            temperature=temperature,
+        )
+        reply = response["choices"][0]["message"]["content"].strip()
+        usage = response["usage"]
 
-    Args:
-        messages (list): [{"role": "system", "content": ...}, {"role": "user", "content": ...}]
-        model (str): 사용할 모델명 (기본값: gpt-4o)
-        temperature (float): 창의성 조절 (기본값: 0.0, 검수 작업에 적절)
+        if reply.startswith("["):
+            try:
+                return json.loads(reply), usage
+            except json.JSONDecodeError:
+                return [], usage
 
-    Returns:
-        str: GPT의 응답 텍스트
-    """
+        return reply, usage
 
-    response = openai.ChatCompletion.create(
-        model=model,
-        messages=messages,
-        temperature=temperature
-    )
-    return response["choices"][0]["message"]["content"]
-
+    except Exception as e:
+        print(f"ChatGPT API 오류 발생: {e}")
+        return "error", {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}

@@ -1,0 +1,29 @@
+[원문: english]
+• Explore dedicated sections for Lifestyle, Wellness, Fitness, Finance, and Productivity, ensuring comprehensive organization
+• Seamlessly manage your projects and goals with a dedicated section accommodating up to 8 projects and 8 goals
+• Harness the power of 25 Custom Notes Sections, offering ample space for your thoughts and reflections
+• Enjoy smooth navigation with 50,000 Hyperlinks, making accessing your desired sections effortless and efficient
+Note: To utilize the functionalities of this digital planner, you will need a PDF annotation app such as Goodnotes on iPad or Penly on Android.
+Experience the convenience and versatility of our All-in-One Digital Planner and embark on a journey towards enhanced productivity and fulfillment. Start planning your success today!
+⭐️ TEMPLATES
+✏️ LIFESTYLE
+Password tracker, Birthday Tracker, Key Dates, Contacts, Brain Dump, trip planner, Packing List, Kitchen Inventory, Recipe Card, Groceries, Ingredients, Meal Planner
+
+[번역문: ukrainian]
+• Дослідіть спеціальні розділи, які присвячені способу життя, здоров'ю, фітнесу, фінансам і продуктивності, забезпечуючи при цьому всебічну організацію
+• Бездоганно управляй проектами та цілями за допомогою спеціального розділу, який вміщає до 8 проектів і 8 цілей
+• Використовуй можливості 25 користувацьких розділів для нотаток, які пропонують достатньо місця для ваших думок і роздумів
+• Насолоджуйся плавною навігацією за допомогою 50,000 гіперпосилань, що роблять доступ до потрібних розділів легким і ефективним
+Примітка: для використання функцій цього цифрового планувальника тобі знадобиться додаток для анотацій у PDF-файлах, наприклад Goodnotes на iPad або Penly на Android.
+Оціни зручність та універсальність нашого багатофункціонального цифрового планувальника і вирушай в дорогу для підвищення продуктивності та самореалізації. Почни планувати свій успіх уже сьогодні!
+⭐️ ШАБЛОНИ
+✏️ ЖИТТЯ
+Трекер паролів, трекер днів народження, ключові дати, контакти, мозковий штурм, планувальник поїздок, список речей, кухонний інвентар, рецептурна карта, продукти, інгредієнти, планувальник харчування
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 50,000 대신 50 000으로 표기해야 함
+    - 통화 표기 오류: 없음

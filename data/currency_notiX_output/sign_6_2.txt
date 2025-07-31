@@ -1,0 +1,17 @@
+[원문: english]
+The Cardano community is still waiting for centralized services like Coinbase and Binance to also upgrade their nodes for the new features. Several exchanges have also moved their nodes to the new version. The Chang hard fork has been in the making for months, and was expected to arrive in June. In the past few weeks, nodes accelerated the adoption of the new version.
+ The Cardano Chang fork also coincided with a price recovery, where ADA tokens returned to $0.34 . ADA has traded sideways for years, awaiting a change to the network that would make it competitive.
+ After the node updates, Cardano will have a new constitution proposed by the Intersect organization. The governance will also have a seven-member interim constitutional committee, with three representatives from the community.
+
+[번역문: portuguese]
+A comunidade Cardano ainda está esperando que serviços centrais como Coinbase e Binance atualizem seus nós para os novos recursos. Vários serviços também mudaram seus nós para a nova versão. O Chang hard fork está em produção há meses e estava previsto para chegar em junho. Nas últimas semanas, os nós aceleraram a adoção da nova versão.
+ O Cardano Chang fork também coincidiu com uma recuperação de preços, onde os tokens ADA voltaram a custar US$ 0,34. A ADA negociou lateralmente por anos, esperando uma mudança na rede que a tornaria competitiva.
+ Após as atualizações dos nós, a Cardano vai ter uma nova constituição proposta pela organização Intersect. A governação também terá um comitê constitucional provisório de sete membros, três desses sendo representantes da comunidade.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호와 숫자 사이에 공백이 있습니다. 정책에 따르면 공백이 없어야 합니다. (예: US$0,34)

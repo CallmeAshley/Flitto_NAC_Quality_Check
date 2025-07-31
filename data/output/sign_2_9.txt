@@ -1,0 +1,33 @@
+[원문: english]
+[redacted_name], a [redacted_info]-year-old woman, is a clerk. She has a body weight of 75kg, a height of
+ 1.65m, body mass index (BMI) of 27.5 kg/m2 and waist circumference of 98cm.
+ According to the BMI, she is obesity. She believed that obese does not cause any
+ adverse outcomes on her health until her brother was diagnosed with a stroke two
+ months ago. Her brother’s health condition triggered her awareness and realized
+ obese is harmful to health. She awakes from the potential harm of obesity and tries
+ to adopt a change to her current unhealthy diet.
+ However, she lacks the determination and willpower to adopt a change in her diet.
+ Then, she resumes unhealthy diet as before.
+ One day, [redacted_name] called and expressed to you that she felt stressful about her brother’s
+ health condition
+
+[번역문: korean]
+[redacted_info]세 여성인 [redacted_name]은(는) 사무원입니다. 몸무게는 75kg, 키는
+ 키 1,65m, 체질량지수(BMI) 27,5kg/m2, 허리둘레 98cm.
+ BMI에 따르면 그녀는 비만입니다. 그녀는 비만이 어떤 원인도 되지 않는다고 믿었습니다.
+ 그녀의 오빠가 뇌졸중 2 진단을 받을 때까지 그녀의 건강에 미치는 부정적인 결과
+ 몇 달 전. 그녀의 오빠의 건강 상태가 그녀의 인식을 자극했고 깨달음을 주었습니다
+ 비만은 건강에 해롭습니다. 그녀는 비만의 잠재적인 해로움에서 깨어나 노력합니다
+ 그녀의 현재 건강에 해로운 식단에 대한 변화를 주기 위해
+ 그러나 그녀는 식단에 변화를 주려는 결단력과 의지가 부족합니다.
+ 그 후, 그녀는 이전처럼 건강에 해로운 식단을 재개합니다.
+ 어느 날 [redacted_name]님이 전화를 걸어 자신의 오빠 때문에 스트레스를 받고 있다고 말했습니다.
+ 건강상태
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 소수점이 쉼표로 잘못 표기됨 (예: 1,65m, 27,5kg/m2)
+    - 통화 표기 오류: 없음

@@ -1,0 +1,35 @@
+[Locale: en]
+1. 숫자 표기 (Numeric Format)
+
+Decimal separator: '.' (dot)
+Grouping separator: ',' (comma)
+Example: 1,234.56
+설명: 영미식 숫자 표기법을 사용합니다. 소수점은 점(.), 천 단위 구분은 쉼표(,)를 사용합니다.
+
+2. 화폐 표기 (Currency Format)
+
+Symbol format:
+• Pattern: "¤#,##0.00"
+• 예시: "$1,234.56"
+• 설명: 통화 기호(¤)가 숫자 앞에 공백 없이 표기됩니다.
+ISO Code format:
+• Pattern: "{0} ¤¤"
+• 예시: "1,234.56 USD"
+• 설명: 통화 코드는 숫자 뒤에 공백과 함께 표기됩니다.
+
+3. 날짜 및 요일 표기 (Date Format)
+
+Full: "Monday, July 28, 2025"
+Long: "July 28, 2025"
+Medium: "Jul 28, 2025"
+Short: "7/28/25"
+날짜 순서 (Order): Month / Day / Year (미국식)
+요일 위치: Full 포맷에서는 날짜 앞에 요일을 명시하며 쉼표로 구분 (예: Monday, July 28, 2025)
+
+4. 시간 표기 (Time Format)
+
+Full: "2:30:45 PM Eastern Daylight Time"
+Long: "2:30:45 PM EDT"
+Medium: "2:30:45 PM"
+Short: "2:30 PM"
+설명: 12시간제를 기본으로 사용하며, AM/PM으로 오전/오후를 구분합니다. Full 포맷에서는 타임존을 포함합니다. 날짜-시간 연결에는 **"at"**을 사용합니다.

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Set expectations\nExplain the information below:\nRemoving the alternate Apple Account is permanent.\nThe customer can't reuse the alternate AppleAccount for the current AppleAccount or any other Apple Account.\nApple deletes all Mail app andunmigratedNotes app dataassociated with the Apple Account.\nAfter Apple removes iCloud Mail from the Apple Account, the customer canset it up again.\nIf the customer is concerned about data loss, recommend that the customerback up their data.\nEscalate\nEnable Escalation Mode.\nSubmit a request for technical assistance (RTA).\nFrom the \"What is the issue?\" menu, choose \"Request to remove alternate Apple Account.\"\nDon’t set expectations about the outcome.",
+    "trans": "기대치를 설정하십시오.\n아래 정보를 설명하십시오:\n대체 애플 계정을 제거하는 것은 영구적입니다.\n고객은 대체 애플 계정을 현재 애플 계정이나 다른 애플 계정에서 다시 사용할 수 없습니다.\n애플은 해당 애플 계정과 연결된 메일 앱 및 마이그레이션되지 않은 노트 앱 데이터를 모두 삭제합니다.\n애플이 계정에서 아이클라우드 메일을 제거한 후에는, 고객이 다시 설정할 수 있습니다.\n고객이 데이터 손실을 걱정하는 경우, 데이터를 백업하도록 권장합니다.\n에스컬레이션\n에스컬레이션 모드를 활성화하십시오.\n기술 지원 요청(RTA)을 제출하십시오.\n\"문제가 무엇인가요?\" 메뉴에서 \"대체 애플 계정 제거 요청\"을 선택하십시오.\n결과에 대한 기대치를 설정하지 마십시오."
+}

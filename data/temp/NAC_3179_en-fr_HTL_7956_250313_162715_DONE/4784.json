@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "• Type II error – retaining the null hypothesis when we should have rejected • It indicates that our research hypothesis may be correct, despite the decision to reject it and retain the null hypothesis • Best solution for reducing the risk of committing Type II error is to increase the sample size to represent the true population parameter • The probability of Type II error is denoted by • As long as we do not have knowledge of true population parameters, we take the risk of making either a Type I or Type II error, depending our decision.",
+    "trans": "• Erreur de type II - conserver l'hypothèse nulle alors que nous aurions dû la rejeter • Cela indique que notre hypothèse de recherche pourrait être correcte, malgré la décision de la rejeter et de maintenir l'hypothèse nulle • La meilleure solution pour réduire le risque de commettre une erreur de type II est d'augmenter la taille de l'échantillon afin de représenter le véritable paramètre de la population • La probabilité d'une erreur de type II est notée par • Tant que nous n'avons pas connaissance des véritables paramètres de la population, nous prenons le risque de commettre une erreur de type I ou de type II, selon notre décision."
+}

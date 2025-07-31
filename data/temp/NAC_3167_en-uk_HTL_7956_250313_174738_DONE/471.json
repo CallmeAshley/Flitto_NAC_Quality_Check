@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "Dear customer,\nYour order [redacted_info] tracking number [redacted_info] is out for delivery. Please ensure your phone service is available in order to get the parcel successfully. If you haven't received it after 24hrs, you could kindly contact your local shipping company for further info.\nNote:\nPlease follow the local carrier notice if you have received it in advance.\nPlease ignore this message if you have got the parcel already.",
+    "trans": "Шановний клієнте,\nВаше замовлення [redacted_info] з номером відстеження [redacted_info] знаходиться в процесі доставки. Будь ласка, переконайтеся, що ваш телефонний зв'язок доступний для успішного отримання посилки. Якщо ви не отримали її протягом 24 годин, ви можете звернутися до місцевої компанії доставки для отримання додаткової інформації.\nПримітка:\nБудь ласка, дотримуйтесь вказівок місцевого перевізника, якщо ви вже отримали посилку.\nІгноруйте це повідомлення, якщо ви вже отримали посилку."
+}

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "We investigate for the first time the reliability of the direct copper bonding process. Electromigration (EM) and Stress Induced Voiding (SIV) tests are performed on intensive 30000 daisy chains and emphasize the good behaviour facing the risk of reliability issues in Cu/Cu bonded interconnects achieved by a direct low temperature (200 degrees C) bonding. Furthermore, a comparison between stand alone and bonded device shows that the metallic bonding interfaces do not impact on the failure mechanism during EM tests.",
+    "trans": "우리는 처음으로 직접적인 구리 접합 공정의 신뢰성을 조사합니다. 전자 이주(EM) 및 스트레스 유발성 배뇨(SIV) 시험은 집약적인 30000 직렬 연결에서 수행되었으며, 직접 저온(200 섭씨온도) 접합에 의해 달성된 Cu/Cu 접합 상호 연결의 신뢰성 문제 위험에 직면한 양호한 동작을 강조합니다. 또한, 독립형 장치와 접합 장치를 비교한 결과, 금속 접합 접속기가 전자 이주 시험 중 실패 체계에 영향을 미치지 않는 것을 보여줍니다."
+}

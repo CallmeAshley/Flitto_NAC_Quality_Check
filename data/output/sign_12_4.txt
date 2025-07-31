@@ -1,0 +1,29 @@
+[원문: arabic]
+عناية المحامي عبدالعزيز بن ظافر العمري المحترم
+السادة شركة مشفى العبير الطبية المحدودة المحترمون
+عناية المحامي تركي بن عبدالله آل حامد المحترم
+نسخة للمحكم عصام الدين دهب علي أحمد القاضي المحترم
+نسخة للمحكم عبدالعزيز بن ناصر التميمي المحترم
+نسخة لرئيس هيئة التحكيم عبد الرحمن بن حسن بن صالح قشلان المحترم
+السلام عليكم ورحمة الله وبركاته، وبعد
+إشارة إلى قضية التحكيم المقامة بين شركة المستقبل الطبية المتخصصة سجل تجاري رقم (4030250651) وشركة مشفى العبير الطبية المحدودة شخص واحد سجل تجاري رقم (4030148237). وإلى محضر الجلسة الإجرائية الإلحاقية والتي عقدت يوم الخميس 14/04/1446هـ الموافق 17/10/2024م، والذي قرر فيه وكيلا الطرفين موافقة موكليهما على زيادة أتعاب هيئة التحكيم وفق التفصيل الوارد في المحضر، أفيدكم بما يلي:
+أولا: بشأن أتعاب أمين سر هيئة التحكيم: فإنه بناء على الأسباب التي دعت إلى لزيادة أتعاب هيئة التحكيم، واستنادًا إلى العرف المطرد في تقدير أتعاب أمين سر الهيئة بالتناسب مع أتعاب هيئة التحكيم، ومراعاة لحجم المسؤولية التي يضطلع بها أمين السر في هذا النزاع التحكيمي، فقد قررت هيئة التحكيم زيادة أتعاب أمين سر الهيئة بأتعاب إضافية قدرها (30.000) ريال تدفع من الطرفين مناصفة.
+
+[번역문: english]
+Attention: Respected Lawyer Abdulaziz bin Dhafer Al-Omari
+To the Respected Gentlemen Al-Abeer Medical Hospital Ltd.
+Attention: Respected Lawyer Turki   bin Abdullah Al Hamiid
+Copy to Respected Arbitrator Esam Al-Dean Dahab Ali Ahmed Al-Qady
+Copy to: Respected Arbitrator Abdulaziz bin Nasser Al-Tamimi
+Copy to: Respected President of the Arbitration Court, Abdul Rahman bin Hassan bin Salih Qashlan
+Peace, mercy, and blessings of God be upon you
+Regarding the arbitration case between Future Specialized Medical Company (CR No.4030250651) and Al-Abeer Medical Hospital Ltd. (sole proprietorship, CR No. 40301 48237), and to the minutes of the supplementary procedural session held on Thursday, 14.04.1446 AH (corresponding to 17.10.2024), wherein the representatives of both parties, with their client's consent, agreed to increase the fees of the arbitral tribunal as detailed therein, I wish to inform you of the following:
+First: Regarding the Fees of the Arbitral Tribunal's secretary, in light of the reasons necessitating the increase in the tribunal's fees and following established practices of proportionally determining the secretary's shoulders in this arbitration dispute, the tribunal has decided to increase the secretary's fees by an additional SAR 30,000, to be equally shared by both parties.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "17.10.2024"로 표기되어 있으며, 이는 미국 영어의 월/일/년 형식에 맞지 않습니다. 올바른 형식은 "October 17, 2024"입니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: "SAR 30,000"에서 통화 기호가 숫자 앞에 위치해야 합니다. 올바른 형식은 "$30,000"입니다.

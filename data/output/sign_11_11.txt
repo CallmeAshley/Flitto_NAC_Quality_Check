@@ -1,0 +1,57 @@
+[원문: english]
+Welcome to your new Learning and Development Platform
+Everything that you need to get started is in this email. Simply
+copy this link to Mapal one: https://one.mapal-os.com/
+You can access this content at any time by using the link here
+Company
+SIX COMPANY
+Branch
+Dublin
+Training modules
+Food Safety Level 2 — due 7th November 2024
+Health and Safety Level 2 — due 7th November 2024
+Working in a Kitchen — due 21st November 2024
+Food Allergens — due 7th November 2024
+The Fire Marshal — due 7th November 2024
+COSHH: Working With Hazardous Substances - UK — due 21st November 2024
+Induction to Six by Nico — due 5th November 2024
+Diversey Products Chemical Training
+Diversey COSHH Chemical Safety Training
+Logging In
+If you have a personal email address registered
+with your employer, when you first log into your Mapal one you will be given
+the option to create an account. Going forward, you may use your email address
+and password of choice to log in. Why not save this to your favourites to allow
+
+[번역문: vietnamese]
+Chào mừng bạn đến với Nền tàng Học tập và Phát triển
+Mọi thứ bạn cần để bắt đầu đều nằm trong email này. Chỉ cần đơn giản
+sao chép đường dẫn này tới đường dẫn Maple: https://one.mapal-os.com/
+Bạn có thể truy cập vào nội dung này bất cứ khi nào bằng cách sử dụng đường dẫn tại đây
+Công ty
+SIX COMPANY
+Chi nhánh
+Dublin
+Mô hình luyện tập
+An toàn Thực phẩm Cấp độ 2 - kết thúc năm 2024 tháng 11 ngày 7 
+Sức khỏe và An toàn Cấp độ 2 - kết thúc năm 2024 tháng 11 ngày 7 
+Làm việc trong không gian bếp -  kết thúc năm 2024 tháng 11 ngày 21
+Dị ứng Thực phẩm - kết thúc năm 2024 tháng 11 ngày 7
+Phòng cháy chữa cháy - kết thúc năm 2024 tháng 11 ngày 7
+COSHH: Làm việc với các chất độc hại - UK - kết thúc năm 2024 tháng 11 ngày 21
+Giới thiệu đến Six by Nico - kết thúc năm 2024 tháng 11 ngày 5
+Diversey Products Đào tạo Hóa chất
+Diversey COSHH Đào tạo về An toàn trong sử dụng Hóa chất
+Đăng nhập
+Nếu bạn có email cá nhân đã đăng ký
+với nhà tuyển dụng của bạn, khi bạn đăng nhập vào tài khoản Maple lần đầu tiên, bạn sẽ nhận được
+lựa chọn tạo một tài khoản. Tiếp tục thực hiện, bạn sẽ có thể sử dụng địa chỉ email của mình
+và mật khẩu tủy theo lựa chọn của mình để đăng nhập. Tại sao bạn còn chưa lưu vào mục yêu thích để cho phép ứng dụng
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "năm 2024 tháng 11 ngày 7" 형식으로 번역되었으나, "ngày 7 tháng 11 năm 2024" 형식으로 표기되어야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

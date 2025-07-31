@@ -1,0 +1,23 @@
+[원문: english]
+📢 Delighted to confirm that your payment has been successfully completed with transaction ID JLPVHSDCEZEQQO. 📢
+🧼 You’ll find the invoice attached for your reference. 🧼
+Thank you for your prompt payment.
+If you have any questions or need assistance, please feel free to reach out.
+Support is available to ensure your satisfaction and appreciation for your continued trust.
+Warm regards, Lindsey Damon Bonner 447 Oak Dr, Phoenix, RI 16944
+
+[번역문: french]
+📢 Heureux de confirmer que votre paiement a été effectué avec succès avec l'ID de transaction JLPVHSDCEZEQQO. 📢
+🧼 Vous trouverez la facture jointe pour votre référence. 🧼
+Merci pour votre paiement rapide.
+Si vous avez des questions ou besoin d'aide, n'hésitez pas à nous contacter.
+Notre support est disponible pour assurer votre satisfaction et nous vous remercions de votre confiance continue.
+Cordialement, Lindsey Damon Bonner 447 Oak Dr, Phoenix, RI 16 944
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 우편번호 "16 944"에서 천 단위 구분이 잘못되었습니다. 올바른 표기는 "16944"입니다.
+    - 통화 표기 오류: 없음

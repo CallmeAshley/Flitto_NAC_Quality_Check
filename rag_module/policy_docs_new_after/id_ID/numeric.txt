@@ -1,0 +1,34 @@
+[Numeric Format]
+
+Definition:  
+Indonesian uses continental-style formatting:  
+- A **comma (`,`)** is used to represent decimal points.  
+- A **dot (`.`)** is used every three digits in the integer part as a grouping separator.  
+- No grouping is used after the decimal point.
+
+Examples:  
+- 1.234,56  
+- 123.456.789,00  
+- 12.000  
+- 5,00
+
+Evaluation Criteria:  
+- Use a dot (`.`) for grouping only in the integer part.  
+- Use a comma (`,`) for decimal points.  
+- Do not insert grouping after the decimal point.  
+- No space should appear between digits and symbols.
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

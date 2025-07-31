@@ -1,0 +1,39 @@
+[원문: portuguese]
+A ideia por trás da PEC é que a comercialização do plasma humano poderia aume
+ntar a oferta e melhorar a qualidade dos hemoderivados disponíveis para tratamen
+to médico.
+Segundo a relatora da PEC DO PLASMA, [redacted_name], segundo ela, é que os
+profissionais de saúde reclamam da dificuldade de conseguir plasma em
+quantidade adequada para atender a população do país.
+Ela lembra que, em 2020, o Tribunal de Contas da União (TCU) notificou o Ministério
+da Saúde pelo desperdício de quase 600 mil litros de plasma, que não foram
+utilizados na produção de hemoderivados, o que equivale a mais de 2,7 milhões de
+doações de sangue, segundo o Ministério Público. O prejuízo pode chegar a R$ 1,3
+bilhão por ano, ainda conforme o Ministério Público. “Ou seja, o Brasil capta
+sangue, aproveita os glóbulos vermelhos e, muitas vezes, o plasma é
+desperdiçado”, afirma a senadora.
+Para [redacted_name], o país tem muito a contribuir em relação à produção de
+
+[번역문: english]
+The idea behind the PEC is that the commercialisation of human plasma could increase
+the supply and improve the quality of blood products available for medical
+treatment.
+According to the rapporteur of the PEC DO PLASMA, [redacted_name], it is
+health professionals complain about the difficulty of obtaining plasma in
+adequate quantity to serve the country's population.
+She recalls that in 2020, the Federal Court of Auditors (TCU) notified the Ministry
+of Health for the waste of almost 600 thousand litres of plasma, which were not
+used to produce blood products, which is equivalent to more than 2,7 million
+blood donations, according to the Public Prosecutor's Office. The damage could reach R$ 1,3
+billion a year, according to the Public Prosecutor's Office. "In other words, Brazil takes
+blood, uses the red blood cells and often the plasma is
+wasted", says the senator.
+For [redacted_name], the country has a lot to contribute regarding the production of
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "2,7 million"에서 쉼표 대신 마침표를 사용해야 합니다. (정책에 따르면 소수점은 마침표로 표기해야 합니다.)
+    - 통화 표기 오류: "R$ 1,3 billion"에서 쉼표 대신 마침표를 사용해야 합니다. (정책에 따르면 소수점은 마침표로 표기해야 합니다.)

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Dear [redacted_name],\nI hope this messagefinds you well!\nI would like to remind you about your order registered under the number [redacted_number], which is still pending payment. We understand that unforeseen circumstances can arise, and we are here to assist you.\nIf you need any further information about your order or have any questions regarding the payment, please do not hesitate to contact us. We are available to clarify any concerns you may have.\nTo facilitate, here are the details of your order:\nOrder Number:[redacted_number]\nTotal Amount:50.83€\nPayment Method:Credit card\nThank you for your attention, and we hope to finalize your order soon. Your satisfaction is very important to us!\nWe look forward to hearing from you.\nBest regards,",
+    "trans": "[redacted_name] 님께,\n이 메시지가 잘 전달되었길 바라겠습니다!\n주문 번호 [redacted_number] 번으로 주문하신 건에서 아직 결제를 진행하지 않으셨음을 알려 드리고자 연락 드렸습니다. 예기치 못한 사정이 있으실 수 있음을 이해하며, 언제든 필요하신 도움을 제공할 수 있도록 대기하고 있습니다.\n언제든 고객님께서 겪고 계신 문제를 해결할 준비가 되어 있으니, 주문 건에 대해 자세한 정보가 필요하시거나 결제와 관련하여 질문이 있으시다면 연락 주시길 바라겠습니다.\n편의를 위해 주문에 대한 상세 정보를 여기 안내해 드리겠습니다:\n주문 번호: [redacted_number]\n총 주문액: 50.83€\n결제 방법: 신용카드\n고객님의 확인에 감사드리며, 곧 주문 절차를 완료하길 바라겠습니다. 저희는 언제나 고객님의 만족을 최우선으로 생각합니다!\n고객님의 회신을 기다리겠습니다.\n마음을 담아,"
+}

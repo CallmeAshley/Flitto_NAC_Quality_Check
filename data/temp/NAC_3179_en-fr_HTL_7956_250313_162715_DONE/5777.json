@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Entering the total price of an item priced by weight (e.g., chicken breast - $5.99 per lb) in the app can avoid unexpected checkout totals. For example, if the customer requests 2.5 lbs of chicken breast, but the store only sells them in packages of 1.5 lbs, picking 2 packages and entering a total of 3 lbs. will result in the accurate price showing in your app (and your customer’s app).",
+    "trans": "Saisir le prix total d'un article vendu au poids (par exemple, poitrine de poulet à 5,99 $ la livre) dans l'application permet d'éviter des totaux de paiement inattendus. Par exemple, si le client demande 2,5 livres de poitrine de poulet, mais que le magasin ne les vend qu'en paquets de 1,5 livre, en sélectionnant 2 paquets et en saisissant un total de 3 livres, le prix exact sera affiché dans votre application (et dans l'application de votre client)."
+}

@@ -1,0 +1,33 @@
+[Date Format]
+
+Definition:  
+Italian dates follow the **Day → Month → Year** order.  
+If a weekday is included, it must appear **before the date**, without a comma.  
+Slashes (`/`) are used in short format.
+
+Examples:  
+- lunedì 28 luglio 2025  
+- 28 luglio 2025  
+- 28 lug 2025  
+- 28/07/25  
+
+Evaluation Criteria:  
+- Ensure the order is Day → Month → Year.  
+- If a weekday is present, place it before the date with no comma.  
+- Accept both full and abbreviated month names.  
+- **Do not generate a weekday unless it is explicitly present in the source.**
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

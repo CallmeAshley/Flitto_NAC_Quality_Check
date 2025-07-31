@@ -1,0 +1,29 @@
+[원문: polish]
+1. The Agreement is concluded for a definite period of time from 07.10.2024 to .
+2. Umowa może zostać wypowiedziana przez każdą ze stron z zachowaniem 1-miesięcznego okresu wypowiedzenia ze skutkiem na koniec następnego miesiąca kalendarzowego.
+2. The Agreement may be terminated by either Party by giving 1 month period of notice to the other Party with effect at the end of the next calendar month.
+3. Umowa ulega rozwiązaniu z upływem czasu na jaki została zawarta.
+3. The Agreement shall be terminated at the end of the period for which it was concluded.
+4. Wynajmujący może wypowiedzieć Umowę z zachowaniem miesięcznego okresu wypowiedzenia, ze skutkiem na koniec miesiąca kalendarzowego w przypadku:
+a. używania przez Najemcę Lokalu w sposób sprzeczny z Umową lub niezgodnie z jego przeznaczeniem, pomimo otrzymania pisemnego upomnienia od Wynajmującego lub zaniedbuje obowiązki, dopuszczając do powstania szkód, lub niszczy urządzenia przeznaczone do wspólnego korzystania;
+b. wykraczania przez Najemcę w sposób rażący i uporczywy przeciwko porządkowi domowemu oraz zasadom współżycia społecznego;
+c. dopuszczenia się przez Najemcę zwłoki w zapłacie czynszu lub innych opłat za używanie Lokalu za co najmniej trzy pełne okresy płatności, pomimo uprzedzenia go na piśmie o zamiarze wypowiedzenia stosunku najmu i wyznaczenia dodatkowego, miesięcznego terminu do zapłaty zaległych i bieżących należności;
+
+[번역문: english]
+1. The Agreement is concluded for a definite period of time from 2024.10.07 to .
+2. The Agreement may be terminated by either Party by giving 1 month period of notice to the other Party with effect at the end of the next calendar month.
+2. The Agreement may be terminated by either Party by giving 1 month period of notice to the other Party with effect at the end of the next calendar month.
+3. The Agreement shall be terminated at the end of the period for which it was concluded.
+3. The Agreement shall be terminated at the end of the period for which it was concluded.
+4. The Lessor may terminate the Agreement with a one-month notice, with effect at the end of a calendar month if:
+a. the Premises is used by the Lessee contrary to the Agreement or its intended use despite the written warning issued from the Lessor or the Lessee neglects their obligations and allows damage to the Premises or destroys any equipment intended for shared use;
+b. the Lessee violates home regulations and rules of social coexistence in a blatant and persistent way;
+c. the Lessee fails to pay rental fee or other fees for Premises on time for at least three full payment periods despite getting warned in writing on the intent to terminate the lease relationship and designate an additional, month deadline to pay any outstanding and current amounts due;
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "2024.10.07"로 표기되어 있으며, 이는 미국 영어의 월/일/년 순서와 일치하지 않습니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

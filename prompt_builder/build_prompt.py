@@ -1,38 +1,48 @@
-import os
-import json
+# prompt_builder/build_category_prompt.py
 
-SYSTEM_PROMPT_PATH = "/mnt/c/Users/Flitto/Documents/NAC/LLM검수/Advanced/prompt_builder/prompts/system.txt"
-USER_PROMPT_PATH = "/mnt/c/Users/Flitto/Documents/NAC/LLM검수/Advanced/prompt_builder/prompts/user.txt"
+def build_category_prompt(sentence: str):
+    system_msg = {
+        "role": "system",
+        "content": (
+            "You are a localization quality checker AI.\n"
+            "Your task is to identify which formatting categories are present in a given translated sentence.\n"
+            "The only valid categories are: currency, date, numeric, time.\n"
+            "Only return the category if a clear formatting pattern appears in the sentence.\n"
+            "Do NOT infer based on meaning or context.\n"
+            "If no formatting is detected, return an empty list [].\n"
+            "Return format: a JSON list of strings. Example: [\"currency\"] or [\"numeric\", \"date\"] or []."
+        )
+    }
+    user_msg = {
+        "role": "user",
+        "content": f"Translated sentence: {sentence}\n\nWhich categories apply?"
+    }
+    return system_msg, user_msg
 
-def build_prompt_from_json(sample: dict, rag_context: str) -> list:
-    """
-    JSON 입력(sample)으로부터 system/user 프롬프트를 생성하는 함수
-    Args:
-        sample: {
-            "source": "french",
-            "target": "korean",
-            "text": "22 octobre 2023",
-            "trans": "2023년 10월 22일"
-        }
-    Returns:
-        [{"role": "system", "content": ...}, {"role": "user", "content": ...}]
-    """
 
-    with open(SYSTEM_PROMPT_PATH, "r", encoding="utf-8") as f:
-        system_prompt = f.read().strip()
+# prompt_builder/build_check_prompt.py
 
-    with open(USER_PROMPT_PATH, "r", encoding="utf-8") as f:
-        user_prompt_template = f.read().strip()
-
-    user_prompt = user_prompt_template.format(
-        source=sample["source"],
-        target=sample["target"],
-        text=sample["text"],
-        trans=sample["trans"],
-        context=rag_context
-    )
-
-    return [
-        {"role": "system", "content": system_prompt},
-        {"role": "user", "content": user_prompt}
-    ]
+def build_check_prompt(sentence: str, guideline: str, source_text: str):
+    system_msg = {
+        "role": "system",
+        "content": (
+            "You are a localization format validator AI.\n"
+            "Your task is to check whether the translated sentence conforms to the following locale-specific guideline.\n"
+            "If the sentence violates the guideline, suggest a corrected version.\n"
+            "If no changes are needed, return the original sentence.\n"
+            "You will also receive the source sentence to help compare formatting differences.\n"
+            "Do not remove or modify any numbering, bullets, or structural punctuation marks such as: a), 1., (1), •, - \n"
+            "These elements must be preserved exactly as they appear. \n"
+            "Do not change the meaning or add explanations. Return only the revised sentence."
+        )
+    }
+    user_msg = {
+        "role": "user",
+        "content": (
+            f"Guideline:\n{guideline}\n\n"
+            f"Source sentence:\n{source_text.strip()}\n\n"
+            f"Translated sentence:\n{sentence.strip()}\n\n"
+            "Revised translation:"
+        )
+    }
+    return system_msg, user_msg

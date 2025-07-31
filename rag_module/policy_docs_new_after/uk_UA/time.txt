@@ -1,0 +1,26 @@
+[Time Format]
+
+Definition:  
+Ukrainian uses the **24-hour clock**, separated by colons (`:`).  
+Time zones (e.g., EET) appear only when explicitly present.
+
+Examples:  
+- 14:30  
+- 14:30:45
+
+Evaluation Criteria:
+- Use colons to separate time units.
+- Do not use AM/PM.
+- Always use two digits (e.g., 09:00 not 9:0).
+- Include time zones only if in the source.
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

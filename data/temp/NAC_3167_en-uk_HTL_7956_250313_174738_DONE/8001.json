@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "Signal conditioning circuits amplify, filter, and convert the signal\nfrom the transducer into a usable electrical value, preparing it for\ndisplay or further analysis.\n4. Display\nThe display provides a visual (or sometimes audio) representation\nof the measured data, such as on a cathode ray oscilloscope\n(CRO) or chart recorder.\n5. Data Storage and Transmission\nData storage retains the recorded information for future reference,\nwhile data transmission allows remote access to the signals,",
+    "trans": "Сигнальні перетворювальні схеми підсилюють, фільтрують і перетворюють сигнал\nвід датчика у зручне електричне значення, готуючи його для\nвідображення або подальшого аналізу.\n4. Відображення\nВідображення забезпечує візуальне (або іноді звукове) представлення\nвиміряних даних, наприклад, на осцилографі\n(CRO) або самописці.\n5. Збереження та передача даних\nЗбереження даних фіксує записану інформацію для подальшого використання,\nа передача даних дозволяє віддалений доступ до сигналів."
+}

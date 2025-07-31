@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "To ensure that an agent is able to assist you and to avoid re-setting your place in queue order, please avoid sending in multiple emails. To add additional information to your ticket, please reply to this email.\n- In the case of a specific issue or error with your account, please include all relevant details: email addresses, User ID, Friend ID (ex; Name #1234), and an explanation or screenshots of the issue itself (error codes, screenshots, etc.)\n- If there is an issue with a purchase, please include the details for the account that made the purchase (email address, User ID, purchase receipts, transaction screenshots, etc.)",
+    "trans": "에이전트가 귀하를 도울 수 있도록 하고 대기 순서에서 다시 시작되지 않도록 여러 번 이메일을 보내지 않도록 해주시기 바랍니다. 티켓에 추가 정보를 제공하려면 이 이메일에 답장해 주세요.\n- 계정에 특정 문제나 오류가 있을 경우, 모든 관련 정보를 포함해 주세요: 이메일 주소, 사용자 ID, 친구 ID(예: 이름 #1234), 그리고 문제에 대한 설명이나 스크린샷(오류 코드, 스크린샷 등)을 첨부해 주세요.\n- 구매에 문제가 있는 경우, 구매를 진행한 계정에 대한 세부 정보를 포함해 주세요 (이메일 주소, 사용자 ID, 구매 영수증, 거래 스크린샷 등)."
+}

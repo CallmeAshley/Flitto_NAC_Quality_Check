@@ -1,0 +1,34 @@
+[Date Format]
+
+Definition:  
+German dates follow the **Day → Month → Year** order.  
+Dots (`.`) are used as separators.  
+If a weekday is present, it appears **before the date**, followed by a comma.  
+Do not generate a weekday unless explicitly present in the source.
+
+Examples:  
+- Montag, 28. Juli 2025  
+- 28. Juli 2025  
+- 28.07.2025  
+- 28.07.25
+
+Evaluation Criteria:  
+- Confirm the order is Day → Month → Year.  
+- If the weekday is present, it should be placed before the date and separated by a comma.  
+- Accept both textual and numeric formats.  
+- Do not add a weekday unless explicitly required by the source.
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Great job by helping the customer update the payment method and solve the issue [redacted_name]! However let’s take a look at some findings to work on:\nEfficiency:[redacted_name], when you requested the customer to share with you a screenshot of the unpaid order, we could see that the device the customer used was an iPhone, therefore it was not necessary to ask a second time what device the customer was using. Remember that now we can’t ask twice information that was already provided by the customer or the system per CP401094\nLogging:Taking into account that the content that caused the pending charge was a third-party subscription, the right logging was via \"App Store & Third-party Apps” > \"Apple Transactions & Payment Methods” > \"Unpaid order”\nUseful resources:CP401094 - CP401285 - CP400331\nKeep working hard! I know you’ll improve a lot!",
+    "trans": "고객 업데이트 지불 방법 및 [redacted_name] 문제 해결을 도와주는데 잘했습니다! 하지만 작업에서 발견한 것들을 봅시다:\n효율성:[redacted_name], 당신이 고객에게 미납된 주문의 스크린샷을 공유해달라고 요청했을 때, 저희는 고객이 사용하는 장치가 아이폰이라는 사실을 볼 수 있었습니다, 따라서 고객이 사용하는 장치가 무엇인지 두 번 물어볼 필요가 없었습니다. 저희는 고객 또는 시스템 각 CP401094에 의해 이미 제공된 정보를 두 번 물어볼 수 없습니다.\n로깅: 보류된 요금으로 발생한 내용을 고려하여 제삼자 구독입니다, 옳은 로깅은  '앱스토어 & 제 삼자 앱' > '애플 거래 & 지불 방법' > '미납 주문'\n유요한 자원:CP401094 - CP401285 - CP400331\n계속 열심히 일하세요! 저는 당신이 많이 향상될 것임을 압니다!"
+}

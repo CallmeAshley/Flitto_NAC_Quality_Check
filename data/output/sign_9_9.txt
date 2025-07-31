@@ -1,0 +1,41 @@
+[원문: english]
+$0.00
+Order Total
+$208.00
+Shop in the Apple Store app,
+tailored specifically for you
+Get personalized product recommendations, compare models, access Your Saves, and track your orders. Plus, opt in today to get updates on new products, promotions, flexible payment options, and store events.
+Scan the QR code or tap the link to get started.
+Download the Apple Store app ›
+Questions
+When will I get my items?
+The shipping estimates above tell you when your items are expected to arrive. As each item leaves our warehouse, we’ll email you with delivery and tracking information.
+Ordered more than one item? You’ll get a separate email as each item ships. There are no additional shipping fees for these items.
+How do I view or change my order?
+Visit online Order Status to view the most up-to-date status and make changes to your order. To learn more about shipping, changing your order, or returns, please visit online Help.
+You can also call Apple Support at 800-692-7753 Monday through Friday from 9:00 a.m. to 9:00 p.m. and Saturday from 9:00 a.m. to 6:00 p.m. Pacific time.
+
+[번역문: ukrainian]
+0.00$
+Всього замовлено
+208.00$
+Купуйте в додатку Apple Store,
+розробленому спеціально для вас
+Отримуйте персоніфіковані рекомендації, порівнюйте моделі, отримуйте доступ до Your Saves та відстежуйте свої замовлення. Крім цього, підпишіться вже сьогодні, щоб отримувати новини про нові продукти, акції, гнучкі способи оплати та події в магазині.
+Скануйте QR-код або натисніть на посилання, щоб розпочати.
+Завантажити додаток Apple Store ›
+Питання
+Коли я отримаю свої товари?
+Терміни доставки, наведені вище, показують, коли очікується прибуття ваших товарів. Коли кожен товар покидає наш склад, ми надішлемо вам електронного листа з інформацією про доставку та відстеження.
+Замовили більше ніж один товар? Ви отримаєте окремий електронний лист щодо доставки кожного товару. Для цих товарів немає додаткової плати за доставку.
+Як я можу переглянути або змінити своє замовлення?
+Перейдіть на онлайн-сторінку «Статус замовлення», щоб переглянути останній статус та внести зміни до свого замовлення. Щоб дізнатись більше про доставку, зміну замовлення або повернення, відвідайте онлайн-довідку.
+Ви також можете зателефонувати до Служби підтримки Apple за номером 800-692-7753 з понеділка по п'ятницю з 9:00 до 21:00 та в суботу з 9:00 до 18:00 за тихоокеанським часом.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호가 숫자 뒤에 위치해야 합니다. 올바른 형식은 "0,00 $" 및 "208,00 $"입니다.

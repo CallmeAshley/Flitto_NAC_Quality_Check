@@ -1,0 +1,134 @@
+[Locale: pl-PL]
+
+[Numeric Format]
+
+Definition:  
+Polish uses continental European formatting:
+- A **comma (`,`)** is used to represent decimal points.
+- A **space** is used every three digits in the integer part for grouping.
+- No grouping is applied after the decimal point.
+
+Examples:  
+- 1 234,56  
+- 123 456 789,00  
+
+Evaluation Criteria:
+- Use a space as the thousands separator in the integer part.
+- Use a comma for decimal points.
+- Do not group digits after the decimal.
+- Do not use regular spaces or dots as separators.
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not Polish złoty (zł), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adjusted according to Polish conventions.
+
+Expected currency symbols include:  
+zł, €, $, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾  
+
+Expected ISO currency codes include:  
+PLN, USD, EUR, JPY, GBP, CNY, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD  
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 dolarów`) or **code** (`400 USD`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+Currency symbols like `zł` appear **after the number**, with a **space** in between.
+
+Examples:  
+- 1 234,56 zł  
+- 2 000,00 $  
+- 850,00 €  
+
+Evaluation Criteria:
+- Symbol must follow the number.
+- Use a space between number and symbol.
+- Follow the [Numeric Format] rules for number formatting.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes like `PLN`, `USD` also appear **after the number**, with a **space**.
+
+Examples:  
+- 1 234,56 PLN  
+- 2 000,00 USD  
+- 800,00 EUR  
+
+Evaluation Criteria:
+- Code must follow the number.
+- Use a space before the code.
+- Numeric formatting must follow the [Numeric Format] section.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as “złoty”, “dolar”, or “jen” appear **after the number**, usually with a space.
+
+Examples:  
+- 1 000 złotych  
+- 850 dolarów  
+- 10 000 jenów  
+- 500 euro  
+- 300 funtów  
+- 1 200 wonów  
+
+Evaluation Criteria:
+- The currency name must follow the number with a space.
+- The name should match the grammatical form used in Polish.
+- Use [Numeric Format] rules for number formatting.
+- Do not generate a currency name unless explicitly present in the source.
+
+---
+
+[Date Format]
+
+Definition:  
+Polish dates follow the **Day → Month → Year** order.  
+If a weekday is present, it appears **before the date**, followed by a comma.  
+Dots (`.`) are used in short numeric formats.
+
+Examples:  
+- poniedziałek, 28 lipca 2025  
+- 28 lipca 2025  
+- 28 lip 2025  
+- 28.07.2025  
+
+Evaluation Criteria:
+- Ensure the date is in Day → Month → Year order.
+- If a weekday is present, it must precede the date and be followed by a comma.
+- Accept both full month names and abbreviations.
+- **Do not generate a weekday unless it exists in the source.**
+
+---
+
+[Time Format]
+
+Definition:  
+Polish uses the **24-hour clock**.  
+Colons (`:`) are used between hours, minutes, and seconds.  
+Time zones such as “środkowoeuropejski czas letni” (Central European Summer Time) are not included unless explicitly required.
+
+Examples:  
+- 14:30  
+- 14:30:45  
+
+Evaluation Criteria:
+- Use colons (`:`) to separate time units.
+- Do not use AM/PM markers.
+- Time zones should be included only if present in the original.

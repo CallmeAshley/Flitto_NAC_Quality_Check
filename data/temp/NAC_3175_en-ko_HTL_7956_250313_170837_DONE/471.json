@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Dear customer,\nYour order [redacted_info] tracking number [redacted_info] is out for delivery. Please ensure your phone service is available in order to get the parcel successfully. If you haven't received it after 24hrs, you could kindly contact your local shipping company for further info.\nNote:\nPlease follow the local carrier notice if you have received it in advance.\nPlease ignore this message if you have got the parcel already.",
+    "trans": "고객님, 안녕하세요,\n귀하의 주문 [redacted_info] 추적 번호 [redacted_info]가 배송 중입니다. 소포를 성공적으로 받기 위해 전화 서비스를 이용할 수 있는지 확인하십시오. 24시간 후에도 상품을 받지 못한 경우, 추가 정보를 원하시면 현지 배송 회사에 문의하시기 바랍니다.\n참고:\n미리 받으셨다면 현지 통신사 공지를 따라주세요.\n이미 소포를 받으셨다면 이 메시지를 무시해 주세요."
+}

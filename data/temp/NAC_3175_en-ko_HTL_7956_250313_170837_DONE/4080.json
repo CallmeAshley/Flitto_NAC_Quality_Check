@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Hi [redacted_name], your Dasher bank account information recently changed. If you did not update your bank information, please (1) log in to your account and verify your bank information is accurate and (2) update your password. Note that adding or updating a new ACH account as your payout method between Sunday afternoon and Monday morning may result in weekly payout deposit processing by Tuesday morning. For help contact us at www.doordash.com/help",
+    "trans": "안녕하세요 [redacted_name],귀하의 대셔 은행 계좌 정보가 최근에 변경되었습니다. 만일 귀하께서 계좌 정보를 업데이트하지 않았다면, (1) 계정에 로그인해서 은행 정보가 맞는지 인증 해주시고 (2) 비밀번호를 변경해주세요. 참고로 일요일 오후부터 월요일 오전 사이에 새 ACH 계좌를 출금 수단으로 추가하거나 업데이트하면 주간 정산 입금 처리가 화요일 오전까지 지연될 수도 있습니다. 도움이 필요하시면 www.doordash.com/help로 문의 부탁드립니다"
+}

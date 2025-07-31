@@ -1,0 +1,138 @@
+[Locale: th-TH]
+
+[Numeric Format]
+
+Definition:  
+Thai follows Western-style formatting by default using Latin numerals, though native Thai digits may be used in formal or traditional contexts.
+
+- A **dot (`.`)** is used for decimal points.
+- A **comma (`,`)** is used every three digits in the integer part for grouping.
+- Thai digits (e.g., ๑, ๒, ๓) are not the default and should be ignored unless explicitly present.
+
+Examples:  
+- 1,234.56  
+- 123,456,789.00
+
+Evaluation Criteria:
+- Use Latin numerals by default.
+- Use commas in the integer part and a dot for the decimal point.
+- Do not apply grouping after the decimal.
+- Thai numerals should be accepted only when explicitly required in the source.
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not Thai baht (฿), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adapted according to Thai conventions.
+
+Expected currency symbols include:  
+฿, $, ¢, €, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₡, ₨, ₦, ₫, ₭, ₲, ₵, ₿, ¤, ƒ, ₮, ₪, ₴, ﷼, ₸, ₾
+
+Expected ISO currency codes include:  
+THB, USD, EUR, JPY, GBP, KRW, CNY, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400ดอลลาร์`) or **code** (`USD 400`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+Currency symbols such as ฿, $, €, etc. are placed **before the number**, without any space.
+
+Examples:  
+- ฿1,234.56  
+- $1,000.00  
+- €10,000.00  
+- ¥8,000
+
+Evaluation Criteria:
+- Symbol must appear immediately before the number.
+- No space between symbol and number.
+- Follow [Numeric Format] for the number.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., THB, USD) are placed **after the number**, separated by a **space**.
+
+Examples:  
+- 1,234.56 THB  
+- 850.00 USD  
+- 10,000.00 EUR
+
+Evaluation Criteria:
+- Use a space between number and code.
+- Use uppercase letters for currency codes.
+- Follow [Numeric Format] rules.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names like “บาท” (baht), “ดอลลาร์” (dollar), or “เยน” (yen) appear **after the number**, without any space.
+
+Examples:  
+- 1,000บาท  
+- 850ดอลลาร์  
+- 10,000เยน  
+- 300ยูโร  
+- 1,200วอน
+
+Evaluation Criteria:
+- Currency name must directly follow the number with **no space**.
+- Use correct Thai currency term.
+- Do not generate currency names unless present in the source.
+- Follow [Numeric Format] rules.
+
+---
+
+[Date Format]
+
+Definition:  
+Thai dates follow **Day → Month → Year** order.  
+If a weekday is present, it uses the structure: “วัน” + weekday + “ที่” + date.  
+“ที่” is used to introduce the date after the weekday.
+
+Examples:  
+- วันจันทร์ที่ 28 กรกฎาคม 2025  
+- 28 กรกฎาคม 2025  
+- 28 ก.ค. 2025  
+- 28/7/25
+
+Evaluation Criteria:
+- Confirm order is Day → Month → Year.
+- Use “วัน + [weekday] + ที่” if a weekday is present.
+- Accept both long-form and abbreviated month names.
+- **Do not generate weekday unless present in the source.**
+
+---
+
+[Time Format]
+
+Definition:  
+Thai uses the **24-hour clock**.  
+- In formal formats: use Thai unit words such as “นาฬิกา” (hour), “นาที” (minute), “วินาที” (second).
+- In short formats: use colons (`:`) to separate time units.
+- Time zone names or “เวลาในประเทศไทย” are only included if explicitly mentioned.
+
+Examples:  
+- 14 นาฬิกา 30 นาที 45 วินาที  
+- 14:30  
+- 14:30:45
+
+Evaluation Criteria:
+- Use 24-hour time.
+- Accept both word-based and colon-separated formats.
+- Do not use AM/PM.
+- Only include time zones if present in the original.

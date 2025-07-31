@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "Microsoft account\nYour account recovery request for [redacted_email]\nHello,\nThank you for contacting Microsoft Support.\nWe recently received a request to recover your Microsoft account [redacted_email]. Unfortunately, we have determined that the information you provided was not sufficient for us to validate your account ownership. We take the security and privacy of our customers very seriously and are committed to protecting your personal information.\nHere are few tips below to help you complete the form:",
+    "trans": "Обліковий запис Microsoft\nВаш щапит на відновлення облікового запису для [redacted_email]\nВітаємо,\nДякуємо вам за звернення до Служби підтримки Microsoft .\nМи нещодавно отримали запит на відновлення вашого облікового запису Microsoft [redacted_email]. Нажаль, ми визначили, що надана вами інформація не була достаньою для підтвердження вашого володіння обліковим записом. Ми дуже серйозно сприймаємо безпеку та приватність наших клієнтів і віддані захисту вашої персональної інформації.\nОсь кілька порад, щоб допомогти вам заповнити форму:"
+}

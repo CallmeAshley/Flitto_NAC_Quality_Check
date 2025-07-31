@@ -1,0 +1,45 @@
+[원문: english]
+CB364272526US
+Copy Add to Informed Delivery
+Latest Update
+A shipping label has been prepared for your item. A delivery date will be provided when USPS receives the package; contact the shipper or shipping partner with any inquiries.
+Get More Out of USPS Tracking:
+USPS Tracking Plus®
+Pre-Shipment
+Shipping Label Created, USPS Awaiting Item
+SOUTH SAN FRANCISCO,CA94080
+October 4, 2024, 8:35 pm
+What Do USPS Tracking Statuses Mean?
+Text & Email Updates
+USPS Tracking Plus®
+Product Information
+See Less
+Track Another Package
+Need More Help?
+
+[번역문: french]
+CB364272526US
+Copier Ajouter à Informed Delivery
+Dernière mise à jour
+Une étiquette d'expédition a été préparée pour votre article. Une date de livraison sera fournie lorsque l'USPS recevra le colis ; veuillez contacter l'expéditeur ou le partenaire d'expédition pour toute question.
+Profitez davantage du suivi USPS :
+USPS Tracking Plus®
+Pré-expédition
+Étiquette d'expédition créée, USPS en attente de l'article
+SOUTH SAN FRANCISCO, CA 940804
+2024 octobre, 20:35
+Que signifient les statuts de suivi USPS ?
+Mises à jour par SMS et e-mail
+USPS Tracking Plus®
+Informations sur le produit
+Afficher moins
+Suivre un autre colis
+Besoin d'aide supplémentaire ?
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜 형식이 "2024 octobre"로 되어 있어 정책에 맞지 않음. 올바른 형식은 "4 octobre 2024" 또는 "4 octobre"임.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

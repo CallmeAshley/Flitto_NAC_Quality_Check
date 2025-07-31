@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "The pilot will look for the closest damaged player ship in the sector, or it will look for friendly ships in repair need.\nIt's important to mention it will only repair ships with at least 20% charged shield.\nHaving shields up a little usually means that ship has been out of combat for some time (successfully fled from battle), so it's safe to approach.",
+    "trans": "Пілот шукатиме найближчий пошкоджений корабель гравця в секторі або дружні кораблі, що потребують ремонту.\nВарто зазначити, що ремонт здійснюватиметься лише для кораблів, у яких заряд щита становить щонайменше 20%.\nНаявність хоча б частково активованого щита зазвичай означає, що корабель уже певний час поза боєм (успішно втік із сутички), тож до нього безпечно наближатися."
+}

@@ -1,0 +1,47 @@
+[원문: french]
+* 23 24H MANS 10€ COMMEMO commandé en 2 quantité(s)
+* BL.23 LE MANS commandé en 2 quantité(s)
+* 23 MARIAGE POUR TOUS 10€ AG commandé en 1 quantité(s)
+* BL.23 10€ MARIAGE POUR TOUS commandé en 1 quantité(s)
+* 23 MARIAGE POUR TOUS 10€ AG commandé en 1 quantité(s)
+* 24 DUMAS MOUSQ 100€ AG commandé en 2 quantité(s)
+* 24 JO24 10€ AG HEXA commandé en 2 quantité(s)
+* 24 JO24 10€ AG HEXA commandé en 2 quantité(s)
+* BL.24 JO24 10€ AG HEXA commandé en 2 quantité(s)
+* 24 MASCOTTE MONT S MICH 10€ V2 commandé en 1 quantité(s)
+* 24 MASCOTTE MONT S MICH 10€ V2 commandé en 1 quantité(s)
+* BL.24 MASCOTTE MONT S MICH 10€ commandé en 1 quantité(s)
+* 24 MASCOTTE LYON 10€ V2 commandé en 1 quantité(s)
+* 24 MASCOTTE LYON 10€ V2 commandé en 1 quantité(s)
+* BL.24 MASCOTTE LYON 10€ commandé en 1 quantité(s)
+* 24 MASCOTTE METRO COLO 50€ V2 commandé en 1 quantité(s)
+* 24 MASCOTTE METRO COLO 50€ V2 commandé en 1 quantité(s)
+* BL.24 MASC. METRO COLO 50€ V2 commandé en 1 quantité(s)
+
+[번역문: english]
+* 23 24H MANS €10 COMMEMO ordered in 2 quantities
+* BL.23 LE MANS ordered in 2 quantities
+* 23 MARIAGE POUR TOUS €10 AG ordered in 1 quantity
+* BL.23 10€ MARIAGE POUR TOUS ordered in 1 quantity
+* 23 MARIAGE POUR TOUS €10 GA ordered in 1 quantity
+* 24 DUMAS MOUSQ €100 GA ordered in 2 quantities
+* 24 JO24 €10 AG HEXA ordered in 2 quantities
+* 24 JO24 10€ AG HEXA ordered in 2 quantities
+* BL.24 JO24 €10 AG HEXA ordered in 2 quantities
+* 24 MASCOTTE MONT S MICH €10 V2 ordered in 1 quantity
+* 24 MASCOTTE MONT S MICH €10 V2 ordered in 1 quantity
+* BL.24 MASCOTTE MONT S MICH €10 ordered in 1 quantity
+* 24 MASCOTTE LYON €10 V2 ordered in 1 quantity
+* 24 MASCOTTE LYON €10 V2 ordered in 1 quantity
+* BL.24 MASCOTTE LYON €10 ordered in 1 quantity
+* 24 MASCOTTE METRO COLO €50 V2 ordered in 1 quantity
+* 24 MASCOTTE METRO COLO 50€ V2 ordered in 1 quantity
+* BL.24 MASC. METRO COLO €50 V2 ordered in 1 quantity
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호가 숫자 뒤에 위치한 경우가 있음 (예: 10€, 50€)

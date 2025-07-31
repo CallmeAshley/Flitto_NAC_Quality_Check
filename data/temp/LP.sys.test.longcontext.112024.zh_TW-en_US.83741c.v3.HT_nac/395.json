@@ -1,0 +1,6 @@
+{
+    "source": "zh_TW",
+    "target": "en_US",
+    "text": "如果AB 的距離為72 公尺，請問每條直道（即BC 長）的長度為公尺。\n問題2\n田徑場跑道由內向外稱為第1 道、第2 道、…，共有8 個跑道，每個跑道的寬度為1.25 公尺。 今舉行400 公尺比賽，在競跑的過程中，每位選手只能在自己的賽道進行，比賽終點線及第1 道起跑點如上圖示：\n為求每個跑道上的選手競跑的距離相同，請問跑第6 道的選手的起跑點位置，應該比第1 道起跑點向前方移動公尺。",
+    "trans": "If the distance of AB is 72 meters, what is the length of each straight lane (i.e., BC) in meters?\nQuestion 2:\nThe track lanes are numbered from the inside out as Lane 1, Lane 2, ..., up to Lane 8. Each lane has a width of 1.25 meters. A 400-meter race is held, during which each competitor must stay in their assigned lane. The finish line and the starting point for Lane 1 are shown in the diagram above:\nTo ensure that the race distance is the same for every lane, how much further forward, in meters, should the starting point for Lane 6 be compared to the starting point for Lane 1?"
+}

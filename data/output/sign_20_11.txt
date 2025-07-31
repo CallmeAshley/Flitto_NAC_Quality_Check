@@ -1,0 +1,21 @@
+[원문: thai]
+รายละเอียดเพิ่มเติม
+👉 ผู้โชคดีกรุณายืนยันสิทธิ์ผ่านกล่องข้อความ (Inbox) เพจด้วยเฟซบุ๊กที่ใช้ร่วมกิจกรรมเท่านั้น พร้อมแจ้งชื่อจริงตามบัตรประชาชนและเบอร์ติดต่อกลับ โดยสามารถยืนยันสิทธิ์ได้ภายในวันที่ 11 ตุลาคม 2567 ก่อนเวลา 17.00 น. มิฉะนั้นจะถือว่าสละสิทธิ์
+👉 ผู้โชคดีสามารถรับบัตรเข้าร่วมงานได้ที่บริเวณหน้างาน โดยติดต่อรับบัตรที่บูธกิจกรรมดรีมมี่ วันอาทิตย์ที่ 13 ตุลาคม 2567 MCC HALL THE MALL LIFESTORE BANGKAE ตั้งแต่เวลา 10.00 น. เป็นต้นไป โดยนำบัตรประชาชนตัวจริง(ID card) หรือ Passport และใบเสร็จตัวจริงที่ซื้อสินค้า มาใช้เป็นหลักฐานในการรับบัตร
+👉 ขั้นตอนการโอนสิทธิ์ แจ้งล่วงหน้าหลังจากประกาศรายชื่อผู้ได้รับรางวัลภายใน 1 - 3 วันเท่านั้น ทางกล่องข้อความเพจเฟซบุ๊กดรีมมี่ (มิฉะนั้นจะถือว่าสละสิทธิ์)
+👉กรณีโอนสิทธิ์ แจ้งชื่อผู้ที่ได้รับรางวัลตัวจริงและผู้ที่ได้รับการโอนสิทธิ์ โดยให้นำใบเสร็จตัวจริงมายืนยัน ในวันรับบัตร
+
+[번역문: english]
+Additional Details
+👉 Winners must confirm their prize through the page's inbox using the same Facebook account that was used to participate in the activity. Provide your full name as stated on your ID card and a contact number. Prize confirmation must be completed by 11th October 2024, before 5.00. Failure to do so will result in forfeiting the prize.
+👉 Winners can collect event tickets at the event venue by visiting the Dreamy activity booth on Sunday, 13th October 2024, at MCC HALL THE MALL LIFESTORE BANGKAE, starting from 10.00. Please bring your original ID card or passport and the original receipt for your purchase as proof to collect the tickets.
+👉 To transfer the prize; Notify the page's inbox on Dreamy’s Facebook page within 1–3 days after the winners are announced. Failure to notify within this timeframe will result in forfeiting the prize.
+👉 For prize transfers, provide the name of the original prize winner and the name of the transferee. The original receipt must be presented as proof on the day of ticket collection.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "11th October 2024" 및 "13th October 2024"로 표기되어 있으나, 미국 영어에서는 "October 11, 2024" 및 "October 13, 2024"로 표기해야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

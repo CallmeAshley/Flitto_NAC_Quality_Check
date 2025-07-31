@@ -1,0 +1,138 @@
+[Locale: id]
+
+[Numeric Format]
+
+Definition:  
+Indonesian uses continental-style formatting:  
+- A **comma (`,`)** is used to represent decimal points.  
+- A **dot (`.`)** is used every three digits in the integer part as a grouping separator.  
+- No grouping is used after the decimal point.
+
+Examples:  
+- 1.234,56  
+- 123.456.789,00  
+- 12.000  
+- 5,00
+
+Evaluation Criteria:  
+- Use a dot (`.`) for grouping only in the integer part.  
+- Use a comma (`,`) for decimal points.  
+- Do not insert grouping after the decimal point.  
+- No space should appear between digits and symbols.
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not the Indonesian rupiah (Rp), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adapted according to Indonesian conventions.
+
+Expected currency symbols include:  
+Rp, $, €, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
+
+Expected ISO currency codes include:  
+IDR, USD, EUR, JPY, GBP, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 dolar`) or **code** (`400 USD`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+The currency symbol (e.g., Rp) is placed **before the number** with **no space**.
+
+Examples:  
+- Rp1.234,56  
+- $850,00  
+- €2.000,00
+
+Evaluation Criteria:  
+- The symbol must appear immediately before the number.  
+- Do not insert a space.  
+- Follow number formatting as defined in the [Numeric Format] section.  
+- Preserve the original symbol from the source.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., IDR, USD) are also placed **before the number**, separated by a **space**.
+
+Examples:  
+- IDR 1.234,56  
+- USD 2.000,00  
+- EUR 800,00
+
+Evaluation Criteria:  
+- Use a space between the code and the number.  
+- Code must appear before the number.  
+- Follow the rules from the [Numeric Format] section.  
+- Preserve the original format.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as "rupiah", "dolar", or "yen" are written **after the number**, usually with a space.
+
+Examples:  
+- 1.000 rupiah  
+- 850 dolar  
+- 10.000 yen  
+- 500 euro  
+- 300 pound  
+- 1.200 won
+
+Evaluation Criteria:  
+- Currency name must follow the number with a space.  
+- The name should match the referenced currency in context.  
+- Follow the number formatting rules from the [Numeric Format] section.  
+- Do not generate a currency name unless one exists in the source.
+
+---
+
+[Date Format]
+
+Definition:  
+Indonesian dates follow the **Day → Month → Year** order.  
+If a weekday is included, it must appear **before the date**.  
+Slashes (`/`) are commonly used in short formats.
+
+Examples:  
+- Senin, 28 Juli 2025  
+- 28 Juli 2025  
+- 28 Jul 2025  
+- 28/07/25
+
+Evaluation Criteria:  
+- Ensure the date is in Day → Month → Year order.  
+- If the weekday is present, it must appear before the date.  
+- Accept both full and abbreviated month names.  
+- Do not generate a weekday unless it is explicitly present in the source.
+
+---
+
+[Time Format]
+
+Definition:  
+Indonesian uses the **24-hour clock**, and periods (`.`) are used instead of colons between time units.  
+Time zone names are not included unless explicitly present.
+
+Examples:  
+- 14.30  
+- 14.30.45  
+- 14.30.45 Waktu Indonesia Barat
+
+Evaluation Criteria:  
+- Use **periods (`.`)** between hours, minutes, and seconds.  
+- Do not include AM/PM.  
+- Do not include time zone names unless explicitly stated in the original.

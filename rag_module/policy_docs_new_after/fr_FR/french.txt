@@ -1,0 +1,145 @@
+[Locale: fr-FR]
+
+[Numeric Format]
+
+Definition:  
+French formatting uses:  
+- A **comma (`,`)** as the decimal separator.  
+- A **space** as the grouping separator every three digits in the integer part.  
+- No grouping is applied after the decimal point.  
+
+Examples:  
+- 1 234,56  
+- 123 456 789,00  
+- Invalid: 1234567,89 (missing group separators)  
+- Invalid: 1.000,25 (wrong decimal separator)
+
+Evaluation Criteria:  
+- Use commas for decimal points.  
+- Use spaces every three digits in the integer part.  
+- Do not use any grouping after the decimal separator.  
+- No space should exist between digits and separators unless specified.  
+- Accept numbers with any decimal precision if separators are applied correctly.
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not the euro (€), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adapted according to French typographic conventions.
+
+Expected currency symbols include:  
+€, $, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₨, ₫, ₭, ₵, ₿, ₪, ₴, ﷼, ₸, ₾
+
+Expected ISO currency codes include:  
+EUR, USD, JPY, CNY, GBP, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 dollars`) or a **code** (`USD 400`).  
+The same rule applies in reverse for codes and names.  
+Always preserve the original representation type used in the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+Currency symbols such as € are placed **after the number**, separated by a **space**.  
+Within the number itself, use **spaces** for grouping.
+
+Examples:  
+- 12 345,00 €  
+- 1 000,00 $  
+- 850,00 ¥
+
+Evaluation Criteria:  
+- The symbol must appear after the number.  
+- Use spaces for digit grouping and between the number and the currency symbol.  
+- Number format must follow the [Numeric Format] section.  
+- Preserve the symbol from the source without conversion.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes such as EUR, USD appear **after the number**, separated by a **space**.  
+Digit grouping uses **spaces**.
+
+Examples:  
+- 12 345,00 EUR  
+- 1 000,00 USD  
+- 2 500,00 JPY
+
+Evaluation Criteria:  
+- The currency code appears after the number.  
+- A space must be used between number and code.  
+- Follow all rules from the [Numeric Format] section.  
+- Do not convert the representation type.
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as “euros,” “dollars,” or “livres” typically follow the number, with a space.  
+Do not rewrite symbols or codes into names.
+
+Examples:  
+- 1 000 euros  
+- 850 dollars  
+- 10 000 yens  
+- 500 livres  
+- 300 roupies  
+- 800 wons
+
+Evaluation Criteria:  
+- The currency name must come after the number, separated by a space.  
+- The name must match the referenced currency.  
+- Number formatting must follow the [Numeric Format] rules.  
+- Do not generate a currency name unless it exists in the source.
+
+---
+
+[Date Format]
+
+Definition:  
+French uses the **Day → Month → Year** order.  
+If a weekday is present, it appears **before** the date.  
+Slashes (`/`) are used in short format only; full names are used in other cases.  
+Do not generate a weekday unless it exists in the source.
+
+Examples:  
+- lundi 28 juillet 2025  
+- 28 juillet 2025  
+- 28 juil. 2025  
+- 28/07/2025
+
+Evaluation Criteria:  
+- Confirm date order is Day → Month → Year when all parts are present.  
+- If a weekday is included, place it before the date.  
+- Accept both full name and slash formats depending on style.  
+- Do not add weekdays unless explicitly present in the source.
+
+---
+
+[Time Format]
+
+Definition:  
+French uses the **24-hour clock** in all written contexts.  
+There is no AM/PM indicator.  
+Colons (`:`) are used to separate hours, minutes, and seconds.
+
+Examples:  
+- 14:30  
+- 09:05  
+- 22:15:00
+
+Evaluation Criteria:  
+- Use colons between time units.  
+- Do not use AM/PM or any time-of-day indicator.  
+- Do not include time zone information unless explicitly stated in the original.

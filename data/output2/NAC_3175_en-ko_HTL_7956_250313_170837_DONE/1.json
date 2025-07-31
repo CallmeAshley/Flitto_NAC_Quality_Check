@@ -1,0 +1,15 @@
+{
+  "source": "en_US",
+  "target": "ko_KR",
+  "text": "Coming to class provides you with the foundations you will need to be able to apply the material. Solving the problem set allows you to gain a solid understanding of the material. Coming up with your own examples will be challenging, but it will also reveal stumbling stones, since you do not have solutions available to double-check. Please feel free to send me any examples you come up with and I make sure to provide you with feedback. Lastly, the ability to complete exercises in a timely manner will help to reduce anxiety throughout taking the test.",
+  "original_trans": "수업에 참여하면 자료에 적용하는 것에 필요한 기초를 다질 수 있습니다. 문제들을 풀면 자료에 대한 확실한 이해를 얻을 수 있습니다. 본인만의 예시를 생각해 내는 것은 어려울 수 있으나, 다시 확인하기 위한 해답이 없기 때문에 장애물이 나타날 것입니다. 생각해낸 예시들을 보내주시면 꼭 피드백을 드리도록 하겠습니다. 마지막으로, 연습 문제를 적시에 풀 수 있는 능력은 시험을 치르는 동안 불안감을 줄이는 데 도움이 될 것입니다.",
+  "checked_trans": "수업에 참여하면 자료에 적용하는 것에 필요한 기초를 다질 수 있습니다. 문제들을 풀면 자료에 대한 확실한 이해를 얻을 수 있습니다. 본인만의 예시를 생각해 내는 것은 어려울 수 있으나, 다시 확인하기 위한 해답이 없기 때문에 장애물이 나타날 것입니다. 생각해낸 예시들을 보내주시면 꼭 피드백을 드리도록 하겠습니다. 마지막으로, 연습 문제를 적시에 풀 수 있는 능력은 시험을 치르는 동안 불안감을 줄이는 데 도움이 될 것입니다.",
+  "checked_sentences": [
+    {
+      "original": "수업에 참여하면 자료에 적용하는 것에 필요한 기초를 다질 수 있습니다. 문제들을 풀면 자료에 대한 확실한 이해를 얻을 수 있습니다. 본인만의 예시를 생각해 내는 것은 어려울 수 있으나, 다시 확인하기 위한 해답이 없기 때문에 장애물이 나타날 것입니다. 생각해낸 예시들을 보내주시면 꼭 피드백을 드리도록 하겠습니다. 마지막으로, 연습 문제를 적시에 풀 수 있는 능력은 시험을 치르는 동안 불안감을 줄이는 데 도움이 될 것입니다.",
+      "revised": "수업에 참여하면 자료에 적용하는 것에 필요한 기초를 다질 수 있습니다. 문제들을 풀면 자료에 대한 확실한 이해를 얻을 수 있습니다. 본인만의 예시를 생각해 내는 것은 어려울 수 있으나, 다시 확인하기 위한 해답이 없기 때문에 장애물이 나타날 것입니다. 생각해낸 예시들을 보내주시면 꼭 피드백을 드리도록 하겠습니다. 마지막으로, 연습 문제를 적시에 풀 수 있는 능력은 시험을 치르는 동안 불안감을 줄이는 데 도움이 될 것입니다.",
+      "violated": false,
+      "categories": []
+    }
+  ]
+}

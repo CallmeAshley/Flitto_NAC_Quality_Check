@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Your autopay for [redacted_info] (ClickPay ID: [redacted_info]) will be processed on [redacted_info].\nNote:\nPlease allow a full business day from the time of the transaction (this excludes Saturday, Sunday, and Bank Holidays) for this payment to be reflected on your bank account and up to 3 business days for this payment to be credited by your landlord or management.\nFor ACH payments, ACH will be reflected on your bank statement as a debit from either 5350 PARK CONDO ASSOC AutoPay or ClickPay PropertyPay.\nThank you,\nCustomer Service",
+    "trans": "Votre paiement automatique pour [redacted_info] (ClickPay ID : [redacted_info]) sera traité le [redacted_info].\nRemarque :\nVeuillez compter un jour ouvrable entier à partir de l'heure de la transaction (à l'exclusion des samedis, dimanches et jours fériés) pour que ce paiement figure sur votre compte bancaire et jusqu'à trois jours ouvrables pour qu'il soit crédité par votre bailleur ou votre gestionnaire.\nPour les paiements par ACH, l'ACH apparaîtra sur votre relevé bancaire comme un débit de 5350 PARK CONDO ASSOC AutoPay ou ClickPay PropertyPay.\nNous vous remercions de votre attention,\nService à la clientèle"
+}

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "This behaviour of \"keep outputs unchanged\" means the current state needs to be remembered, and thus produces a latch. Combinational logic (e.g., logic gates) cannot remember any state. Watch out for Warning (10240): ... inferring latch(es)\" messages. Unless the latch was intentional, it almost always indicates a bug. Combinational circuits must have a value assigned to all outputs under all conditions. This usually means you always need else clauses or a default value assigned to the outputs.",
+    "trans": "“출력을 변경되지 않도록 유지\"하는 이 동작은 현재 상태를 기억해야 한다는 의미이므로 래치를 생성한다. 조합 논리(예: 논리 게이트)는 어떤 상태도 기억할 수 없다. 경고(10240)를 주의: ... 래치(들) 추론” 메시지. 래치가 의도적인 것이 아니라면 거의 항상 버그를 나타낸다. 조합 회로는 모든 조건에서 모든 출력에 할당된 값을 가져야 한다. 이는 일반적으로 출력에 항상 다른 절이나 기본값을 할당해야 함을 의미한다."
+}

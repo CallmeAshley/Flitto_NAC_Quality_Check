@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Dear [redacted_name],\nwe reviewed the data provided for A209/215173.\nThis device has SMR5 firmware, which triggered the BD error due to the power consumption count increase.\nDevice data shows power consumption is increasing in a gradual fashion, consistent with hydrogen degradation of a component. The device is malfunctioning and should be explanted and returned for analysis.\nThere is sufficient capacity to deliver 6 shocks with charge times less than 15 seconds if replaced within 90 days from 01-Oct-2024 This replacement interval ends 30-Dec-2024.",
+    "trans": "[redacted_name]님께,\nA209/215173에 대해 제공된 데이터를 검토했습니다.\n이 장치에는 전력 소비 횟수 증가로 인해 BD 오류가 발생한 SMR5 펌웨어가 있습니다.\n장치 데이터에 따르면 부품의 수소 성능 저하와 일치하여 전력 소비가 점진적으로 증가하고 있습니다. 장치가 오작동하고 있으므로 이식 후 분석을 위해 반환해야 합니다.\n2024년 10월 1일부터 90일 이내에 교체하면 15초 미만의 충전 시간으로 6회 충격을 전달할 수 있는 충분한 용량이 있습니다. 이 교체 간격은 2024년 12월 30일에 끝납니다."
+}

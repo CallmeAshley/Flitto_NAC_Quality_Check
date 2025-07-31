@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Microsoft account\nYour account recovery request for [redacted_email]\nHello,\nThank you for contacting Microsoft Support.\nWe recently received a request to recover your Microsoft account [redacted_email]. Unfortunately, we have determined that the information you provided was not sufficient for us to validate your account ownership. We take the security and privacy of our customers very seriously and are committed to protecting your personal information.\nHere are few tips below to help you complete the form:",
+    "trans": "Compte Microsoft\nVotre demande de récupération de compte pour [redacted_email]\nBonjour,\nMerci d'avoir contacté le support Microsoft.\nNous avons récemment reçu une demande de récupération de votre compte Microsoft [redacted_email]. Malheureusement, nous avons déterminé que les informations que vous avez fournies ne sont pas suffisantes pour valider la propriété de votre compte. Nous prenons très au sérieux la sécurité et la confidentialité de nos clients et nous nous engageons à protéger vos informations personnelles.\nVoici quelques conseils pour vous aider à remplir le formulaire :"
+}

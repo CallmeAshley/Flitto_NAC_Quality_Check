@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "uk_UA",
+    "text": "is a set of guidelines implemented to ensure the integrity, confidentiality, and availability of an operating system (OS).\nThe following are some of the key elements of an Operating System Security Policy:\nAccess control\nPatch management\nMonitoring and auditing\nConfiguration management\nIncident response\nPhysical security\nData backup and recovery\nImplementation of an Operating System Security Policy ensures that the operating system remains secure, reducing the risk of unauthorized access and minimizing the potential impact of breaches on the organization.",
+    "trans": "є набором інструкцій, реалізованих для забезпечення цілісності, кофіденційності та доступності операційної системи (ОС).\nНаступні елементи є ключовими в Політиці безпеки Операційної Системи:\nКонтроль доступу\nКерування виправленнями\nМоніторинг та аудит\nУправління конфігурацією\nРеакція на пригоди\nФізична безпека\nРезервне копіювання та відновлення даних\nВпровадження Політики безпеки Операційної системи забезпечує те, що операційна система залишається безпечною, зменшуючи ризик неавторизованого доступу та мінімізації потенційного впливу зламів на організацію."
+}

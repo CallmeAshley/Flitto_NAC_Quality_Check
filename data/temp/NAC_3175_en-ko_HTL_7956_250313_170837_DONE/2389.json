@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Submit a zipped Maya project folder to the Box link below.\nChess_Lastname_Firstname.zip\nChess_Zelinsky_Connor.zip\nEmbed your SketchFab viewer to the Discussion Post.\nSet the width and height to 800x500.\nMaya Project Folder\nScenes\nMaya files (.ma)\nChess_Lastname_Firstname.ma\nChess_Lastname_Firstname_SF.ma (SketchFab layout)\nDo not include any FBX files or other files created during the assignment.\nSource Images\nThe sourceimages folder will have all exported textures for PBR Metallic Roughness.\nDo not include the Substance Painter Project (.spp) files.\nImages",
+    "trans": "압축된 마야 프로젝트 폴더를 아래의 Box 링크로 제출하세요.\nChess_Lastname_Firstname.zip\nChess_Zelinsky_Connor.zip\n토론 게시물에 SketchFab 뷰어를 삽입하세요.\n너비와 높이를 800x500으로 설정하세요.\n마야 프로젝트 폴더\n장면\n마야 파일(.ma)\nChess_Lastname_Firstname.ma\nChess_Lastname_Firstname_SF.ma(SketchFab 레이아웃)\n과제 중에 생성된 FBX 파일이나 다른 파일은 포함하지 마세요.\n원본 이미지\nsourceimages 폴더에는 PBR Metallic Roughness에 대한 모든 반출된 텍스처들이 있습니다.\nSubstance Painter Project(.spp) 파일은 포함시키지 마세요.\n이미지"
+}

@@ -1,0 +1,35 @@
+[Numeric Format]
+
+Definition:  
+French formatting uses:  
+- A **comma (`,`)** as the decimal separator.  
+- A **space** as the grouping separator every three digits in the integer part.  
+- No grouping is applied after the decimal point.  
+
+Examples:  
+- 1 234,56  
+- 123 456 789,00  
+- Invalid: 1234567,89 (missing group separators)  
+- Invalid: 1.000,25 (wrong decimal separator)
+
+Evaluation Criteria:  
+- Use commas for decimal points.  
+- Use spaces every three digits in the integer part.  
+- Do not use any grouping after the decimal separator.  
+- No space should exist between digits and separators unless specified.  
+- Accept numbers with any decimal precision if separators are applied correctly.
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

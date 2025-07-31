@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "You will now be aware of attendance being recorded via a QR code system in classes. Please be advised that the system is set up in a way where each student must record their individual attendance using their own mobile device while being present in the session and should never attempt to scan for anyone else or share the code in any way. Any misuse of the system may not only result in error messages being prompted and attendance not being taken, but will also be reported through the activity logs. This includes any attempts to scan for additional people and using the QR code outside the room.",
+    "trans": "이제 수업 시간에 QR 코드 시스템을 통해 출석이 기록된다는 것을 알게 될 것입니다.  시스템은 각 학생이 세션에 참석하는 동안 자신의 모바일 기기를 사용하여 개별 출석을 기록해야 하며 어떤 방식으로든 다른 사람을 스캔하거나 코드를 공유하려고 시도해서는 안 되는 방식으로 설정되어 있습니다. 시스템을 오용하면 오류 메시지가 표시되고 출석이 이루어지지 않을 뿐만 아니라 활동 로그를 통해 보고됩니다. 여기에는 추가 인원을 스캔하려는 시도와 방 밖에서 QR 코드를 사용하려는 시도가 포함됩니다."
+}

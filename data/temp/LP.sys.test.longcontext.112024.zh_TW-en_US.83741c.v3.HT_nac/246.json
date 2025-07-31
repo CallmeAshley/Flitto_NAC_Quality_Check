@@ -1,0 +1,6 @@
+{
+    "source": "zh_TW",
+    "target": "en_US",
+    "text": "升級期間2.0系統(包含YouBike 2.0及2.0E)僅提供還車服務，以下功能將於作業期間內暫停使用：\n• 借車、交易扣款(還車無法扣款，將於下次租借時補扣)、補扣款\n• 官方網站、官方APP ( 無提供場站即時資訊，僅供站點位置查詢。)\n• 註冊、增刪卡片、查詢交易紀錄、投保公共自行車傷害險\n若有疑問，歡迎來電[redacted_number](一般付費)或[redacted_number] YouBike高雄24小時專線洽詢。",
+    "trans": "During the upgrade period, the 2.0 system (including YouBike 2.0 and 2.0E) only provides bike return services. The following functions will be temporarily unavailable during the operation period:\n• Deductions for bike rentals and transactions (deductions will not be made when returning a bike and will be made retroactively at the time of the next rental), and retroactive deductions\n•Official website, official APP (no real-time site information is available, except for site location inquiry.)\n• Registering, adding or deleting cards, checking transaction records, and applying for public bicycle injury insurance\nIf you have any questions, please call [redacted_number] (regular fee applied) or YouBike Kaohsiung 24-hour hotline [redacted_number]."
+}

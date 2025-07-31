@@ -1,0 +1,27 @@
+[원문: english]
+Warning of a real issue Time Owned: more than 12 months.
+So I used mine and put up with odd behavior, often re-tuning its self even with a green indicator. I would deal with this behavior as all it does is interrupt my QSO.
+Then I hooked up an amp to it, I would put it in standby and try to stop this problem, then it happened, it started re-tuning and it almost blew my AMP, it caused my Hi-Power tuner to arc as well. Never again, Unreliable, Unpredictable!
+IT9AHH Rating: 2015-11-09
+problems with 100watts cw Time Owned: 0 to 3 months.
+my experience with ldg z11 pro2 version:
+with 100 watts cw this tuner goes always stby.
+the user manual should indicate the real duty cycle limits per cw mode.
+
+[번역문: turkish]
+Gerçek bir sorunun uyarısı Zaman Sahipliği: 12 aydan fazla.
+Bunu kullandım ve yeşil gösterge olsa bile sıklıkla kendisini yeniden ayarlayan garip davranışlarla başa çıktım. Bu davranışı, tek yaptığı şeyin QSO'mu kesmek olduğunu bildiğim için göz ardı ederdim.
+Sonra bir amfi bağladım, standbaya aldım ve bu problemi engellemeye çalıştım, sonra oldu, yeniden ayar yapmaya başladı ve neredeyse amfimi patlatıyordu, aynı zamanda Hi-Power akort cihazımda da kıvılcım oluştu. Bir daha asla, Güvensiz, Tahmin Edilemez!
+IT9AHH Derecelendirme: 2015-11-09
+100 watt cw ile ilgili sorunlar Zaman Sahipliği: 0 ila 3 ay.
+LDG Z11 Pro2 sürümüyle deneyimim:
+100 watt cw ile bu akort cihazı sürekli olarak standby'ya geçiyor.
+Kullanıcı kılavuzunda cw modunda gerçek görev döngüsü limitlerinin belirtilmesi gerekir.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜 "2015-11-09"는 영어 형식으로 되어 있으며, 터키어 형식인 "9 Kasım 2015"로 수정해야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

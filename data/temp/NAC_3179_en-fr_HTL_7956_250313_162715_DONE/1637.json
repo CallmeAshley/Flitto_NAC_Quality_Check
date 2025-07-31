@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "HI there, sorry for the late reply. I just checked with Prof. Borrion who is the author of this section. Basically, what the tutorial wants you to do is that assuming the pink patches are just normal patches where the turtles can move, you need to make turtles dynamically identify these intersections on move. It's not about identifying the coordinates of these interactions when initialising the world or the terrain.",
+    "trans": "Bonjour, désolé pour ma réponse tardive. J'ai consulté le Professeur Borrion, l'auteur de cette section. En gros, ce que le tutoriel veut que vous fassiez, c'est que vous supposiez que les zones roses sont simplement des zones normales où les tortues peuvent se déplacer, et vous devez faire en sorte que les tortues identifient dynamiquement ces intersections en se déplaçant. Il ne s'agit pas d'identifier les coordonnées de ces interactions lors de l'initialisation du monde ou du terrain."
+}

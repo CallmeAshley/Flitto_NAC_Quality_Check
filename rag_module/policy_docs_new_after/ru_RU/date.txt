@@ -1,0 +1,35 @@
+[Date Format]
+
+Definition:  
+Russian dates follow the **Day → Month → Year** order.  
+If a weekday is present, it is placed **before the date** and separated by a comma.  
+The letter `г.` (short for “год”, year) often follows the year in formal formats.  
+Dots (`.`) are used in short formats.
+
+Examples:  
+- понедельник, 28 июля 2025 г.  
+- 28 июля 2025 г.  
+- 28.07.2025  
+- 28.07.25
+
+Evaluation Criteria:
+- Confirm date order is Day → Month → Year.
+- If weekday is present, it must precede the date and be followed by a comma.
+- Accept both long-form and dotted short formats.
+- `г.` should be used when included in the original.
+- **Do not generate a weekday unless it exists in the source.**
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

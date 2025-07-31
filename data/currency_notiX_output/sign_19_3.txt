@@ -1,0 +1,27 @@
+[원문: portuguese]
+O Wrangler SPORT conta com um Hard Top preto modular Freedom Top, jantes FORGED , vidros laterais traseiros e vidro traseiro escurecidos, sistema de áudio Premium Alpine (8 altifalantes , subwoofer e amplificador de watts 552), moca em pele, degraus laterais com textura antiderrapante, cavas das rodas na cor da carroçaria, bancos dianteiros aquecidos, sensor crepuscular, sistema mãos-livres Uconnect Phone Bluetooth, display para monitorização da pressão dos pneus, volante em pele com comandos de áudio integrados e rádio com leitor de CD/DVD/MP3 e entrada aux, disco rígido de 40GB. etc...
+equipamento extremo: (No valor de mais de 25.000 euros)
+BLOQUEIOS ARB *1999x2=3998 euros
+SUSPENSAO TERAFLEX FALCON CUMPRIDA SP2 *1840 euros*
+MOLAS H&R euros*
+EIXOS REFORCADOS DANA *3740 euros*
+JANTES "METHOD RECE WHELL" MATTE BLACK FORGED .*2560 euros*
+SUPERWINCH TIGERSHARK TS9500 SR * 1240 euros* Line Pull, 9,500 lbs: 340 Amps Motor Draw/4 FPM (1.2 MPM) Line Speed.
+
+[번역문: english]
+Wrangler SPORT features a Freedom Top modular black Hard Top, FORGED wheels, tinted rear side windows and rear window, Alpine premium audio system (8 speakers, subwoofer and 552-watt amplifier), leather seats, side steps with non-slip texture, body-coloured wheel arches, heated front seats, twilight sensor, Uconnect Phone Bluetooth hands-free system, tyre pressure monitoring display, leather steering wheel with integrated audio controls and radio with CD/DVD/MP3 player and aux entry, 40GB hard drive, etc...
+extreme equipment: (valued at more than 25,000 euros)
+ARB LOCKERS *1999x2=3998 euros
+TERAFLEX FALCON FULL SP2 SUSPENSION  *1840 euros*
+H&R CLIPS euros*
+DANA REINFORCED AXLES *3740 euros*
+"METHOD RECE WHELL" MATTE BLACK FORGED WHEELS. *2560 euros*
+SUPERWINCH TIGERSHARK TS9500 SR * 1240 euros* Line Pull, 9,500 lbs: 340 Amps Motor Draw/4 FPM (1.2 MPM) Line Speed.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "9,500 lbs"에서 천 단위 구분자가 올바르게 사용되었으나, 다른 숫자들(예: 1999, 3998, 1840 등)에서 천 단위 구분자가 누락되었습니다.
+    - 통화 표기 오류: "25,000 euros", "3998 euros", "1840 euros" 등에서 유로 기호(€)가 숫자 앞에 위치해야 합니다.

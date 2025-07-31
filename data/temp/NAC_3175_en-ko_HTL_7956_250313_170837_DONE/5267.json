@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Tangent Lines\nThe first problem that we’re going to take a look at is the tangent line problem. Before getting into this problem it would probably be best to define a tangent line.\nA tangent line to the function f(x) at the point x = a is a line that just touches the graph of the function at the point in question and is “parallel” (in some way) to the graph at that point. Take a look at the graph below.",
+    "trans": "접선\n우리가 살펴볼 첫 번째 문제는 접선 문제입니다. 이 문제를 다루기 전에 접선이 무엇인지 정의하는 것이 좋겠습니다.\n함수 f(x)의 x = a에서의 접선은 해당 지점에서 함수의 그래프와 단지 한 점에서 닿는 직선이며 그 지점에서 그래프와 \"평행\" (어떤 방식으로든)하다고 할 수 있습니다. 아래 그래프를 한번 보세요."
+}

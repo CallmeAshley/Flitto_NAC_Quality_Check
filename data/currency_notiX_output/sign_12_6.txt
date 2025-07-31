@@ -1,0 +1,105 @@
+[원문: arabic]
+الجديد إلى موعد استﻼم المكافاءة
+اﻻولى
+١٠ اﻻلف الى ١٥ الف
+تكلفة السكن للعوائل (باليوان
+٣٠٠٠ الى ٤٠٠٠ الصيني)
+تكلفة السكن للعزاب (باليوان
+١٥٠٠ الى ٢٥٠٠ الصيني)
+متوسط تكلفة الكهرباء والماء في
+من ٢٠٠ الى ٣٠٠ المدينه
+من ١٠٠ الى ٢٠٠ رسوم خدمه للسكن
+٦٠٠٠ واكثرمتوسط تكلفة المعيشة للعوائل
+٥٠٠٠ واكثرمتوسط تكلفة المعيشة للعزاب
+من ١٠٠ الى ٢٠٠ تكلفة خدمات اﻻنترنت للفرد شهريﺎً
+هل يوجد مدارس سعودية في
+ﻻ يوجدالمدينه
+هل يوجد مدارس عالمية او عربية
+في المدينه؟
+(اذا نعم كم التكلفة التقريبيه
+للطفل الواحد)
+٥٠٠٠ واكثر
+WUHAN UNIVERSITY OF
+TECHNOLOGY
+اسعار وجودة الخدمات الصحيه في
+خدمه متوسطه واسعار متوسطهالمدينه
+قليله جدا المطاعم العربية
+نعمهل يوجد مقاهي مختصه؟
+تعامل الجامعة مع الطﻼب
+مقبول السعوديين
+دراسة مكثفة الى ٩م اوقات دراسة اللغة في الجامعة
+منهج جامعة بكينمنهج اللغة في الجامعة
+هل يشترط السكن في سكن
+ﻻ الجامعة لمدة سنه؟
+المواصﻼت
+ميترو
+ﻻ يوجد ميترو
+باصات
+تاكسي
+تحتاج سيارة
+تحتاج دباب
+HUAZHONG UNIVERSITY OF
+SCIENCE AND TECHNOLOGY
+Huazhong University of Science and Technology اسم الجامعة
+Wuhan اسم المدينه
+معتدل مناخ المدينه
+متقطعمعدل هطول اﻻمطار
+متقطعمعدل تساقط الثلوج
+جيدة نوعا مالغة اهل المدينه
+
+[번역문: english]
+the new until the date of receiving the bonus
+The first
+10,000 to 15,000
+Family accommodation cost (in yuan
+3000 to 4000 CNY)
+Single Accommodation Cost (in yuan
+1500 to 2500 CNY)
+Average Cost of Electricity and Water in
+the city from 200 to 300
+Housing Service Fees from 100 to 200
+Family Living Expenses 6000+ CNY
+Single Person Living Expenses 5000+CNY
+Monthly Internet Cost Per Person 100 to 200 CNY
+Are there Saudi schools in
+the city None
+Are there International or Arab Schools
+in the City?
+(If yes, What is the approximate cost
+per a child)
+5000+
+WUHAN UNIVERSITY OF
+TECHNOLOGY
+Healthcare Pricing and Quality in
+the City Moderate Service Quality and Prices
+Limited Arabic Dining Options
+Are there specialized cafes? Yes
+The university's treatment with the Saudi
+students satisfactory
+Times of the language program at the university Intensive study until 9PM
+Language Curriculum at the University Peking University Standard
+Is it required to live in the housing of
+the university for one year? No
+Transportation
+Metro
+There is no Metro
+Buses
+Taxi
+You need a car
+You need a pickup
+HUAZHONG UNIVERSITY OF
+SCIENCE AND TECHNOLOGY
+University Name Huazhong University of Science and Technology
+City Name: Wuhan
+City Climate: Mild
+Rainfall rate Intermittent
+Snowfall rate Intermittent
+Language of the people in the city Rather good
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호 CNY가 숫자 뒤에 위치함. 정책에 따르면 통화 기호는 숫자 앞에 위치해야 함.

@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Units of Energy and Power. Equation (1.1) is not correct dimensionally. This is because here we are using the term energy not in its conventional sense, but to indicate the signal size. The same observation applies to Eq. (1.2) for power. The units of energy and power, as defined here, depend on the nature of the signal x(t). If x(t) is a voltage signal, its energy Ex has units of volts squared-seconds (V2 s), and its power Px has units of volts squared. If x(t) is a current signal, these units will be amperes squared-seconds (A2 s) and amperes squared, respectively.",
+    "trans": "Unités d'énergie et de puissance. L'équation (1.1) n'est pas correcte sur le plan dimensionnel. C'est parce que nous utilisons ici le terme énergie non pas dans son sens conventionnel, mais pour indiquer la taille du signal. La même observation s'applique à l'équation (1.2) pour la puissance. Les unités d'énergie et de puissance, telles que définies ici, dépendent de la nature du signal x(t). Si x(t) est un signal de tension, son énergie Ex a des unités de volts carrés-secondes (V² s), et sa puissance Px a des unités de volts carrés. Si x(t) est un signal de courant, ces unités seront des ampères carrés-secondes (A² s) et des ampères carrés, respectivement."
+}

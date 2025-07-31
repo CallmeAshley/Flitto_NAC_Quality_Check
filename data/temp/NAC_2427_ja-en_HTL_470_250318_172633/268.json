@@ -1,0 +1,6 @@
+{
+    "source": "ja_JP",
+    "target": "en_US",
+    "text": "スレーブ1から4個のポテンショメータの値を取得し、スレーブ2へ4個のマイクロサーボの指令値を設定する。\nスレーブ1\nハードウェア: Arduino Uno + EasyCAT Shield\n依存ライブラリ: EasyCAT Library V2.0\nスケッチ: ec_slave1/ec_slave1.ino\n入力デバイス: ポテンショメータ(可変抵抗 B型 10kΩ) × 4個",
+    "trans": "Retrieve the values from four potentiometers on Slave 1, and send command values for four micro servos to Slave 2.\nSlave 1\nHardware: Arduino Uno + EasyCAT Shield\nDependent Library: EasyCAT Library V2.0\nSketch: ec_slave1/ec_slave1.ino\nInput Devices: Four potentiometers (B-type 10kΩ variable resistors)"
+}

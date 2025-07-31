@@ -1,0 +1,13 @@
+[원문: english]
+I am now writing this letter to explain my family’s financial status to your embassy. My father, [redacted_name], has been working in Malong County Old County Street Wubing Cement Pipe Factory for 6 years and is currently holding the position of Factory director and Legal person of the factory. His monthly income (after tax) is about RMB 120,000 yuan and his annual income (after tax) is about RMB 1,200,000 yuan. Please see her Income Certificate and Business License issued by the factory. Apart from his income certificate, we provide his official bank statement from the China Construction Bank, account no.: [redacted_number]. As of October 8, 2024, the balance in this account is RMB 20,776.05 Yuan. My mother, [redacted_name], is a full-time housewife and mainly manages the family's savings, we have provided her official bank statement from the Agricultural Bank of China, account no.: [redacted_number]. As of October 8, 2024, the balance in this account is RMB 201,624.53 Yuan. Besides that, I also provide my bank statement from the China Construction Bank for your reference.
+
+[번역문: ukrainian]
+Я зараз пишу цей лист, щоб пояснити фінансовий стан моєї родини вашому посольству. Мій батько, [redacted_name], працює на цементному трубному заводі Wubing в окрузі Малун вже 6 років і наразі займає посаду директора заводу та юридичної особи заводу. Його місячний дохід (після сплати податків) становить близько 120,000 юанів, а річний дохід (після сплати податків) становить близько 1,200,000 юанів. Будь ласка, ознайомтеся з його сертифікатом доходу та ліцензією на ведення бізнесу, виданими заводом. Окрім сертифікату доходу, ми надаємо його офіційний банківський виписок з рахунку в China Construction Bank, номер рахунку: [redacted_number]. Станом на 8 жовтня 2024 року залишок на цьому рахунку становить 20,776.05 юанів. Моя мати, [redacted_name], є домогосподаркою і головним чином управляє заощадженнями сім'ї, ми надали її офіційний банківський виписок з Agricultural Bank of China, номер рахунку: [redacted_number]. Станом на 8 жовтня 2024 року залишок на цьому рахунку становить 201,624.53 юанів. Крім того, я також надаю свій банківський виписок з China Construction Bank для вашої інформації.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 숫자 표기에서 천 단위 구분이 쉼표로 되어 있으며, 정책에 따라 공백으로 구분해야 합니다. 예: "120,000"은 "120 000"으로, "1,200,000"은 "1 200 000"으로 표기해야 합니다.
+    - 통화 표기 오류: 없음

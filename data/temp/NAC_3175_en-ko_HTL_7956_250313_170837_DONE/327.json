@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "The following precautions shall be implemented during the fire alarm interface testing:\n· Access to the mall will be limited to parking levels P1 and P2 only; all other entry barriers will be closed in accordance with the fire alarm protocol (exits will remain open).\n· The back-of-house (BoH) service lifts will be stationed on the ground floor and will be inactive during the testing.\n· Fire curtains will be deployed.\n· The front-of-house (FoH) elevators, escalators, and travelators will not be in operation.\n· Security personnel have been briefed to assist customers.\n· Air conditioning in common areas will be turned off.",
+    "trans": "화재 경보 인터페이스 테스트 중에는 다음과 같은 예방조치를 시행해야 합니다.\n· 쇼핑몰로의 출입은 주차 레벨 P1 및 P2로만 제한됩니다. 다른 모든 진입 장벽들은 화재경보 프로토콜에 따라 닫힙니다(출구는 계속 열려 있음).\n· 백오브더하우스(BoH)의 서비스 엘리베이터는 1층에 배치되며 테스트 중에는 작동하지 않습니다.\n· 방화 커튼이 배치됩니다.\n· 프론트오브더하우스(FoH)의 엘리베이터, 에스컬레이터 및 무빙워크는 작동하지 않습니다.\n· 보안 인력은 고객을 돕기 위한 브리핑을 받았습니다.\n· 공용 구역의 에어컨들은 꺼집니다."
+}

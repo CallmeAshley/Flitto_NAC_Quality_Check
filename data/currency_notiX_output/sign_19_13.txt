@@ -1,0 +1,15 @@
+[원문: portuguese]
+Depois da saga dos festivais de verão dedicados à música — que aqui também não está excluída, mas já lá vamos —, o cinema e a televisão são os grandes focos do Tribeca Festival Lisboa. O evento vai decorrer no Beato Innovation District, um local que por si só une aquilo que este evento quer representar: a mistura da tradição com a inovação.
+O espaço divide-se em quatro palcos. No Tribeca Talks, além dos fundadores, vão passar nomes como [redacted_name] [redacted_name], [redacted_name], [redacted_name], [redacted_name] [redacted_name] Pereira e tantos outros. Além da história do festival, contada pelos seus fundadores na primeira talk do evento, pelas 12h40 do dia 18, por aqui haverá discussões à volta de temas como o que faz uma grande história, o poder da comédia e do drama na saúde mental, qual é a próxima “grande coisa” no entretenimento ou o impacto da inteligência artificial.
+
+[번역문: english]
+Following a series of summer festivals focused on music ─ which will also be featured here, though more on that later ─ cinema and television take center stage at the Tribeca Festival Lisboa. The event will be held in the Beato Innovation District, a location that perfectly embodies the essence of this festival: a blend of tradition and innovation.
+The venue is divided into four stages. In addition to the festival's founder, Tribeca Talks will feature notable names such as [redacted_name], [redacted_name], [redacted_name], [redacted_name], [redacted_name] Pereira, and many others. Alongside the festival's history, which will be shared by its founders in the opening talk on the 18th at 12.40, the event will host discussions on a variety of topics, including the elements of a great story, the power of comedy and drama in mental health, the future of entertainment, and the impact of artificial intelligence.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜가 "18th"로 표기되어 있으나, 미국 영어에서는 "October 18"과 같은 형식으로 월과 날짜를 표기해야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

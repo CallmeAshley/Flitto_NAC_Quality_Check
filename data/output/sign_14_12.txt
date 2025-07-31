@@ -1,0 +1,49 @@
+[원문: indonesian]
+Pewarta : [redacted_name]
+Editor : [redacted_name]
+COPYRIGHT © ANTARA 2024
+BERITA TERKAIT
+Dubes RI untuk Vietnam yakin tim bola basket Indonesia masuk final ASG
+Selasa, 4 Juni 2024 11:07 Wib
+Prabowo Subianto sebut Indonesia perkuat kerja sama pertahanan dengan Singapura
+Sabtu, 1 Juni 2024 14:31 Wib
+KSAU bertemu Angkatan Udara Singapura bahas kerja sama pertahanan
+Rabu, 15 Mei 2024 9:42 Wib
+Pangkalan TNI AL Palembang gagalkan penyelundupan lobster ke Singapura
+Senin, 6 Mei 2024 14:54 Wib
+UMKM binaan BNI berpartisipasi pada pameran di Singapura
+Kamis, 18 April 2024 15:25 Wib
+Ini cara hadapi keluhan kesehatan usai libur Lebaran
+Senin, 15 April 2024 16:46 Wib
+Ahli Kesehatan sebut kondisi tidak boleh dipaksakan usai libur Lebaran
+Senin, 15 April 2024 9:27 Wib
+BPOLBF-Garuda Indonesia gelar famtrip tarik wisatawan Singapura
+
+[번역문: english]
+Reporter: [redacted_name]
+Editor : [redacted_name]
+COPYRIGHT © ANTARA 2024
+RELATED NEWS
+Indonesian Ambassador to Vietnam believes the Indonesian basketball team will make it to the ASG finals
+Tuesday, June 4, 2024, 11:07 AM WIB
+Prabowo Subianto states Indonesia strengthens defense cooperation with Singapore
+Saturday, June 1, 2024, 14:31 PM WIB
+Indonesian Air Force Chief meets with Singapore Air Force to discuss defense cooperation
+wednesday, may 15, 2024, 9:42 AM WIB
+Indonesian National Armed Force Navy Base in Palembang foils lobster smuggling attempt to Singapore
+Monday, May 6, 2024, 14:54 PM WIB
+BNI-supported MSMEs participate in the exhibition in Singapore
+Thursday, April 18, 2024, 15:25 PM WIB
+How to address health complaints after Eid holidays
+monday, april 15, 2024, 16:46 PM WIB
+Health experts state body conditions should not be stressed after Eid holidays
+monday, april 15, 2024, 9:27 AM WIB
+BPOLBF-Garuda Indonesia organizes famtrip to attract tourists from Singapore
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 일부 날짜의 요일과 월 이름이 소문자로 시작됨 (예: "wednesday, may 15, 2024")
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

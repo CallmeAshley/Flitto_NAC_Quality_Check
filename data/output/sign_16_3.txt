@@ -1,0 +1,19 @@
+[원문: japanese]
+■ キャンペーン概要
+キャンペーン期間中に bitFlyer Crypto CFD で最小発注数量（ 0.001 BTC-CFD ）以上取引されたお客様の中から、抽選で最大 50 名様に 0.001 BTC（現物）をプレゼントいたします。
+■ キャンペーン期間
+2024 年 10 月 21 日（月）～ 2024 年 11 月 21 日（木） 23 時 59 分まで（日本時間）。
+
+[번역문: english]
+■ Campaign Details
+During the campaign period, customers who trade at least the minimum order quantity (0.001 BTC-CFD) on bitFlyer Crypto CFD will have the chance to win 0.001 BTC (in actual cryptocurrency) through a lottery. Up to 50 winners will be selected.
+■ Campaign Period
+From October 21 2024 (Monday) to November 21 2024 (Thursday) 11:59 PM (Japan Time).
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜 형식이 "October 21 2024"로 되어 있으며, 정책에 따라 "October 21, 2024"로 쉼표가 필요합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 없음

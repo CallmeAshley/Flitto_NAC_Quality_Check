@@ -1,0 +1,43 @@
+[원문: polish]
+Pobieramy również informacje z KRS-u za dodatkową opłatą tj. 100 zł+ VAT = 123 zł za jedną osobę
+Gdyby były Panie zainteresowane tą usługą proszę mnie powiadomić wyślę potrzebne druki.
+Ubezpieczenie do licencji:
+- proszę przysłać numery rejestracyjne pojazdów, zrobimy wszystko mailowo.
+- kopia certyfikatu kompetencji zawodowych, może być mailowo
+- dowody rejestracyjne pojazdów do licencji - mailowo
+Opłata do Inspektoratu za licencję
+- zezwolenie na wykonywanie zawodu przewoźnikadrogowego - 1000 zł
+- licencja międzynarodowa- 4000 zł
+- każdy wypis z licencji - 440 zł (ile pojazdów tylewypisów)
+Moja opłata za pomoc w uzyskaniu licencji jest 400 zł+ VAT = 492 zł i na taką kwotę wystawiam fakturę
+Obsługą wniosków zajmują się 3 osoby dlatego wysyłam 3 upoważnienia. Proszę postawić pieczątkę w górnym lewym rogu, podpisać i przysłać w oryginale.
+Reasumując proszę przysłać pocztą bądź kurierem następujące dokumenty:
+- druki ON, druk OC, zaświadczenia z KRS -u, upoważnienia. Adres w mailu.
+Firma musi mieć prawo dysponowania siedzibą firmy, muszą być na to dokumenty, proszę zeskanować i przysłać mailem,oraz bazę transportową gdzie mogą stać pojazdy firmowe. Proszę również przysłać mailem umowę bazy, jeżeli adres bazy jest inny niż siedziba firmy.
+Przesyłam numery kont na opłatę za licencję i opłatę skarbową do upoważnienia
+
+[번역문: english]
+We also collect data from the National Court Register for an extra fee, i.e. PLN 100 + VAT = PLN 123 per person
+If you are interested in this service, please let me know, and I will send the required forms.
+License insurance:
+- Please send the registration IDs of the vehicles, and we will handle everything via email.
+- copy of professional competence certificate, optionally by email
+- vehicle registration certificates - by email
+Fee to the Inspectorate for the license
+- road carrier license - 1,000 zł
+- international license - 4,000 zł
+- each license copy - 440 zł (one copy for each vehicle)
+My commission for assisting in obtaining the license is 400 zł + VAT (492 zł) and is invoiceable
+Requests are handled by three people, so I'm sending three authorizations. Please place your stamp in the upper left corner, sign, and send the original copy.
+To sum up, please send the following documents by mail or courier:
+- ON form, OC form, KRS certificates and authorizations. Address is provided in the email.
+A company must have the right to administer its office, needs to have necessary documents, please scan and send by email as well as provide the transportation depot where business vehicles are allowed to be parked. Please send a depot contract by email if the depot address is different than the company's office.
+I'm sending the account details for the license fees and the stamp duty for the authorization
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: 통화 기호 "PLN"이 숫자 앞에 위치해야 합니다. 예: PLN 1,000 -> 1,000 PLN.

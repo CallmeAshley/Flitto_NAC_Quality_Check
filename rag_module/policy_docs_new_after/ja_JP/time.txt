@@ -1,0 +1,28 @@
+[Time Format]
+
+Definition:  
+Japanese uses the **24-hour clock** system.  
+- The full format uses **kanji units** for hours (時), minutes (分), and seconds (秒).  
+- Colons (`:`) are used in digital or abbreviated formats.  
+- Time zone names (e.g., 日本標準時) should not be included unless explicitly stated in the source.
+
+Examples:  
+- 14時30分45秒  
+- 14:30  
+- 14:30:45  
+
+Evaluation Criteria:  
+- Use either kanji-based or colon-based format depending on context.  
+- Do not use AM/PM.  
+- Do not include time zone unless present in the original.
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

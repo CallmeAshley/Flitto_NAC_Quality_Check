@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Newbie here. I recently purchased a Universal Audio Apollo Twin X Duo Heritage interface. I'm using Logic Pro for music production and I recognised that when I load in a Neural DSP plugin on any of my guitar tracks, even if I turn on direct monitoring in Logic, I can only hear the sound of the guitar during playback. Is there a way I can hear the sound of the plugin while recording?\nThanks in advance!",
+    "trans": "초보자입니다. 최근에 유니버설 오디오 아폴로 트윈 X 듀오 헤리티지 인터페이스를 구매했습니다. 저는 음악 제작을 위해 로직 프로를 사용하고 있는데 어떤 기타 트랙이든 네추럴 DSP 플러그인을 불러들이면 로직에서 직접 모니터링을 켜놓는데도 불구하고, 녹음한 걸 재생할 때만 소리가 들린다는 것을 알게 되었습니다. 녹음할 때도 기타 소리를 듣는 방법이 있을까요?\n미리 감사드립니다!"
+}

@@ -1,0 +1,136 @@
+[Locale: pt-PT]
+
+[Numeric Format]
+
+Definition:  
+Portuguese follows continental European numeric formatting:
+- A **comma (`,`)** is used to represent decimal points.
+- A **dot (`.`)** is used every three digits in the integer part for grouping.
+- No grouping is applied after the decimal point.
+
+Examples:  
+- 1.234,56  
+- 123.456.789,00
+
+Evaluation Criteria:
+- Use a dot for digit grouping in the integer part.
+- Use a comma for decimal points.
+- No grouping after the decimal.
+- Do not insert spaces between digits and separators.
+
+---
+
+[Currency Format]
+
+Shared Principle for Currency Symbols and Codes:  
+LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
+Even if the currency is not the euro (€), the original representation format — **symbol**, **code**, or **name** — must be preserved in the translation.  
+Only **positioning and spacing** should be adapted according to Portuguese conventions.
+
+Expected currency symbols include:  
+€, $, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
+
+Expected ISO currency codes include:  
+EUR, USD, JPY, GBP, KRW, CNY, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+
+Important:  
+Do not convert between currency formats.  
+If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
+Do not rewrite it as a **name** (`400 dólares`) or **code** (`USD 400`).  
+The same applies in reverse. Always preserve the representation type from the source.
+
+---
+
+1. Currency Symbol Format
+
+Definition:  
+The currency symbol (e.g., €) appears **before the number**, with a **space**.
+
+Examples:  
+- € 1.234,56  
+- $ 850,00  
+- ¥ 10.000,00  
+
+Evaluation Criteria:
+- Symbol must appear before the number.
+- Use a space between the symbol and the number.
+- Number formatting must follow the [Numeric Format] rules.
+
+---
+
+2. Currency Code Format
+
+Definition:  
+Currency codes (e.g., EUR, USD) are also written **before the number**, separated by a **space**.
+
+Examples:  
+- EUR 1.234,56  
+- USD 2.000,00  
+- JPY 10.000,00  
+
+Evaluation Criteria:
+- Code must precede the number.
+- A space must separate code and number.
+- Follow the [Numeric Format] rules for number formatting.
+- Codes must use uppercase letters (e.g., USD, EUR).
+
+---
+
+3. Currency Name Format
+
+Definition:  
+Currency names such as “euro”, “dólar”, or “iene” appear **after the number**, with a space.  
+Currency names are written in lowercase.
+
+Examples:  
+- 1.000 euros  
+- 850 dólares  
+- 10.000 ienes  
+- 500 libras  
+- 1.200 wons  
+- 300 yuans  
+
+Evaluation Criteria:
+- Currency names must follow the number with a space.
+- Names should be lowercase and follow Portuguese spelling conventions.
+- Follow [Numeric Format] rules for number formatting.
+- Do not generate currency names unless they appear in the source.
+
+---
+
+[Date Format]
+
+Definition:  
+Portuguese dates follow the **Day → Month → Year** order.  
+If a weekday is present, it must appear **before the date**, followed by a comma.  
+The “de” preposition is used between day, month, and year in long formats.  
+Slashes (`/`) are used in numeric formats.
+
+Examples:  
+- segunda-feira, 28 de julho de 2025  
+- 28 de julho de 2025  
+- 28/07/2025  
+- 28/07/25  
+
+Evaluation Criteria:
+- Confirm date order is Day → Month → Year.
+- If weekday is present, it appears before the date and is followed by a comma.
+- Accept both prepositional long forms and numeric short forms.
+- **Do not generate a weekday unless it exists in the source.**
+
+---
+
+[Time Format]
+
+Definition:  
+Portuguese uses the **24-hour clock**, with colons (`:`) separating time units.  
+Time zone names (e.g., “horário de verão da Europa Ocidental”) should not be included unless explicitly stated.
+
+Examples:  
+- 14:30  
+- 14:30:45  
+
+Evaluation Criteria:
+- Use colons between hours, minutes, and seconds.
+- Do not use AM/PM markers.
+- Include time zones only if present in the original.

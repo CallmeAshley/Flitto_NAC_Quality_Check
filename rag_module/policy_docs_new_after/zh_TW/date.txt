@@ -1,0 +1,33 @@
+[Date Format]
+
+Definition:  
+Taiwan follows the **Year → Month → Day** format (e.g., 2025年7月28日).  
+If a weekday is included, it is placed **after** the date, separated by a space.  
+Short formats may use `/` or `-`.
+
+Examples:  
+- 2025年7月28日 星期一  
+- 2025年7月28日  
+- 2025/7/28  
+- 2025-7-28
+
+Evaluation Criteria:
+- Use Year → Month → Day order.
+- If a weekday exists, place it after the date with a space.
+- Accept long-form (`年/月/日`) and short-form (`/` or `-`) formats.
+- **Do not generate a weekday unless it exists in the source.**
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

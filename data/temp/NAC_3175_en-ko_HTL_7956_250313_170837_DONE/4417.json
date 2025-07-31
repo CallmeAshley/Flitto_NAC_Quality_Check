@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "ko_KR",
+    "text": "Evaluate implementation Green's representation of the context schema concept of player. That is, how well does the implementation provide the behaviour of player as described in the requirements.\nProvide the link to the GitHub Pull Request comment that discusses how well this concept are represented in the implementation.\nYou should only make 1 (ONE) comment and it should be attached to the most useful point in the code to support your answer.",
+    "trans": "플레이어 맥락 스키마 개념에 대한 Green의 구현을 평가하세요. 즉, 요구사항에 설명된 대로 구현이 플레이어의 행동을 얼마나 잘 제공하는지 평가하세요.\n이 개념이 구현 시 얼마나 잘 표현되었는지 논의하는 깃허브 끌어오기 요청 댓글 링크를 제공하세요.\n댓글은 오직 1(하나)개만 작성해야 하며 답변을 뒷받침하는 코드에서 가장 유용한 부분에 첨부해야 합니다."
+}

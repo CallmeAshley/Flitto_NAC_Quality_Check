@@ -1,0 +1,127 @@
+[원문: italian]
+20,72
+0,00
+1.016,66
+Somme aggiuntive omesso versamento contributi I.V.S. fissi o entro minimale
+2022
+165,90
+165,90
+0,00
+0,00
+165,90
+Contributi I.V.S. fissi/percentuale sul minimale
+2022
+995,94
+995,94
+20,72
+0,00
+1.016,66
+Somme aggiuntive omesso versamento contributi I.V.S. fissi o entro minimale
+2022
+115,69
+115,69
+0,00
+0,00
+115,69
+Inps - Spese di notifica
+2023
+4,11
+4,11
+0,00
+0,00
+4,11
+Totale Ente (€)
+3.485,46
+Diritti di notifica (€)
+Totale atto (€)
+0,00 3.485,46
+Cartella n. 04720240006620788000, notificata il 12/03/2024
+Somme che spettano agli Enti
+Descrizione
+Ente che ha emesso il ruolo: Camera di Commercio Frosinone Latina- Uff.diritto annuale
+Somme che spettano ad Agenzia delle entrate- Riscossione
+Oneri
+di riscossione5(€)
+Anno
+di riferimento del debito
+Debito originario (€)
+Debito residuo scaduto (€)
+Interessi di mora (€)
+Totale debito scaduto (€)
+Diritto annuale Camera di commercio
+2020
+53,00
+53,00
+0,88
+0,00
+53,88
+Diritto annuale Camera di commercio - sanzione pecuniaria
+2020
+
+[번역문: english]
+20,72
+0,00
+1.016,66
+Additional amounts not paid V.A.T. contributions fixed or within minimum
+2022
+165,90
+165,90
+0,00
+0,00
+165,90
+V.A.T. contributions fixed or within minimum
+2022
+995,94
+995,94
+20,72
+0,00
+1.016,66
+Additional amounts not paid V.A.T. contributions fixed or within minimum
+2022
+115,69
+115,69
+0,00
+0,00
+115,69
+National Institute for Social Security (INPS) - Notification costs
+2023
+4,11
+4,11
+0,00
+0,00
+4,11
+Total Institution (€)
+3.485,46
+Notification fees (€)
+Total act (€)
+0,00 3.485,46
+File no. 04720240006620788000, notified on 03/12/2024
+Amounts to be paid to the Entities
+Description
+Institution that issued the role: Chamber of Commerce Frosinone Latina- Annual Rights Office
+Amounts due to the Revenue Agency- Collection
+Charges
+of collection 5 (€)
+Year
+of the debt reference
+Original debt (€)
+Outstanding debt overdue (€)
+Interest on late payment (€)
+Total overdue debt (€)
+Annual rights Chamber of Commerce
+2020
+53,00
+53,00
+0,88
+0,00
+53,88
+Annual rights Chamber of Commerce - financial penalty
+2020
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 있음 - 날짜 "03/12/2024"는 미국 영어 형식에 맞지 않음. "March 12, 2024"로 표기해야 함.
+    - 숫자 표기 오류: 있음 - 소수점은 점(`.`)으로 표기해야 하나, 번역문에서는 쉼표(`,`)로 표기됨.
+    - 통화 표기 오류: 있음 - 유로 기호(€)는 숫자 앞에 위치해야 함. "€3,485.46"로 표기해야 함.

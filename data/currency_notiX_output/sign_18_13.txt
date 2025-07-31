@@ -1,0 +1,25 @@
+[원문: polish]
+uprzejmie informujemy, iż z przepisów ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie wynika, że działalność pożytku publicznego to działalność społecznie użyteczna, prowadzona przez organizacje pozarządowe w sferze zadań publicznych określonych w ustawie. Takimi organizacjami pozarządowymi są niebędące jednostkami sektora finansów publicznych i niedziałające w celu osiągnięcia zysku osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej, którym odrębna ustawa przyznaje zdolność prawną, w tym fundacje i stowarzyszenia. Art. 10a tej ustawy, pozwala żeby takie organizacje prowadziły uproszczoną ewidencję przychodów i kosztów w przypadku, gdy:
+1) działają w sferze zadań publicznych określonych w art. 4 ust. 1,
+2) nie prowadzą działalności gospodarczej,
+3) nie posiadają statusu organizacji pożytku publicznego,
+4) osiągają przychody wyłącznie: z działalności nieodpłatnej pożytku publicznego z tytułu składek członkowskich, darowizn, spadków, dotacji, subwencji oraz przychodów z innych tytułów wymienionych w tym punkcie,
+5) w roku poprzedzającym rok wyboru prowadzenia uproszczonej ewidencji przychodów i kosztów osiągnęły przychody wyłącznie z tytułów, o których mowa w pkt 4, w wysokości nieprzekraczającej 100.000 zł.
+Decyzję w sprawie prowadzenia takiej uproszczonej ewidencji przychodów i kosztów podejmuje organ zatwierdzający w rozumieniu przepisów o rachunkowości.
+
+[번역문: english]
+please note that the Act of 24 April, 2003 on activity of public benefits and volunteering implies that public benefit is a socially useful activity run by non-governmental organizations in the area of public services as specified in the Act. Such non-governmental organizations are natural persons or organizational units with no corporate entity that are not units of public finances and do not operate for profit to which a separate act grants a legal capability, including foundations and associations. Article 10A of this Act stipulates that such organizations should keep a simplified record of revenue and expense if they:
+1) operate in the area of public services specified in art. 4 section 1;
+2) do not run an economic activity;
+3) have no status of public benefit organization'
+4) record revenues only: from non-profit public benefit in respect of member fees, gifts, heritage, donations, grants and other revenues mentioned in this section;
+5) in a year coming before the year of choosing the simplified revenue and expense simplified record generated revenue only in respects specified in section 4 in the amount of not higher than PLN 100,000.
+The decision on keeping a simplified record of revenue and expense is made by the approving authority in the meaning of accounting regulations.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 날짜 형식이 "24 April, 2003"로 되어 있으며, 미국 영어 형식인 "April 24, 2003"로 수정해야 합니다.
+    - 숫자 표기 오류: 없음
+    - 통화 표기 오류: "PLN 100,000"에서 통화 기호가 숫자 앞에 와야 하므로 "100,000 PLN" 대신 "PLN 100,000"으로 표기하는 것이 맞습니다.

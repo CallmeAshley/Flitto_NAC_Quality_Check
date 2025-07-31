@@ -1,0 +1,6 @@
+{
+    "source": "en_US",
+    "target": "fr_FR",
+    "text": "Tangent Lines\nThe first problem that we’re going to take a look at is the tangent line problem. Before getting into this problem it would probably be best to define a tangent line.\nA tangent line to the function f(x) at the point x = a is a line that just touches the graph of the function at the point in question and is “parallel” (in some way) to the graph at that point. Take a look at the graph below.",
+    "trans": "Lignes Tangentes\nLe premier problème que nous allons examiner est celui de la ligne tangente. Avant d'aborder ce problème, il est préférable de définir ce qu'est une ligne tangente.\nUne ligne tangente à la fonction f(x) en un point x = a est une ligne qui touche juste le graphique de la fonction en ce point et qui est « parallèle » (d'une certaine manière) au graphique en ce point. Jetez un œil au graphique ci-dessous."
+}

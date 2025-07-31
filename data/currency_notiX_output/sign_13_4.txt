@@ -1,0 +1,55 @@
+[원문: french]
+Cornering lights
+Fender Flare
+Aileron TRD
+Feux arrière Redline
+F20C JDM
+Cache bougies carbone avec autocollant Toyota 1600 reverni
+Kit ITB TWM 52mm
+Collecteur Mugen
+Ligne d'echappement en 60 je sais plus quelle marque
+Boite 6 S2000
+Pont de Pajero 4.87 avec autobloquant
+Tirants de pont sur rotule uniball
+Bras inférieurs avant rallongés
+Volant Nardi
+Compteur S2000
+PLX large band
+AEM EMS V2 réglé par Romain de Racecal Ltd ( le mec règle des Huracan bi turbo de 1200 ch, autant de dire que cette cacahuète hein .... )
+2 Recaro Speed
+Jantes SSR XR4 Longchamp
+Toyo TR1 205/50/15
+Idealement il faudrait faire équilibrer l'arbre de transmission car on ressent de légères vibrations à haute vitesse.
+Ce n'est pas fait pour rouler tous les jours, c'est une jouet pour adulte.
+
+[번역문: english]
+Cornering lights
+Fender Flare
+TRD Spoiler
+Redline tail lights
+F20C JDM
+Carbon spark plug cover with painted Toyota 1600 sticker
+ITB TWM 52mm kit
+Mugen manifold
+Exhaust line in 60 I can't remember which brand
+6 S2000 gearbox
+Pajero axle 4.87 with self-locking device
+Uniball ball joint axle tie rods
+Extended front lower arms
+Nardi steering wheel
+S2000 meter
+PLX wide band
+AEM EMS V2 tuned by Romain from Racecal Ltd (the man tuned 1200bhp twin turbo Huracans, so I might as well say this peanut eh ....)
+2 Recaro Speed
+SSR XR4 Longchamp rims
+Toyo TR1 205/50/15
+You should ideally have the driveshaft balanced because slight vibrations are felt at high speeds.
+This is not made for everyday use, it's a toy for adults.
+
+[GPT 분석 결과]
+[GPT 분석 결과]
+- 정책 준수 여부: 아니오
+- 검토할 내용:
+    - 날짜 표기 오류: 없음
+    - 숫자 표기 오류: "1200bhp"는 "1,200bhp"로 표기되어야 합니다. 정책에 따르면 천 단위 구분 기호로 쉼표를 사용해야 합니다.
+    - 통화 표기 오류: 없음

@@ -1,0 +1,26 @@
+[Time Format]
+
+Definition:  
+Vietnamese uses the **24-hour clock**, with colons (`:`) separating hours, minutes, and seconds.  
+No AM/PM notation is used. Time zones may appear in formal contexts but should only be included if present in the source.
+
+Examples:  
+- 14:30  
+- 14:30:45
+
+Evaluation Criteria:
+- Use colons to separate time units.
+- Do not use AM/PM.
+- Always write hours and minutes with two digits (e.g., 09:00).
+- Include time zone only if explicitly present.
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.
