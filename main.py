@@ -159,3 +159,5 @@ if __name__ == "__main__":
 
     ee = time()
     print(f"모든 시스템 작동 시간: {ee-ss}s")
+    
+    
