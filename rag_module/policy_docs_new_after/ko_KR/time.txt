@@ -1,5 +1,9 @@
 [Time Format]
 
+Note:  
+While the following rules provide strict formatting guidelines, LLMs must prioritize semantic consistency and contextual appropriateness.  
+If the translated sentence's format clearly matches the source meaning and local convention, **do not penalize minor structural variations**.
+
 Definition:  
 Korean uses both 12-hour and 24-hour time formats depending on the context.
 
@@ -10,7 +14,8 @@ Examples:
 Evaluation Criteria:  
 - In 12-hour format, include 오전 (AM) or 오후 (PM) **before** the hour.  
 - In 24-hour format, use colons (`:`) and **always use two digits**, including leading zeros (e.g., 09:30, 14:00).  
-- Do not include time zone information (e.g., KST) unless explicitly required by the original.  
+- Include time zone information (e.g., KST, EDT) only when source sentence contains time zone information.
+
 [Exceptions]
 
 - Do not apply the formatting rules to numbers that are part of:

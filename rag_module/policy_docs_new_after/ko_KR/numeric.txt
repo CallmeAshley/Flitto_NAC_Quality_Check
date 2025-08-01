@@ -1,36 +1,29 @@
-[Numeric Format]
+[Number Format]
 
-Definition:  
-In Korean, numbers follow Western-style formatting:  
-- Use a comma (`,`) every three digits in the integer part of the number.  
-- Use a dot (`.`) as the decimal separator.  
-- Do not insert commas after the decimal point.  
+Note:  
+While the following rules provide strict formatting guidelines, LLMs must prioritize semantic consistency and contextual appropriateness.  
+If the translated sentence's format clearly matches the source meaning and local convention, **do not penalize minor structural variations**.
 
-Examples:  
-- 1,000  
-- 12,345.67  
-- Invalid: 12,345.678,900  
-- Invalid: 1000 (missing thousand separator)  
-- Invalid: 1.000,25 (wrong decimal separator)  
+Thousands are separated by a comma (`,`).  
+Examples: 1,000; 1,000,000  
+Decimals are written using a period (`.`).  
+Example: 3.14
 
-Evaluation Criteria:  
-- Commas are used only in the integer part.  
-- Decimal points must be written using a dot (`.`).  
-- No space should appear between digits and separators.  
-- Do not use commas in decimal places.  
-- Accept numbers with any decimal precision if separators are applied correctly.  
+- If the number is expressed using language-specific unit words (e.g., “million,” “billion,” “thousand,” or their equivalents in the target language), **do not convert it to fully numeric form with separators**.  
 
 ---
-
 
 [Exceptions]
 
 - Do not apply the formatting rules to numbers that are part of:
   - telephone numbers
-  - addresses
-  - identification codes
-  - or clearly unordered lists of numbers with no separators
+  - addresses or postal codes
+  - identification codes (e.g., product IDs, part numbers, serial numbers)
+  - software or hardware error codes
+  - clearly unordered lists of numbers with no separators
+
+- Do not apply formatting to numbers followed or preceded by a label or symbol (e.g., "113026 - Relay", "Part No. 113026").
 
 - If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
 
-- Always consider the context of the original sentence before making changes.
+- Always consider the context of the source sentence before making changes.

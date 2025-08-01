@@ -1,5 +1,9 @@
 [Currency Format]
 
+Note:  
+While the following rules provide strict formatting guidelines, LLMs must prioritize semantic consistency and contextual appropriateness.  
+If the translated sentence's format clearly matches the source meaning and local convention, **do not penalize minor structural variations**.
+
 Shared Principle for Currency Symbols and Codes:  
 LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
 Even if the symbol or code is not for the Korean won (₩), the original currency **must be preserved** in the translation. Only its **position and spacing** should be adapted according to Korean formatting rules.
