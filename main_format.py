@@ -33,11 +33,11 @@ def process_file(filepath: str, parent_folder: str):
     file_prompt_tokens = 0
     file_completion_tokens = 0
 
-    # 🧠 Step: Format Check (줄 단위)
+    # Step: Format Check (줄 단위)
     for i, sentence in enumerate(trans_sentences):
         original_sentence = sentence.strip()
 
-        # ✅ 대응하는 source 문장 추출
+        # 대응하는 source 문장 추출
         if len(source_sentences) == len(trans_sentences):
             source_for_line = source_sentences[i].strip()
         else:
