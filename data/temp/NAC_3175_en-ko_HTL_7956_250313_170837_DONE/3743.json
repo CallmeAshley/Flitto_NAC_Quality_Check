@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "When the particle is at rest, its relativistic mass has a minimum value called the \"rest mass\" mrest. The rest mass is always the same for the same type of particle. For example, all protons have identical rest masses, and so do all electrons, and so do all neutrons; these masses can be looked up in a table. As the particle is accelerated to ever higher speeds, its relativistic mass increases without limit.\nIt also turns out that in special relativity, we are able to define the concept of \"energy\" E, such that E has simple and well-defined properties just like those it has in newtonian mechanics. When a particle has been accelerated so that it has some momentum p (the length of the vector p) and relativistic mass mrel, then its energy E turns out to be given by",
-    "trans": "입자가 정지해 있을 때, 상대론적 질량은 \"정지 질량\"이라는 최솟값을 갖는다. 정지 질량은 동일한 종류의 입자에 대해서는 항상 동일한 값을 갖는다. 예를 들어, 양성자는 모두 동일한 정지 질량을 가지며, 전자, 중성자도 모두 그렇다. 이런 질량은 표에서 찾아볼 수 있고, 입자가 더 빠른 속도로 가속화되면 상대론적 질량은 무제한으로 증가한다.\n또한 특수 상대성 원리에서 \"에너지\" E의 개념을 정의할 수 있는데, E는 뉴턴 역학에서처럼 단순하고 뚜렷한 성질을 가지고 있다. 입자가 가속화되어 어느 정도의 운동량 P(벡터 P의 길이)와 상대론적 질량을 가지면, 입자의 에너지 E는 다음과 같이 나타난다"
-}

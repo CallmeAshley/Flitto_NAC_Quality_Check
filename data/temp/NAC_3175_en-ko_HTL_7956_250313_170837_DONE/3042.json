@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "OPERATIONS ON PROCESS\nProcess Termination\nA process terminates when it finishes executing its final statement and asks the operating system to delete it.\nA parent may terminate the execution of one of its children for a variety of reasons, such as these:\n• The child has exceeded its usage of some of the resources that it has been allocated.\n• The task assigned to the child is no longer required.\n• The parent is exiting, and the operating system does not allow a child to continue if its parent terminates.",
-    "trans": "프로세스 작업\n프로세스 종료\n프로세스는 마지막 명령문 실행을 완료하고 운영 체제에 삭제를 요청할 때 종료됩니다.\n부모 프로세스는 다음과 같은 다양한 이유로 자식 프로세스 중 하나의 실행을 종료시킬 수 있습니다:\n• 자식 프로세스가 할당된 자원 중 일부의 사용량을 초과했을 때.\n• 자식 프로세스에 할당된 작업이 더 이상 필요하지 않을 때.\n• 부모 프로세스가 종료되며, 운영 체제가 부모 프로세스가 종료되면 자식 프로세스의 계속 실행을 허용하지 않을 때."
-}

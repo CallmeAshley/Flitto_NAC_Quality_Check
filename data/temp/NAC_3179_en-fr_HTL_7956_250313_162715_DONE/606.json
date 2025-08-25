@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Dear All,\nWe hope that you have been reading the printed lecture notes for MA138, as well as taking your own notes in lectures.\nAlthough we are following the printed notes fairly closely, a few topics discussed there will not be examined in the module this year. Of course you are still welcome to read about these (indeed it is encouraged!), but there will not be quiz or exam questions about them. Specifically, the relevant topics so far are:\nthe material about lists and strings at the end of section 4.\nthe Cantor--Schroder--Bernstein theore",
-    "trans": "Chers tous,\nNous espérons que vous avez pris le temps de lire les notes de cours imprimées pour MA138, tout en prenant vos propres notes lors des cours magistraux.\nBien que nous suivions de près les notes imprimées, certains sujets abordés ne seront pas évalués dans ce module cette année. Bien entendu, vous êtes toujours encouragés à les lire (et c'est même recommandé !), mais aucune question de quiz ou d'examen ne portera sur ces sujets. Plus précisément, les thèmes concernés jusqu'à présent sont :\n•Le contenu sur les listes et les chaînes de caractères à la fin de la section 4.\n•Le théorème de Cantor-Schröder-Bernstein."
-}

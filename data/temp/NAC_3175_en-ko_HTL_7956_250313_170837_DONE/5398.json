@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "The project relies on creating forms for easy data entry into the\ntables, along with interactive reports that allow for flexible data\nreview. Additionally, triggers and sequences are used to ensure\ndata is entered automatically, reducing manual intervention and\nensuring accuracy when dealing with primary keys.\nProject Objectives:\n• Store and organize employee data: Provide an easy\nmethod for recording basic information such as names,\npositions, and departments.\n• Daily attendance tracking: Ensure the ability to track\nemployee attendance on a daily basis",
-    "trans": "이 프로젝트는 테이블에 데이터를 쉽게 입력할 수 있도록 양식을 만들고,\n유연한 데이터 검토를 가능하게 하는 인터랙티브 리뷰를 만드는 데 의존합니다\n또한, 트리거와 시퀀스를 사용하여\n데이터가 자동으로 입력되도록 하여, 수동 개입을 줄이고\n기본 키를 처리할 때 정확성을 보장합니다.\n프로젝트 목표:\n• 직원 데이터 저장과 조직화:  쉬운 방법을 제공합니다\n기본 정보를 기록하는\n이름, 직위, 부서와 같은.\n• 일일 출석 추적: 추적할 수 있는 기능을 보장합니다.\n직원의 출석을 일일로"
-}

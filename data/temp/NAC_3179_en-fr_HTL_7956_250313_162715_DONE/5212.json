@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "⚠️ HiveOs Mandatory Installation Instructions\nThe CPU running the Client must support AVX2 or AVX512 instructions.\ncat /proc/cpuinfo | grep avx2\n(If avx2 appears in the results, use the AVX2 configuration.)\n16GB or more RAM is recommended to enhance CPU performance.\nHigher RAM frequencies contribute to better CPU performance.\nAvoid overloading your CPU with threads; instead, aim to find the optimal balance.\nTo run the Qubic miner, you need the latest stable version of HiveOS.\nhive-replace --stable --yes",
-    "trans": "⚠️ Instructions d'installation obligatoires de HiveOS\nLe processeur exécutant le Client doit prendre en charge les instructions AVX2 ou AVX512.\nbashCopyEditcat /proc/cpuinfo | grep avx2\n(Si avx2 apparaît dans les résultats, utilisez la configuration AVX2.)\nUne RAM de 16 Go ou plus est recommandée pour améliorer les performances du processeur.\nDes fréquences de RAM plus élevées contribuent à de meilleures performances du processeur.\nÉvitez de surcharger votre processeur avec trop de threads ; essayez plutôt de trouver un équilibre optimal.\nPour exécuter le mineur Qubic, vous devez disposer de la dernière version stable de HiveOS.\nbashCopyEdithive-replace --stable --yes"
-}

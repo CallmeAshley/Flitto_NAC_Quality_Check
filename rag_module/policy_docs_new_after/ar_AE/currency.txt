@@ -1,21 +1,21 @@
 [Currency Format]
 
+Note:  
+While the following rules provide strict formatting guidelines, LLMs must prioritize semantic consistency and contextual appropriateness.  
+If the translated sentence's format clearly matches the source meaning and local convention, **do not penalize minor structural variations**.
+For example, converting a currency symbol format in the source sentence to a currency name format in the translated sentence is acceptable if the target locale customarily uses the name format.
+
 Shared Principle for Currency Symbols and Codes:  
 LLMs must handle various currency symbols and ISO codes in translations.  
 Even if the currency is not the local one (e.g., درهم), the original format — **symbol**, **code**, or **name** — must be preserved in the translation.  
 Only **position and spacing** should be adjusted according to Arabic formatting rules.
 
 Expected currency symbols include:  
-د.إ, $, €, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
+د.إ, $, NT$, €, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
 
 Expected ISO codes include:  
-AED, USD, EUR, JPY, CNY, GBP, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+AED, USD, EUR, JPY, CNY, GBP, KRW, INR, RUB, TRY(abbreviation: TL), AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
 
-Important:  
-Do not convert between currency formats.  
-If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
-Do not rewrite it as a **name** (`٤٠٠ دولار`) or **code** (`٤٠٠ USD`).  
-The same applies in reverse. Always preserve the representation type from the source.
 
 ---
 
@@ -61,7 +61,7 @@ Evaluation Criteria:
 Definition:  
 Currency names (e.g., درهم, ريال, دولار) follow the number and are separated by a space.  
 Names should match the directionality and grammar of Arabic text.  
-Do not rewrite other formats (symbol or code) into names.
+Currency symbols or codes in the source sentence **may be converted into names** in the translation **if the Arabic locale customarily uses the name format and the meaning is preserved.**
 
 Examples:  
 - ١٬٠٠٠ درهم  
@@ -75,7 +75,7 @@ Evaluation Criteria:
 - Currency name must appear after the number, with a space.  
 - Number format and digit style must follow Arabic conventions.  
 - Do not use Western digits or punctuation.  
-- Do not generate currency names unless they appear in the original.
+- Ensure semantic equivalence if converting from symbols or codes to names.
 
 ---
 

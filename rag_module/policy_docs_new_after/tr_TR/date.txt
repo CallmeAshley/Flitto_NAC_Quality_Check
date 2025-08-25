@@ -10,12 +10,14 @@ Examples:
 - 28 Temmuz 2025  
 - 28 Tem 2025  
 - 28.07.25
+- 10 Ocak 2025 Cuma günü
 
 Evaluation Criteria:
 - Confirm date is in Day → Month → Year order.
 - If a weekday is present, place it after the full date.
 - Accept both long and short month forms.
 - **Do not generate weekdays unless they appear in the source.**
+- **Do not generate a year unless it exists in the source.**
 
 ---
 

@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Make sure that you correctly identify the state and type of the fluid;\n• is it saturated etc.\n• Pick the correct pressure, is the given pressure absolute of gage, if it is gage than add\n1 bar to the pressure. If not given pressure look up temperature.\n• Identify the correct column that hold the required property, remembering the\nsignificance of the subscripts, sat, f, g and fg.\n• Take a careful note of the units given on the first row of the table and never present a\nproperty without the correct units.\n• This is very important because certain properties such as thermal conductivity(k) of\nair, page 10, is presented with units of (W/mK) × 10-3. If you were to just take the\nnumber presented in the table and do your calculations, then your answer would be\nout by a factor of 1000!!",
-    "trans": "유체의 상태와 유형을 정확히 식별하십시오;\n• 포화 상태인지 등.\n• 정확한 압력을 선택하고, 주어진 압력이 절대 압력인지 계기 압력인지, 추가하기 보다 계기 압력인 경우\n압력에 1 bar. 압력이 주어지지 않았다면 온도를 찾아보세요.\n• 필요한 속성을 포함하는 올바른 열을 식별하며, 기억하며\n첨자 sat, f, g 및 fg의 의미.\n• 표의 첫 번째 행에 제시된 단위에 주의하고 절대로 제시하지 마세요\n정확한 단위가 없는 속성\n• 이는 매우 중요하며 이유는 열전도율(k)과 같은 특정 속성은\n공기, 10 페이지에서 (W/mK) × 10-3 단위로 표시되기 때문입니다. 그냥\n표에 제시된 숫자만 취하여 계산한다면, 답은\n1000배 차이가 날 것입니다!!"
-}

@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Multiple-Step Income Statement\nGross Profit:\nCost of goods sold is deducted from sales revenue to determine gross profit. Net sales revenue are used for this computation. On the basis of the sales data presented in Figure 1 (net sales of $460,000) and the cost of goods sold (assume $316,000), the gross profit for Sellers T-Shirts is $144,000, computed as shown in Figure 2. Figure 2: Computation of gross profit\nA company’s gross profit also may be expressed as a percentage.This is done by dividing the amount of gross profit by net sales. For Sellers T-Shirts, the\ngross profit rate is 31.3 percent, computed as shown in Figure 3.\nFigure 3: Gross profit rate formula and computation",
-    "trans": "다단계식 손익계산서\n매출총이익\n매출총이익은 매출에서 매출원가를 차감하여 계산되며, 여기엔 순매출액이 사용된다. 그림 1에서 확인할 수 있는 매출 데이터를 기준으로 순매출액(460,000$)과 매출원가(316,000$으로 가정)로 봤을 때 Sellers 티셔츠의 매출총이익은 그림 2에서 볼 수 있다시피 144,000$로 계산된다. 그림 2: 매출총이익의 계산\n매출총이익을 순매출액으로 나눔으로써 회사의 매출총이익을 백분율료 표현할 수도 있다. Sellers 티셔츠의 경우,\n매출총이익률은 그림 3에서 볼 수 있듯이 31.3%로 계산된다.\n그림3: 매출총이익률의 공식 및 계산"
-}

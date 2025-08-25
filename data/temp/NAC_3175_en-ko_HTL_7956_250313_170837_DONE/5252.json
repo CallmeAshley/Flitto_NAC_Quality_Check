@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "A datacenter is a facility or physical location that houses a large number of servers and related infrastructure, such as networking, storage, and computing equipment, designed to store, process, and distribute large volumes of data. Datacenters are essential for the functioning of many internet services and applications, including websites, cloud services, streaming platforms, and business applications. They provide the backbone infrastructure for modern digital services and are used by organizations to store data, run applications, and manage network communications.",
-    "trans": "데이터센터는 네트워킹, 저장, 컴퓨터 장비와 같은 많은 수의 서버나 관련 인프라를 수용하는 시설 또는 물리적 위치로, 많은 양의 데이터를 저장, 처리, 배포하도록 설계되었습니다. 데이터센터는 웹사이트, 클라우드 서비스, 스트리밍 플랫폼, 그리고 사업 애플리케이션을 포함한 많은 인터넷 서비스와 애플리케이션 작동에 필수 요소입니다. 그들은 현대 디지털 서비스를 위한 백본 인프라를 제공하며 조직들이 데이터를 저장하고, 애플리케이션을 실행하고, 네트워크 통신을 관리하는데 사용됩니다."
-}

@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Figure 49 - Preparing to test for an inlet air restriction.\nTo test the exhaust system for a restriction; connect a pressure gauge, a mercury manometer as shown in Figure 50 or an electronic pressure gauge. Ensure turbocharged engines are operating under load during this test. If this is not possible, the test should be conducted while the engine is operating at its rated high idle speed. The mercury manometer must have a minimum gauge capacity of 10 inches of mercury. If the engine is equipped with a turbocharger, the connection is made after the turbocharger. A reading of 3 inches of mercury would tend to indicate that a restriction exists within the exhaust system.",
-    "trans": "그림 49 - 흡입 공기 제한을 테스트 준비 중.\n배기 시스템에 제한이 있는지 테스트하려면; 그림 50에 표시된 대로 압력 게이지, 수은 마노미터 또는 전자 압력 게이지를 연결하십시오. 이 테스트 중에는 터보차저 엔진이 하중을 받으며 작동하는지 확인하십시오. 이것이 불가능한 경우, 테스트는 엔진이 정해진 고속 공회전 속도로 작동하는 동안 수행되어야 합니다. 수은 마노미터는 최소한 10인치 수은 용량을 가져야 합니다. 엔진이 터보차저가 장착되어 있으면, 연결은 터보차저 이후에 해야 합니다. 3인치 수은의 측정값은 배기 시스템 내에 제한이 존재한다는 것을 나타낼 가능성이 있습니다."
-}

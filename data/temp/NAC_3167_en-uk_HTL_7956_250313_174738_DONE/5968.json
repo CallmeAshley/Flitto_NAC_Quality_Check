@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "uk_UA",
-    "text": "Diagnostic trouble code (DTC) P0722 stands for “output speed sensor no signal.” This means the powertrain control module (PCM) is detecting that the transmission system’s output speed sensor isn’t sending sufficient information.\nCommon causes for the P0722 code include a defective output speed sensor connector or wiring, defective shift solenoids, and a defective transmission valve body.\nSymptoms of the P0722 code include poor fuel economy, an illuminated check engine light, and the transmission failing to shif",
-    "trans": "Діагностичний код несправності (ДКН) Р0722 означає «відсутній сигнал датчика вихідної швидкості». Це означає, що модуль управління силовим агрегатом (МУСА) виявляє, що датчик вихідної швидкості системи трансмісії не надсилає достатньо інформації.\nПоширеними причинами коду Р0722 є несправний роз'єм або проводка сенсора, несправні соленоїди перемикання та несправний корпус клапана трансмісії.\nОзнаки коду Р0722 включають погану економію палива, світний індикатор перевірки двигуна та неможливість перемикання передач"
-}

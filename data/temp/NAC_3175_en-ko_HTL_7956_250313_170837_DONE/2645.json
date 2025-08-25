@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Storage Bindings and Lifetime\nt Storage binding:\nl Allocation : get a cell from some pool of available cells\nl Deallocation : put a cell back into the pool\nt The lifetime of a variable is the time during\nwhich it is bound to a particular memory cell\nl Starts when a variable is bound to a specific cell and\nends when it is unbound\nl Four categories for scalar variables according to\nlifetimes: static, stack-dynamic, explicit-heap-\ndynamic, implicit heap-dynamic",
-    "trans": "저장공간 바인딩과 생명주기\nt 저장공간 바인딩:\nl 할당: 사용 가능한 셀의 모음에서 셀을 가져오는 것\nl 반환: 모음에 다시 셀을 돌려놓는 것\nt 변수의 생명주기란\n변수가 특정한 메모리 셀에 바인딩 된 시간을 말한다\nl 변수가 특정한 셀에 바인딩되면 시작되며\n바인딩이 해제되면 끝난다\nl 스칼라 변수에는 4가지 범주가\n생명주기에 따라 존재한다: 정적, 스택-동적, 명시적-힙-\n동적, 암시적 힙-동적"
-}

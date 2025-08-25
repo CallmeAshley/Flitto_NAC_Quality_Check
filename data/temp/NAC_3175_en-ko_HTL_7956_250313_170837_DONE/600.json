@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "eal Inertia Neutralization Inverter-based Grid\nThe large-scale integration of inverter-interfaced renewable energy generators is replacing traditional synchronous generators.\nHowever, the fragile nature of power semiconductors and digital control systems, compared to the reliable copper construction\nof synchronous generators, poses a threat to overall grid stability. This fragility may limit the further development of zero-\ncarbon energy. To address this, we propose connecting physical rotational equipment to the grid to increase real inertia in high-\npenetration converter-based grids.",
-    "trans": "실제 관성 무효화 인버터 기반 그리드\n인버터 인터페이스의 신재생 에너지 발전기들의 대규모 통합이 전통적인 동기발전기를 대체하고 있다.\n그러나, 구리로 건설되어 믿을만한 동기발전기에 비해 취약한 전력반도체와 디지털 통제 시스템은 종합적인 그리드 안정성에 대해 위협을 제기한다.\n이 취약성은 더이상 제로탄소에너지를 개발하지 못하도록 제한할 수 있다.\n이를 해결하기 위해, 우리는 고침투 컨버터 기반 그리드에서 실제 관성을 증가시키기 위해 물리적 회전 기기를 연결하는 것을 제안한다.\n-"
-}

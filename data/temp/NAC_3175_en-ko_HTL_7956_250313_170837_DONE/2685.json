@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Businesses can choose where to run applications based on their needs, using public cloud for high-demand tasks and private cloud for sensitive data.\nCost Efficiency:\nOrganizations can save money by using the public cloud for scalable resources while maintaining critical data in-house.\nScalability:\nThe public cloud allows easy expansion of resources when needed without investing in physical infrastructure.\nImproved Security:\nSensitive data can be kept in the private cloud, reducing security risks while leveraging public cloud benefits.\nDisaster Recovery:\nProvides better options for backup and recovery by using both public and private clouds.",
-    "trans": "기업은 필요에 따라 애플리케이션을 실행할 위치를 선택할 수 있으며, 고부하 작업에는 퍼블릭 클라우드를 민감한 데이터에는 프라이빗 클라우드를 사용할 수 있습니다.\n비용 효율성:\n기관은 확장 가능한 리소스를 위해 퍼블릭 클라우드를 사용하면서 중요한 데이터를 내부에 유지함으로써 비용을 절감할 수 있습니다.\n확장성:\n퍼블릭 클라우드는 물리적 인프라에 투자하지 않고도 필요할 때 쉽게 리소스를 확장할 수 있도록 합니다.\n보안 향상:\n민감한 데이터는 프라이빗 클라우드에 보관하여, 보안 위험을 줄이면서 퍼블릭 클라우드의 이점을 활용할 수 있습니다.\n재해 복구:\n퍼블릭 클라우드와 프라이빗 클라우드를 모두 사용함으로써 백업 및 복구에 대한 더 나은 옵션을 제공합니다."
-}

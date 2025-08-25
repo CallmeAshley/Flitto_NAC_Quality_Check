@@ -1,6 +1,0 @@
-{
-    "source": "zh_CN",
-    "target": "en_US",
-    "text": "1、为向您提供交易相关基本功能，我们会收集、使用必要的信息；\n2、基于您的明示授权，我们可能会获取您的位置（为您提供附近的商品、优惠等）、设备ID（以保障您账号与交易安全）等信息，您有权拒绝或取消授权；\n3、基于您的明示授权，我们可能会将您的个人信息传输至接入的第三方SDK，SDK清单详见 《第三方SDK收集使用信息说明》",
-    "trans": "1. In order to provide you with the basic functions related to transactions, we will collect and use the information that is necessary;\n2. Based on your clear authorisation, we may obtain your location (to provide you with nearby products, discounts, etc.), device ID (to protect your account and transaction security) and other information, you have the right to refuse or cancel the authorisation;\n3. Based on your clear authorisation, we may transfer your personal information to the third-party SDKs that we have access to. For the list of SDKs, please refer to the Instructions for Collecting and Using Information of Third-Party SDKs"
-}

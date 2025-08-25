@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Unable to Find Your Location\nPlease follow the instructions below to enable location services for Safari in order to proceed in the claims process.\nGo to Settings > Privacy & Security > Location Services.\nMake sure that Location Services is on.\nScroll down to the Safari app.\nTap the Safari app and select the option: Allow while using the App.\nGo back to Settings > Safari.\nScroll down to find Location.\nTap Location and select Allow.\nRefresh the web page to proceed.\nIf you're still having trouble, check out Safari's",
-    "trans": "Impossible de trouver votre localisation\nVeuillez suivre les instructions ci-dessous pour activer les services de localisation pour Safari afin de poursuivre le processus de réclamation.\nAccédez à Réglages > Confidentialité et sécurité > Service de localisation.\nAssurez-vous que Service de localisation est activé.\nFaites défiler vers le bas jusqu'à l'application Safari.\nAppuyez sur Safari et sélectionnez  : Autoriser lors de l’utilisation de l’application.\nRetournez à Paramètres > Safari.\nFaites défiler vers le bas jusqu'à Localisation.\nAppuyez sur Localisation et sélectionnez Autoriser.\nActualisez la page Web pour continuer.\nSi vous rencontrez toujours des difficultés, consultez l’aide de Safari."
-}

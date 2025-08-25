@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Understanding and cleaning your data is a vital process to ensure accurate results. You must remove “noisy” data, which is data that’s provided in a data set, but is not necessary or useful for your project. And, you must keep interesting data that could help you predict fraud for your company.\nIn this simulation, you’ll use IBM Watson Studio with the data refinery tool to perform the steps to understand the data set and clean the data. There are 38 steps to complete.",
-    "trans": "데이터를 이해하고 정제하는 것은 정확한 결과를 보장하기 위한 중요한 과정이다. '노이즈'가 많은 데이터는 제거해야 하는데, 이는 데이터셋에 있지만 프로젝트에 불필요하거나 유용하지 않은 데이터다. 또한, 회사의 사기 예측에 도움이 될 수 있는 흥미로운 데이터는 유지해야 한다.\n본 시뮬레이션에서는 IBM 왓슨 스튜디오의 데이터 정제 툴을 사용해 데이터셋을 이해하고, 데이터를 정제하는 단계를 수행한다. 총 38개의 완료할 단계가 있다."
-}

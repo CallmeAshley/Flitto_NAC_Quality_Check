@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "The strong gravity of Earth makes the physics of a fully reusable rocket with positive payload margin extremely difficult to solve, which is why it has never been done before.\nRemoving the mass of landing legs from the booster and ship by making the tower do the work of final velocity attenuation greatly improves payload margin.\nThis architecture also simultaneously substantially increases launch cadence, because the same arms that lift the booster and ship onto the launch stand also catch them, allowing immediate placement of the booster back on the launch stand and the ship back on top of the",
-    "trans": "지구의 강한 중력은 탑재량이 여유로운 완전 재활용 가능한 로켓의 물리 구조를 해결하기 어렵게 만드는데, 이러한 이유로 이는 성공한 적이 없다.\n탑이 최종 속도를 감소시켜 부스터와 우주선의 착륙 다리 부분의 질량을 줄이게 되면 탑재량이 더욱 늘어나게 된다.\n동시에 이러한 구조는 발사 빈도도 상당히 늘릴 수 있는데, 그 이유는 부스터와 우주선을 발사대에 올리는 그 동일한 부분이 부스터와 우주선을 잡아 부스터가 곧바로 발사대에 위치할 수 있도록 해주고 우주선은 다시 끝에"
-}

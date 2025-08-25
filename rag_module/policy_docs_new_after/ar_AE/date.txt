@@ -17,6 +17,7 @@ Evaluation Criteria:
 - If a weekday is included, ensure it appears before the date.  
 - Use Arabic digits and grammar, including `م` for Gregorian years when applicable.  
 - Do not add weekdays unless explicitly present in the source.
+- **Do not generate a year unless it exists in the source.**
 
 ---
 

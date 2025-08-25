@@ -1,6 +1,0 @@
-{
-    "source": "ja_JP",
-    "target": "en_US",
-    "text": "メールアドレスの認証が完了しました。\n■ご登録の覚えがないのにこのメールが届いたという方\nご迷惑をおかけし申し訳ありません。 以下のリンクより、このメールアドレスへの送信を停止してください。\n[redacted_email]",
-    "trans": "Your email address verification has been finished.\n■For those who received this email without registration\nWe apologize for the inconvenience that has been caused. Please use the link below to stop receiving emails to this email address.\n[redacted_email]"
-}

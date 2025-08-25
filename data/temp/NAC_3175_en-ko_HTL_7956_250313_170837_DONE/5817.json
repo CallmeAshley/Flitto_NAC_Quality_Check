@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "This update includes bug fixes for your Apple Watch, including:\nApple Watch may unexpectedly restart for some users\nMusic app may unexpectedly quit when loading media\nBattery may drain more quickly than expected\nTouch screen may be temporarily unresponsive for some Apple Watch Series 9, Apple Watch Series 10, and Apple Watch Ultra 2 users\nMessages may unexpectedly quit when replying to a message with a shared Apple Watch face",
-    "trans": "이 업데이트에는 애플 워치의 버그 수정이 포함되어 있습니다,  포함내용:\n일부 사용자들은 애플 워치가 예기치 않게 재시작 될 수 있습니다\n미디어를 로딩할 때 뮤직 앱이 예기치 않게 종료될 수 있습니다\n배터리가 예상보다 더 빨리 소모될 수 있습니다\n일부 Apple Watch Series 9, Apple Watch Series 10, 그리고 Apple Watch Ultra 2 사용자에게 터치스크린이 일시적으로 반응하지 않을 수 있습니다\n공유된 Apple Watch 페이스로 메시지에 답장할 때 Messages 앱이 예기치 않게 종료될 수 있습니다"
-}

@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "This item first describes every part in a production system and later focuses on MRP implementation. A production plan describes in detail the quantity of principal sku (final product to sell) and produced in subsets of sku, the exact time of production and lot sizing. The production plan can be divided in mas- ter production schedule (MPS), Material requirement planning (MRP) and the detailed plan of jobs in the production floor. See Fig. 1.",
-    "trans": "다음 항목에서는 우선 생산 시스템의 모든 부분들을 설명하고 나중에 MRP 구현에 중점을 둔다. 생산 계획은 주요 SKU (최종 판매 제품) 수량과 SKU 하위 집합으로 생산되는 수량, 정확한 생산 시간 및 로트 사이즈를 자세히 기술한다. 생산 계획은 주생산일정(MPS), 자재소요계획(MRP) 및 생산 현장 세부 작업 계획으로 나눌 수 있다. 그림 1 참조."
-}

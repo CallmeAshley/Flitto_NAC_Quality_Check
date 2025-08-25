@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "To pay for the orders, reply to this email with the following information:\n-- A list of all the order numbers that you would like to repay now\n-- The type of credit or debit card that you would like us to charge and its last 2 digits\n-- Your authorization allowing us to charge the card\nWe cannot charge any cards not registered to your account. To add a card, go to \"Your Account\", click \"Your Payments\", and click \"Add a payment method\":",
-    "trans": "결제하시려면 본 이메일에 다음 정보를 포함해 회신해 주세요:\n-- 지금 결제하려는 모든 주문 번호 목록\n-- 사용할 신용카드 혹은 체크카드 유형 및 카드번호 마지막 두 자리\n-- 해당 카드에 대한 결제 승인\n계정에 등록되지 않은 카드로는 결제하실 수 없습니다. 카드를 추가하시려면 '내 계정'으로 이동해 '내 결제 관리'를 클릭, '결제 수단 추가'를 선택하세요."
-}

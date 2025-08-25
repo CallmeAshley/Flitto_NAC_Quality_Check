@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "We investigate for the first time the reliability of the direct copper bonding process. Electromigration (EM) and Stress Induced Voiding (SIV) tests are performed on intensive 30000 daisy chains and emphasize the good behaviour facing the risk of reliability issues in Cu/Cu bonded interconnects achieved by a direct low temperature (200 degrees C) bonding. Furthermore, a comparison between stand alone and bonded device shows that the metallic bonding interfaces do not impact on the failure mechanism during EM tests.",
-    "trans": "Nous étudions pour la première fois la fiabilité du processus de collage direct du cuivre. Des tests d'électromigration (EM) et de vide induit par le stress (SIV) sont effectués sur des chaînes de marguerites intensives de 30000 et soulignent le bon comportement face au risque de problèmes de fiabilité dans les interconnexions à liaison Cu/Cu obtenues par une liaison directe à basse température (200 degrés C). En outre, une comparaison entre les dispositifs autonomes et les dispositifs collés montre que les interfaces de collage métalliques n'ont pas d'impact sur le mécanisme de défaillance pendant les tests EM."
-}

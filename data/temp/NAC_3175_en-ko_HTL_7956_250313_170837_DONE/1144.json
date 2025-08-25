@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Place the cursor where you want the exponent. This will allow you to type the exponent exactly where you need it. For example, if you want to write an exponent after the number 15, place your cursor immediately after the number with no spaces.\nHold Shift+Command and press the + key. This will let the Mac operating system know that you want to type an exponent instead of normal text.\nType the exponent you want. Once you have used the key combination above, you can type the value of your exponent. For example, if you want to type the number 15², you can type the digit 2 and it will become an exponent.",
-    "trans": "지수를 원하는 곳에 커서를 놓는다. 이는 지수를 필요한 위치에 정확히 입력할 수 있게 한다. 예를 들어 숫자 15 뒤에 지수를 쓰고 싶다면 공백 없이 숫자 바로 뒤에 커서를 놓는다.\nShift+명령을 누르고 + 키를 누른다. 이는 맥 운영 체제에서 일반 주석 대신 지수를 입력하길 원함을 알게 한다.\n원하는 지수를 입력한다. 위의 키 조합을 사용한 후에는 지수의 값을 입력할 수 있다. 예를 들어 숫자 15²를 입력하려면, 숫자 2를 입력하면 지수가 될 것이다."
-}

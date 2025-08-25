@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "In the two compartment model, the body is considered to consist of two compartments, the central compartment and the peripheral compartment.\nThe central compartment comprises those tissues that are well perfused, for example the heart, kidneys and liver. Drug distributes rapidly into this compartment.\nThe peripheral compartment comprises those tissues that are less well perfused, for example muscle, fat and skin. Drug distributes more slowly into this compartment.\nIt is assumed that the drug distributes between the two compartments but that the drug is eliminated only from the central compartment. The model can be illustrated as shown below.",
-    "trans": "2개 구획 모델에서 본체는 중앙 구획과 주변 구획이라는 두 개의 구획으로 구성된 것으로 여겨집니다.\n중앙 구획은 관류가 잘 되는 조직,  예를 들어 심장, 신장, 간으로 구성됩니다. 약물은 이 구획으로 빠르게 분포됩니다.\n말초 구획은 관류가 잘 되지 않는 조직, 예를 들어 근육, 지방, 피부로 구성됩니다. 약물은 이 구획으로 더 천천히 분포됩니다.\n약물은 두 구획 사이에 분포하지만 약물은 중앙 구획에서만 제거되는 것으로 가정됩니다. 모델은 아래와 같이 설명할 수 있습니다."
-}

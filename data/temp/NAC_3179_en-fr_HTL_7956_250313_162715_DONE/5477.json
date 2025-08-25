@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "I agree with that. I tried the given parameters, but it didn't work. So I searched official docs. This is the docs of version 3.4.2 and I think all the versions of the functions have same parameter. The description of the HoughLines function is different from that given in ppt. When I used that function, it works. I couldn't find another type of the parameters yet. Did I miss something?",
-    "trans": "Je suis d'accord avec cela. J'ai essayé les paramètres donnés, mais cela n'a pas fonctionné. J'ai donc cherché dans la documentation officielle. Voici la documentation de la version 3.4.2 et je pense que toutes les versions des fonctions ont les mêmes paramètres. La description de la fonction HoughLines est différente de celle donnée dans le PPT. Lorsque j'ai utilisé cette fonction, cela a fonctionné. Je n'ai pas encore trouvé un autre type de paramètres. Ai-je manqué quelque chose ?"
-}

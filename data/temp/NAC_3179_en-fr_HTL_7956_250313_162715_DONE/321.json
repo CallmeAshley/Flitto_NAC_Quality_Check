@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "To 3D print an object it needs to be prepared by a \"slicing progrem\"\nWhen a .stl file is sliced it shows each layer of melted plastic that will be applied from the platform up.\nYou will go to https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.1.1 and download the slicer.\nhttps://www.youtube.com/watch? v=M-hqbP8JNIw. This video will show you how to use it.\nOnce you have sliced your file rename it with your name and Biv Tinkercad.\nGet the USB flashdrive from the teacher and put your sliced file on the drive. Then get help printing it in the printer.\nBoom! Getting Started",
-    "trans": "Pour imprimer un objet en 3D, il doit être préparé par un « programme de découpage »\nLorsqu'un fichier .stl est découpé, il montre chaque couche de plastique fondu qui sera appliquée à partir de la plate-forme.\nVous irez sur https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.1.1 et téléchargerez le slicer.\nhttps://www.youtube.com/watch? v=M-hqbP8JNIw. Cette vidéo vous montrera comment l'utiliser.\nUne fois que vous avez découpé votre fichier, renommez-le avec votre nom et Biv Tinkercad.\nObtenez la clé USB du professeur et placez votre fichier découpé sur le lecteur. Ensuite, demandez de l'aide pour l'imprimer dans l'imprimante.\nBoum ! Démarrez"
-}

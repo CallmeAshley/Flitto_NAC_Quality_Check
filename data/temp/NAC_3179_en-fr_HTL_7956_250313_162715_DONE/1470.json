@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "The MPoC Software needs to be developed and maintained in accordance with secure coding standards and industry best practices to reduce the risk of vulnerabilities being introduced that result from poor coding techniques. Knowledge of industry software development standards and best practices provides information on current exploits and trends. PCI SSC publishes additional guidance, from time to time, on best practice for the assessment of environments and processes. This guidance may allow for some aspects of an assessments to be performed remotely.",
-    "trans": "Le logiciel MPoC doit être développé et entretenu conformément aux normes de codage sécurisé et aux meilleures pratiques de l'industrie afin de réduire le risque d'introduction de vulnérabilités résultant de mauvaises techniques de codage. La connaissance des normes de développement de logiciels et des meilleures pratiques de l'industrie fournit des informations sur les exploits et les tendances actuels. Le PCI SSC publie de temps à autre des orientations supplémentaires sur les meilleures pratiques en matière d'évaluation des environnements et des processus. Ces orientations peuvent permettre de réaliser certains aspects d'une évaluation à distance."
-}

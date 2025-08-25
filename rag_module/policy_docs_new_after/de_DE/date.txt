@@ -17,6 +17,8 @@ Evaluation Criteria:
 - If the weekday is present, it should be placed before the date and separated by a comma.  
 - Accept both textual and numeric formats.  
 - Do not add a weekday unless explicitly required by the source.
+- **Do not generate a year unless it exists in the source.**
+
 
 ---
 

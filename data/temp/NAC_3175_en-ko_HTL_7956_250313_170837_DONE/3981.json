@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Hello Blink Customer\nThis is an automatically generated e-mail from Blink. Your account is locked for the next 10 minutes due to multiple failed login attempts by the device below. You will not be able to access your Blink account during this time.\nIP Address:[redacted_address]\nLocation:Mercedes, Texas, United States\nDevice:iPhone 13\nIf you do not recognize this sign-in activity, an unauthorized third party may have attempted to access your account. Please use the following link below tochange your password. After 10 minutes you will be able to sign back into your account using the new password.",
-    "trans": "안녕하세요 블링크 고객님\n이 메일은 블링크에서 자동 생성되었습니다. 아래 기기를 이용한 여러 차례의 로그인 실패로 인하여 고객님의 계정이 지금으로부터 10분간 잠기게 됩니다. 해당 시간동안 고객님의 계정에 접속할 수 없습니다.\nIP 주소: [redacted_address]\n위치: 미국 텍사스주 메르세데스\n장치: 아이폰 13\n만일 해당 로그인 시도가 고객님에 의한 것이 아닐 경우, 이는 제 삼자가 무단으로 고객님 계정에 접속하려는 행위일 수 있습니다. 비밀번호 변경을 원하시면 아래의 링크를 누르세요. 10분 후 새로운 비밀번호를 사용하여 고객님의 계정에 접속할 수 있습니다."
-}

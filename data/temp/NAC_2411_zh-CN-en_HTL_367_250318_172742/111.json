@@ -1,6 +1,0 @@
-{
-    "source": "zh_CN",
-    "target": "en_US",
-    "text": "■ Bit1=1，Bit2=1：全自动免角度自学习\n掉电并重新上电后，电梯第一次运行（包括检修运行和快车运行）过程中自动进行编码器角度自学习。 系统学习成功后，在下一次掉电前将不会再次学习。\n提示：半自动/全自动调谐方式同样要求电机线序必须正确，否则学习失败后，电机运行有风险，所以不推荐对电机首次调谐时使用，不推荐替代“带载调谐”方式使用。",
-    "trans": "■ Bit1=1, Bit2=1: fully automatic angle-free self-learning\nAfter power-down and re-power-up, the encoder angle self-learning is automatically performed during the first operation of the lift (including maintenance operation and express operation). After successfully learnt, the system will not learn again before the next power down.\nNotice: Semi-automatic/full-automatic tuning also requires that the motor wiring sequence to be correct. Otherwise, there is a risk of motor operation after learning failure. So it is not recommended to use it for the first time of tuning the motor, and it is not recommended to use it as a substitute for the \"tuning with load\" method."
-}

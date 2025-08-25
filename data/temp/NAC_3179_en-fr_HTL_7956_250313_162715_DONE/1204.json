@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Dear Customer: We hope you are enjoying our services! We would like to remind you that your bill is due on 18/10/2024 for account [redacted_id] and service number(s) ([redacted_id]). Your total outstanding balance is QR215.0.\nThank you for choosing Ooredoo.\nYou can check and pay your bill via the Ooredoo App, our website or our Self-Service Machines.\nWeb: http://ore.do/paybill\niOS: ooredoo://PayBill\nAndroid: http://ore.do/paybill\nKindly ignore this message if you have already paid your bill. Thank you!",
-    "trans": "Cher client : Nous espérons que vous appréciez nos services ! Nous aimerions vous rappeler que votre facture est due le 18/10/2024 pour le compte [redacted_id] et le(s) numéro(s) de service ([redacted_id]). Votre solde total est de 215,0 QR.\nMerci d'avoir choisi Ooredoo.\nVous pouvez consulter et payer votre facture via l'application Ooredoo, notre site web ou nos machines en libre-service.\nSite web : http://ore.do/paybill\niOS: ooredoo://PayBill\nAndroid: http://ore.do/paybill\nVeuillez ignorer ce message si vous avez déjà payé votre facture. Merci de votre compréhension."
-}

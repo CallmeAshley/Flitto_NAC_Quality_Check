@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Dear [redacted_name] and [redacted_name],\nThis is to confirm that you are signed up for the appointment(s) listed below.\nSchool: Maria Weston Chapman Middle School -\nStudent Name: [redacted_name]\nConference: [redacted_name]\nDate/Time: Thu, Nov 7 at 12:55 PM (8 minutes)\nLocation: Room 1311\nPTCFast sign-in link: [redacted_id]\nConference: [redacted_name]\nDate/Time: Thu, Nov 7 at 1:05 PM (8 minutes)\nLocation: Room 2305\nPTCFast sign-in link: [redacted_id]",
-    "trans": "Chers [redacted_name] et [redacted_name],\nNous confirmons par la présente que vous êtes bien inscrits au(x) rendez-vous indiqué(s) ci-dessous.\nÉcole : École secondaire Maria Weston Chapman -\nNom de l'élève : [redacted_name]\nConférence : [redacted_name]\nDate/Heure : Jeudi 7 nov. à 12h55 (8 minutes)\nLieu : Salle 1311\nLien de connexion PTCFast : [redacted_id]\nConférence : [redacted_name]\nDate/Heure : Jeudi 7 nov. à 13h05 (8 minutes)\nLieu : Salle 2305\nLien de connexion PTCFast : [redacted_id]"
-}

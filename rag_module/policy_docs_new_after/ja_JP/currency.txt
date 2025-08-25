@@ -6,16 +6,14 @@ Even if the currency is not the Japanese yen (円 or ￥), the original represen
 Only **positioning and spacing** should be adapted according to Japanese conventions.
 
 Expected currency symbols include:  
-￥, $, €, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
+NT$, ￥, $, €, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
 
 Expected ISO currency codes include:  
-JPY, USD, EUR, KRW, CNY, GBP, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+JPY, USD, EUR, KRW, CNY, GBP, INR, RUB, TRY(abbreviation: TL), AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
 
 Important:  
-Do not convert between currency formats.  
-If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
-Do not rewrite it as a **name** (`400ドル`) or **code** (`USD 400`).  
-The same applies in reverse. Always preserve the representation type from the source.
+Always preserve the original representation type (symbol, code, or name) **unless the Japanese locale customarily uses a different format and the intended meaning is preserved**.  
+For example, `$400` may be translated as `400ドル` if this representation is standard and contextually appropriate in Japanese.
 
 ---
 

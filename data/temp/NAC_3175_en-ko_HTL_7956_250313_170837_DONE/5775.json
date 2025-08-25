@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Unable to Find Your Location\nPlease follow the instructions below to enable location services for Safari in order to proceed in the claims process.\nGo to Settings > Privacy & Security > Location Services.\nMake sure that Location Services is on.\nScroll down to the Safari app.\nTap the Safari app and select the option: Allow while using the App.\nGo back to Settings > Safari.\nScroll down to find Location.\nTap Location and select Allow.\nRefresh the web page to proceed.\nIf you're still having trouble, check out Safari's",
-    "trans": "귀하의 위치를 찾는 것이 불가능함\n청구 절차 진행을 위해 하단 설명을 따라 사파리에서 위치 서비스를 가능하게 하십시오.\n설정 > 개인정보 보호 및 보안 > 위치 서비스.\n위치 서비스가 켜져 있는지 확인하시오.\n사파리 앱으로 스크롤을 내리시오.\n사파리 앱을 눌러 선택권을 누르시오: 앱을 사용하는 동안 허용.\n설정으로 돌아가시오 > 사파리.\n위치 찾기로 스크롤을 내리시오.\n위치를 눌러 허용을 선택하시오.\n진행하기 위해 웹 페이지를 리프레시하시오.\n여전히 문제가 있다면, 사파리를 확인하시오."
-}

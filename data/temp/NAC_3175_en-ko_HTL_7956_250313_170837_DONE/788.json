@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "They publish their prompts used for issue filtering, issue rewriting, answer generation, absolute scoring and pairwise evaluation. However, the link to the prompt for absolute scoring seems to be broken however (keeps on loading eternally for me). On this web page, the authors do mention that “The raw data obtained in this study is currently under review and cannot be shared due to privacy issues until the revision is complete. However, we open-source the prompt to construction RepoQA-bench, other researchers can be able to construct/extend datasets based on these prompts.”.",
-    "trans": "그들은 문제 필터링, 문제 재작성, 답안 생성, 절대 채점 및 쌍별 평가에 사용되는 프롬프트를 발행합니다. 그러나, 절대 채점을 위한 프롬프트로 가는 링크가 고장 난 것 같습니다 (저에게 끊임없이 로딩돼요). 이 웹 페이지에서, 저자는 “이 연구에서 얻은 미가공 데이터는 현재 검토 중이며 개정이 완료될 때까지 개인 정보 보호 문제로 인해 공유될 수 없습니다. 그러나, 저희는 레포QA-벤치 구축을 위한 프롬프트를 오픈-소스화하여 다른 연구자들이 그러한 프롬프트를 기반으로 데이터 세트를 구축/확장할 수 있습니다.\"라고 언급했습니다."
-}

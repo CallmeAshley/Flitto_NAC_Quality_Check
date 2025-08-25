@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "One way to describe the systematic behavior of prices through time is by using linear statisti- cal models. Prices “today” may be related to prices “yesterday,” and to prices the “day before that,” etc. Such prices are said to be autocorrelated, and in a statistical model, current prices can be made a function of lagged prices. This model provides one type of estimate of the systematic behavior. Indeed, we shall show in subsequent chapters of the book that cash (i.e., for immediate delivery) prices of commodities should be autocorrelated. In contrast, the prices of financial assets, such as the price of Coca-Cola Company stock or the price of an industrial bond, are commonly modeled as not autocorrelated.",
-    "trans": "시간에 따른 가격의 체계적인 행동을 설명하는 한 가지 방법은 선형 통계-적 모형을 사용하는 것이다. \"오늘\" 가격은 \"어제\" 가격, \"그 전날\" 가격 등과 관련될 수 있다. 이러한 가격은 자기 상관 관계가 있으며 통계 모형에서 현재 가격은 시차 가격의 함수로 만들어질 수 있다. 이 모형은 체계적인 행동에 대한 한 가지 유형의 추정을 제공한다. 실제로 우리는 상품의 현금(예로, 즉시 배송을 위한) 가격이 자동 상관되어야 함을 이 책의 다음 장에서 보여줄 것이다. 대조적으로, 코카콜라 회사 주식 가격이나 산업 채권 가격과 같은 금융 자산의 가격은 일반적으로 자동 상관이 없는 것으로 모형화된다."
-}

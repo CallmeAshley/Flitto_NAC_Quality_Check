@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "uk_UA",
-    "text": "They publish their prompts used for issue filtering, issue rewriting, answer generation, absolute scoring and pairwise evaluation. However, the link to the prompt for absolute scoring seems to be broken however (keeps on loading eternally for me). On this web page, the authors do mention that “The raw data obtained in this study is currently under review and cannot be shared due to privacy issues until the revision is complete. However, we open-source the prompt to construction RepoQA-bench, other researchers can be able to construct/extend datasets based on these prompts.”.",
-    "trans": "Вони публікують свої запити, які використовуються для фільтрації проблем, переписування проблем, генерації відповідей, абсолютного оцінювання та парного оцінювання. Однак посилання на запит для абсолютного оцінювання здається несправним (продовжує завантажуватися вічно). На цій веб-сторінці автори згадують, що \"Сирі дані, отримані в цьому дослідженні, наразі перебувають на рецензії і не можуть бути поділені через проблеми конфіденційності до завершення перегляду. Однак ми відкриваємо запит для конструкції RepoQA-bench в режимі відкритого коду, інші дослідники зможуть створювати/розширювати набори даних на основі цих запитів\"."
-}

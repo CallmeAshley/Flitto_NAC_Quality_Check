@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "In this paper, we explore the complex procedure of forecasting infectious disease outbreaks, a task of significant significance for global public health authorities. This paper examines the crucial role of machine learning algorithms in this undertaking, elucidating their capacity to analyze extensive and heterogeneous datasets in order to produce significant insights and predictions Our inquiry spans multiple facets of this complex topic. This study examines the tra",
-    "trans": "저희는 본 논문에서 전염병 발생을 예측하는 복잡한 과정을 살펴보는데, 이는 전 세계 공중 보건 당국에게 중요한 의의가 있는 임무입니다. 이러한 일에 있어 기계 학습 알고리즘의 결정적인 역할을 검토하며, 중요한 통찰력과 예측을 위한 광범위적이고 여러 다른 종류로 이뤄진 데이터 세트 분석을 해내는 이들의 능력을 자세히 설명합니다 저희 연구는 이 복잡한 주제의 여러 방면을 포괄하고 있습니다. 본 연구는 조사합니다"
-}

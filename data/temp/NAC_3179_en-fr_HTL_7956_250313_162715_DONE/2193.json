@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Basically how it works is, during the day (maybe when it's not busy time). Someone will input the expiration dates of each item onto the paper (the left column only). Afterwards you will input them onto the file inside Google sheet called \"Expiration Date Checklist\".\nYou will go to the tab that the date you are doing it on. Then input the dates on only the non highlighted column.",
-    "trans": "Voici comment cela fonctionne, pendant la journée (peut-être en dehors des heures d'affluence). Quelqu'un inscrira les dates de péremption de chaque article sur le papier (colonne de gauche uniquement). Ensuite, vous les inscrirez dans le fichier de Google Sheets intitulé « Liste de contrôle des dates de péremption ».\nVous accéderez à l'onglet correspondant à la date à laquelle vous effectuez l'opération. Saisissez ensuite les dates dans la colonne non surlignée."
-}

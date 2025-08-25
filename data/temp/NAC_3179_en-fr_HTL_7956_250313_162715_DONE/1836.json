@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Different Ways to Store the Data\nTable: A rectangular grid of data where\n● rows -usually- represent different observations/instances (e.g. an individual who\nresponded to a survey, a sales event, an object such as a stock item in a store, etc.) ● and columns represent different variables which are measured in each\nobservation/instance (e.g. age or gender of individual in survey, date or type of item sold, etc.)\nSpreadsheet: A collection of -thematically related- tables\nSpreadsheet software: Software used to read & write data and apply statistical procedures on it.",
-    "trans": "Différentes façons de stocker les données\nTableau : Une grille rectangulaire de données où\n● les lignes représentent -généralement- différentes observations/instances (par ex. un individu ayant\nrépondu à une enquête, un événement de vente, un objet comme un article en stock dans un magasin, etc.)● et les colonnes représentent différentes variables mesurées dans chaque\nobservation/instance (par ex. l'âge ou le sexe d'un individu dans une enquête, la date ou le type d'article vendu, etc.)\nFeuille de calcul : Une collection de tableaux -thématiquement liés\nLogiciel de feuille de calcul : Logiciel utilisé pour lire et écrire des données et appliquer des procédures statistiques sur celles-ci."
-}

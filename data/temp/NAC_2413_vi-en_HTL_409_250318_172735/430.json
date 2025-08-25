@@ -1,6 +1,0 @@
-{
-    "source": "vi_VN",
-    "target": "en_US",
-    "text": "■ Tên lỗi : Ô nhiễm dây U-Flex.\n■ Số lượng : 19F/4848ea ~ 0.39(%)\n■ Mapping : 85\n■ Hiện trạng : Khu vực dây U-Flex ô nhiễm dạng dầu , có tính dịch chuyển.\n■ Phán định : Pending\n2. Where : #505; FQA/AI\n3. When : 11:00 pm -> 02:50 am (Không còn phát sinh )\n4. Why : Nghi ngờ phát sinh từ CP , phát sinh theo Lot\n- Kiểm tra đầu vào OK : 840/840ea ~100%\n- Thiết bị : Vị trí lỗi trên dây Flex không tiếp xúc với thiết bị trên Line ( Đã check tại LD; ULD)\n- Carrier : Vị trí lỗi không tiếp xúc với Carrier Line\n- Check lịch sử input CP : Các sample lỗi thuộc Config VMB-EDL1 , được input tập trung tại CGM và BD #505 (CGM và BD input config trên ở 2 Line : #505; #506) vào khung thời gian từ 09:10 am -> 12:20 pm , ca ngày 14/10\n5. Who : UL Assy, UL GIB điều tra\n6. How :\n- Tiến hành kiểm chứng : Lấy 840ea OK đầu vào -> Input Line #505 -> Check tại AI cho kết quả OK: 840/840ea ~100%",
-    "trans": "nan"
-}

@@ -1,6 +1,0 @@
-{
-    "source": "ja_JP",
-    "target": "en_US",
-    "text": "利用者の予約に応じて、決まったルートではなくAIが最適なルートを設定し運行します。 これにより、需要に合わせて効率的なルートで運行され、待ち時間や移動時間を短縮できます。\nスマートフォンでの予約\nスマホアプリや電話で簡単に予約ができ、地域の交通をより便利に使えるようになっています。 アプリを通じて現在の車両の位置や到着予定時刻なども確認可能です。",
-    "trans": "The system operates based on user reservations, with AI setting the optimal route instead of fixed routes. This enables operations on efficient routes that align with demand, reducing both waiting and travel times.\nReservations via Smartphone\nReservations can be easily made via a smartphone app or phone call, making local transportation more convenient. Through the app, users can also check the current location of the vehicle and the estimated time of arrival."
-}

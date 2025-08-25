@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "In the portlist some ports are indicated with a little eye-like button.\nThis button indicates that iNet detected an open standard port (like e. g. port 80 for a webserver), and that an App exists on your iPhone or iPad that can handle the address. (See Settings -> Launch urls).\nIf you tap on the eye button iNet will forward the address to this App.",
-    "trans": "Dans la liste des ports, certains sont indiqués par un petit bouton en forme d'œil.\nCe bouton indique qu'iNet a détecté un port standard ouvert (comme par exemple le port 80 pour un serveur web), et qu'il existe une application sur votre iPhone ou iPad qui peut gérer l'adresse. (Voir Réglages -> Lancer les urls).\nSi vous cliquez sur le bouton « œil », iNet transmettra l'adresse à cette application."
-}

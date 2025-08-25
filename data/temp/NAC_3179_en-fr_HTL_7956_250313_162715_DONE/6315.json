@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "The relationship between the Time Worked and Disburse Cash events reflects the basic economic exchange of getting the use of an employee’s time and paying for it. Figure 20-3 shows that the relationship between these two events is 1:N. This is because Fred’s Train Shop, like most businesses, pays employees periodically but records their time worked daily. Thus, each Disburse Cash event is linked to many daily Time Worked events. Like most businesses,",
-    "trans": "La relation entre le temps de travail et les événements de décaissement reflète l’échange économique fondamental entre l’utilisation du temps d’un employé et son paiement. La figure 20-3 montre que la relation entre ces deux événements est de type 1:N. Cela s’explique par le fait que Fred’s Train Shop, comme la plupart des entreprises, paie ses employés périodiquement mais enregistre leur temps de travail quotidiennement. Ainsi, chaque événement de décaissement est lié à plusieurs enregistrements quotidiens du temps travaillé. Comme c’est le cas dans la plupart des entreprises..."
-}

@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "If a gap value of K is chosen, creating K entirely new lists would be computationally expensive. Instead of creating new lists, shell sort sorts interleaved lists in-place with a variation of the insertion sort algorithm. The insertion sort algorithm variant redefines the concept of \"next\" and \"previous\" items. For an item at index X, the next item is at X + K, instead of X + 1, and the previous item is at X - K instead of X - 1.",
-    "trans": "Si l'on choisit une valeur d'écart de K, la création des listes k entièrement nouvelles serait très coûteuse sur le plan informatique. Au lieu de créer de nouvelles listes, le tri par coquille trie les listes entrelacées sur place à l'aide d'une variante de l'algorithme de tri par insertion. Cette variante redéfinit les concepts d'éléments « suivants » et « précédents ». Pour un élément à l'index X, l'élément suivant est à X + K, au lieu de X + 1, et l'élément précédent est à X - K au lieu de X - 1."
-}

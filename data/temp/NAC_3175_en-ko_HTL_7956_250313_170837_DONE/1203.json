@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Your email address has recently been entered into our website either to register a new account or update the email address of an existing one. However, your email address is already attached to an existing account.\nThe username associated with this email address is: [redacted_email]\nYou can reset your password if you have forgotten it.\nThe request was sent from:\nIP: [redacted_address]\nLocation: United Kingdom\nBrowser: Chrome on Windows",
-    "trans": "당신의 이메일 주소는 새로운 계정을 등록하거나 기존 계정의 이메일 주소를 업데이트 할 용도로 최근 저희 웹사이트에 등록되었습니다. 그러나, 당신의 이메일 주소는 이미 존재하는 계정에 등록되어 있습니다.\n이 이메일 주소와 관련된 사용자 이름은 : [redacted_email]\n비밀번호를 잊어버리신 경우 재설정 할 수 있습니다.\n이 요청은 여기서 보내졌습니다:\nIP: [redacted_address]\n위치: 영국\n브라우저: 윈도우즈 크롬"
-}

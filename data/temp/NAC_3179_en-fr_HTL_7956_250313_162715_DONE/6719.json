@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Image Tokenization We train a new image tokenizer based on Gafni et al. (2022), which encodes a 512 × 512 image into 1024 discrete tokens from a codebook of size 8192. For training this tokenizer, we use only licensed images. Given the importance of generating human faces, we up-sample the percentage of images with faces during pre-training by 2 times. A core weakness of our tokenizer is in reconstructing images with a large amount of text, therefore upper bounding the capability of our models, when it comes to heavy OCR-related tasks.",
-    "trans": "Tokenisation d'imagesNous entraînons un nouveau tokeniseur d'images basé sur Gafni et al. (2022), qui encode une image de 512 × 512 en 1024 tokens discrets à partir d'un livre de codes de taille 8192. Pour l'entraînement de ce tokeniseur, nous utilisons uniquement des images sous licence. Compte tenu de l'importance de la génération de visages humains, nous augmentons de deux fois le pourcentage d'images contenant des visages lors du pré-entraînement. Une faiblesse majeure de notre tokeniseur réside dans la reconstruction d'images contenant une grande quantité de texte, limitant ainsi la capacité de nos modèles en ce qui concerne les tâches impliquant une reconnaissance optique de caractères intensive."
-}

@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "As the name suggests, ClockStop Scans are the scans which are treated as the event which stops the clock for shipments in transportation systems within Amazon. The different use cases for Clockstop are as follows:\nDelivery of shipment or other terminal events [Picked up/Lost/Destroyed etc.]\nCustomer requested/controlled Delay [Delivery attempt /Available for Pickup/ Additional information needed from customer]\nConsignee Delivery Failure [Return to Source/Refused etc.]\nChange in the flight of package [Stop and Return, customer initiated redirects etc.]",
-    "trans": "Comme son nom l’indique, les scans ClockStop désignent les événements marquant l’arrêt du suivi temporel des expéditions dans les systèmes de transport d’Amazon. Les principaux cas d’usage des ClockStop sont les suivants :\n•Livraison de l’envoi ou autres événements terminaux [prise en charge, perte, destruction, etc.].\n•Report demandé ou contrôlé par le client (tentative de livraison, mise à disposition en point de retrait, informations supplémentaires requises auprès du client).\n•Échec de livraison au destinataire (retour à l’expéditeur, refus de réception, etc.).\n•Modification de l’acheminement du colis (interruption et retour, réacheminement initié par le client, etc.)."
-}

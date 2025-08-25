@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "After the commencement date the right-of-use asset should be measured using the cost model in IAS 16, unless it is an investment property or belongs to a class of assets to which the revaluation model applies\n•If the lease transfers ownership of the underlying asset at the end of the lease term or if the cost reflects a purchase option which the lessee is expected to exercise, the right-of-use asset should be depreciated over the useful life of the underlying asset.\n•If there is no transfer of ownership and no purchase option,the right-of-use asset should be depreciated from the commencement date to the earlier of the end of the useful life and the end of the lease term.",
-    "trans": "개시일 이후 사용권자산은 투자부동산이거나 재평가 모형이 적용되는 자산들에 속하는 경우을 제외하고는 IAS 16의 원가 모형으로 계산되어야 한다.\n•만일 리스 계약이 종료될 때 기초자산의 소유권이 이전되거나 금액이 구매 옵션을 반영하고 해당 옵션을 리스이용자가 행사할 것으로 예상된다면, 사용권자산은 기초자산의 유효 수명 동안 감가 상각되어야 한다.\n•만일 소유권 이전이 없고 구매 옵션이 없다면, 사용권자산은 개시일부터 유효 수명이 끝나는 시점과 리스 기간이 종료되는 시점 중 더 이른 시점까지 감가 상각되어야 한다."
-}

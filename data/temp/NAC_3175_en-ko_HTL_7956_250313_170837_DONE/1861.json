@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Though both trained with registered meshes, head avatars and full-body avatars usually face very different registration quality. With well aligned mesh surfaces, the binding of the 3D Gaussians and the underlying mesh is usually simple for head avatars. Both SplattingAvatar [55] and GaussianAvatars [51] propose to bind 3D Gaussians to FLAME mesh triangles without any pose-dependent com- pensations. Full-body avatars, on the other hand, usually face the challenge of a much less accurate underlying mesh because of clothing. D3GA [78] proposes to alleviate this problem by modeling clothes with separate tetrahedron lay- ers. We follow the practice of AnimatableGaussians [37] and CodecAvatars [2] to leverage the ability of 2D CNNs\nfor the pose-dependent generation of 3DGS parameters.",
-    "trans": "두 방식 모두 등록된 메시로 훈련되지만, 헤드 아바타와 전신 아바타는 일반적으로 매우 다른 등록 품질에 직면한다. 메시 표면이 잘 정렬된 경우, 3D 가우시안과 기본 메시의 바인딩은 헤드 아바타에서는 보통 간단합니다. SplattingAvatar [55]와 GaussianAvatars [51] 모두 포즈 의존적 보상 없이 3D 가우시안을 FLAME 메시 삼각형에 바인딩하는 방법을 제안합니다. 반면, 전신 아바타는 의복으로 인해 기본 메시의 정확도가 훨씬 낮다는 문제에 직면합니다. D3GA [78]는 별도의 사면체 레이어로 의복을 모델링하여 이 문제를 완화하는 방법을 제안합니다. 우리는 AnimatableGaussians [37]와 CodecAvatars [2]의 관행을 따라 2D CNN의 능력을 활용하여\n포즈 의존적 3DGS 매개변수를 생성합니다."
-}

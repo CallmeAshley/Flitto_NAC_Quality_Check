@@ -16,6 +16,7 @@ Evaluation Criteria:
 - If a weekday exists, place it after the date with a space.
 - Accept long-form (`年/月/日`) and short-form (`/` or `-`) formats.
 - **Do not generate a weekday unless it exists in the source.**
+- **Do not generate a year unless it exists in the source.**
 
 ---
 

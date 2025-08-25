@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "1. Introduction (1-2 minutes)\nBriefly introduce your app.\nExplain the goal of your app: What problem does it solve, or what purpose does it serve for the user?\n2. App Demonstration (3-5 minutes)\nShow the app in action. Walk through the main features and explain how they contribute to the app's goal.\nHighlight any specific challenges you overcame during development.\n3. Closing\nSummarize what you learned from creating the app.\nShare any ideas for further improvements if you had more time",
-    "trans": "1. Introduction (1-2 minutes)\nPrésentez brièvement votre application.\nExpliquez l'objectif de l'application : quel problème résout-elle, ou quel service rend-elle à l'utilisateur ?\n2. Démonstration de l'application (3-5 minutes)\nPrésentez l'application en fonctionnement. Parcourez les fonctionnalités principales et expliquez leur contribution à l'objectif de l'application.\nMettez en évidence les défis spécifiques que vous avez rencontrés lors du développement.\n3. Conclusion\nRésumez les enseignements tirés de la création de l'application.\nPartagez les idées d'améliorations supplémentaires, si le temps l'avait permis."
-}

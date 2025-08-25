@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "A datacenter is a facility or physical location that houses a large number of servers and related infrastructure, such as networking, storage, and computing equipment, designed to store, process, and distribute large volumes of data. Datacenters are essential for the functioning of many internet services and applications, including websites, cloud services, streaming platforms, and business applications. They provide the backbone infrastructure for modern digital services and are used by organizations to store data, run applications, and manage network communications.",
-    "trans": "Un centre de données est une installation ou un emplacement physique qui héberge un grand nombre de serveurs et d'infrastructures associées, telles que des équipements de mise en réseau, de stockage et de calcul, conçus pour stocker, traiter et distribuer de vastes volumes de données. Les centres de données sont essentiels au fonctionnement de nombreux services et applications internet, y compris les sites web, les services cloud, les plateformes de streaming et les applications d'entreprise. Ils constituent l'infrastructure de base des services numériques modernes et sont utilisés par les organisations pour stocker des données, exécuter des applications et gérer les communications réseau."
-}

@@ -1,19 +1,25 @@
 [Time Format]
 
 Definition:  
-American English typically uses the **12-hour format** with AM/PM indicators.  
+American English typically uses the **12-hour format** with AM(am)/PM(pm) indicators.  
 Times are written with a colon (`:`) between hours and minutes (and seconds, if included).  
 “at” is commonly used to link dates and times in text (e.g., “on July 28 at 2:30 PM”).
 
 Examples:  
 - 2:30 PM  
+- 2:30 pm
 - 2:30:45 PM  
+- 8:11:22 am
 - 2:30 PM on July 28
+- 9 AM
+- 9 am
+- 5 PM
+- 5 pm
 
 Evaluation Criteria:  
 - Include `AM` or `PM` after the time.  
 - Use colons between hours, minutes, and seconds.  
-- Do not include time zone markers (e.g., EDT, PST) unless explicitly present in the original.
+
 [Exceptions]
 
 - Do not apply the formatting rules to numbers that are part of:

@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "uk_UA",
-    "text": "This item first describes every part in a production system and later focuses on MRP implementation. A production plan describes in detail the quantity of principal sku (final product to sell) and produced in subsets of sku, the exact time of production and lot sizing. The production plan can be divided in mas- ter production schedule (MPS), Material requirement planning (MRP) and the detailed plan of jobs in the production floor. See Fig. 1.",
-    "trans": "Цей пункт спочатку описує кожну частину виробничої системи, а потім зосереджується на впровадженні MRP. Виробничий план детально описує кількість основного SKU (кінцевого продукту для продажу) та виробленого в підгрупах SKU, точний час виробництва та розмір партії. Виробничий план можна поділити на графік основного виробництва (MPS), планування потреб у матеріалах (MRP) та детальний план завдань на виробничому майданчику. Див. рис. 1."
-}

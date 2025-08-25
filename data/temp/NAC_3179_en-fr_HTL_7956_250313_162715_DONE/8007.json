@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "System\nAny arbitrary portion of a whole process for analysis.\nEx. a reactor, a section of a pipe, an entire refinery(精煉廠)\nSystem boundary\nThe limits of the system defined by drawing the lines, that encloses the portion\nof the process analyzed.\nClosed System\nNo material crosses the system boundary. Changes\ncan take place inside the closed system, but no\nmass exchange occurs with the surround",
-    "trans": "Système\nToute portion arbitraire d'un processus entier destinée à l'analyse.\nEx. un réacteur, une section de tuyauterie, une raffinerie entière (精煉廠)\nLimite du système\nLes frontières du système définies par le tracé des lignes qui enclavent la portion\ndu processus analysée.\nSystème fermé\nAucune matière ne traverse la limite du système. Des changements\npeuvent se produire à l'intérieur du système fermé, mais aucun\néchange de masse n'a lieu avec l'environnement."
-}

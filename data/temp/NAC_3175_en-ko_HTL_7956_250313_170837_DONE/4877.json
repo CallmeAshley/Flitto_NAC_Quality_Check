@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Expected Result\navn2023001-ford-fmax-vf\nWhen the \"EngOilLevel signal (EFL_P1 - 0x18FEEF00)\" parameter is changed, there is no change in the \"Oil Life\" bar.\n2- Click the ''Features - Maintance''\nActual Result\nWhen the \"EngOilLevel signal (EFL_P1 - 0x18FEEF00)\" parameter is changed, the \"Oil Life\" part should be changed, but this part cannot be controlled with the relevant signal, and there is no change for the relevant part in the HMI.\n3- Change the ''EngOilLevel signal (EFL_P1 - 0x18FEEF00)'' parameter\n1- Start the IVI\nExecution Information\nWhen the \"EngOilLevel signal (EFL_P1 - 0x18FEEF00)\" signal changes, the \"Oil Life\" bar must also change and the entered value must be updated.\n4- Check that the HMI screen\nTest Norm",
-    "trans": "예상 결과\navn2023001-ford-fmax-vf\n“엔진오일레벨 신호(EFL_P1 - 0x18FEEF00)” 매개변수가 변경되면, “오일 수명” 막대기에 변화가 없음.\n2- “기능 - 유지보수\" 클릭\n실제 결과\n“엔진오일레벨 신호(EFL_P1 - 0x18FEEF00)” 매개변수가 변경되면, “오일 수명” 부분이 바뀌어야 한다. 하지만, 관련 신호로 이 부분을 제어할 수 없으며, HMI에서 관련 부분에 변화가 없음.\n3- “엔진오일레벨 신호(EFL_P1 - 0x18FEEF00)” 매개변수 변경\n1- IVI 시작\n실행 정보\n“엔진오일레벨(EFL_P1 - 0x18FEEF00)” 신호가 변경되면, “오일 수명” 막대기도 변경되고 입력값도 업데이트되어야 함.\n4- HMI 화면 확인\n놈 테스트하기"
-}

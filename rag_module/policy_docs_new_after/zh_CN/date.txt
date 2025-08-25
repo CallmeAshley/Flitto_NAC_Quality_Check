@@ -15,6 +15,7 @@ Evaluation Criteria:
 - If the weekday is present, it follows the date.  
 - Accept both character-based (`年/月/日`) and slash-based formats.  
 - Do not add a weekday unless explicitly present in the source.
+- **Do not generate a year unless it exists in the source.**
 
 ---
 

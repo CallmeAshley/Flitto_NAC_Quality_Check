@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Create a smoothed version of the signal called filtsig1 by computing the average value over a +/- k samples using the numpy.mean() function and k=20. You will need to make a decision as to how to handle the first and last k samples, for which there won’t be a full k samples available in both directions. In a single plot, plot the noisy signal and the filtered signal overlaid on the original signal.\nC. Define a vector hfilt that corresponds to box of length N=2k+1 and height 1/N. Create a second smoothed version of the signal called filtsig2 by convolving the base signal with hfilt using the numpy.convolve() function. Plot the two different filtered signal outputs overlaid on each other. Note that the convolve function will change the length, so you will need to define a new time vector for that.\n# Part A\n# Assignment 2 - Smoothing Signals",
-    "trans": "numpy.mean() 함수와 k=20을 사용하여 +/- k 샘플의 평균값을 계산하여 filtsig1이라는 평활화된 버전의 신호를 만듭니다. 양방향으로 전체 k 샘플을 사용할 수 없는 첫 번째 및 마지막 k 샘플을 어떻게 처리할지 결정해야 합니다. 단일 구상에 소음이 있는 신호와 필터링된 신호를 원래 신호에 겹쳐 구상합니다.\nC. 길이가 N=2k+1이고 높이가 1/N인 상자에 해당하는 벡터 hfilt를 정의합니다. numpy.convolve () 함수를 사용하여 기본 신호를 hfilt로 컨볼루션하여 filtsig2라는 두 번째 평활화된 버전의 신호를 만듭니다. 서로 겹쳐진 두 가지 다른 필터링된 신호 출력을 구상합니다. 컨볼루션 함수는 길이를 변경하므로 이를 위한 새로운 시간 벡터를 정의해야 합니다.\n# 파트 A\n# 과제 2 - 신호 평활화"
-}

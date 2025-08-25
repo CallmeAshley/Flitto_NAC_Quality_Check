@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Large language models are a kind of generative AI. They’re built on deep-learning algorithms that are trained on enormous amounts of text. That means they can figure out which words are most likely to appear together in a sentence or paragraph and generate passages that sound like what a person might write. ChatGPT is a chatbot based on a large language model (GPT-3 and GPT-4).\n(A quick note: You may have heard that large language models have aced tests like the bar exam or the US Medical Licensing Exam. The models tend to do well on exams, probably because there are plenty of sample questions and answers in their training data. But we know remarkably little about how these models work. By giving them these tests, we’re trying to measure their “intelligence” based on their outputs, without fully understanding how they function.)",
-    "trans": "대형언어모델은 생성형 AI의 한 종류이다. 어마어마한 양의 텍스트로 훈련된 딥러닝 알고리즘에 기반하여 만들어진다. 즉 그들은 문장이나 문단에서 어떤 단어가 함께 가장 많이 쓰이는지 알아내고 사람이 썼을 법한 문단을 만들어낼 수 있다는 것이다. 챗지피티는 대형언어모델 기반의 챗봇이다(지피티-3와 지피티-4).\n(간단 메모: 변호사 시험이나 미국 의사면허시험과 같은 테스트에서 대형언어모델이 좋은 성적을 거뒀다는 사실을 들어봤을 것이다. 모델은 시험 성적이 좋은 경향이 있는데, 이는 아마 훈련 데이터에 샘플 질문이나 답이 많이 들어있기 때문일 것이다. 그러나 우리는 이러한 모델이 어떻게 작동하는지 매우 조금밖에 알지 못한다. 그들이 어떻게 기능하는지 완전히는 이해하지 못한채, 이런 시험을 줌으로써, 우리는 그들의 \"지능\"을 결과값에 기반해 측정하려고하는 것이다.)"
-}

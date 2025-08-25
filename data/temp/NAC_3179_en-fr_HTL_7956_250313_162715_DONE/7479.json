@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "We would like to inform you that your answers to the security questions were correct. Therefore, we have reset your 2FA App configuration settings on your [redacted_info] account.\nThis will enable you to scan the QR code and add your account to the Authenticator app again.\nTo help you get back on track, we’ve prepared a detailed guide on how to set up and use your 2FA app. Please follow the instructions below carefully to ensure your accounts are secured with Two-Factor Authentication.\nSetting Up Your 2FA App: Step-by-Step Instructions",
-    "trans": "Nous souhaitons vous informer que vos réponses aux questions de sécurité étaient correctes. Par conséquent, nous avons réinitialisé les paramètres de configuration de votre application 2FA sur votre compte [redacted_info].\nCela vous permettra de scanner le code QR et d’ajouter à nouveau votre compte à l’application Authenticator.\nPour vous aider à reprendre le contrôle, nous avons préparé un guide détaillé sur la configuration et l’utilisation de votre application 2FA. Veuillez suivre attentivement les instructions ci-dessous afin de sécuriser vos comptes avec l’authentification à deux facteurs.\nConfiguration de votre application 2FA : Instructions étape par étape"
-}

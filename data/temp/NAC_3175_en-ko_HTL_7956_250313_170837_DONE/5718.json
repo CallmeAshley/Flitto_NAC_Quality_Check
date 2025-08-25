@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "To develop a linear optimization model, we use the following process:\n1. Define the decision variables.\n2. Define the objective function, Z, a linear equation involving the decision variables that identifies our objective in the problem-solving effort. This equation predicts the effects on the objective function of choosing different values for the decision variables. The objective function is either minimized or maximized. For example, if Z is defined as total production cost, then it is minimized. If Z is defined as total profits, then it is maximized. Other examples of Z include project completion time (minimized), production and distribution costs (minimized), and the production rate of an assembly line (maximized).",
-    "trans": "선형최적화 모델을 개발하기 위해, 우리는 다음 과정을 사용합니다:\n1. 결정변수를 정의합니다.\n2. 문제 해결 노력에서 우리의 목표를 식별하는 결정변수를 포함하는 1차 방정식인 목적함수 Z를 정의합니다. 이 방정식은 결정변수에 대해 다른 값을 선택할 때 목적 함수에 미치는 영향을 예측합니다. 목적 함수는 최소화되거나 최대화됩니다. 예를 들어, Z가 총 제조 원가를 정의하면, 이것은 최소화됩니다. 만약 Z가 총 이윤을 정의하면, 이것은 최대화됩니다. Z의 다른 예로는 프로젝트 완성 시간 (최소화), 생산 및 유통 비용 (최소화), 그리고 생산 라인의 생산 속도 (최대화)."
-}

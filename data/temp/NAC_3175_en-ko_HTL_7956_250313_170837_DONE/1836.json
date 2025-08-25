@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Different Ways to Store the Data\nTable: A rectangular grid of data where\n● rows -usually- represent different observations/instances (e.g. an individual who\nresponded to a survey, a sales event, an object such as a stock item in a store, etc.) ● and columns represent different variables which are measured in each\nobservation/instance (e.g. age or gender of individual in survey, date or type of item sold, etc.)\nSpreadsheet: A collection of -thematically related- tables\nSpreadsheet software: Software used to read & write data and apply statistical procedures on it.",
-    "trans": "데이터를 저장하는 다른 방법들\n도표: 직사각형 격자판의 데이터 어디\n● 열들은-보통-다른 관찰/예시 (예, 개인을 나타낸다\n설문조사, 판매 이벤트, 가게에 있는 재고 물품 등과 같은 물체에 대응하는) ● 그리고 열은 각에 측정된 다른 변수들을 대표한다\n관찰/예시 (예, 설문조사 응답자의 나이 혹은 성별, 물품이 팔린 날짜 또는 종류, 등.)\n스프레드시트: -주제에 관련된- 도표 모음집\n스프레드시트 소프트웨어: 소프트웨어는 데이터를 읽고 & 적는 데 사용되며 그것에 통계적 절차를 적용시킨다."
-}

@@ -6,16 +6,14 @@ Even if the currency is not Polish złoty (zł), the original representation for
 Only **positioning and spacing** should be adjusted according to Polish conventions.
 
 Expected currency symbols include:  
-zł, €, $, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾  
+NT$, zł, €, $, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾  
 
 Expected ISO currency codes include:  
-PLN, USD, EUR, JPY, GBP, CNY, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD  
+PLN, USD, EUR, JPY, GBP, CNY, KRW, INR, RUB, TRY(abbreviation: TL), AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD  
 
 Important:  
-Do not convert between currency formats.  
-If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
-Do not rewrite it as a **name** (`400 dolarów`) or **code** (`400 USD`).  
-The same applies in reverse. Always preserve the representation type from the source.
+Always preserve the original representation type (symbol, code, or name) **unless the Polish locale customarily uses a different format and the intended meaning is preserved**.  
+For example, `$400` may be translated as `400 dolarów` if this format is grammatically appropriate and contextually natural in Polish.
 
 ---
 

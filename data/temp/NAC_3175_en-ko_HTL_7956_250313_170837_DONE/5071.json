@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "We have cancelled your recent Amazon.com order [redacted_info] due to an issue with your payment method.\nSome financial institutions use additional confirmation to safeguard your account information by ensuring that your payment method is not used without your authorization.\nUnfortunately, your order could not be processed as you did not provide the correct bank information to validate your payment method.\nIf you still want to receive these products, please place a new order and try using a different payment method. If you think this is an error, please contact your bank directly.\nYou can find more information about our accepted payment methods by visiting our help pages:",
-    "trans": "최근 아마존에서 주문하신 [redacted_info]은 지불 방식에 문제가 있어 취소 처리되었습니다.\n일부 금융 기관은 귀하의 허가 없이 지불 방식이 사용되는 일이 없도록 계좌 정보 보호를 위해 추가 인증을 사용합니다.\n유감스럽게도, 귀하의 주문은 지불 방식 인증을 위해 제공된 은행 정보가 부정확하여 처리되지 않았습니다.\n제품을 받아보기를 희망하시면, 다른 지불 방식으로 새로 주문해 주시기 바랍니다. 오류가 있다고 생각하시면, 은행에 연락하시기 바랍니다.\n승인된 지불 방식에 대해 보다 많은 정보를 확인하려면 다음 헬프 페이지에 방문하십시오:"
-}

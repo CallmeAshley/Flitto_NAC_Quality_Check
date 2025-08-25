@@ -1,6 +1,0 @@
-{
-    "source": "zh_CN",
-    "target": "en_US",
-    "text": "ITINERARY\nORIGIN/DES 起飞机场/抵达\n机场 PEK/MFM\nMFM/PEK\nFLIGHT 航班号\nZH3399 (实际承运:\nNX)\nZH3366 (实际承运:\nNX)\nCLASS 舱位等级\nEconomy\nEconomy\nDATE 出发日期\n2024-11-08\n2024-11-11\nDEPARTURE TIME\n起飞时间 19:30\n19:35\nARRIVAL STATUS TIME 状态\n抵达时间\n23:10 OK",
-    "trans": "ITINERARY\nORIGIN/DES Departure/Arrival Airport\nAirports PEK/MFM\nMFM/PEK\nFLIGHT Flight Number\nZH3399 (Operated by:\nNX),\nZH3366 (Operated by:\nNX)\nCLASS Cabin class\nEconomy\nEconomy\nDATE Departure Date:\n2024-11-08,\n2024-11-11\nDEPARTURE TIME\n19:30,\n19:35\nARRIVAL STATUS TIME status\nArrival Time\n23:10 OK"
-}

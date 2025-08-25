@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "NOTIFICATION: [redacted_name], LLC invites you to an event: Hearing - [redacted_name], et al.\nTime: [redacted_info] ([redacted_address])\nLocation: W[redacted_address]\nReply Y to confirm.\nReply to this message or contact us at [redacted_email]com to reschedule.\nThis is an automated SMS message. Reply STOP to opt-out of text notifications. Standard message and data rates may apply.",
-    "trans": "알림: [redacted_name], 엘엘씨가 귀하를 이벤트에 초대합니다: 듣기 - [redacted_name], 등.\n시간: [redacted_info] ([redacted_address])\n장소: 더블유 [redacted_address]\n확정을 위해선 Y로 답변하세요.\n본 메시지에 답하시거나 [redacted_email] com로 저희에게 연락해 일정을 변경하세요.\n이것은 자동 문자 메시지 전송 서비스입니다. 문자 알림 구독을 취소하고 싶으시다면 STOP으로 답변 주세요. 표준 메시지와 데이터 요금이 적용될 수 있습니다."
-}

@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "[redacted_name]: Your package has arrived at the warehouse but cannot be delivered due to an incomplete address. Please update your shipping details to facilitate delivery. Redelivery costs will be borne by you. Please click on the link below to make changes:\n[redacted_url]\n(Please reply to 1, then exit the SMS, open the SMS activation link again, or copy the link to Safari browser and open it) Please correct it quickly within 12 hours to avoid unnecessary losses, [redacted_name]!",
-    "trans": "[삭제된_이름]: 귀하의 소포가 창고에 도착했지만 주소가 불완전하여 배송할 수 없습니다. 원활한 한 배송을 위해 귀하의 세부 배송정보를 업데이트해 주세요. 재배송 비용은 귀하가 부담하셔야 합니다. 주소를 변경하려면 아래 링크를 클릭하세요:\n[redacted_url]\n(1에 답장한 다음 SMS를 종료하고 SMS 활성화 링크를 다시 열거나 링크를 Safari 브라우저에 복사한 다음 여세요) 불필요한 손실을 피하기 위해 12시간 이내에 신속하게 수정해 주세요, [삭제된_이름]!"
-}

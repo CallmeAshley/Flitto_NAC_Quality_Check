@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Local Payments are received from business generated in your country. All orders placed within your organization for shipping within your country of address will generate a \"Local Payment\" to you when you are eligible for these payments. OC Payments (Out of Country) are received from business generated outside of your country. All orders placed within your organization for shipping outside of your country of address will generate an \"OC Payment\" to you when you are eligible for these payments.",
-    "trans": "Les paiements locaux sont perçus pour les activités commerciales générées dans votre pays. Toutes les commandes passées au sein de votre organisation pour une expédition à l'intérieur de votre pays d'adresse généreront un « paiement local » en votre faveur lorsque vous serez éligible à ces paiements. Les paiements hors pays (OC) sont perçus pour les activités commerciales générées en dehors de votre pays. Toutes les commandes passées au sein de votre organisation pour une expédition en dehors de votre pays d'adresse généreront un « paiement OC » en votre faveur lorsque vous serez éligible à ces paiements."
-}

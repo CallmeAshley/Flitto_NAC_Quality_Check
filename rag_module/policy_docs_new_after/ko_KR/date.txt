@@ -5,7 +5,7 @@ While the following rules provide strict formatting guidelines, LLMs must priori
 If the translated sentence's format clearly matches the source meaning and local convention, **do not penalize minor structural variations**.
   
 In Korean, dates are typically written in the order of year + month + day.  
-Examples: 2023년 10월 22일 화요일, 1990년 1월 1일, 5월 3일
+Examples: 2023년 10월 22일 화요일, 1990년 1월 1일, 5월 3일, 9/27, 2025. 03. 22, 2025/2/10
 Including the weekday is optional.
 Including the year is optional.
 

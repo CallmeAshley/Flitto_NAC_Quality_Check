@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Chart 8.6 employs three elements new to our discussion of the MACD. First, there is a straight, not exponential, 50-day moving average, which we will employ to define market trend (actually, a somewhat subjective exercise). As a general rule, we shall presume that the prevailing market trend is at least neutral and possibly bull- ish if the 50-day moving average is either rising or essentially flat. If the 50-day aver- age is clearly declining, we will assume that the market trend is down.",
-    "trans": "Le graphique 8.6 utilise trois éléments nouveaux dans le cadre de notre discussion sur le MACD. Premièrement, il existe une moyenne mobile à 50 jours droite, et non exponentielle, que nous utiliserons pour définir la tendance du marché (en fait, un exercice quelque peu subjectif). Généralement, nous supposerons que la tendance dominante du marché est au moins neutre, voire haussière, si la moyenne mobile sur 50 jours est soit en hausse, soit pratiquement plate. Si la moyenne à 50 jours est clairement en baisse, nous supposerons que la tendance du marché est à la baisse."
-}

@@ -13,8 +13,7 @@ Examples:
 
 Evaluation Criteria:  
 - In 12-hour format, include 오전 (AM) or 오후 (PM) **before** the hour.  
-- In 24-hour format, use colons (`:`) and **always use two digits**, including leading zeros (e.g., 09:30, 14:00).  
-- Include time zone information (e.g., KST, EDT) only when source sentence contains time zone information.
+- In 24-hour format, use colons (`:`) and **always use two digits**, including leading zeros (e.g., 09:30, 14:00). 
 
 [Exceptions]
 

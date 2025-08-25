@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "replace the == operator with =, you’ll be protected by the compiler. The compiler will ERR treat this as a syntax error because only a variable name can be placed on the left-hand side of an assignment expression. This will prevent the potential devastation of a run-\ntime logic error.\nVariable names are said to be lvalues (for “left values”) because they can be used\non the left side of an assignment operator. Constants are said to be rvalues (for “right values”) because they can be used only on the right side of an assignment operator. An lvalue can also be used as an rvalue, but not vice versa.",
-    "trans": "== 연산자를 = 로 대체하면 컴파일러가 귀하의 작업을 보호하게 됩니다. 할당 표현식의 왼편에 변수의 이름만 입력할 수 있기 때문에 컴파일러는 이를 ERR 오류로 처리합니다. 이는 런타임 오류로 생길 수 있는\n재적인 위험을 방지합니다.\n변수 이름은 대입 연산자의 좌측에만 올 수 있기 때문에 lvalues(좌측 값)이라고 불립니다.\n상수는 대입 연산자의 우측에만 올 수 있기 때문에 rvalues(우측 값)이라고 불립니다. 좌측 값은 우측 값으로도 쓰일 수 있지만, 그 반대는 불가능합니다."
-}

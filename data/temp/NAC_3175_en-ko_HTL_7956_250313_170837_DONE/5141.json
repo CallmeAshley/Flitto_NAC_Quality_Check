@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Hi Alejandra,\nDue to a problem with the payment method you provided, we couldn’t charge your account for your order ([redacted_id]).\nWe may attempt to reprocess payment for your order in a few days using the payment method you provided.\nPlease go to the following page to make sure that the payment information for your account is correct, and so that we have a valid payment method for your future orders:\n[redacted_url] orderID=[redacted_id]",
-    "trans": "알레한드라님 귀하,\n귀하께서 제공해 주신 결제 방식에 문제가 발생하여, 귀하의 주문 건([redacted_id])의 청구를 진행하지 못했습니다.\n며칠 후 제공해 주신 결제 방식으로 다시 결제 시도를 할 수도 예정입니다.\n귀하의 향후 주문건이 효한 결제 방식으로 진행될 수 있도록, 다음 페이지에서 결제 정보가 정확한지 확인해 주시기 바랍니다.\n[redacted_url] 주문ID=[redacted_id]"
-}

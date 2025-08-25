@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "On Android 12, it's not possible to opt out of the splash screen. It is only possible to customize it: icon, window background, exit animation.\nBy default, the splash screen is shown from user touch until the first frame of your application is drawn, so to minimize the time during which the splash screen is shown, you can try to reduce the launch time of your application.\nYou can also implement you own exit animation so the transition from the splash screen to the app is more seamless.\nIf you previously used a dedicated SplashScreen Activity and want to keep that activity, then here is the workaround from official docs.",
-    "trans": "Android 12에서는 스플래시 화면을 옵트아웃할 수 없습니다. 아이콘, 창 배경, 애니메이션 종료 등 사용자 지정만 가능합니다.\n기본적으로 스플래시 화면은 사용자 터치부터 애플리케이션의 첫 번째 프레임이 그려질 때까지 표시되므로 스플래시 화면이 표시되는 시간을 최소화하려면 애플리케이션의 시작 시간을 줄이세요.\n또한 스플래시 화면에서 앱으로의 전환이 더 원활하도록 자체 종료 애니메이션을 구현할 수도 있습니다.\n이전에 전용 스플래쉬 화면 활동을 사용했고 해당 활동을 유지하려는 경우, 공식 문서에서 해결 방법을 참조하세요."
-}

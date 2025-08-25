@@ -13,7 +13,7 @@ Examples:
 Evaluation Criteria:  
 - Use colons between time units.  
 - Do not use AM/PM.  
-- Do not include time zone names unless required by the original.
+
 [Exceptions]
 
 - Do not apply the formatting rules to numbers that are part of:

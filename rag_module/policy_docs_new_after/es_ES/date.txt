@@ -17,6 +17,7 @@ Evaluation Criteria:
 - If a weekday is present, place it before the date with a comma.
 - Accept both long-form (with “de”) and short-form (with slashes) formats.
 - **Do not generate a weekday unless it is present in the source.**
+- **Do not generate a year unless it exists in the source.**
 
 ---
 

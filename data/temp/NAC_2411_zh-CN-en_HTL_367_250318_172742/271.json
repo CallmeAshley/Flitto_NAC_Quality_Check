@@ -1,6 +1,0 @@
-{
-    "source": "zh_CN",
-    "target": "en_US",
-    "text": "（1）隔夜中转（中转点前序航班到达时间和后续航班起飞时间不在同一天），联程运输为国内转国内的航班，中转时间须大于等于6小时，且小于等于24小时；联程运输为国内转国际（地区）、国际（地区）转国内、国际（ 地区）转国际（地区）的航班，中转时间须大于等于6小时，且小于等于30小时。\n（2）当天中转（中转点前序航班到达时间和后续航班起飞时间在同一天），前序航班的计划降落时间在早8点（含）前，中转时间须大于等于6小时。",
-    "trans": "(1) Overnight transfer (the arrival time of the previous flight and the departure time of the subsequent flight at the transfer point are not on the same day), if the connecting flight is a domestic-to-domestic flight, the transfer time must be greater than or equal to 6 hours and less than or equal to 24 hours; if the connecting flight is a domestic-to-international (regional), international (regional)-to-domestic, or international (regional)-to-international (regional) flight, the transfer time must be greater than or equal to 6 hours and less than or equal to 30 hours.\n(2) Same-day transfer (the arrival time of the previous flight at the transfer point and the departure time of the subsequent flight are on the same day), if the scheduled landing time of the previous flight is before 8:00 a.m. (inclusive), the transfer time must be greater than or equal to 6 hours."
-}

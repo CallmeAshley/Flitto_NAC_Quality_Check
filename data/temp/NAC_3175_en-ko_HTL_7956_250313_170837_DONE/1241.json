@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "نسخ الكود\nInstall the necessary library:\nIf you want, I can guide you through the code setup, or I can provide a downloadable version of the table in plain text format.\nLet me know how you'd like to proceed!\npip install fpdf\nYou can generate the PDF on your local machine using tools like FPDF with the correct Arabic-supporting font or online PDF generators that allow for Arabic text input. Here's a quick overview of how you could do it using Python on your system:\nbash\nDownload a font that supports Arabic, such as \"Arial Unicode MS\" or \"Amiri\", and load it into the FPDF object.",
-    "trans": "코드를 복사하세요.\n필요한 라이브러리를 설치하세요:\n귀하가 원하시면 코드 설정을 안내해 드리거나 일반 문자형식으로 작성된 다운로드가능한 버전의 표를 제공해 드릴 수 있습니다.\n귀하가 원하시는 진행방식에 대해 알려주세요!\npip 설치 FPDF\n올바른 아랍어 지원 글꼴을 가진 FPDF와 같은 도구나 아랍문자 입력을 허용하는 온라인 PDF 생성기를 사용하면 귀하의 로컬 컴퓨터에서 PDF를 생성할 수 있습니다. 다음은 시스템에서 파이썬을 사용하여 이를 수행하는 방법에 대한 개요입니다.\n배시\n\"Arial Unicode MS\" 또는 \"Amiri\"와 같이 아랍어를 지원하는 글꼴을 다운로드하여 이를 FPDF 객체에 로드합니다."
-}

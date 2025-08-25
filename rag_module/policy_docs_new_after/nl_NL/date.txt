@@ -16,6 +16,8 @@ Evaluation Criteria:
 - Weekdays, if included, must appear before the date with no comma.  
 - Accept both long-form and abbreviated month names.  
 - **Do not generate a weekday unless it exists in the source.**
+- **Do not generate a year unless it exists in the source.**
+
 
 ---
 

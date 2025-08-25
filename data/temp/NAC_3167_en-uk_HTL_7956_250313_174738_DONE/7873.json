@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "uk_UA",
-    "text": "correct. A word cloud, or tag cloud, is a visual device for representing unstructured, textual data. It consists of words extracted from text with the size of each word being proportional to the frequency with which it appears in the given text. A is incorrect because a tree-map is a graphical tool for displaying and comparing categorical data, not for visualizing unstructured, textual data. B is incorrect because a scatter plot is used to visualize the joint variation in two numerical variables, not for visualizing unstructured, textual data.",
-    "trans": "вірним. Хмара слів, або хмара тегів, є візуальним засобом для репрезентації неструктурованих текстових даних. Вона складається зі слів, які були витягнуті із тексту, причому розмір кожного слова пропорційний частоті, з якою воно зустрічається в даному тексті. A є невірним, тому що деревоподібна карта є графічним інструментом для демонстрації і порівняння категоріальних даних, а не для візуалізації неструктурованих текстових даних. B є невірним, тому що діаграма розсіювання використовується для візуалізації спільної зміни двох числових змінних, а не для візуалізації неструктурованих текстових даних."
-}

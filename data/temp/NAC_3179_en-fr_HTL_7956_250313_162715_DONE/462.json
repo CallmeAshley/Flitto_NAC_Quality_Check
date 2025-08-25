@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "SMTP SERVER, ISP:\nSMTP stands for Simple Mail Transfer Protocol Server. This server takes care of\ndelivering emails from one server to another server. When you send an email to an\nemail address, it is delivered to its recipient by a SMTP Server.\nISP stands for Internet Service Provider. They are the companies who provide you\nservice in terms of internet connection to connect to the internet.\nYou will buy space on a Web Server from any Internet Service Provider. This space\nwill be used to host your Website.",
-    "trans": "Serveur SMTP, Fournisseur d'accès Internet (FAI) :\nSMTP signifie Serveur de Protocole de Transfert de Courrier Simple. Ce serveur s’occupe de\nde la transmission des e-mails d’un serveur à un autre. Lorsque vous envoyez un e-mail à un\nadresse e-mail, il est acheminé à son destinataire par un serveur SMTP.\nFAI signifie Fournisseur d'Accès à Internet. Ce sont les entreprises qui vous fournissent\nun service de connexion à Internet pour vous permettre d’accéder au web.\nVous achetez un espace sur un serveur Web auprès d’un fournisseur d’accès à Internet. Cet espace\nsera utilisé pour héberger votre site web."
-}

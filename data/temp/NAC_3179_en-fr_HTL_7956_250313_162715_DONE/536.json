@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "one-time code will be sent to your email that will allow you to reset your password and access your account.\nGaining access to your event using your Apple wallet doesn't need a barcode. Since they are not going to be \"scanned\". They will use the phone's NFC feature for entry. If you have multiple tickets saved in the wallet, just double-tap to gain entry.\nThank",
-    "trans": "un code unique sera envoyé à votre adresse e-mail, ce qui vous permettra de réinitialiser votre mot de passe et d'accéder à votre compte.\nL'accès à votre événement via votre portefeuille Apple ne nécessite pas de code-barres, car ceux-ci ne seront pas \"scannés\". Ils utiliseront la fonctionnalité NFC du téléphone pour l'entrée. Si vous avez plusieurs billets enregistrés dans le portefeuille, il vous suffit de double-taper pour accéder.\nMerci"
-}

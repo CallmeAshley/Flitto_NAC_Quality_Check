@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Local Payments are received from business generated in your country. All orders placed within your organization for shipping within your country of address will generate a \"Local Payment\" to you when you are eligible for these payments. OC Payments (Out of Country) are received from business generated outside of your country. All orders placed within your organization for shipping outside of your country of address will generate an \"OC Payment\" to you when you are eligible for these payments.",
-    "trans": "로컬 결제는 귀하의 국가에서 발생한 비즈니스에서 수령됩니다. 귀하의 주소지 내에서 배송되는 모든 주문은 귀하가 이 결제에 자격이 있을 때 \"로컬 결제\"를 생성합니다. OC 결제(국외)는 귀하의 국가 외부에서 발생한 비즈니스에서 수령됩니다. 귀하의 주소지 외부로 배송되는 모든 주문은 귀하가 이 결제에 자격이 있을 때 \"OC 결제\"를 생성합니다."
-}

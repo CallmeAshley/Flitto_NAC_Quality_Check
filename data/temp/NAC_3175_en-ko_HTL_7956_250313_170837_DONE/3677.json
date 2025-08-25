@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "In addition to detecting the touch’s force, area, and location, the device is precise enough to recognize handwritten letters on its surface, and it can even distinguish multiple simultaneous touches.\nFunctions in high magnetic fields\n“Electronic sensors may stop functioning in extreme conditions, such as in a strong magnetic field. Since the touchpad is not electric, a strong magnetic field does not affect it, which makes it ideal for use in devices such as MRI machines,” says Doctoral Researcher Vilma Lampinen.",
-    "trans": "이 장치는 터치의 강도, 면적, 위치를 감지하는 것 외에도 표면에 손으로 쓴 글자를 인식할 수 있을 만큼 정밀하며, 동시에 여러 번의 터치를 구분할 수도 있습니다.\n강한 자기장 내에서 기능\n\"전자 센서는 강한 자기장과 같은 극한 조건에서 기능을 멈출 수 있습니다. 그러나 터치패드는 전기가 아니기 때문에 강한 자기장이 영향을 미치지 않아서 MRI 기계와 같은 장치에서 사용하기에 이상적입니다.\"라고 박사 연구원 빌마 람피넨이 말했습니다."
-}

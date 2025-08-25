@@ -1,3 +1,5 @@
+**If the translated sentence uses a currency expression that is culturally familiar and contextually natural (e.g., using a friendly or colloquial style), do not enforce strict [Currency Format] replacement unless the expression causes confusion or breaks locale norms.**
+
 [Currency Format]
 
 Shared Principle for Currency Symbols and Codes:  
@@ -6,16 +8,14 @@ Even if the currency is not Turkish lira (₺), the original representation form
 Only **position and spacing** should be adapted according to Turkish conventions.
 
 Expected currency symbols include:  
-₺, $, ¢, €, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₡, ₨, ₦, ₫, ₭, ₲, ₵, ₿, ¤, ƒ, ₮, ₪, ₴, ﷼, ₸, ₾
+NT$, ₺, $, ¢, €, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₡, ₨, ₦, ₫, ₭, ₲, ₵, ₿, ¤, ƒ, ₮, ₪, ₴, ﷼, ₸, ₾
 
 Expected ISO currency codes include:  
-TRY, USD, EUR, JPY, GBP, KRW, CNY, INR, RUB, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+TRY(abbreviation: TL), USD, EUR, JPY, GBP, KRW, CNY, INR, RUB, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
 
 Important:  
-Do not convert between currency formats.  
-If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
-Do not rewrite it as a **name** (`400 Amerikan doları`) or **code** (`400 USD`).  
-The same applies in reverse. Always preserve the representation type from the source.
+Always preserve the original representation type (symbol, code, or name) **unless the Turkish locale customarily uses a different format and the semantic meaning is preserved**.  
+For example, `$400` may be translated as `400 Amerikan doları` if this form is conventional and appropriate in Turkish.
 
 ---
 

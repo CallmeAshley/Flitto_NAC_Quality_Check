@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "This item first describes every part in a production system and later focuses on MRP implementation. A production plan describes in detail the quantity of principal sku (final product to sell) and produced in subsets of sku, the exact time of production and lot sizing. The production plan can be divided in mas- ter production schedule (MPS), Material requirement planning (MRP) and the detailed plan of jobs in the production floor. See Fig. 1.",
-    "trans": "Cet article décrit d'abord chaque partie d'un système de production, puis se concentre sur la mise en œuvre de la planification des besoins en matériaux (MRP). Un plan de production décrit en détail la quantité de produits finis principaux (produit final à vendre) et produits dans des sous-ensembles de produits, ainsi que le moment exact de la production et la taille des lots. Le plan de production peut être divisé en un programme de production principal (MPS), la planification des besoins en matériaux (MRP) et le plan détaillé des tâches sur le sol de production. Voir la Fig. 1."
-}

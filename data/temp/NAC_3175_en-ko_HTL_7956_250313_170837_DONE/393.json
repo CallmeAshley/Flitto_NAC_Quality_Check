@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "In a series of experiments performed using Amazon’s Mechanical Turk, Suttle and Goldberg (2011) found that type frequency, variability of attested instances, and similarity of a target utterance to attested instances interact in ways that are predicted by the notion of coverage. The design of the experiment was as follows. We provided one to six attested utterances of a fictitious language, Zargotian, and then asked participants to judge how likely it was that a final utterance would also be acceptable in Zargotian. As example stimulus trial is given below:",
-    "trans": "Amazon의 Mechanical Turk를 사용하여 수행한 일련의 실험에서 Suttle과 Goldberg(2011)는 유형 빈도, 증명된 인스턴스의 가변성, 증명된 인스턴스에 대한 목표 표현의 유사성이 범위 개념에서 예측되는 방식으로 상호 작용한다는 것을 발견했습니다. 실험의 설계는 다음과 같습니다. 우리는 가상의 언어인 Zargotian의 증명된 1~6개의 표현들을 제공한 다음 참가자들에게 최종 표현이 Zargotian에서도 허용될 가능성이 얼마나 될지 판단하도록 요청했습니다. 예시로 자극 시행은 아래와 같습니다."
-}

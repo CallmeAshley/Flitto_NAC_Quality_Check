@@ -16,6 +16,7 @@ Evaluation Criteria:
 - Use “วัน + [weekday] + ที่” if a weekday is present.
 - Accept both long-form and abbreviated month names.
 - **Do not generate weekday unless present in the source.**
+- **Do not generate a year unless it exists in the source.**
 
 ---
 

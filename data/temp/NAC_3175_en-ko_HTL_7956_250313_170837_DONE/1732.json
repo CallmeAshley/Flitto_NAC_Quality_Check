@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "constant or outcome variable.\n📍 When asked to remove less significant predictors, please leave the constant unchanged.\n📍 Pay close attention to the difference between R-squared and adjusted R-squared values, and determine which one is a better reference for model fit.\n📍 It’s generally not meaningful to calculate the proportion of each group with different values of continuous variables. In most cases, it's better to provide statistics like the mean, standard deviation, and range.\nIf you have any questions, feel free to reac",
-    "trans": "상수 또는 결과 변수.\n📍 덜 분명한 예측요인을 제거할 것을 요청받았을 때, 상수는 바꾸지 않은 상태로 놔둬주세요.\n📍 R 제곱 값과 조정된 R 제곱 값 사이의 차이에 더 주의를 기울이고 모델 적합성에 있어 어떤 것이 더 나은 참조인지 결정하세요.\n📍 다른 가치의 연속 변량을 가진 각 그룹의 비율을 계산하는 것은 보통 의미가 없습니다. 대부분의 경우에 평균, 표준편차, 범위와 같은 통계를 제공하는 것이 더 낫습니다.\n질문이 있으시다면 편히 반응을 남겨주세요"
-}

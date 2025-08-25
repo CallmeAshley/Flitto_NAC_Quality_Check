@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Therefore, healthcare professionals and patients will be created through your center’s EMR and not via the RocheDiabetes Care Platform. Likewise, some fields on the Edit patient and Edit your profile screens inside the RocheDiabetes Care Platform will be read-only and can't be modified. These fields are grayed out. However, anything related to options within the RocheDiabetes Care Platform that do not affect EMR can still be edited.",
-    "trans": "그러므로, 의료 전문가와 환자는 로슈당뇨병 케어 플랫폼이 아닌 귀하 센터의 EMR을 통해 생성됩니다. 마찬가지로, 로슈당뇨병 케어 플랫봄 안의 편집 환자와 편집 당신의 프로필 화면의 일부 필드는 읽기 전용이며 수정할 수 없습니다. 이러한 필드는 회색으로 표시됩니다. 하지만, 로슈당뇨병 케어 플랫폼안에서 EMR에 영향을 미치지 않는 옵션과 관련이 없는 모든 항목은 수정할 수 있습니다."
-}

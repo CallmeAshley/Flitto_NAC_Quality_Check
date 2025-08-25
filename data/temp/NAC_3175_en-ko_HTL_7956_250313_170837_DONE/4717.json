@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "I developed an app. It is using Firebase Cloud Messaging to send notifications. I got my 5th rejection from Apple. I tried to distribute the app from Xcode with new Provisining Profile and Certificates but it go rejected. I used EAS to distribute it automatically but 5 minutes ago it is again rejected. I tried on iPhone and iPad simulators, it is working perfectly fine. Even sending notifications are working perfect. Please can you help me? My crash reports are :",
-    "trans": "앱을 개발했는데요. 파이어베이스 클라우드 메시징을 사용해 알림을 보내고 있어요. 애플이 벌써 5번째 거절했어요. 엑스코드에서 새 권한 설정 프로파일과 인증서를 사용해 배포하려고 했지만 거절됐어요. EAS로 자동 배포를 하려 했지만 5분 전에 또 거절됐네요. 아이폰과 아이패드 시뮬레이터에서는 완벽하게 작동해요. 알림 전송도 완벽하게 잘 되고요. 도와주실 수 있나요? 제 크래시 래포트는 :"
-}

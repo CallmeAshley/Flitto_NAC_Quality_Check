@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "constant or outcome variable.\n📍 When asked to remove less significant predictors, please leave the constant unchanged.\n📍 Pay close attention to the difference between R-squared and adjusted R-squared values, and determine which one is a better reference for model fit.\n📍 It’s generally not meaningful to calculate the proportion of each group with different values of continuous variables. In most cases, it's better to provide statistics like the mean, standard deviation, and range.\nIf you have any questions, feel free to reac",
-    "trans": "constante ou variable de résultat.\n📍 Lorsqu'on vous demande de supprimer les prédicteurs les moins significatifs, veuillez laisser la constante inchangée.\n📍 Faites bien attention à la différence entre les valeurs R² et R² ajusté, et déterminez laquelle est une meilleure référence pour l'ajustement du modèle.\n📍 Il n'est généralement pas pertinent de calculer la proportion de chaque groupe avec différentes valeurs de variables continues. Dans la plupart des cas, il est préférable de fournir des statistiques comme la moyenne, l'écart type et la plage.\nSi vous avez des questions, n'hésitez pas à"
-}

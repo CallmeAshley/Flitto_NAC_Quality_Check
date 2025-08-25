@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Determine the absolute max. and absolute min of f(x)=x/(x2+1) on [0, ∞]\nSolution:\nf’(x)=(1-x2)/(x2+1)2, let f’(x)=0, then\nCritical values occur at x=1 and x=-1 (rejected)\nSince x>0, so x=-1 is not considered\nThen only consider x=1 and x=0 (endpoint)\nCritical point: f(1)=1/2 getting the point (1, 0.5)\nEndpoint: f(0)=0 getting the point (0, 0)\nTherefore, absolute max. is 0.5 (occurs at (1, 0.5)) and absolute min. is 0 (occurs at (0, 0))",
-    "trans": "Déterminer le maximum absolu et le minimum absolu de f(x)=x/(x²+1) sur [0, ∞]\nSolution :\nf'(x)=(1-x²)/(x²+1)², posons f'(x)=0, alors\nLes valeurs critiques se produisent à x=1 et x=-1 (rejeté)\nPuisque x>0, alors x=-1 n'est pas considéré\nOn ne considère donc que x=1 et x=0 (extrémité)\nPoint critique : f(1)=1/2 obtenant le point (1, 0,5)\nExtrémité : f(0)=0 obtenant le point (0, 0)\nPar conséquent, le maximum absolu est 0,5 (se produit à (1, 0,5)) et le minimum absolu est 0 (se produit à (0, 0))"
-}

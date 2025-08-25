@@ -1,9 +1,11 @@
+If the translated sentence uses a colloquial or emotionally expressive tone (e.g., social media style, casual speech), do not forcibly replace natural time expressions like 'between 1 and 2 AM' with strict [Time Format] such as '01:00 and 02:00', unless clarity is compromised.
+
 [Time Format]
 
 Definition:  
 Turkish uses the **24-hour clock**, with colons (`:`) separating time units.  
 No AM/PM notation is used.  
-Time zones (e.g., TRT, “Türkiye Saati”) should not be included unless explicitly stated in the source.
+If the translated sentence includes a time zone (e.g., PT, PST, GMT, UTC), revise the sentence to reflect it appropriately in the target locale.
 
 Examples:  
 - 14:30  
@@ -12,8 +14,8 @@ Examples:
 Evaluation Criteria:
 - Use 24-hour format.
 - Use colons for separation.
-- Exclude time zone unless explicitly in source.
 - Always write hours and minutes with two digits (e.g., 09:00, not 9:0).
+
 [Exceptions]
 
 - Do not apply the formatting rules to numbers that are part of:

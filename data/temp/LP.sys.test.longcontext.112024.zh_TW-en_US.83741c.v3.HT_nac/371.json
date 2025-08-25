@@ -1,6 +1,0 @@
-{
-    "source": "zh_TW",
-    "target": "en_US",
-    "text": "您好:\n[redacted_name]\n*信用卡授權*\n-所有預訂均需使用有效的信用卡以確保您的預訂。\n-酒店接受Visa，Mastercard和JCB信用卡。 也接受中國銀聯。\n-酒店將在抵達前7天進行預授權交易，以確保預訂。 酒店進行交易後，將發送通知。\n-信用卡預先授權即為凍結您信用卡之額度，但尚未正式扣款。 等您抵達現場入住時可選擇使用同一張信用卡完成此交易。",
-    "trans": "Dear\n[redacted_name],\n*Credit Card Authorization*\n- The reservation can only be made by providing a valid credit card.\n- The hotel accepts Visa, Mastercard, JCB, and China UnionPay cards.\n- 7 days prior to the arrival, the hotel will carry out a pre-authorization transaction to secure the reservation. Post transaction notification will be sent.\n- Pre-authorization on your credit card means the amount is frozen but not yet charged. You may complete the transaction using the same credit card upon check-in."
-}

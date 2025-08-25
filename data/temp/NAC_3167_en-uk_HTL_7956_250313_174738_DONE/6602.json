@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "uk_UA",
-    "text": "How to import game files into Delta\nDelta needs ROMs in order to play games. ROMs are special files containing a game's data. There are many ways to get a game's ROM file, but we recommend using a tool like GB Operator - though you can find other similar tools online.\nOnce you have a ROM, you can add it to your library by tapping '+' in the top right corner of Delta's main screen. The ROM must have one of the supported file extensions below.",
-    "trans": "Як імпортувати ігрові файли до Delta\nДля відтворення ігор Delta потрібні ROM-файли. ROM - це спеціальні файли, які містять дані про ігри. Існує безліч способів отримати ігровий файл ROM, але ми рекомендуємо використовувати інструмент як-от GB Operator (ви, звичайно, можете знайти схожі онлайн-інструменти).\nЯк тільки ви отримали ROM, додавайте його до своєї бібліотеки, досить натиснути '+' у верхньому правому куті головного екрана Delta. ROM повинен мати одне з наведених нижче розширень."
-}

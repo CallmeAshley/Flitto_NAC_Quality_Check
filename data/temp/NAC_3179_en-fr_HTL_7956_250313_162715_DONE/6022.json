@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Canadian Customs: You have aparcel being cleared, due to the detection of an invalid zip code address, the parcel can not be cleared, the parcel is temporarily detained, please confirm the zip\ncode address information in the link\nwithin 24 hours.\n[redacted_url]\n(Please reply with a Y, then exit the text message and open it again to activate the link, or copy the link into your Safari browser and open it)",
-    "trans": "Douanes canadiennes : Vous avez un colis en cours de dédouanement. En raison de la détection d'un code postal invalide, le colis ne peut pas être dédouané et est temporairement retenu. Veuillez confirmer les informations du code postal\ndans le lien\ndans les 24 heures.\n[redacted_url]\n(Veuillez répondre par un Y, puis quittez le message et rouvrez-le pour activer le lien, ou copiez le lien dans votre navigateur Safari et ouvrez-le)"
-}

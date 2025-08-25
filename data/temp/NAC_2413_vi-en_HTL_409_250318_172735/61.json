@@ -1,6 +1,0 @@
-{
-    "source": "vi_VN",
-    "target": "en_US",
-    "text": "( ) ( ) .\n( )\nP n a\nP n a b\nP n b\n\n⇒\n \n \n.\nQuy tắc 2: Nếu\n( )\n( )\nP n a\nP n b\n \n\n và ( ) , 1 a b= thì ( )\n( ) . P n a b .\nChú ý: ( ) , 1 a b= có nghĩa a, b là 2 số nguyên tố cùng nhau. Ví dụ: (3, 4) = 1.\n1.2. Dấu hiệu chia hết cơ bản\n Dấu hiệu chia hết cho 2: Số tự nhiên có chữ số tận cùng là số chẵn thì chia hết cho 2.\n Dấu hiệu chia hết cho 3: Số tự nhiên có tổng các chữ số chia hết cho 3 thì sẽ chia hết cho 3.\n Dấu hiệu chia hết cho 4: Số tự nhiên có hai chữ số tận cùng tạo thành số chia hết cho 4 thì sẽ chia\nhết cho 4. Ví dụ: Số 52312 chia hết cho 4.\n Dấu hiệu chia hết cho 5: Số tự nhiên có chữ số tận cùng là 0 hoặc 5 thì sẽ chia hết cho 5.\n Dấu hiệu chia hết cho 6:\n- Số tự nhiên vừa chia hết cho 2 và vừa chia hết cho 3 thì sẽ chia hết cho 6.",
-    "trans": "nan"
-}

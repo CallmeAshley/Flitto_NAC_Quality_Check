@@ -1,6 +1,0 @@
-{
-    "source": "zh_TW",
-    "target": "en_US",
-    "text": "【在 Bluesky 上避開 AI 生成圖片或用戶】\n我想部分人從 X 出走都是因為 AI，想避開 AI 圖、不想幫 AI 圖增加流量的話，BSKY 上有「標記者(labeler)」這個功能，用戶可以設定一些條件讓自己或自動幫他人貼文標記（只有自己可見） 。\n訂閱 @aimod.social ，能設定什麼情況下，標註 AI 常用戶或生成圖片，並選擇正常顯示、標記、隱藏（翻譯如圖）",
-    "trans": "[Avoid AI-Generated Images or Users on Bluesky]\nI think some people left X because of AI, wanting to avoid AI images and not wanting to increase the traffic for AI-generated images. On BSKY, there is a \"labeler\" feature, where users can set conditions to automatically label posts (visible only to the user) for themselves or others.\nSubscribe to @aimod.social to set conditions for labeling AI regular users or AI-generated images and choose whether to display normally, label, or hide (translation as shown in the image)."
-}

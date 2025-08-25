@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "uk_UA",
-    "text": "Good morning.\nOur technicians boarded yesterday and worked on the identification and connections of the pending analog and digital signals.\nUpon completing the service, we found that some signals aren't reaching the VDR and can't be configured until adjustments are made.\nAs detailed in the attached report, since the old VDR wasn't operational, we can't confirm whether the signals from the engines, rudder, and thruster were previously available.\nTo resolve this issue, it is necessary for the equipment manufacturers to come on board to provide the signals for subsequent configuration",
-    "trans": "Доброго ранку.\nВчора наші технічні спеціалісти висадилися на борт та працювали над ідентифікацією та підключенням аналогових і цифрових сигналів, що очікують на обробку.\nОдразу після завершення робіт ми виявили, що деякі сигнали не доходять до VDR і не можуть бути налаштовані, доки не будуть внесені відповідні зміни.\nЯк зазначено у доданому звіті, оскільки старий VDR не працював, ми не можемо підтвердити, чи були раніше доступні сигнали від двигунів, керма та підрулюючого пристрою.\nДля того, щоб вирішити це питання необхідно, щоб виробники обладнання прийшли на борт і надали сигнали для подальшої конфігурації."
-}

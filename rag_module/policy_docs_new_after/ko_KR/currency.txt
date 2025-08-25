@@ -1,26 +1,22 @@
+**If the translated sentence uses a currency expression that is culturally familiar and contextually natural (e.g., using a friendly or colloquial style), do not enforce strict [Currency Format] replacement unless the expression causes confusion or breaks locale norms.**
+
 [Currency Format]
 
 Note:  
 While the following rules provide strict formatting guidelines, LLMs must prioritize semantic consistency and contextual appropriateness.  
 If the translated sentence's format clearly matches the source meaning and local convention, **do not penalize minor structural variations**.
+For example, converting a currency symbol format($300) in the source sentence to a currency name format(300달러) in the translated sentence is acceptable if the target locale customarily uses the name format.
 
 Shared Principle for Currency Symbols and Codes:  
 LLMs must handle a wide variety of currency symbols and ISO codes in translations.  
 Even if the symbol or code is not for the Korean won (₩), the original currency **must be preserved** in the translation. Only its **position and spacing** should be adapted according to Korean formatting rules.
 
 Expected currency symbols include:  
-$, ¢, €, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₡, ₨, ₦, ₫, ₭, ₲, ₵, ₿, ¤, ƒ, ₮, ₪, ₴, ﷼, ₸, ₾
+NT$, $, ¢, €, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₡, ₨, ₦, ₫, ₭, ₲, ₵, ₿, ¤, ƒ, ₮, ₪, ₴, ﷼, ₸, ₾
 
 Expected ISO currency codes include:  
-USD, EUR, KRW, JPY, CNY, GBP, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+USD, EUR, KRW, JPY, CNY, GBP, INR, RUB, TRY(abbreviation: TL), AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
 
-Important:  
-Do not convert between currency formats.  
-If the source uses a currency **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
-Do not convert it into a currency **name** (e.g., `400달러`) or **code** (e.g., `USD 400`).  
-The same rule applies in reverse for codes and names.  
-
-Always preserve the currency representation type (symbol, code, or name) used in the source.
 
 ---
 
@@ -62,23 +58,26 @@ Evaluation Criteria:
 
 3. Currency Name Format
 
-Definition:  
-Currency names such as 원 (won), 엔 (yen), 위안 (yuan), 달러 (dollar), 유로 (euro), and 파운드 (pound) are often used in natural Korean text instead of symbols or codes.  
-These should be attached directly after the number, with no space.
+Definition:
+In Korean, currency names such as 원 (won), 엔 (yen), 위안 (yuan), 달러 (dollar), 유로 (euro), and 파운드 (pound) are often used instead of symbols or ISO codes. These currency names are attached to the amount according to the form of the number.
 
-Examples:  
+Rules:
+- If the amount is written using **Arabic numerals**, the currency name must be attached **without a space**.
+- If the amount is written using **spelled-out numbers**, the currency name must be **separated by a space**.
+
+Examples:
 - 30,000원  
 - 10,000엔  
 - 100위안  
-- 300달러
-- 100유로  
-- 50파운드
+- 3천만 달러  
+- 2백만 유로  
+- 5십만 파운드
 
-Evaluation Criteria:  
-- The currency name must follow the number with **no space**.  
-- The name must match the actual currency being referenced.  
-- Number formatting must follow the [Numeric Format] rules.  
-- LLM must correctly localize currency names when they appear in natural language.
+Evaluation Criteria:
+- The currency name must follow the correct spacing rule based on the number form (digit vs. spelled-out).
+- The name must match the actual currency being referenced.
+- Number formatting must follow the [Numeric Format] rules.
+- LLM must correctly localize currency names and apply appropriate spacing based on number type.
 
 ---
 
@@ -94,3 +93,5 @@ Evaluation Criteria:
 - If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
 
 - Always consider the context of the original sentence before making changes.
+
+

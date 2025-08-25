@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "I had a thought when I was thinking of how to build my Carbed EJ25 that you could possibly trick the ECU into igniting the coilpacks at the right time but still run the carb... But to me that would still defeat the purpose of swapping to carbed, becasue of the wiring it would entail and you would still have a few sensors.\nIf there was some kind of \"switch\" or something you could set up that could control the coil packs like the ECU using some kind of RPM signal then you would just need a crank angle sensor of some kind and that switch unit to run the coils, and it would all be solid-state electronics that way...",
-    "trans": "카뷰레터 EJ25를 어떻게 만들지 고민하면서 생각한 게 있는데, 어쩌면 전자 제어 장치를 속여서 코일팩에 적절한 때에 점화를 하면서 카뷰레터는 작동시킬 수 있지 않을까 한 거지... 하지만 거기 필요한 와이어링이나 몇 가지 센서가 남아 있을테니 카뷰레터로 교체하는 목적은 무너지는 것 같아.\n만약 전자 제어 장치처럼 RPM 신호를 사용해 코일팩을 제어할 수 있는 '스위치' 같은 거나 그런 게 있다면, 크랭크 각도 센서와 그 코일을 작동시킬 스위치 장치만 있으면, 모든 게 솔리드 스테이트 전자 장치로 작동하게 될 거야..."
-}

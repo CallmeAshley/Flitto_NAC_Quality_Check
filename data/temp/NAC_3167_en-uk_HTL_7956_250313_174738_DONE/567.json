@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "uk_UA",
-    "text": "Valid codes are 5-7 characters\nItem Codes that begin with ‘A’ go in Bin 11.\nItem Codes that begin with ‘Z’ go in Bin 12.\nItem Codes that end with ‘1’ go in Bin 21.\nItem Codes that end with ‘2’ go in Bin 22.\nIf an Item Code belongs in a bin that is full (all four bin spots are shaded), then select Bin Full.",
-    "trans": "Дійсні коди мають бути довжиною від 5 до 7 символів.\nКоди, що починаються з \"A\", йдуть у Bin 11.\nКоди, що починаються з \"Z\", йдуть у Bin 12.\nКоди, що закінчуються на \"1\", йдуть у Bin 21.\nКоди, що закінчуються на \"2\", йдуть у Bin 22.\nЯкщо відповідний бін заповнений (усі чотири місця зафарбовані), виберіть Bin Full."
-}

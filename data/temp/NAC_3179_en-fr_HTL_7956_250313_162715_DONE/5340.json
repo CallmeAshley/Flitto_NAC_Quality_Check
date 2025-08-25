@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Support\nDear [redacted_name]\nIn order to finalize your account authentication, please enter the code below as directed on the Paycor Sign In page. You will have 30 minutes to complete this action before the code expires.\n[redacted_id]\nPaycor will never send you an email requesting personal information. View our FAQ to learn more about keeping your account safe:\nwww.paycor.com/faqs/signin\nWhy are we confirming your account information?",
-    "trans": "Appui\nCher [redacted_name]\nDans le but de finaliser l'authentification de votre compte, veuillez saisir le code suivant comme indiqué sur la page d'ouverture de session de Paycor. Vous disposerez de 30 minutes pour effectuer cette action avant l'expiration du code.\n[redacted_id]\nPaycor ne vous enverra jamais de courriel vous demandant des informations personnelles. Consultez notre FAQ pour en savoir plus sur la sécurité de votre compte :\nwww.paycor.com/faqs/signin\nPourquoi confirmons-nous les informations relatives à votre compte ?"
-}

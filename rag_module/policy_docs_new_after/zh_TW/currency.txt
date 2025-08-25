@@ -9,13 +9,11 @@ Expected currency symbols include:
 NT$, $, ¢, €, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₡, ₨, ₦, ₫, ₭, ₲, ₵, ₿, ¤, ƒ, ₮, ₪, ₴, ﷼, ₸, ₾
 
 Expected ISO currency codes include:  
-TWD, USD, EUR, JPY, CNY, KRW, GBP, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+TWD, USD, EUR, JPY, CNY, KRW, GBP, INR, RUB, TRY(abbreviation: TL), AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
 
 Important:  
-Do not convert between currency formats.  
-If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
-Do not rewrite it as a **name** (`400美元`) or **code** (`USD 400`).  
-The same applies in reverse. Always preserve the representation type from the source.
+Always preserve the original representation type (symbol, code, or name) **unless the Traditional Chinese locale customarily uses a different format and the semantic meaning is preserved**.  
+For example, `$400` may be translated as `400美元` if this is the standard and appropriate form in Traditional Chinese.
 
 ---
 

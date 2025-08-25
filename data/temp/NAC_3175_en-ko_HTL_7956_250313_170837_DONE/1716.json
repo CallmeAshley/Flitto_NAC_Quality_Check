@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Your autopay for [redacted_info] (ClickPay ID: [redacted_info]) will be processed on [redacted_info].\nNote:\nPlease allow a full business day from the time of the transaction (this excludes Saturday, Sunday, and Bank Holidays) for this payment to be reflected on your bank account and up to 3 business days for this payment to be credited by your landlord or management.\nFor ACH payments, ACH will be reflected on your bank statement as a debit from either 5350 PARK CONDO ASSOC AutoPay or ClickPay PropertyPay.\nThank you,\nCustomer Service",
-    "trans": "귀하의 [redacted_info]에 대한 자동 결제(ClickPay ID: [redacted_info])가 [redacted_info]에 처리될 예정입니다.\n참고:\n거래 시간으로부터 완전한 영업일을 허용해 주세요(토요일, 일요일 및 공휴일은 제외). 이 결제는 귀하의 은행 계좌에 반영되는 데 최대 1영업일이 소요되며, 집주인이나 관리자가 결제를 처리하는 데 최대 3영업일이 소요될 수 있습니다.\nACH 결제의 경우, ACH는 귀하의 은행 명세서에 5350 PARK CONDO ASSOC AutoPay 또는 ClickPay PropertyPay에서 차감된 금액으로 표시됩니다.\n감사합니다,\n고객 서비스"
-}

@@ -16,6 +16,7 @@ Evaluation Criteria:
 - `ص` must be used for AM, `م` for PM.  
 - Colons separate time units.  
 - Omit time zones unless explicitly required.
+
 [Exceptions]
 
 - Do not apply the formatting rules to numbers that are part of:

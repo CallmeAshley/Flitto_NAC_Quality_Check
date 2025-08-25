@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "We adopt the positive direction choices used in the textbook so that equations such as\nEq. 4.4.4 are directly applicable. The coordinate origin is at the release point (the initial\nposition for the ball as it begins projectile motion in the sense of §4-5), and we let\n0 be\nthe angle of throw (shown in the figure). Since the horizontal component of the velocity\nof the ball is vx = v0 cos 40.0°, the time it takes for the ball to hit the wall is",
-    "trans": "Nous adoptons les choix de direction positive utilisés dans le manuel afin que des équations telles que\nl'Éq. 4.4.4 soient directement applicables. L'origine des coordonnées est fixée au point de lancement (la position initiale\nde la balle lorsqu'elle commence son mouvement de projectile dans le sens de la section §4-5), et nous prenons\nθ comme\nl'angle de lancer (indiqué sur la figure). Étant donné que la composante horizontale de la vitesse\nde la balle est vx = v₀ cos 40,0°, le temps nécessaire pour que la balle atteigne le mur est"
-}

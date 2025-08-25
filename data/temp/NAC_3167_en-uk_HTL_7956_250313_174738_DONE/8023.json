@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "uk_UA",
-    "text": "Determine the absolute max. and absolute min of f(x)=x/(x2+1) on [0, ∞]\nSolution:\nf’(x)=(1-x2)/(x2+1)2, let f’(x)=0, then\nCritical values occur at x=1 and x=-1 (rejected)\nSince x>0, so x=-1 is not considered\nThen only consider x=1 and x=0 (endpoint)\nCritical point: f(1)=1/2 getting the point (1, 0.5)\nEndpoint: f(0)=0 getting the point (0, 0)\nTherefore, absolute max. is 0.5 (occurs at (1, 0.5)) and absolute min. is 0 (occurs at (0, 0))",
-    "trans": "Знайти абсолютний максимум та абсолютний мінімум функції f(x)=x/(x2+1) на проміжку [0, ∞]\nВідповідь:\nf’(x)=(1-x2)/(x2+1)2, let f’(x)=0, тоді\nКритичні значення існують при x=1 та x=-1 (відкидаємо)\nОскільки x>0, то x=-1 не розглядається\nТоді розглядаємо тільки x=1 і x=0 (кінцева точка)\nКритична точка: f(1)=1/2, отримуємо точку (1, 0.5)\nКінцева точка: f(0)=0, що відповідає точці (0, 0)\nОтже, абсолютний максимум дорівнює 0.5 (знаходиться в точці (1, 0.5)), а абсолютний мінімум дорівнює 0 (знаходиться в точці (0, 0))"
-}

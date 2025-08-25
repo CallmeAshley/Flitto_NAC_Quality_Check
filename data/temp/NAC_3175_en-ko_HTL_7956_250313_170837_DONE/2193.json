@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Basically how it works is, during the day (maybe when it's not busy time). Someone will input the expiration dates of each item onto the paper (the left column only). Afterwards you will input them onto the file inside Google sheet called \"Expiration Date Checklist\".\nYou will go to the tab that the date you are doing it on. Then input the dates on only the non highlighted column.",
-    "trans": "기본적으로 작동 방식은, 하루 중 (아마도 한가할 때) 누군가가 각 항목의 유효 기간을 종이에 입력합니다 (왼쪽 열만). 그 후, 구글 시트 안에 있는 \"유효 기간 체크리스트\"라는 파일에 입력합니다.\n그 후, 작업하는 날짜에 해당하는 탭으로 이동합니다. 그런 다음, 강조 표시된 열이 아닌 열에만 날짜를 입력합니다."
-}

@@ -1,6 +1,0 @@
-{
-    "source": "ja_JP",
-    "target": "en_US",
-    "text": "RA7400装置内でマーキングを必要とされるのであれば現実的にはレーザーマーカーでの印字が無難ではなかと思います。\nインクジェットマーカー、レーザーマーカーの搭載については新設計案件となります。\n私の見解としては、インクジェットとする事でインクの乾きが甘く巻取時や搬送ローラー等にインクが付着して\n良品部分にインクが転写される懸念がある為、運用は難しいのではないかと思います。",
-    "trans": "If marking is required inside the RA7400 system, a laser marker would likely be the most practical and reliable option.\nThe integration of an inkjet marker or laser marker will constitute a new design project.\nIn my opinion, with inkjet, the ink may not dry sufficiently, causing it to adhere to the take-up system or transport rollers\nthere is a concern that ink may transfer onto acceptable product areas, making operation difficult."
-}

@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Calibration of Measuring sensors & Instruments\n➢Calibration consists of comparing the output of the instrument or sensor under test against the output of an instrument of known accuracy when the same input is applied to both instruments.\n➢Instrument calibration has to be repeated at prescribed intervals because the characteristic of any instrument change over a period.\n➢The calibration procedure involves the steps like visual inspection of various defects, installation according to specifications and zero adjustments.\n➢The output values are compared with the input to determine the error.\n➢The values are recorded in tabular from is called calibration record. The values are represented in graphical form is called calibration curve.",
-    "trans": "측정 센서 & 계기의 눈금\n➢눈금은 두 계기에 동일한 입력을 적용되었을 때 테스트 중인 계기 또는 센서의 출력과 알려진 정확도를 가진 기기의 출력을 비교하는 것으로 구성됩니다.\n➢계기 눈금은 모든 계기의 특성이 기간이 지남에 따라 변하기 때문에 규정된 간격으로 반복되어야 합니다.\n➢조절 절차는 다양한 결함, 사양에 따른 설치 및 영점 조정은 외관 검사와 같은 단계와 연관됩니다.\n➢출력값은 오류를 결정하기 위해 입력과 비교됩니다.\n➢값은 검교정 기록이라 칭하는 표 형태로 기록됩니다. 값은 교정 곡선이라 칭하는 그래픽 형태로 나타납니다."
-}

@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "uk_UA",
-    "text": "•\n• •\n•\nThe organism in a cell may die or survive.\nAn empty cell may give birth to an organism and become live. Rules for next generation:\nThe organism in a live cell with 2 or 3 live neighbors survives. The organism in a live cell with less than 2 or more than 3 live\nneighbors dies (lack of food or over-crowded).\nAn empty cell with exactly three live neighbors will give birth to\n•\n• A cell with an organism is called a live cell. On each generation (e.g. each clock tick):\n•\n•\n•\n•\nGame of Life\nExamples and evolutions",
-    "trans": "•\n• •\n•\nОрганізм у клітині може померти або вижити.\nПорожня клітина може породити організм і стати живою. Правила для наступного покоління:\nОрганізм у живій клітині з 2 або 3 живими сусідами виживає. Організм у живій клітині з менш ніж 2 або більш ніж 3 живими\nсусідів гине (недостатньо їжі або занадто тісно).\nПорожня клітина з рівно трьома живими сусідами народить\n•\n• Клітина з організмом називається живою клітиною. У кожному поколінні (наприклад, при кожному цоканню годинника):\n•\n•\n•\n•\nГра життя\nПриклади та еволюція"
-}

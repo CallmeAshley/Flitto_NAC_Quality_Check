@@ -1,3 +1,5 @@
+If the translated sentence uses a colloquial or emotionally expressive tone (e.g., social media style, casual speech), do not forcibly replace natural time expressions like 12h30, unless clarity is compromised.
+
 [Time Format]
 
 Definition:  
@@ -11,7 +13,7 @@ Examples:
 Evaluation Criteria:
 - Use colons between hours, minutes, and seconds.
 - Do not use AM/PM markers.
-- Include time zones only if present in the original.
+
 [Exceptions]
 
 - Do not apply the formatting rules to numbers that are part of:

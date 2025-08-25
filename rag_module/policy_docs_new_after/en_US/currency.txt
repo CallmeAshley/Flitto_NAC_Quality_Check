@@ -6,17 +6,14 @@ Even if the currency is not USD, the original representation format — **symbol
 Only **positioning and spacing** should be adapted according to American English formatting rules.
 
 Expected currency symbols include:  
-$, ¢, €, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₡, ₨, ₦, ₫, ₭, ₲, ₵, ₿, ¤, ƒ, ₮, ₪, ₴, ﷼, ₸, ₾
+NT$, $, ¢, €, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₡, ₨, ₦, ₫, ₭, ₲, ₵, ₿, ¤, ƒ, ₮, ₪, ₴, ﷼, ₸, ₾
 
 Expected ISO currency codes include:  
-USD, EUR, JPY, CNY, GBP, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+USD, EUR, JPY, CNY, GBP, KRW, INR, RUB, TRY(abbreviation: TL), AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
 
 Important:  
-Do not convert between currency formats.  
-If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
-Do not rewrite it as a **name** (`400 dollars`) or a **code** (`USD 400`).  
-The same rule applies in reverse for codes and names.  
-Always preserve the original representation type used in the source.
+Always preserve the original representation type (symbol, code, or name) **unless the target locale customarily prefers a different form** and the intended meaning remains clear.  
+For example, if the source uses a symbol (e.g., `$400`), it may be translated as `400 dollars` **if the name format is standard in the target locale and semantically consistent**.
 
 ---
 

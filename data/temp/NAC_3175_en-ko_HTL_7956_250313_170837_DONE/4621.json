@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Find a pivot element from array\n• A pivot element can be any element\n(Generally the middle element is chosen as pivot element.)\n• The goal is to partition the array into two parts • Value at left side is less than pivot element\n• Value at right side greater than pivot element.\n• Keep a cursor on both left and right side starting from zeroth position for left & last position for",
-    "trans": "어레이에서 축 요소 찾기\n• 축 요소는 임의의 요소일 수 있음\n(일반적으로 중간 요소가 축 요소로 선정됨.)\n• 목표는 어레이를 두 부분으로 나누는 것 • 왼쪽 값은 축 요소보다 작음\n• 오른쪽 값은 축 요소보다 큼.\n• 왼쪽과 오른쪽 모두에 커서를 위치시키고 왼쪽은 0번째 위치부터, 마지막 위치는"
-}

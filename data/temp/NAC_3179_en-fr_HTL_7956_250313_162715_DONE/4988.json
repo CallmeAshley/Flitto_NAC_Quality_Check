@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Assume the population data in a research is the depression scores of all\ndepression patients in a country (negative skew). Besides, further assume\nthat researchers know the mean of score among all patients is 5, the SD of\ndepression among all patients is 2. Then sample “10000” participants out\nthe population, calculated their mean score, record it Repeat the above\nstep many many times -> end up with many many means of height (a\ndistribution of means). What will the be distribution, mean & SD of this\nnew formulate distribution (of means)?",
-    "trans": "Supposons que les données de population d'une étude soient les scores de dépression de tous\nles patients dépressifs d'un pays (asymétrie négative). Supposons en outre que\nles chercheurs savent que la moyenne du score de tous les patients est de 5, que l'écart-type\nde la dépression parmi tous les patients est de 2.L'échantillon de « 10000 » participants de\nla population est de calculer leur score moyen, l'enregistrer. Répéter l'étape\nci-dessus de nombreuses fois -> on obtient de nombreuses moyennes de taille (une\ndistribution de moyennes). Quelles seront la distribution, la moyenne et l'écart-type de\ncette nouvelle distribution formulée (de moyennes) ?"
-}

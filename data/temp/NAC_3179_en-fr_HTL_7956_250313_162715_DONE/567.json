@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Valid codes are 5-7 characters\nItem Codes that begin with ‘A’ go in Bin 11.\nItem Codes that begin with ‘Z’ go in Bin 12.\nItem Codes that end with ‘1’ go in Bin 21.\nItem Codes that end with ‘2’ go in Bin 22.\nIf an Item Code belongs in a bin that is full (all four bin spots are shaded), then select Bin Full.",
-    "trans": "Les codes valables sont de 5 à 7 caractères\nLes codes d'articles commençant par « A » vont dans la case 11.\nLes codes articles commençant par « Z » vont dans la case 12.\nLes codes articles qui se terminent par « 1 » vont dans la corbeille 21.\nLes codes articles qui se terminent par « 2 » vont dans la corbeille 22.\nSi un code article appartient à un emplacement plein (les quatre emplacements sont grisés), sélectionnez Emplacement plein."
-}

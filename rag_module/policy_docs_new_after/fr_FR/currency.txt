@@ -6,17 +6,14 @@ Even if the currency is not the euro (€), the original representation format �
 Only **positioning and spacing** should be adapted according to French typographic conventions.
 
 Expected currency symbols include:  
-€, $, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₨, ₫, ₭, ₵, ₿, ₪, ₴, ﷼, ₸, ₾
+NT$, €, $, ¥, £, ₩, ₹, ₽, ₺, ฿, ₱, ₨, ₫, ₭, ₵, ₿, ₪, ₴, ﷼, ₸, ₾
 
 Expected ISO currency codes include:  
-EUR, USD, JPY, CNY, GBP, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+EUR, USD, JPY, CNY, GBP, KRW, INR, RUB, TRY(abbreviation: TL), AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
 
 Important:  
-Do not convert between currency formats.  
-If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
-Do not rewrite it as a **name** (`400 dollars`) or a **code** (`USD 400`).  
-The same rule applies in reverse for codes and names.  
-Always preserve the original representation type used in the source.
+Always preserve the original representation type (symbol, code, or name) **unless the French locale customarily uses a different form and the meaning remains clear and accurate**.  
+For example, `$400` may be translated as `400 dollars` if this is contextually and conventionally appropriate in French.
 
 ---
 

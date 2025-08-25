@@ -17,6 +17,7 @@ Evaluation Criteria:
 - If weekday is present, it appears before the date and is followed by a comma.
 - Accept both prepositional long forms and numeric short forms.
 - **Do not generate a weekday unless it exists in the source.**
+- **Do not generate a year unless it exists in the source.**
 
 ---
 

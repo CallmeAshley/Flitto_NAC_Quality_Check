@@ -1,6 +1,5 @@
 import os
 
-# 예외 문구 정의
 exceptions_text = """
 [Exceptions]
 
@@ -15,7 +14,6 @@ exceptions_text = """
 - Always consider the context of the original sentence before making changes.
 """
 
-# 기준 경로 (수현님 환경 기준)
 BASE_DIR = "/mnt/c/Users/Flitto/Documents/NAC/LLM검수/Advanced/rag_module/policy_docs_new_after"
 CATEGORIES = ["currency.txt", "date.txt", "numeric.txt", "time.txt"]
 

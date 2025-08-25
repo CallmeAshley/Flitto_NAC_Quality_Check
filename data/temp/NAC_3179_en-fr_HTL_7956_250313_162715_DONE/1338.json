@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Dear [redacted_name],\nwe reviewed the data provided for A209/215173.\nThis device has SMR5 firmware, which triggered the BD error due to the power consumption count increase.\nDevice data shows power consumption is increasing in a gradual fashion, consistent with hydrogen degradation of a component. The device is malfunctioning and should be explanted and returned for analysis.\nThere is sufficient capacity to deliver 6 shocks with charge times less than 15 seconds if replaced within 90 days from 01-Oct-2024 This replacement interval ends 30-Dec-2024.",
-    "trans": "Chère [redacted_name],\nNous avons examiné les données fournies pour A209/215173.\nCe dispositif dispose du firmware SMR5, ce qui a déclenché l'erreur BD en raison de l'augmentation du comptage de la consommation d'énergie.\nLes données du dispositif montrent que la consommation d'énergie augmente de manière progressive, ce qui est cohérent avec la dégradation par hydrogène d'un composant. Le dispositif est en panne et doit être extrait et renvoyé pour analyse.\nIl y a une capacité suffisante pour délivrer 6 chocs avec des temps de charge inférieurs à 15 secondes si remplacé dans les 90 jours suivant le 01 octobre 2024. Cet intervalle de remplacement se termine le 30 décembre 2024."
-}

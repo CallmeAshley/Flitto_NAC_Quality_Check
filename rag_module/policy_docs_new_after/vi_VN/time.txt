@@ -1,18 +1,35 @@
+**[Time Format Exception - Informal Contexts]**
+
+Do not convert natural or informal time expressions (e.g., "1 giờ sáng", "4⃣ giờ chiều") into strict numerical formats like "01:00" or "16:00" if the original translation:
+
+- Clearly conveys the correct meaning
+- Matches the emotional tone or conversational context
+- Contains culturally natural or commonly used expressions in the target language
+
+Preserve the informal expression unless it introduces ambiguity or contradicts readability norms in the target locale.
+
+This rule especially applies in quotes, dialogues, or expressive texts where tone and voice must be maintained.
+
+
 [Time Format]
 
 Definition:  
 Vietnamese uses the **24-hour clock**, with colons (`:`) separating hours, minutes, and seconds.  
-No AM/PM notation is used. Time zones may appear in formal contexts but should only be included if present in the source.
+Vietnamese also uses the **12-hour format**, with sáng/chiều(tối) indicator.
+No AM/PM notation is used. 
+Time zones may appear in formal contexts but should only be included if present in the source.
 
 Examples:  
 - 14:30  
 - 14:30:45
+- 5:50 chiều
 
 Evaluation Criteria:
 - Use colons to separate time units.
 - Do not use AM/PM.
 - Always write hours and minutes with two digits (e.g., 09:00).
 - Include time zone only if explicitly present.
+
 [Exceptions]
 
 - Do not apply the formatting rules to numbers that are part of:

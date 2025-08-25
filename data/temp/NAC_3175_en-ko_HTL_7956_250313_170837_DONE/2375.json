@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Hey [redacted_name]. This is [redacted_name], manager for [redacted_info], your life insurance company. I saw that one of your policy numbers was canceled because it was missing the final release form. Can you take a call in a few minutes? I know you have had a few calls on this already, but I can actually get this done for you. You put in a lot of time to get approved for this policy. I have the policy up in front of me right now. This is regarding policy number [redacted_id]",
-    "trans": "안녕하세요 [redacted_name]님. 저는 [redacted_info]의 매니저, [redacted_name]입니다. 귀하의 생명보험 중 하나의 가입 번호가 최종 승인 서류가 누락되어 취소된 것을 확인했습니다. 잠시 후 통화 가능하실까요? 이미 관련해서 몇 번 연락을 받으셨겠지만, 제가 직접 처리해 드릴 수 있습니다.이 보험 승인을 받기 위해 많은 시간을 투자하셨을 것입니다. 현재 귀하의 보험 정보를 확인하고 있습니다. 이 내용은 정책 번호 [redacted_id]에 대한 것입니다"
-}

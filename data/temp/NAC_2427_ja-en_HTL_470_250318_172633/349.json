@@ -1,6 +1,0 @@
-{
-    "source": "ja_JP",
-    "target": "en_US",
-    "text": "②関連する部品の取り付けを再度確認し、\nZ軸/ドアとの物理的な干渉の有無、確認し、問題ない。\n③別の手動ドア閉操作を実装しました。\n[JOG MOTION] モードで \"UP \"を実行すると、「0」から「-1000」、「-50000」と増加する変化が「-090837」（ドア閉位置の直前）まで続きました。 高いところから一気に最下位まで落ちます（この間は赤いストップを押しても止まりません）。",
-    "trans": "②Confirm the reinstallation of related components,\ncheck for any physical interference with the Z-axis/door, ensuring no issues.\n③A different manual door-closing operation has been implemented.\nIn the [JOG MOTION] mode, executing \"UP\" results in a change that increases from \"0\" to \"-1000\", then to \"-50000\", continuing until \"-090837\" (just before the door-closed position). It drops from a high position all the way to the lowest point at once (during this process, pressing the red stop button does not stop it)."
-}

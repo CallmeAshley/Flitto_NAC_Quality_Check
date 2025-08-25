@@ -1,0 +1,40 @@
+[Date Format]
+
+Definition:  
+- Dates in Korean follow the order **Year → Month → Day (연 → 월 → 일)**.  
+- This format does not use slashes (/) or dashes (-). It uses Korean suffixes like `년`, `월`, `일`.  
+- Alternatively, dates may be written using dots (`.`) as separators.  
+
+Weekday Position and Rule:  
+- If a weekday is included, it must appear **after the date**, separated by a space.  
+- If the source text **does not include** a weekday, the translation must **not add one**.
+
+Examples:  
+- 2025년 7월 28일 월요일  
+- 2025년 7월 28일
+- 7월 28일 월요일
+- 7월 28일  
+- 2025. 7. 28. 월요일
+- 2025. 7. 28  
+- 7. 28. 월요일
+- 7. 28  
+
+Evaluation Criteria:  
+- Confirm the date order is Year → Month → Day when all components are present.  
+- If a weekday is present in the source, it must be placed after the date and **separated by a space** in the translated sentence.  
+- Weekdays must not be added in the translated sentence if not present in the source text.   
+
+---
+
+
+[Exceptions]
+
+- Do not apply the formatting rules to numbers that are part of:
+  - telephone numbers
+  - addresses
+  - identification codes
+  - or clearly unordered lists of numbers with no separators
+
+- If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
+
+- Always consider the context of the original sentence before making changes.

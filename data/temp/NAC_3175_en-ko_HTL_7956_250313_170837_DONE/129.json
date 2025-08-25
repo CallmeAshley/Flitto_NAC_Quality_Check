@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "1. A direct attack: is a hacker using a personal computer to break into a system.\n2. An indirect attack: is a hacker compromising a system and using it to attack other\nsystems, for example, as part of a botnet.\n3. intentional attack: A hacker attempting to break into an information system.\n4. Unintentional attack: A lightning strike that causes a fire in a building.",
-    "trans": "1. 직접 공격: 해커가 개인 컴퓨터를 이용하여 시스템에 침입하는 경우.\n2. 간접 공격: 해커가 먼저 하나의 시스템을 해킹한 후 이를 이용해 다른\n시스템을 공격하는 경우, 예를 들면, 봇넷의 일부.\n3. 의도적 공격: 해커가 정보 시스템에 침입을 시도하는 경우.\n4. 비의도적 공격: 번개로 인해 건물에 화재가 발생하는 경우."
-}

@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Some commonly used terms in HTML are:\na)Tag: Tags are always written within angles brackets. it is a piece of text is used to identify an element so that the browser realizes how to display its contents'. <HTML> tag indicates the start of an HTML document . HTML tag can be two types\n-Paired Tags :A tag is said to be a paired tag if text is placed between a tag and its companions tag.In paired tag ,the first tag is referred to as opening tag and the second tag is referred to as closing tag.\n-Unpaired Tags: An unpaired tag does not have\na companion tag .unpaired tag also known as singular or Stand-Alone tags.e.g:<br>,<hr> etc.",
-    "trans": "HTML에서 자주 사용되는 용어들은 다음과 같습니다:\na) 태그: 태그는 항상 꺾쇠 괄호 안에 작성됩니다. 태그는 요소를 식별하는 데 사용되는 텍스트 조각으로, 브라우저가 해당 내용의 표시 방법을 인식할 수 있게 합니다'. <HTML> 태그는 HTML 문서의 시작을 나타냅니다. HTML 태그는 두 가지 유형이 있습니다.\n-쌍으로 된 태그: 태그가 쌍으로 되어 있다고 할 때, 텍스트가 태그와 그에 해당하는 태그 사이에 배치됩니다. 쌍으로 된 태그에서 첫 번째 태그는 여는 태그 라고 하며, 두 번째 태그는 닫는 태그 라고 합니다.\n-비쌍 태그: 비쌍 태그는\n동반 태그가 없습니다. 비쌍 태그는 단독 태그 또는 독립형 태그 라고도 불립니다. 예: <br>, <hr> 등."
-}

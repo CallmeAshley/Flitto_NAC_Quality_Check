@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "[Web발신]\n[LG U+] Notification of service suspension due to overdue.\nS*N ELENA STANISLAVOVNA`s payment has been currently overdue. Unfortunately, mobile service will be suspended due to overdue balance by 10/17/2024. Please make a payment to continue the service. Please understand this message could be sent although the paymet was made.\nThis is the amount and direct deposit number for your payment (fixed by 10월10일)\n▷ Bank : [Kookminbank]\n▷ Account No. : [redacted_id]\n▷ Account holder: [redacted_info]\n▷ Total amount : \\[redacted_number]\n- Overdue : \\[redacted_number]\n- Current month amount : \\[redacted_number]\n- Overdue suspension is going to be [redacted_number]\n- During the suspension period, the basic fee \\4,400 and phone`s installment fee will be charged.",
-    "trans": "[Web발신]\n[LG U+] 미납금으로 인한 서비스 중단 안내\nS*N ELENA STANISLAVOVNA의 결제가 현재 미납 상태입니다. 불행히도, 미납 잔액으로 인해 2024년 10월 17일까지 모바일 서비스가 중단될 예정입니다. 서비스를 계속 이용하시려면 결제를 진행해 주시기 바랍니다. 결제가 이루어졌더라도 이 메시지가 발송될 수 있음을 양해해 주시기 바랍니다.\n다음은 결제 금액 및 자동 이체 번호입니다 (10월 10일까지 확정)\n▷ 은행 : [국민은행]\n▷ 계좌 번호 : [redacted_id]\n▷ 예금주 : [redacted_info]\n▷ 총 금액 : \\[redacted_number]\n- 미납금 : \\[redacted_number]\n- 당월 금액 : \\[redacted_number]\n- 미납 중단액은 [redacted_number]입니다\n- 중단 기간 동안, 기본 요금 \\4,400과 전화 할부 요금이 부과됩니다."
-}

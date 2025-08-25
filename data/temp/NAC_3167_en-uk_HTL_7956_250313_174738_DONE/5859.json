@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "uk_UA",
-    "text": "Knit button\nRStudio may ask you if you want to update some packages, click ‘Yes’.\nAfter you knit the document, a window with the output will pop-up automatically. As you can see, this document contains the main title, followed by your name and date, as specified in the YAML. After, there is a second-level header which includes the first section of this example document. Also the the word ‘Knit’ is shown in bold, as it was wrapped by double asterisk **.",
-    "trans": "Кнопка \"Зв'язати\"\nRStudio може запитати вас, чи хочете ви оновити деякі пакети, натисніть Yes.\nПісля того, як ви \"зв'яжете\" документ, автоматично з'явиться вікно з результатом. Як ви бачите, цей документ містить основний заголовок, за яким слідують ваше ім'я та дата, як зазначено в YAML. Далі йде заголовок другого рівня, який включає перший розділ цього прикладу документа. Також слово \"Knit\" відображається жирним шрифтом, оскільки воно було обгорнуте подвійними зірочками **."
-}

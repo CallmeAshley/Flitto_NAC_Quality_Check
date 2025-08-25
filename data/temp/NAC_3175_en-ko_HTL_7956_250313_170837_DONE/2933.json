@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Is the data structured or unstructured?\nVariety refers to the different types of data to use.\nYou’ve learned about structured data, such as spreadsheets and databases.\nYou’ve learned about unstructured data, such as company reports, emails, Facebook posts, audio files, blogs, health care records, and market research.\nThere’s still a big variety of data out there!\nCompanies need to use different types of tools and techniques to handle the variety of data.",
-    "trans": "데이터는 구조화된 데이터인가 비구조화된 데이터인가?\n다양성이란 사용할 수 있는 다양한 유형의 데이터를 의미합니다.\n여러분은 스프레드시트나 데이터베이스와 같이 이미 구조화된 데이터에 대해 배웠습니다.\n또한 기업 보고서, 이메일, 페이스북 게시물, 오디오 파일, 블로그 ,의료 기록, 시장 조사 데이터와 같은 비구조화된 데이터에 대해서도 배웠습니다.\n세상에는 여전히 다양한 형태의 데이터가 존재합니다!\n기업들은 다양한 유형의 데이터를 처리하기 위해 각기 다른 도구와 기법을 사용해야 합니다."
-}

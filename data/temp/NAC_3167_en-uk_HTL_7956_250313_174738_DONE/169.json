@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "uk_UA",
-    "text": "When I compile a class that implements WKNavigationDelegate, I get a warning on the line with import WebKit:\nAdd '@preconcurrency' to suppress 'Sendable'-related warnings from module 'WebKit'\nHowever, there are no Sendable-related warnings in the file.\nWhen I add the @preconcurrency to the import WebKit statement, I get this warning:\n'@preconcurrency' attribute on module 'WebKit' has no effect\nEventually I determined that the WKNavigationDelegate methods were outdated for iOS 18, and I needed to add a @MainActor attribute to a closure in one of the delegate methods.",
-    "trans": "Коли я компілюю клас, який реалізує WKNavigationDelegate, я отримую попередження на рядку з import WebKit:\nДодайте «@preconcurrency», щоб приховати попередження, які пов'язані з «Sendable», з модуля «WebKit»\nОднак у файлі немає попереджень, що пов'язані із Sendable.\nКоли я додаю @preconcurrency до твердження import WebKit, я отримую таке попередження:\nАтрибут «@preconcurrency» на модулі «WebKit» не має ефекту\nЗрештою я визначив, що методи WKNavigationDelegate були застарілими для iOS 18, і мені потрібно було додати атрибут @MainActor до закриття в одному з методів делегування."
-}

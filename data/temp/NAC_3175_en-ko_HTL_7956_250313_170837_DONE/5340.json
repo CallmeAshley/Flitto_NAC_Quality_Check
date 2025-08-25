@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Support\nDear [redacted_name]\nIn order to finalize your account authentication, please enter the code below as directed on the Paycor Sign In page. You will have 30 minutes to complete this action before the code expires.\n[redacted_id]\nPaycor will never send you an email requesting personal information. View our FAQ to learn more about keeping your account safe:\nwww.paycor.com/faqs/signin\nWhy are we confirming your account information?",
-    "trans": "지원\n친애하는 [redacted_name]\n귀하의 계정 인증을 완료하려면, Paycor 로그인 페이지에 안내된 대로 아래 코드를 입력해 주세요. 코드는 30분 이내에 입력하셔야 하며 이후에는 만료됩니다.\n[redacted_id]\nPaycor는 개인 정보를 요청하는 이메일을 절대 보내지 않습니다. 계정을 안전하게 유지하는 방법에 대해 더 알아보려면 FAQ를 확인해 주세요:\nwww.paycor.com/faqs/signin\n왜 계정 정보를 확인하는 것인가요?"
-}

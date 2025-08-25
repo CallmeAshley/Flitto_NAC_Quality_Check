@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Update your payment method to continue Prime\nHello [redacted_name],\nYour Prime membership is renewing on [redacted_info]. However, we noticed that your default payment method for your membership is no longer valid.\nTo avoid losing your benefits, we'll try charging other active payment methods associated with your Amazon account. If we can't process the charge for your membership fee, your Prime benefits will be suspended.\nThank you,\nAmazon Customer Service",
-    "trans": "Mettez à jour votre mode de paiement pour conserver Prime\nBonjour [redacted_name],\nVotre abonnement Prime se renouvelle le [redacted_info]. Cependant, nous avons remarqué que le moyen de paiement par défaut pour votre adhésion n'est plus valide.\nPour éviter de perdre vos avantages, nous essaierons de facturer d'autres moyens de paiement actifs associés à votre compte Amazon. Si nous ne pouvons pas effectuer le paiement de votre abonnement, vos avantages Prime seront suspendus.\nMerci,\nService clientèle d'Amazon"
-}

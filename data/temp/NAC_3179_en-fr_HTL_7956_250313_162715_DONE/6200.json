@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "We fit a beta distribution to each participant’s elicited belief for each stock and calculate key parameters (mean, standard deviation, skewness, and kurtosis) for subsequent analy- ses.6 We use the mean of the fitted distribution as the expected return. Table 1 presents descriptive statistics for these parameters based on 1,058 belief distributions elicited from our participants. The elicited belief distributions exhibited substantial heterogeneity across participants for all parameters.",
-    "trans": "Nous ajustons une distribution bêta à la croyance exprimée de chaque participant pour chaque action et calculons les paramètres clés (moyenne, écart-type, asymétrie et kurtose) pour les analyses ultérieures.6 Nous utilisons la moyenne de la distribution ajustée comme le rendement attendu. Le Tableau 1 présente les statistiques descriptives de ces paramètres basées sur 1 058 distributions de croyances exprimées par nos participants. Les distributions de croyances exprimées ont montré une hétérogénéité substantielle entre les participants pour tous les paramètres."
-}

@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Breakdown of the formula:\n1. Downtime: Duration of the failure, measured in hours.\n2. Employee Hourly Rate: The average hourly salary of the affected employees.\n3. Number of Employees Affected: Total number of government workers who were impacted.\n4. Recovery Costs: Expenses associated with fixing the problem (e.g., IT staff, external consultants).\n5. Public Service Impact: Estimated cost of delayed public services or disruption to critical functions (e.g., passport issuance, public safety, etc.).\n6. Compliance Penalties: Fines or other penalties due to non-compliance with government regulations (if applicable).\n7. Other Costs: Any additional expenses, such as damage to the agency’s reputation or any security risks that were triggered.",
-    "trans": "공식 세부 내역:\n1. 정지 시간: 시간 단위의 고장의 지속 기간.\n2. 직원 시간당 요금: 영향을 받은 직원들의 평균 시간당 급여.\n3. 영향을 받은 직원 수: 영향을 받은 총 공무원 수.\n4. 복구 비용: 문제 해결과 관련된 비용(예: IT 직원, 외부 고문 의사).\n5. 공익사업 영향: 지연된 공익사업 또는 중요한 기능(예: 여권 발급, 공공 안전 등)의 중단으로 인한 예상 비용.\n6. 준수 처벌: 정부 규정을 준수하지 않아 발생하는 벌금 또는 기타 처벌(해당되는 경우).\n7. 기타 비용: 기관의 평판 손상이나 유발된 보안 위험과 같은 추가 비용."
-}

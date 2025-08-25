@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "}\nExplanation:\n1. The program asks the user to input two integers and an arithmetic operation (addition, subtraction, multiplication, or division).\n2. Using the switch statement, the program performs the chosen operation.\n3. If the operation is division and the second number is zero, it displays an appropriate message to avoid division by zero.\n4. If the operation is not one of the listed ones, an error message is displayed.\nLet me know if you need further adjustments!",
-    "trans": "}\nExplication :\n1. Le programme demande à l'utilisateur de saisir deux entiers et une opération arithmétique (addition, soustraction, multiplication ou division).\n2. À l'aide de l'instruction switch, le programme effectue l'opération choisie.\n3. Si l'opération est une division et que le deuxième nombre est zéro, il affiche un message approprié pour éviter la division par zéro.\n4. Si l'opération ne fait pas partie de celles énumérées, un message d'erreur s'affiche.\nFaites-moi savoir si vous avez besoin de modifications supplémentaires !"
-}

@@ -1,6 +1,0 @@
-{
-    "source": "zh_CN",
-    "target": "en_US",
-    "text": "$$\\frac{a}{c}=0.075$$，那么$$a=0.075c=\\frac{75}{1000}c=\\frac{3}{40}c$$\n所以c必须是40的倍数，才能保证a是整数\n$$\\frac{b}{c}=0.09$$，那么$$b=0.09c=\\frac{9}{100}c$$\n所以c必须是100的倍数，才能保证b是整数\n综上，c是40和100的公倍数，\n故而，c最小是40和100的最小公倍数，即200",
-    "trans": "Given that:𝑎$$\\frac{a}{c}=0.075$$，Therefore, $$a=0.075c=\\frac{75}{1000}c=\\frac{3}{40}c$$\nFor a to be an integer, c must be a multiple of 40.\nSimilarly: $$\\frac{b}{c}=0.09$$，Therefore, $$b=0.09c=\\frac{9}{100}c$$\nFor b to be an integer, c must be a multiple of 100.\nIn conclusion, c must be a common multiple of both 40 and 100.\nTherefore, the smallest such multiple is the least common multiple of 40 and 100, which is 200."
-}

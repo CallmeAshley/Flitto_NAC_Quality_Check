@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "We calculated descriptive statistics for patients’ baseline demographic and clinical characteristics, and computed standardized differences to test for intergroup differences, with differences <0.1 indicating good balance [32]. We conducted a matched Cox proportional hazards regression analysis for each outcome using finasteride as the reference group, given our prespecified hypothesis that dutasteride would be associated with an increased risk of osteoporosis and fractures. We adjusted all models for any baseline characteristics with a standardized difference exceeding 0.1 following propensity score matching. We did not conduct a sample size calculation; our study was population-based and we studied all eligible patients. All analyses were performed using SAS version 9.3 (SAS Institute, Cary, North Carolina).",
-    "trans": "우리는 환자의 기초 인구학적 및 임상 특성에 대한 기술 통계를 계산하고, 그룹 간 차이를 테스트하기 위해 표준화된 차이를 계산했습니다, 차이가 <0.1일 경우 균형이 잘 맞는 것으로 간주합니다[32]. 우리는 사전 설정된 가설에 따라 두타스테리드가 골다공증 및 골절의 위험 증가와 관련이 있을 것이라는 가정을 바탕으로, 피나스테리드를 참조군으로 하여 각 결과에 대해 일치된 콕스 비례 위험 회귀 분석을 수행했습니다. 우리는 성향 점수 매칭 후 표준화된 차이가 0.1을 초과하는 모든 기초 특성에 대해 모델을 조정했습니다. 샘플 크기 계산은 수행하지 않았습니다. 본 연구는 인구 기반 연구로, 모든 자격을 갖춘 환자를 대상으로 진행되었습니다. 모든 분석은 사스 버전 9.3(사스 인스티튜트, 캐리, 노스캐롤라이나)를 사용하여 수행되었습니다."
-}

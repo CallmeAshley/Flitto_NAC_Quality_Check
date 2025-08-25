@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "uk_UA",
-    "text": "reads and writes at 80–160 MB/s, while an SSD reads and writes at 200–550 MB/s.\nMore efficient than random I/O: Sequential I/O is more efficient than random I/O because it reduces the need to seek different parts of the disk.\nFaster load times: A fast read speed can lead to faster load times and smoother gameplay.\nFaster write speeds: A fast write speed allows gamers to save their games more quickly.\nMapping table: An SSD's mapping table can become slower if it contains many random access entries. A more organized table with fewer sequential access entries can be more efficient",
-    "trans": "зчитує та записує зі швидкістю 80-160 МБ/с, у той час, як SSD читає і записує зі швидкістю 200-550 МБ/с.\nЕфективніший за випадковий ввід/вивід: послідовний ввід/вивід є більш ефективним, ніж випадковий, оскільки він знижує потребу шукати різні частини диска.\nШвидший час завантаження: висока швидкість зчитування забезпечує швидше завантаження й більш плавний ігровий процес.\nШвидкий запис: висока швидкість запису дозволяє геймерам зберігати свої ігри швидше.\nТаблиця відображення: таблиця відображення SSD може працювати повільніше, якщо вона містить багато записів з випадковим доступом. Більш організована таблиця з меншою кількістю записів послідовного доступу може бути більш ефективною"
-}

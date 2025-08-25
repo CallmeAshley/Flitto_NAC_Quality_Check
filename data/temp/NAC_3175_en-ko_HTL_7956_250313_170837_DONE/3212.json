@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "In the last hour, your mailbox has received a large amount of mail from [redacted_address]. For the next hour messages to your mailbox from [redacted_address] may be rejected by Office 365. The sender of the message will receive a Non-Delivery Report.\nMailbox receiving limits\nYou can view more details on our mailbox receiving limits here: Exchange Online limits - Service Descriptions | Microsoft Docs\nTips to reduce mail load\nHigh mail load is often caused by automated mailers sending too much mail. If an automated mailer is sending your mailbox many messages you should configure the automated mailer to send the mail over a longer period of time, or configure it to send to multiple mailboxes.\nDO NOT REPLY: this is an automated email.",
-    "trans": "지난 한 시간 동안, 귀하의 사서함은 [redacted_address]에서 대량의 메일을 받았습니다. 다음 한 시간 동안 [redacted_address]에서 귀하의 사서함으로 보내는 메시지는 Office 365에 의해 거부될 수 있습니다. 메시지의 발신자는 전송 실패 보고서를 받게 됩니다.\n사서함 수신 한도\n사서함 수신 한도에 대한 자세한 내용은 여기에서 확인하실 수 있습니다: Exchange Online 한도 - 서비스 설명 | Microsoft Docs\n메일 부하를 줄이는 팁\n높은 메일 부하는 종종 자동화된 메일 발송자가 너무 많은 메일을 보내는 경우에 발생합니다. 자동화된 메일 발송자가 귀하의 사서함에 많은 메시지를 보내고 있다면, 자동화된 메일 발송자를 설정하여 더 긴 기간 동안 메일을 보내거나 여러 개의 사서함으로 보내도록 구성해야 합니다.\n답장하지 마세요: 이것은 자동화된 이메일입니다."
-}

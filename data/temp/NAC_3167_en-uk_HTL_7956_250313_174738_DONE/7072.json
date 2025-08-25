@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "uk_UA",
-    "text": "INPUT: I hope you are doing well when you read this email. I'm writing to you today because I want to know more about how vinegar is made. I'm a professional writer, and I'm working on a project about different fermentation techniques. I'm really interested in learning all the details about how vinegar is made.\nINSTRUCTION: Generate multiple rewritten versions of the given text without changing intent and meaning.",
-    "trans": "ВХІДНІ ДАНІ: Сподіваюся, у вас все добре, коли ви читатимете цей електронний лист. Сьогодні я пишу вам, бо хочу дізнатися більше про те, як роблять оцет. Я професійний письменник і працюю над проєктом про різні технології ферментації. Я дуже зацікавлений у розкритті всіх секретів приготування оцету.\nІНСТРУКЦІЯ: Створи кілька переписаних версій цього тексту, не змінюючи його змісту та мети."
-}

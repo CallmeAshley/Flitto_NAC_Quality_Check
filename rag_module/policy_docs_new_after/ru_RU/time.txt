@@ -1,3 +1,5 @@
+If the translated sentence uses a colloquial or emotionally expressive tone (e.g., social media style, casual speech), do not forcibly replace natural time expressions like 'between 1 and 2 AM' with strict [Time Format] such as '01:00 and 02:00', unless clarity is compromised.
+
 [Time Format]
 
 Definition:  

@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Let us start with an example of automatic request modification. We can choose to match any text within our requests, either in the request header or request body, and then replace them with different text. For the sake of demonstration, let's replace our User-Agent with HackTheBox Agent 1.0, which may be handy in cases where we may be dealing with filters that block certain User-Agents.",
-    "trans": "자동 요청 수정의 예시로 시작해 보겠습니다. 요청 헤더 혹은 본문에서 텍스트를 찾아 매칭한 후, 이를 다른 텍스트로 대체할 수 있습니다. 설명을 위해 사용자 에이전트 값을 핵더박스 에이전트 1.0으로 변경해 봅시다. 이는 특정 사용자 에이전트를 차단하는 필터를 다뤄야 하는 경우 유용할 수 있습니다."
-}

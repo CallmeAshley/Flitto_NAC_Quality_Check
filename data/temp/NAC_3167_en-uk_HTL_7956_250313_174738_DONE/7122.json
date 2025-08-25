@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "uk_UA",
-    "text": "Limitations of hedging translation exposure:\n• Inaccurate earnings forecasts — Earnings in a future period are uncertain.\n• Inadequate forward contracts for some currencies — Forward contracts are not available for all currencies.\n• Accounting distortions — The forward rate gain or loss reflects the difference between the forward rate and the future spot rate, whereas the translation gain or loss is caused by the change in the average exchange rate over the period in which the earnings are generated.\n• Increased transaction exposure — The MNC may be increasing its transaction exposure.",
-    "trans": "Обмеження хеджування трансляційного валютного ризику:\n• Неточні прогнози прибутку — Прибуток у майбутньому періоді є невизначеним.\n• Недостатня доступність форвардних контрактів для деяких валют — Форвардні контракти недоступні для всіх валют.\n• Бухгалтерські спотворення — Прибуток або збиток за форвардним курсом відображає різницю між форвардним курсом і майбутнім спот-курсом, тоді як трансляційний прибуток або збиток спричинений зміною середнього обмінного курсу протягом періоду, в якому формується прибуток.\n• Збільшення транзакційного ризику — Транснаціональна компанія (MNC) може збільшувати свій транзакційний валютний ризик."
-}

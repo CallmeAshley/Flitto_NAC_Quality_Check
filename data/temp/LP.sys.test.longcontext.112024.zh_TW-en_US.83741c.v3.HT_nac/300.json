@@ -1,6 +1,0 @@
-{
-    "source": "zh_TW",
-    "target": "en_US",
-    "text": "當孩子的答案是正確的，系統卻沒有給分，可能的原因有\n題目以前一冊單字為主；或許有其他冊數的單字亦適合該題，由於系統判定關係，該題無法得分。\n須以正確書寫格式作答；作答時若有空格、大小寫或標點符號有誤等等格式因素，該題無法得分。\n須以英文半形模式作答；作答時若以英文全形模式輸入文字，由於系統判定關係，該題無法得分。",
-    "trans": "When a child's response is accurate, but the system does not assign points for it, it may be due to some of the following reasons:\nThe question is based on vocabulary from an earlier textbook. Other textbooks have vocabulary that may also answers the question, but just by the system's judgment, the question will not be scored.\nThe answer has to be in the writing format; if there be any, probably spaces, case sensitiveness, punctuation errors, unfortunately, can't score the question.\nAnswers should be provided in English half-width characters. If English full-width characters are entered, the system will mark the question as ineligible for scoring."
-}

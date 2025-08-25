@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Rage: Gain temporary Hit Points and bonuses to attack, damage, thrown weapon damage rolls and Will saving throws.\nFast Movement: Increased movement speed. Does not work if under heavy encumbrance or if wearing heavy armor.\nUncanny Dodge: Prevents character from being flat footed and negates loss of DEX bonus to AC if being attacked from Stealth.\nImproved Uncanny Dodge: Prevents Sneak Attack and Flanking.\nDanger Sense: Adds bonuses against Traps.\nDamage Reduction: Increases Damage Reduction against Weapons and Natural attacks.\nIndomitable Will: Adds +4 to Will saving throw against enchantment spells. Stacks with all other Will bonuses.",
-    "trans": "분노: 일시적으로 체력과 공격, 피해, 던진 무기 피해 굴림 및 의지 세이브 던지기에 대한 일시적 포인트를 얻습니다.\n빠른 이동: 이동 속도가 증가합니다. 중장비를 착용하거나 무거운 장비에 부담이 있을 경우 효과가 없습니다.\n비상 회피: 캐릭터가 평소 상태로 되지 않으며, 은신에서 공격을 받을 때 AC에 대한 DEX 보너스 손실을 막습니다.\n개선된 비상 회피: 은밀한 공격과 측면 공격을 막습니다.\n위험 감지: 함정에 대한 보너스를 추가합니다.\n피해 감소: 무기 및 자연 공격에 대한 피해 감소를 증가시킵니다.\n불굴의 의지: 마법에 의한 저주와 관련된 의지 세이브 던지기에 +4를 추가합니다. 다른 모든 의지 보너스와 함께 적용됩니다."
-}

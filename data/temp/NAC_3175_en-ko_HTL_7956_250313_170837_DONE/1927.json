@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Apple Engineering has been informed that Microsoft will no longer support Basic Authentication. Basic authentication means the application sends a username and password with every request to the server. Microsoft will deprecate this type of authentication on September 16, 2024 to upgrade to a more standard OAuth method of authentication.\nUsers may reach out to Apple regarding the following:\nAn email they received from Microsoft advising of the changes and looking to Apple for a resolution\nAfter September 16, 2024, users may report receiving repeated prompts for their username and password\nAdding this type of account as \"Other\" no longer works",
-    "trans": "애플 엔지니어링은 마이크로소프트가 더 이상 기본 인증을 지원하지 않을 것이라는 통지를 받았습니다. 기본 인증이란, 애플리케이션이 서버에 모든 요청마다 사용자 이름과 비밀번호를 전송하는 것을 의미합니다. 마이크로소프트는 보다 표준적인 오토어 인증 방식으로 업그레이드하기 위해, 2024년 9월 16일에 이러한 형태의 인증을 사용 중단할 예정입니다.\n사용자들은 다음과 관련하여 애플에 문의할 수 있습니다:\n마이크로소프트로부터 변경 사항을 알리는 이메일을 받고 애플에 해결책을 요청한 경우\n2024년 9월 16일 이후, 사용자 이름과 비밀번호 입력을 반복적으로 요구받는 경우\n\"Other\"로 해당 유형의 계정을 추가하는 것이 더 이상 작동하지 않는 경우"
-}

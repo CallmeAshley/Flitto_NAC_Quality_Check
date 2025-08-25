@@ -1,3 +1,5 @@
+**If the translated sentence uses a currency expression that is culturally familiar and contextually natural (e.g., using a friendly or colloquial style), do not enforce strict [Currency Format] replacement unless the expression causes confusion or breaks locale norms.**
+
 [Currency Format]
 
 Shared Principle for Currency Symbols and Codes:  
@@ -6,16 +8,14 @@ Even if the currency is not the Russian ruble (₽), the original representation
 Only **positioning and spacing** should be adapted according to Russian conventions.
 
 Expected currency symbols include:  
-₽, $, €, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾  
+NT$, ₽, $, €, ¥, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾  
 
 Expected ISO currency codes include:  
-RUB, USD, EUR, JPY, GBP, CNY, KRW, INR, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+RUB, USD, EUR, JPY, GBP, CNY, KRW, INR, TRY(abbreviation: TL), AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
 
 Important:  
-Do not convert between currency formats.  
-If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
-Do not rewrite it as a **name** (`400 долларов`) or **code** (`400 USD`).  
-The same applies in reverse. Always preserve the representation type from the source.
+Always preserve the original representation type (symbol, code, or name) **unless the Russian locale customarily uses a different format and the semantic meaning is preserved**.  
+For example, `$400` may be translated as `400 долларов` if this form is standard and contextually appropriate in Russian.
 
 ---
 

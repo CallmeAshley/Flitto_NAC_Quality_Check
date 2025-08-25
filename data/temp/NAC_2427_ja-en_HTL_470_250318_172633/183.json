@@ -1,6 +1,0 @@
-{
-    "source": "ja_JP",
-    "target": "en_US",
-    "text": "データを整理し、パターン分類するだけでもかなり向上する。\n• ビッグデータのデータ駆動型処理方式\n• まず、ビッグデータのパターン分類を基礎とする解決法を，データ駆動型(data\ndriven)という標準的なモデルを先に構築し，状況に応じてそのモデルを変化させる\nのではなく，まず豊富に用意された行動の変容に関係する条件とその結果のペアを",
-    "trans": "Organizing data and classifying patterns alone can lead to significant improvements.\n• Data-driven processing approach for big dadta\n• First, a solution based on pattern classification of big data\nshould be constructed using a standard data-driven model. Rather than altering the model according to circumstances,\nit is essential to begin by preparing an abundance of condition-result pairs related to behavioral changes."
-}

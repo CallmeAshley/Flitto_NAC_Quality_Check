@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Microsoft account\nYour account recovery request for [redacted_email]\nHello,\nThank you for contacting Microsoft Support.\nWe recently received a request to recover your Microsoft account [redacted_email]. Unfortunately, we have determined that the information you provided was not sufficient for us to validate your account ownership. We take the security and privacy of our customers very seriously and are committed to protecting your personal information.\nHere are few tips below to help you complete the form:",
-    "trans": "마이크로소프트 계정\n[redacted_email]에 대한 귀하의 계정복구 요청\n안녕하세요,\n마이크로소프트 지원팀에 연락주셔서 감사드립니다.\n최근에 당사는 귀하의 마이크로소프트계정[redacted_email]을 복구해 달라는 요청을 받았습니다. 불행하게도, 당사는 귀하가 제공하신 정보가 귀하가 해당 계정을 소유하고 있다는 사실을 검증하기에 충분하지 않다고 판단했습니다. 당사는 고객의 보안 및 개인 정보를 매우 진지하게 취급하고 있으며, 고객의 개인 정보를 보호하기 위해 최선을 다하고 있습니다.\n다음은 양식 작성에 도움이 되는 몇 가지 팁입니다."
-}

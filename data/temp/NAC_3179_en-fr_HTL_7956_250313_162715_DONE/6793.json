@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "The pilot will look for the closest damaged player ship in the sector, or it will look for friendly ships in repair need.\nIt's important to mention it will only repair ships with at least 20% charged shield.\nHaving shields up a little usually means that ship has been out of combat for some time (successfully fled from battle), so it's safe to approach.",
-    "trans": "Le pilote cherchera le vaisseau joueur endommagé le plus proche dans le secteur, ou il recherchera des vaisseaux alliés ayant besoin de réparations.\nIl est important de préciser qu'il ne réparera que les vaisseaux ayant au moins 20 % de bouclier chargé.\nAvoir un peu de bouclier actif signifie généralement que le vaisseau est hors de combat depuis un certain temps (ayant réussi à fuir le combat), ce qui le rend sûr à approcher."
-}

@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "Signal conditioning circuits amplify, filter, and convert the signal\nfrom the transducer into a usable electrical value, preparing it for\ndisplay or further analysis.\n4. Display\nThe display provides a visual (or sometimes audio) representation\nof the measured data, such as on a cathode ray oscilloscope\n(CRO) or chart recorder.\n5. Data Storage and Transmission\nData storage retains the recorded information for future reference,\nwhile data transmission allows remote access to the signals,",
-    "trans": "Les circuits de conditionnement du signal amplifient, filtrent et convertissent le signal\nprovenant du transducteur en une valeur électrique exploitable, le préparant ainsi pour\nl'affichage ou une analyse ultérieure.\n4. Affichage\nL'affichage fournit une représentation visuelle (ou parfois audio)\ndes données mesurées, comme sur un oscilloscope à tube cathodique\n(CRO) ou un enregistreur graphique.\n5. Stockage et transmission des données\nLe stockage des données conserve les informations enregistrées pour référence future,\ntandis que la transmission des données permet un accès à distance aux signaux."
-}

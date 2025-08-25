@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "uk_UA",
-    "text": "System\nAny arbitrary portion of a whole process for analysis.\nEx. a reactor, a section of a pipe, an entire refinery(精煉廠)\nSystem boundary\nThe limits of the system defined by drawing the lines, that encloses the portion\nof the process analyzed.\nClosed System\nNo material crosses the system boundary. Changes\ncan take place inside the closed system, but no\nmass exchange occurs with the surround",
-    "trans": "Система\nБудь-яка довільна частина цілого процесу для аналізу.\nПриклад: реактор, ділянка труби, цілий нафтопереробний завод (精煉廠)\nСистемна межа\nМежі системи, визначені проведенням ліній, що оточують частину\nпроцесу, що аналізується.\nЗакрита система\nНіякий матеріал не перетинає межу системи. Зміни\nможуть відбуватися всередині закритої системи, але\nобмін масою з оточенням не відбувається."
-}

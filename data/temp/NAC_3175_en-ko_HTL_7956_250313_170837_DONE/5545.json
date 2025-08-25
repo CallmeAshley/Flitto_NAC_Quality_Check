@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Dear [redacted_name] and [redacted_name],\nThis is to confirm that you are signed up for the appointment(s) listed below.\nSchool: Maria Weston Chapman Middle School -\nStudent Name: [redacted_name]\nConference: [redacted_name]\nDate/Time: Thu, Nov 7 at 12:55 PM (8 minutes)\nLocation: Room 1311\nPTCFast sign-in link: [redacted_id]\nConference: [redacted_name]\nDate/Time: Thu, Nov 7 at 1:05 PM (8 minutes)\nLocation: Room 2305\nPTCFast sign-in link: [redacted_id]",
-    "trans": "[redacted_name]과 [redacted_name]께,\n다음 나열된 예약에 등록되었음을 알려드립니다.\n학교: 마리아 웨스턴 채프먼 중학교 -\n학생 이름: [redacted_name]\n회의: [redacted_name]\n날짜/시간: 11월 7일 목요일, 오후 12:55 (8분)\n장소: 1311호\nPTCFast 로그인 링크: [redacted_id]\n회의: [redacted_name]\n날짜/시간: 11월 7일 목요일, 오후 1:05 (8분)\n장소: 2305호\nPTCFast 로그인 링크: [redacted_id]"
-}

@@ -3,19 +3,23 @@
 Definition:  
 Polish dates follow the **Day → Month → Year** order.  
 If a weekday is present, it appears **before the date**, followed by a comma.  
-Dots (`.`) are used in short numeric formats.
+Dots (`.`) can be used.
+The abbreviation "r." (rok, roku) is commonly used to indicate a year.
 
 Examples:  
 - poniedziałek, 28 lipca 2025  
 - 28 lipca 2025  
 - 28 lip 2025  
 - 28.07.2025  
+- maj 2025 r.
+- maju 2025 roku
 
 Evaluation Criteria:
 - Ensure the date is in Day → Month → Year order.
 - If a weekday is present, it must precede the date and be followed by a comma.
 - Accept both full month names and abbreviations.
 - **Do not generate a weekday unless it exists in the source.**
+- **Do not generate a year unless it exists in the source.**
 
 ---
 

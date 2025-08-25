@@ -7,9 +7,12 @@ The abbreviation “р.” (for “рік”) follows the year.
 
 Examples:  
 - понеділок, 28 липня 2025 р.  
+- понеділок, 28 липня 2025 року.
 - 28 липня 2025 р.  
+- 28 липня 2025 року.
 - 28.07.2025  
 - 28.07.25
+- 2013 році
 
 Evaluation Criteria:
 - Confirm Day → Month → Year order.
@@ -17,6 +20,7 @@ Evaluation Criteria:
 - Do not generate weekday if absent in the source.
 - Include “р.” if it appears in the original.
 - Accept both full month and short numerical formats.
+- **Do not generate a year unless it exists in the source.**
 
 ---
 

@@ -1,6 +1,0 @@
-{
-    "source": "th_TH",
-    "target": "en_US",
-    "text": "20:27:41\nเรียน บจก. ฮงไทย เปเปอร์ คาร์ตันส์\nวันที่ทำรายการ:\n24/09/2024\nTransaction Date\n-\n20:27:39\nวันที่รายการมีผล:\n24/09/2024\nValue Date\n20:27:40\nEmail: -\nธนาคารไทยพาณิชย์ จำกัด (มหาชน)\nSiam Commercial Bank PCL,\nเลขประจำตัวผู้เสียภาษี: [redacted_id]\nTax ID\n9 ถนนรัชดาภิเษก แขวงจตุจักร เขตจตุจักร จ. กรุงเทพฯ 10900\nชื่อบัญชี:\nAccount Name\nบจก. ฮงไทย เปเปอร์ คาร์ตันส์\nเลขที่กลุ่มรายการ:\nCustomer Batch Reference\nExp240924\nเลขที่บัญชี/พร้อมเพย์:\nAccount No. /Promtpay ID\nชื่อผลิตภัณฑ์:\nProduct Name\nX-5688\nข้อมูลอ้างอิงรายการ:\nCustomer Transaction Reference",
-    "trans": "20:27:41\nTo: Hong Thai Paper Cartons Co., Ltd.\nTransaction Date:\n24/09/2024\nTransaction Date\n-\nTime: 20:27:39\nValue Date:\n24/09/2024\nValue Date\nTime: 20:27:40\nEmail: -\nSiam Commercial Bank PCL,\nSiam Commercial Bank PCL,\nTax ID: [redacted_id]\nTax ID\n9 Ratchadaphisek Road, Chatuchak, Chatuchak, Bangkok 10900\nAccount Name:\nAccount Name\nHong Thai Paper Cartons Co., Ltd.\nCustomer Batch Reference:\nCustomer Batch Reference\nExp240924\nAccount No./PromptPay ID:\nAccount No./PromptPay ID\nProduct Name:\nProduct Name\nX-5688\nCustomer Transaction Reference:\nCustomer Transaction Reference"
-}

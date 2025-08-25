@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Hi [redacted_name],\nYour package was delivered. Thanks again for shopping with Victoria's Secret!\nOrder Number: [redacted_id]\nCan't find your package? Some carriers will place packages out of view. Make sure to click the \"View Tracking Details\" button below for any additional delivery information.\nWe find that carriers may accidentally scan a package as “Delivered” when it is still out for delivery and will deliver within the next two days. We ask that you wait the additional time to reduce the need to return a duplicate shipment.",
-    "trans": "안녕하세요 [redacted_name]님,\n고객님의 패키지가 배송 완료되었습니다. 빅토리아 시크릿에서 쇼핑해 주셔서 다시 한번 감사드립니다!\n주문 번호: [redacted_id]\n패키지를 찾을 수 없으신가요? 일부 배송업체는 패키지를 눈에 띄지 않는 곳에 둘 수 있습니다. 아래 \"배송 추적 상세 보기\" 버튼을 클릭하여 추가 배송 정보를 확인해 주세요.\n일부 배송업체는 패키지가 아직 배송 중임에도 불구하고 실수로 \"배송 완료\"로 스캔하는 경우가 있으며 이 경우 패키지는 추가로 2일 이내에 배송될 가능성이 높습니다. 중복 배송을 방지하기 위해 추가 시간을 기다려주실 것을 요청드립니다."
-}

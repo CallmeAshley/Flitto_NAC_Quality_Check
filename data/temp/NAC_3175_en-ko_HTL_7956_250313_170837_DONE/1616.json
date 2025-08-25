@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Hello all,\nWhile driving, I saw the ABS/DCT orange warning sign came on. Came home and read the fault codes P1776 and P15B8.\nWhen tried to clear it, OBD scanner shows they are cleared; however, on the very next scan these two codes reappear.\nI have 2011 BMW 328i with 76000 miles on it.\nAny suggestion what to look for in terms of fixing these issues?",
-    "trans": "여러분 안녕하세요,\n운전을 하면서 ABS/DCT 주황색 경고 표지판이 켜지는 것을 봤어요. 집에 와서 오류 코드 P1776랑 P15B8을 읽었어요.\n이걸 없애려고 했을 때, OBD 스캐너는 없어졌다고 나오는데,바로 다음 스캔에서 이 두 코드가 다시 나타나네요.\n저는 76,000마일을 달린 2011 BMW 328i를 소유 중입니다.\n이런 문제들을 해결하려면 어떤 것을 봐야할까요?"
-}

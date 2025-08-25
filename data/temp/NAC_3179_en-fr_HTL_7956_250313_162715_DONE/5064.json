@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "– The correlation measures how well the straight line describes the association, the more tightly the point surround the straight line the closer the correlation will be to 1 or –1\nAn r = 1 does not necessarily mean that a one unit change in x is accompanied by a one unit change in y, but it does mean that a the points on a scatter plot of x and y would fall perfectly on a straight line, but the slope of the line could be anything (except 0).",
-    "trans": "- La corrélation mesure comment la ligne droite décrit l'association, plus le point est proche de la ligne droite, plus la corrélation sera proche de 1 ou -1\nUn r = 1 ne signifie pas forcément qu'une variation d'unité de x est accompagné d'une variation d'unité de y, mais cela signifie que les points d'un diagramme de dispersion de x et y tomberaient sur une ligne parfaitement droite, mais que l'inclinaison de la ligne pourrait être n'importe laquelle (sauf 0)."
-}

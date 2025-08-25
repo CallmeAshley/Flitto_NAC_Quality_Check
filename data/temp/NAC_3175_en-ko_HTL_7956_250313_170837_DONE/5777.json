@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Entering the total price of an item priced by weight (e.g., chicken breast - $5.99 per lb) in the app can avoid unexpected checkout totals. For example, if the customer requests 2.5 lbs of chicken breast, but the store only sells them in packages of 1.5 lbs, picking 2 packages and entering a total of 3 lbs. will result in the accurate price showing in your app (and your customer’s app).",
-    "trans": "앱에 무게별로 가격이 책정된 품목의 총 가격(예: 닭가슴살 - 파운드당 5.99달러)을 입력하는 경우 예상 밖의 결제 총액을 막을 수 있습니다. 예를 들어, 고객이 닭가슴살 2.5파운드를 요청했지만 매장에서 1.5파운드 패키지로만 판매하는 경우 패키지 2개를 선택하고 총 3파운드를 입력하면 앱(및 고객의 앱)에 가격이 정확하게 표시됩니다."
-}

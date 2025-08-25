@@ -11,6 +11,8 @@ Example: 3.14
 
 - If the number is expressed using language-specific unit words (e.g., “million,” “billion,” “thousand,” or their equivalents in the target language), **do not convert it to fully numeric form with separators**.  
 
+- Abbreviation units such as "k" or "m" in the source sentence must be translated into a form that is natural and customary in the target language. For example, "3k" should be translated as "3,000" or the equivalent written form such as "3천," depending on the conventions of the target locale.
+
 ---
 
 [Exceptions]

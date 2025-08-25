@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "Some cdi images have audio and cut/scene video bitrate reduced, but some just have the files re-ordered and “padding” removed. Gdi images are supposed to be 1:1 copies of the original GD-Rom, so they should all be 1.1GB - obviously some games were not that big, so the images can be reduced with no loss in quality.\nBasically, try both, if you’re happy with the quality of the .cdi, use that.\nI like the “DCRes” images personally, IIRC they were optimized to reduce loading times and laser wear.",
-    "trans": "일부 CDI 이미지는 오디오 및 컷/씬 비디오 비트레이트를 감소시키지만, 일부는 단순히 파일을 재배열하고 '패딩'을 제거해요. GDI 이미지는 원본 GD-롬의 1:1 복사본이어야 하니, 모두 1.1기가바이트여야 해요 - 분명 일부 게임은 그렇게 크지 않았을 테니 품질 손실 없이 이미지를 작게 만들 수 있겠죠.\n기본적으로는 둘 다 시도해 보고, .cdi 확장자의 품질에 만족하면, 그걸 쓰세요.\n개인적으론 'DCRes' 이미지를 좋아하는데, 제 기억이 맞다면 로딩 시간을 줄이고 레이저 마모를 줄이도록 최적화되어 있었어요."
-}

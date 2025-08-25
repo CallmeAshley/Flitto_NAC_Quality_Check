@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "fr_FR",
-    "text": "IRBUS IAM\nDear Annike ZANDER (Account for Active Directory EU),\nYour Airbus internal account (Active Directory EU) has been successfully created.\nAccount details\nAirbus Internal Login (Windows Login):[redacted_number]\nPassword :it has been sent to you in a different email. Refer to the email with Active Directory EU\nIf you need support, please open an incident in Servise Now or contact your local Administrator\nThank you\nIM - IAM | Identity and Access Management",
-    "trans": "AIRBUS IAM\nMadame Annike ZANDER (compte interne Airbus Active Directory EU)\nVotre compte interne Airbus (Active Directory EU) a été créé avec succès.\nDétails du compte :\n•Identifiant de connexion interne Airbus (Connexion Windows) : [numéro masqué]\n•Mot de passe : Celui-ci vous a été envoyé dans un courriel distinct. Veuillez-vous référer à l'email contenant les informations relatives à Active Directory EU.\nSi vous avez besoin d'assistance, nous vous invitons à ouvrir un incident via Service Now ou à contacter votre Administrateur local.\nNous vous remercions.\nIM - IAM | Gestion des identités et des accès"
-}

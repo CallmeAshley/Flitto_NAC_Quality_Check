@@ -1,6 +1,0 @@
-{
-    "source": "en_US",
-    "target": "ko_KR",
-    "text": "An object starts its motion at x = 10m. After 5 seconds, it's at -15 m. It then\nremains stationary for 2 seconds. Finally, it moves for 4 seconds, reaching the\nposition 25m.\na) Plot a position-time graph.\nb) Find the equation of the line for each movement.\nc) Determine the position when the time is 3s.\nd) Determine the position when the time is 9s.",
-    "trans": "물체는 x = 10m에서 움직임을 시작합니다. 5초가 지난 후에, -15m에 있습니다. 그런 다음\n2초 동안 정지 상태를 유지합니다. 최종적으로, 4초간 움직이며\n25m 위치에 도달합니다.\na) 위치-시간 그래프를 그립니다.\nb) 각 움직임에 대한 선의 방정식을 찾습니다.\nc) 시간이 3초일 때의 위치를 확인합니다.\nd) 시간이 9초일 때의 위치를 확인합니다."
-}

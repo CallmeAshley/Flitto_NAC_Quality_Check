@@ -6,16 +6,14 @@ Even if the currency is not the local yuan (¥), the original representation for
 Only **positioning and spacing** should be adjusted according to Simplified Chinese formatting rules.
 
 Expected currency symbols include:  
-¥, $, €, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
+NT$, ¥, $, €, £, ₹, ₩, ₽, ฿, ₱, ₪, ₴, ₫, ₺, ₦, ₨, ₵, ₡, ₮, ₸, ₾
 
 Expected ISO codes include:  
-CNY, USD, EUR, JPY, GBP, KRW, INR, RUB, TRY, AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
+CNY, USD, EUR, JPY, GBP, KRW, INR, RUB, TRY(abbreviation: TL), AUD, CAD, CHF, MXN, BRL, PLN, SEK, NOK, DKK, CZK, HUF, ILS, SAR, AED, SGD, HKD, TWD, THB, MYR, IDR, PHP, VND, ZAR, UAH, NZD
 
 Important:  
-Do not convert between currency formats.  
-If the source uses a **symbol** (e.g., `$400`), preserve the **symbol** in the translation.  
-Do not rewrite it as a **name** (`400美元`) or **code** (`400 USD`).  
-The same applies in reverse. Always preserve the representation type from the source.
+Always preserve the original representation type (symbol, code, or name) **unless the Simplified Chinese locale customarily uses a different format and the semantic meaning is preserved**.  
+For example, `$400` may be translated as `400美元` if this form is standard and contextually appropriate in Simplified Chinese.
 
 ---
 
