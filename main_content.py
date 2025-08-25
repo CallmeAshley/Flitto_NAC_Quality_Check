@@ -32,18 +32,17 @@ grand_usage = {
     "semantic": defaultdict(int),
 }
 
-# Discrete emoji ranges only (no giant bridging ranges!)
 EMOJI_BASE = (
-    "\U0001F1E6-\U0001F1FF"  # Regional indicator letters (flags)
-    "\U0001F300-\U0001F5FF"  # Misc Symbols & Pictographs
-    "\U0001F600-\U0001F64F"  # Emoticons
-    "\U0001F680-\U0001F6FF"  # Transport & Map
-    "\U0001F700-\U0001F77F"  # (optional) Alchemical Symbols
-    "\U0001F900-\U0001F9FF"  # Supplemental Symbols & Pictographs
-    "\U0001FA70-\U0001FAFF"  # Symbols & Pictographs Extended-A
-    "\u2600-\u26FF"          # Misc symbols
-    "\u2700-\u27BF"          # Dingbats
-    "\U0001F170-\U0001F251"  # Enclosed Alphanumeric Supplement (emoji subset)
+    "\U0001F1E6-\U0001F1FF"  
+    "\U0001F300-\U0001F5FF"  
+    "\U0001F600-\U0001F64F"  
+    "\U0001F680-\U0001F6FF"  
+    "\U0001F700-\U0001F77F"  
+    "\U0001F900-\U0001F9FF"  
+    "\U0001FA70-\U0001FAFF" 
+    "\u2600-\u26FF"          
+    "\u2700-\u27BF"         
+    "\U0001F170-\U0001F251" 
 )
 SKIN_TONE = "\U0001F3FB-\U0001F3FF"
 ZWJ = "\u200D"
@@ -87,7 +86,6 @@ def normalize_gpt_json(raw):
         return {}
 
 def _b(x, default=False):
-    # 문자열 "true"/"false" 안전 캐스팅
     if isinstance(x, bool): return x
     if isinstance(x, str):
         v = x.strip().lower()
@@ -203,7 +201,7 @@ def process_file(file_path: str):
                     "faithfulness_type": res_addition.get("faithfulness_type", "none"),
                     "added_spans": _list(res_addition.get("added_spans")),
                     "faithfulness_reasons": _list(res_addition.get("reasons")),
-                    # ★ 최종 하나의 suggestions만 유지 (addition 단계)
+                    # 최종 하나의 suggestions만 유지 (addition 단계)
                     "suggestions": _list(res_addition.get("suggestions")),
                 }
             }
