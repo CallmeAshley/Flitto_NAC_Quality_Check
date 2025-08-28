@@ -11,7 +11,6 @@ Examples:
 Evaluation Criteria:
 - Use colons to separate time units.
 - Do not use AM/PM.
-- Always use two digits (e.g., 09:00 not 9:0).
 - Include time zones only if in the source.
 [Exceptions]
 

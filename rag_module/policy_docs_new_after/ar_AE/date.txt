@@ -21,7 +21,6 @@ Evaluation Criteria:
 
 ---
 
-
 [Exceptions]
 
 - Do not apply the formatting rules to numbers that are part of:

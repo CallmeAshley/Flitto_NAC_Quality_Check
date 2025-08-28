@@ -1,10 +1,8 @@
 [Date Format]
-
 Definition:  
-French uses the **Day → Month → Year** order.  
+French uses the Day → Month → Year order.  
 If a weekday is present, it appears **before** the date.  
 Slashes (`/`) can be used.
-Do not generate a weekday unless it exists in the source.
 
 Examples:  
 - lundi 28 juillet 2025  
@@ -16,20 +14,14 @@ Evaluation Criteria:
 - Confirm date order is Day → Month → Year when all parts are present.  
 - If a weekday is included, place it before the date.  
 - Accept both full name and slash formats depending on style.  
-- Do not add weekdays unless explicitly present in the source.
-- **Do not generate a year unless it exists in the source.**
 
 ---
 
-
 [Exceptions]
-
 - Do not apply the formatting rules to numbers that are part of:
   - telephone numbers
   - addresses
   - identification codes
   - or clearly unordered lists of numbers with no separators
-
 - If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
-
 - Always consider the context of the original sentence before making changes.

@@ -1,9 +1,8 @@
 [Time Format]
-
 Definition:  
-Spanish uses the **24-hour clock**.  
+Spanish uses the 24-hour clock.  
 Colons (`:`) separate hours, minutes, and seconds.  
-Time zones (e.g., CEST) are not included unless explicitly required.
+Include time zones (e.g., CEST) only when explicitly required.
 
 Examples:  
 - 14:30  
@@ -14,13 +13,10 @@ Evaluation Criteria:
 - Do not use AM/PM markers.
 
 [Exceptions]
-
 - Do not apply the formatting rules to numbers that are part of:
   - telephone numbers
   - addresses
   - identification codes
   - or clearly unordered lists of numbers with no separators
-
 - If the numbers or formats (e.g., 10:00, 12/31, $15) appear to be part of such non-linguistic constructs based on the sentence context, do not apply localization guidelines.
-
 - Always consider the context of the original sentence before making changes.
